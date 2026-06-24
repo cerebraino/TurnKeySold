@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Terms of Service — TurnKeySold Domains</title>
+  <meta name="description" content="Terms of Service for TurnKeySold Domains." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="/css/style.css" />
+  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='0.9em' font-size='90'>🔑</text></svg>" />
+</head>
+<body>
+  <nav class="nav" role="navigation" aria-label="Main navigation">
+    <div class="nav-inner">
+      <a href="/" class="nav-logo">TurnKeySold<span>.</span></a>
+      <button class="nav-toggle" aria-label="Toggle menu" aria-expanded="false">
+        <span></span><span></span><span></span>
+      </button>
+      <ul class="nav-links">
+        <li><a href="/">Home</a></li>
+        <li><a href="/services.html">Services &amp; Pricing</a></li>
+        <li><a href="/campaigns.html">Live Campaigns</a></li>
+        <li><a href="/valuation.html" class="btn btn-primary nav-cta">Get a Valuation</a></li>
+      </ul>
+    </div>
+  </nav>
+
+  <section class="legal-page">
+    <div class="container" style="max-width: 720px;">
+      <h1>Terms of Service</h1>
+      <p><em>Last updated: June 2026</em></p>
+
+      <h2>Service Description</h2>
+      <p>TurnKeySold Domains ("we," "our," "us") provides a domain sales service to domain owners. We identify qualified buyers for premium domains and conduct personalized outreach campaigns on behalf of domain owners. Our service is provided on a success-fee basis, as described on our Services &amp; Pricing page.</p>
+
+      <h2>Acceptance of Terms</h2>
+      <p>By using our website and submitting a domain valuation request, you agree to these Terms of Service. If you do not agree, please do not use our services.</p>
+
+      <h2>Domain Valuation Submissions</h2>
+      <p>Submitting a domain through our valuation form does not constitute a service agreement. We review each submission and may, at our discretion, offer to enter into a service agreement with the domain owner.</p>
+
+      <h2>Service Agreement</h2>
+      <p>When we enter into a service agreement with a domain owner, the terms of that specific agreement will govern the relationship. In the absence of a separate written agreement, the following terms apply: a success fee of 20% of the final sale price, paid only upon a closed and funded sale. The domain owner retains full ownership and control of their domain throughout the campaign.</p>
+
+      <h2>Payment</h2>
+      <p>All domain sales are processed through a licensed escrow service. Funds are verified and secured before any domain transfer. Our success fee is paid from the sale proceeds through the escrow process.</p>
+
+      <h2>Limitation of Liability</h2>
+      <p>We make no guarantees regarding the sale of any domain. Our service is provided on a best-efforts basis. We are not liable for any indirect, incidental, or consequential damages arising from the use of our service.</p>
+
+      <h2>Changes to Terms</h2>
+      <p>We reserve the right to update these Terms of Service at any time. Changes will be posted on this page with an updated revision date.</p>
+
+      <h2>Contact</h2>
+      <p>If you have questions about these Terms of Service, please contact us at <a href="mailto:hello@turnkeysold.com">hello@turnkeysold.com</a>.</p>
+    </div>
+  </section>
+
+  <footer class="footer">
+    <div class="container">
+      <div class="footer-inner">
+        <div class="footer-brand">TurnKeySold<span>.</span> Domains — A TurnKeySold Venture</div>
+        <div class="footer-links">
+          <a href="/#how-it-works">How It Works</a>
+          <a href="/services.html">Services &amp; Pricing</a>
+          <a href="/campaigns.html">Live Campaigns</a>
+          <a href="/valuation.html">Get a Valuation</a>
+        </div>
+        <div class="footer-email">
+          <a href="mailto:hello@turnkeysold.com">hello@turnkeysold.com</a>
+        </div>
+        <div class="footer-bottom">
+          <span>&copy; 2026 TurnKeySold. All rights reserved.</span>
+          <a href="/privacy.html">Privacy Policy</a>
+          <a href="/terms.html">Terms of Service</a>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+  <script>
+    const toggle = document.querySelector('.nav-toggle');
+    const navLinks = document.querySelector('.nav-links');
+    toggle.addEventListener('click', () => {
+      const isOpen = navLinks.classList.toggle('open');
+      toggle.classList.toggle('open');
+      toggle.setAttribute('aria-expanded', isOpen);
+    });
+    navLinks.querySelectorAll('a:not(.btn)').forEach(link => {
+      link.addEventListener('click', () => {
+        navLinks.classList.remove('open');
+        toggle.classList.remove('open');
+        toggle.setAttribute('aria-expanded', 'false');
+      });
+    });
+    document.addEventListener('click', (e) => {
+      if (!e.target.closest('.nav-inner') && navLinks.classList.contains('open')) {
+        navLinks.classList.remove('open');
+        toggle.classList.remove('open');
+        toggle.setAttribute('aria-expanded', 'false');
+      }
+    });
+  </script>
+</body>
+</html>

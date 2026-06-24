@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Privacy Policy — TurnKeySold Domains</title>
+  <meta name="description" content="Privacy Policy for TurnKeySold Domains. How we handle your data." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="/css/style.css" />
+  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='0.9em' font-size='90'>🔑</text></svg>" />
+</head>
+<body>
+  <nav class="nav" role="navigation" aria-label="Main navigation">
+    <div class="nav-inner">
+      <a href="/" class="nav-logo">TurnKeySold<span>.</span></a>
+      <button class="nav-toggle" aria-label="Toggle menu" aria-expanded="false">
+        <span></span><span></span><span></span>
+      </button>
+      <ul class="nav-links">
+        <li><a href="/">Home</a></li>
+        <li><a href="/services.html">Services &amp; Pricing</a></li>
+        <li><a href="/campaigns.html">Live Campaigns</a></li>
+        <li><a href="/valuation.html" class="btn btn-primary nav-cta">Get a Valuation</a></li>
+      </ul>
+    </div>
+  </nav>
+
+  <section class="legal-page">
+    <div class="container" style="max-width: 720px;">
+      <h1>Privacy Policy</h1>
+      <p><em>Last updated: June 2026</em></p>
+
+      <h2>Information We Collect</h2>
+      <p>When you submit a domain valuation request through our website, we collect the information you provide: your name, email address, phone number (if provided), domain name, and target price (if provided). We also collect basic analytics data about page views and interactions on our website.</p>
+
+      <h2>How We Use Your Information</h2>
+      <p>We use the information you provide to evaluate your domain submission, communicate with you about our services, and provide a confidential valuation and campaign proposal. We use analytics data to improve our website and understand how visitors interact with our content.</p>
+
+      <h2>Data Sharing</h2>
+      <p>We do not sell, trade, or share your personal information with third parties except as necessary to provide our services (e.g., form processing through Formspree) or as required by law.</p>
+
+      <h2>Data Retention</h2>
+      <p>We retain your personal information for as long as necessary to provide our services and communicate with you. If you wish to have your data removed, please contact us at hello@turnkeysold.com.</p>
+
+      <h2>Your Rights</h2>
+      <p>You have the right to request access to, correction of, or deletion of your personal data. To exercise these rights, email us at hello@turnkeysold.com.</p>
+
+      <h2>Contact</h2>
+      <p>If you have questions about this Privacy Policy, please contact us at <a href="mailto:hello@turnkeysold.com">hello@turnkeysold.com</a>.</p>
+    </div>
+  </section>
+
+  <footer class="footer">
+    <div class="container">
+      <div class="footer-inner">
+        <div class="footer-brand">TurnKeySold<span>.</span> Domains — A TurnKeySold Venture</div>
+        <div class="footer-links">
+          <a href="/#how-it-works">How It Works</a>
+          <a href="/services.html">Services &amp; Pricing</a>
+          <a href="/campaigns.html">Live Campaigns</a>
+          <a href="/valuation.html">Get a Valuation</a>
+        </div>
+        <div class="footer-email">
+          <a href="mailto:hello@turnkeysold.com">hello@turnkeysold.com</a>
+        </div>
+        <div class="footer-bottom">
+          <span>&copy; 2026 TurnKeySold. All rights reserved.</span>
+          <a href="/privacy.html">Privacy Policy</a>
+          <a href="/terms.html">Terms of Service</a>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+  <script>
+    const toggle = document.querySelector('.nav-toggle');
+    const navLinks = document.querySelector('.nav-links');
+    toggle.addEventListener('click', () => {
+      const isOpen = navLinks.classList.toggle('open');
+      toggle.classList.toggle('open');
+      toggle.setAttribute('aria-expanded', isOpen);
+    });
+    navLinks.querySelectorAll('a:not(.btn)').forEach(link => {
+      link.addEventListener('click', () => {
+        navLinks.classList.remove('open');
+        toggle.classList.remove('open');
+        toggle.setAttribute('aria-expanded', 'false');
+      });
+    });
+    document.addEventListener('click', (e) => {
+      if (!e.target.closest('.nav-inner') && navLinks.classList.contains('open')) {
+        navLinks.classList.remove('open');
+        toggle.classList.remove('open');
+        toggle.setAttribute('aria-expanded', 'false');
+      }
+    });
+  </script>
+</body>
+</html>

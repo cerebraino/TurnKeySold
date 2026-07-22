@@ -21,7 +21,7 @@
 4. **Noom** (DMPS 88) — Geoff Cook, CEO. Noom Med GLP-1; "Best" aligns with premium positioning.
 5. **Calibrate** (DMPS 85) — Isabelle Kenyon, CEO. Premium metabolic health ($100M+); "Best" matches high-end brand.
 
-**Valuation:** $8K–$22K | **Asking anchor:** $18K–$22K | **Floor:** $8K
+> **Internal Reference Only** **Valuation:** $8K–$22K | **Asking anchor:** $18K–$22K | **Floor:** $8K
 
 ## The "Meds" Family Strategy
 This domain is part of a 3-domain portfolio that covers the full DTC health spectrum:
@@ -88,6 +88,7 @@ This domain is part of a family — we also represent LeanMeds.com and buyslimme
 - **"We can use our existing domain for premium":** "You can, but you'll lose the SEO value of the exact-match keywords. 'Best slim meds' is a search phrase with commercial intent. Owning bestslimmeds.com captures that traffic your current domain can't."
 
 ## Negotiation Strategy
+> **Internal Reference Only**
 - **Open (asking):** $20,000
 - **Target:** $12,000–$16,000
 - **Floor (walk-away):** $8,000

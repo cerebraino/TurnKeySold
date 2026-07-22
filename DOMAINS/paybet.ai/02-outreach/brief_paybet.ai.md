@@ -16,7 +16,7 @@
 4. **Bet365** (DMPS 88) — Denise Coates, CEO. Global betting giant; payment infrastructure.
 5. **Flutter Entertainment** (DMPS 85) — Peter Jackson, CEO. Parent of FanDuel, PokerStars.
 
-**Valuation:** $10K–$28K | **Asking anchor:** $22K–$28K | **Floor:** $10K
+> **Internal Reference Only** **Valuation:** $10K–$28K | **Asking anchor:** $22K–$28K | **Floor:** $10K
 
 ## Messaging Strategy
 - **Primary Angle:** The Core Transaction. Betting is about two things: placing bets and getting paid. "paybet.ai" captures the second — the moment the user wins and gets paid. Trust, speed, and AI-powered fraud detection.
@@ -44,9 +44,10 @@
 
 ## Objection Handling
 - **"Our users don't care about the payment brand — they care about the betting brand":** "They care about getting paid fast. paybet.ai signals speed and trust at the moment that matters most: when the user wins. A dedicated payment brand increases retention and deposit frequency."
-- **"The price is too high":** "Sportsbooks spend millions on customer acquisition. A premium domain like paybet.ai is a one-time cost that pays for itself in brand credibility. The iGaming space has seen domains sell for $50K+."
+- **"The price is too high":** "Sportsbooks spend millions on customer acquisition. A premium domain like paybet.ai is a one-time cost that pays for itself in brand credibility. The iGaming space has seen domains sell for comparable range+."
 
 ## Negotiation
+> **Internal Reference Only**
 - **Open:** $25,000 | **Target:** $16K–$20K | **Floor:** $10K
 
 ## Top Priority Lead

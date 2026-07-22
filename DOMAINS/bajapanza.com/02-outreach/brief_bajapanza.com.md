@@ -16,7 +16,7 @@
 4. **WeightWatchers / Latin America** (DMPS 84) — Sima Sistani, CEO. WW operates in Mexico/LATAM.
 5. **Noom (Spanish)** (DMPS 82) — Geoff Cook, CEO. Spanish-language behavioral weight loss + GLP-1.
 
-**Valuation:** $5K–$16K | **Asking anchor:** $14K–$16K | **Floor:** $5K
+> **Internal Reference Only** **Valuation:** $5K–$16K | **Asking anchor:** $14K–$16K | **Floor:** $5K
 
 ## Messaging Strategy
 - **Primary Angle:** The Search Intent Domain. "Baja panza" is what Spanish speakers search for when they're ready to lose belly fat. The domain captures exact-match SEO traffic and converts it into customers.
@@ -46,6 +46,7 @@
 - **"'Panza' is too informal — we prefer medical terminology":** "'Panza' is the word real people use. Medical terminology doesn't convert in search. 'Baja panza' is approachable, friendly, and high-converting. You can always redirect it to a medical page."
 
 ## Negotiation
+> **Internal Reference Only**
 - **Open:** $15,000 | **Target:** $9K–$12K | **Floor:** $5,000
 
 ## Top Priority Lead

@@ -11,7 +11,7 @@
 
 **Top 3 leads:** Smule (DMPS 92), Spotify Latin (DMPS 88), Smily/Starmaker (DMPS 85). Also: Singscope, Vanido, Yousician, YouTube Music, Apple Music Sing.
 
-**Valuation:** $5K–$16K | **Asking:** $15K | **Floor:** $5K
+> **Internal Reference Only** **Valuation:** $5K–$16K | **Asking:** $15K | **Floor:** $5K
 
 ## Messaging
 **Angle:** The verb 500M+ Spanish speakers use for singing. "Cantar" = music, joy, self-expression. .ai = AI-powered vocal training and karaoke matching.
@@ -31,6 +31,7 @@
 - **"We can use English branding":** "English 'Sing' is taken. Spanish 'Cantar' is available — and unlocks a 500M+ speaker market."
 
 ## Negotiation: Open $15K | Target $9K–$12K | Floor $5K
+> **Internal Reference Only**
 
 ## Top Lead: Smule (Jeff Smith, CEO)
 **Angle:** "100M+ users sing on Smule. Cantar.ai is the verb they use. Own it."

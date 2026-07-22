@@ -36,6 +36,7 @@
 *   **Cultural:** The legal industry is traditionally conservative but currently "AI-hungry." Bridge the gap by showing how KnowLaw.ai provides *security* and *certainty* through AI, not just speed.
 
 ## Negotiation Anchor
+> **Internal Reference Only**
 *   **Target:** $18,000 - $35,000
 *   **Scarcity:** Legal keywords paired with .ai are among the highest-demand categories in the current market.
 

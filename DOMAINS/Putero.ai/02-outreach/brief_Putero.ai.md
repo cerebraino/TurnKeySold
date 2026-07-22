@@ -10,7 +10,7 @@
 
 Top leads: **Aylo Spanish** (DMPS 88), **WGCZ Spanish** (DMPS 85), **Stripchat Spanish** (DMPS 82).
 
-**Valuation:** $4K–$14K | **Asking:** $13K | **Floor:** $4K
+> **Internal Reference Only** **Valuation:** $4K–$14K | **Asking:** $13K | **Floor:** $4K
 
 **Companion:** Putero.online — bundle at $16K combined
 
@@ -22,5 +22,6 @@ Top leads: **Aylo Spanish** (DMPS 88), **WGCZ Spanish** (DMPS 85), **Stripchat S
 "Hi, I'm managing **Putero.ai** — a Spanish-language brand asset on the .ai extension. Also available: Putero.online as a companion domain."
 
 ## Negotiation: Open $13K | Target $7K–$10K | Floor $4K | Bundle: $16K
+> **Internal Reference Only**
 
 ## Top Lead: Aylo Spanish division

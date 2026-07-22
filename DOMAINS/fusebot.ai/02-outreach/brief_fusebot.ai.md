@@ -21,7 +21,7 @@
 4. **Automation Anywhere** (DMPS 86) — Mihir Shukla, CEO. Long current domain; fusebot is shorter/cleaner.
 5. **Workato** (DMPS 84) — Vijay Tella, CEO. Enterprise iPaaS; "Fuse" = integration metaphor for a consumer/SMB product line.
 
-**Valuation:** $8K–$22K | **Asking anchor:** $18K–$22K | **Floor:** $8K
+> **Internal Reference Only** **Valuation:** $8K–$22K | **Asking anchor:** $18K–$22K | **Floor:** $8K
 
 ## Messaging Strategy
 - **Primary Angle:** The Category-Defining Name. "Fuse" is the perfect verb for what integration platforms do — they fuse systems together. "Bot" is the universal word for automation. Together, fusebot.ai says "we connect and automate everything" in one powerful compound.
@@ -72,11 +72,12 @@ Curious if this aligns with your brand direction. Happy to share more."
 
 ## Objection Handling
 - **"We already have a domain we love":** "Understood. Many of the companies we work with acquire fusebot.ai as a dedicated brand for their AI agent product line or their next-generation platform — keeping their current brand for the core product while planting a flag in the AI-automation future."
-- **"We can pick a different name for free":** "You can, but fusebot.ai has something most startups spend millions to build: a name that your target audience understands instantly. 'Fuse' + 'Bot' = connect + automate. No explanation needed. Comparable .ai compounds in the automation space have sold for $8K–$15K. This is a fraction of what you'd spend on brand awareness."
+- **"We can pick a different name for free":** "You can, but fusebot.ai has something most startups spend millions to build: a name that your target audience understands instantly. 'Fuse' + 'Bot' = connect + automate. No explanation needed. Comparable .ai compounds in the automation space have sold for comparable range. This is a fraction of what you'd spend on brand awareness."
 - **"The price is too high":** "I appreciate the transparency. The owner has set a baseline, but they're open to a conversation. What range have you budgeted for brand assets this year? We may be able to find common ground."
 - **"Not interested":** "Respect that completely. If you ever explore a new product line or sub-brand in the AI-automation space, fusebot.ai will still be the name that says 'we connect everything.' May I check back in 6 months?"
 
 ## Negotiation Strategy
+> **Internal Reference Only**
 - **Open (asking):** $20,000
 - **Target:** $14,000–$18,000
 - **Floor (walk-away):** $8,000

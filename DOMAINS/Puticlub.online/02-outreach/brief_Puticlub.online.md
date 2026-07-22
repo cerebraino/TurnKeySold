@@ -8,6 +8,6 @@
 *Source: leads_Puticlub.online (domain-researcher, Jul 18)*
 Same buyer pool as Puticlub.ai: Aylo Spanish (DMPS 90), Stripchat (DMPS 88), Chaturbate (DMPS 85).
 
-**Valuation:** $2K–$6K | **Asking:** $5K | **Bundle:** $18K with Puticlub.ai
+> **Internal Reference Only** **Valuation:** $2K–$6K | **Asking:** $5K | **Bundle:** $18K with Puticlub.ai
 
 ## Messaging — Bundle with Puticlub.ai. Use .ai for brand, .online for SEO/redirect.

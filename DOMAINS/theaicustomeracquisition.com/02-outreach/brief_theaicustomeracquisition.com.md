@@ -21,7 +21,7 @@
 4. **Salesforce** (DMPS 87) — Marc Benioff, CEO. Global CRM leader ($200B+); slower but highest budget; could use for AI product launch.
 5. **Outreach.io** (DMPS 85) — Manny Medina, CEO. Enterprise sales engagement; expanding AI features.
 
-**Valuation:** $5K–$18K | **Asking anchor:** $15K–$18K | **Floor:** $5K
+> **Internal Reference Only** **Valuation:** $5K–$18K | **Asking anchor:** $15K–$18K | **Floor:** $5K
 
 ## Messaging Strategy
 - **Primary Angle:** Own the Search Term. "AI customer acquisition" is a high-intent B2B search phrase. Companies spend $30–$80/click competing for it. Owning the exact-match domain means they rank #1 for free. It's not a brand — it's a distribution channel.
@@ -77,6 +77,7 @@ It's priced at a fraction of what you'd spend on Google Ads to capture the same 
 - **"The price is too high":** "At $30–$80/click CPC for 'AI customer acquisition,' this domain pays for itself after 200–500 clicks — which, for this search term, could be a month or two of organic traffic. It's a performance marketing investment with a measurable ROI."
 
 ## Negotiation Strategy
+> **Internal Reference Only**
 - **Open (asking):** $16,000
 - **Target:** $9,000–$13,000
 - **Floor (walk-away):** $5,000

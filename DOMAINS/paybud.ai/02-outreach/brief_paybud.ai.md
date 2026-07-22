@@ -16,7 +16,7 @@
 4. **YNAB** (DMPS 85) — Todd Curtis, CEO. Premium budgeting app; loyal power users.
 5. **Monzo** (DMPS 83) — TS Anil, CEO. UK neobank with strong budgeting features.
 
-**Valuation:** $7K–$22K | **Asking anchor:** $18K–$22K | **Floor:** $7K
+> **Internal Reference Only** **Valuation:** $7K–$22K | **Asking anchor:** $18K–$22K | **Floor:** $7K
 
 ## Messaging Strategy
 - **Primary Angle:** The Friendly Finance AI. "Bud" = buddy = the AI assistant everyone wants for their money. Warm, approachable — the opposite of intimidating finance brands.
@@ -45,6 +45,7 @@
 - **"'Bud' could mean different things":** "In the finance context, 'Bud' reads as budget/buddy — both positive associations. It's short, memorable, and creates a warm brand personality that stands out in a cold category."
 
 ## Negotiation
+> **Internal Reference Only**
 - **Open:** $20,000 | **Target:** $12K–$16K | **Floor:** $7,000
 
 ## Top Priority Lead

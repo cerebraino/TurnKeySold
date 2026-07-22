@@ -10,7 +10,7 @@
 
 Top leads: **Aylo Spanish** (DMPS 92), **WGCZ/xvideos Spanish** (DMPS 90), **Gamma Spanish** (DMPS 85).
 
-**Valuation:** $6K–$20K | **Asking:** $18K | **Floor:** $6K
+> **Internal Reference Only** **Valuation:** $6K–$20K | **Asking:** $18K | **Floor:** $6K
 
 ## Messaging
 **Angle:** SEO and traffic acquisition. High-volume search term — domain captures exact-match traffic.
@@ -20,5 +20,6 @@ Top leads: **Aylo Spanish** (DMPS 92), **WGCZ/xvideos Spanish** (DMPS 90), **Gam
 "Hi, I'm representing **PutaSexo.com** — an exact-match search domain with significant organic traffic potential. For a platform investing in Spanish-language traffic acquisition, this is a strategic asset."
 
 ## Negotiation: Open $18K | Target $10K–$14K | Floor $6K
+> **Internal Reference Only**
 
 ## Top Lead: Aylo/WGCZ Spanish divisions

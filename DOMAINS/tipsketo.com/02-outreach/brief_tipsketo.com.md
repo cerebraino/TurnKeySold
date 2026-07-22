@@ -16,7 +16,7 @@
 4. **Ruled.Me** (DMPS 85) — Craig Clarke, Founder. Major keto recipe + guide site; content expansion.
 5. **KetoConnect** (DMPS 83) — Matt & Megha, Founders. Large keto blog + YouTube channel.
 
-**Valuation:** $5K–$14K | **Asking anchor:** $12K–$14K | **Floor:** $5K
+> **Internal Reference Only** **Valuation:** $5K–$14K | **Asking anchor:** $12K–$14K | **Floor:** $5K
 
 ## Messaging Strategy
 - **Primary Angle:** The Content SEO Domain. "Keto tips" is what beginners search for. tipsketo.com captures that traffic and becomes the destination for quick, actionable keto advice.
@@ -41,6 +41,7 @@
 - **"It's just a redirect — we can do that with any domain":** "Not all domains are equal. tipsketo.com is an exact match for a high-volume search term. It carries SEO weight that a random domain doesn't."
 
 ## Negotiation
+> **Internal Reference Only**
 - **Open:** $13,000 | **Target:** $8K–$10K | **Floor:** $5,000
 
 ## Top Priority Lead

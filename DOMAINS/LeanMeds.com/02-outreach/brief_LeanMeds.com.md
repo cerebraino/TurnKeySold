@@ -36,6 +36,7 @@
 *   **Cultural:** The US health-tech market is fast-paced. Messaging should be punchy and emphasize "simplicity" and "cost-effectiveness" (the 'Lean' aspect).
 
 ## Negotiation Anchor
+> **Internal Reference Only**
 *   **Target:** $12,000 - $22,000
 *   **Scarcity:** "Meds" is a high-value keyword. Short, two-syllable compound names are the standard for billion-dollar health-tech brands.
 

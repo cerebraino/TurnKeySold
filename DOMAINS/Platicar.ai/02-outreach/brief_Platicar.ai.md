@@ -11,7 +11,7 @@
 
 **Top 3 leads:** Duolingo (DMPS 95), Babbel (DMPS 90), Busuu (DMPS 86). Also: Memrise, Pi, Replika, HelloTalk, Tandem, Meta/WhatsApp.
 
-**Valuation:** $4K–$14K | **Asking:** $13K | **Floor:** $4K
+> **Internal Reference Only** **Valuation:** $4K–$14K | **Asking:** $13K | **Floor:** $4K
 
 ## Messaging
 **Angle:** The verb at the heart of Spanish conversation. "Platicar" is exactly what language learners practice and what AI chatbots enable. Duolingo's AI conversation feature deserves this brand.
@@ -31,6 +31,7 @@
 - **"Too specific to Spanish — we teach many languages":** "Spanish is your #1 language. Owning the verb 'to chat' in your top language is a no-brainer brand move."
 
 ## Negotiation: Open $13K | Target $7K–$10K | Floor $4K
+> **Internal Reference Only**
 
 ## Top Lead: Duolingo (Luis von Ahn, CEO)
 **Angle:** "Platicar.ai is the verb your 500M+ Spanish learners practice. It's the perfect brand for Duolingo's AI conversation feature."

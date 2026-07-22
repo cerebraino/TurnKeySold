@@ -10,7 +10,7 @@
 
 **Top 5 leads:** Datadog (DMPS 94), PagerDuty (DMPS 92), incident.io (DMPS 89), UptimeRobot (DMPS 87), Better Uptime (DMPS 85).
 
-**Valuation:** $6K–$15K | **Asking:** $13K | **Floor:** $6K
+> **Internal Reference Only** **Valuation:** $6K–$15K | **Asking:** $13K | **Floor:** $6K
 
 ## Messaging
 **Angle:** The reliability promise. "No Break" is what every DevOps platform sells. The .ai signals AI-powered monitoring.
@@ -28,6 +28,7 @@
 - **"Too similar to our existing positioning":** "That similarity is the value. It's a category-defining term."
 
 ## Negotiation: Open $13K | Target $8K–$10K | Floor $6K
+> **Internal Reference Only**
 
 ## Top Lead: Datadog (Olivier Pomel, CEO)
 **Angle:** "NoBreak.ai is the promise every Datadog customer expects. Own it."

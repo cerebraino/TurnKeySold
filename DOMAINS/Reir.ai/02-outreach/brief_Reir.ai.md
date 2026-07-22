@@ -11,7 +11,7 @@
 
 **Top 3 leads:** Netflix Latin Comedy (DMPS 90), TikTok LatAm (DMPS 88), Crackle (DMPS 85). Also: YouTube, Comedy Central LatAm, Pantaya, ViX, Canela Media.
 
-**Valuation:** $5K–$16K | **Asking:** $15K | **Floor:** $5K
+> **Internal Reference Only** **Valuation:** $5K–$16K | **Asking:** $15K | **Floor:** $5K
 
 ## Messaging
 **Angle:** The emotion your content creates. "Reir" = laughter. 4 characters — the shortest domain in the Spanish verb portfolio. Perfect for a comedy vertical, interactive AI comedy, or Latin humor brand.
@@ -31,6 +31,7 @@
 - **"4 characters is too short":** "That's the value. 4 characters + .ai is extremely rare. It's memorable, typeable, and universally understood across Spanish-speaking markets."
 
 ## Negotiation: Open $15K | Target $9K–$12K | Floor $5K
+> **Internal Reference Only**
 
 ## Top Lead: Netflix (Ted Sarandos, CEO)
 **Angle:** "Reir.ai = 'to laugh.' Netflix's Latin comedy catalog is massive. Own the word your audience feels when they watch."

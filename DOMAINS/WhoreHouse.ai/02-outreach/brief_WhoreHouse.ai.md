@@ -11,7 +11,7 @@
 
 Top leads: **Aylo/MindGeek** (DMPS 90, Feras Antoon), **WGCZ/xvideos** (DMPS 88), **Gamma Entertainment** (DMPS 85). Also: Vixen Media (DMPS 78), AdultTime (DMPS 75), Kink.com (DMPS 72).
 
-**Valuation:** $8K–$25K | **Asking:** $22K | **Floor:** $8K
+> **Internal Reference Only** **Valuation:** $8K–$25K | **Asking:** $22K | **Floor:** $8K
 
 ## Messaging Strategy
 **Angle:** The bold brand play. Adult companies use memorable, provocative names. WhoreHouse.ai is unforgettable — for the right buyer, that's the entire value.
@@ -29,6 +29,7 @@ Top leads: **Aylo/MindGeek** (DMPS 90, Feras Antoon), **WGCZ/xvideos** (DMPS 88)
 - **Payment processor concerns:** "Noted. The right buyer runs their own payment infrastructure or uses adult-friendly processors."
 
 ## Negotiation: Open $22K | Target $14K–$18K | Floor $8K
+> **Internal Reference Only**
 
 ## Top Lead: Aylo (Feras Antoon, CEO)
 **Angle:** "WhoreHouse.ai is the kind of bold brand you've built your network on. It's unforgettable."

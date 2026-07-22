@@ -10,7 +10,7 @@
 
 Top leads: **Aylo Spanish** (DMPS 92), **WGCZ/xvideos Spanish** (DMPS 90), **Gamma Entertainment Spanish** (DMPS 85).
 
-**Valuation:** $6K–$20K | **Asking:** $18K | **Floor:** $6K
+> **Internal Reference Only** **Valuation:** $6K–$20K | **Asking:** $18K | **Floor:** $6K
 
 ## Messaging
 **Angle:** The iconic Spanish adult category term on the most modern extension. "Burdel.ai is the brothel of the future."
@@ -20,5 +20,6 @@ Top leads: **Aylo Spanish** (DMPS 92), **WGCZ/xvideos Spanish** (DMPS 90), **Gam
 "Hi, I'm managing the sale of **Burdel.ai** — a premium Spanish-language digital brand asset. For a platform serving the Hispanic market, this could be a strategic acquisition."
 
 ## Negotiation: Open $18K | Target $10K–$14K | Floor $6K
+> **Internal Reference Only**
 
 ## Top Lead: Aylo Spanish division

@@ -16,7 +16,7 @@
 4. **Kueski** (DMPS 87) — Adalberto Flores, CEO. Mexican BNPL/fintech; recurring payments.
 5. **Ualá** (DMPS 85) — Pierpaolo Barbieri, CEO. Argentine neobank expanding across LATAM.
 
-**Valuation:** $8K–$25K | **Asking anchor:** $20K–$25K | **Floor:** $8K
+> **Internal Reference Only** **Valuation:** $8K–$25K | **Asking anchor:** $20K–$25K | **Floor:** $8K
 
 ## Messaging Strategy
 - **Primary Angle:** The LATAM Auto-Pay Brand. In Spanish-speaking markets, "autopaga" is the natural term for automatic payments. Owning autopaga.com means owning the category in the language 500M+ people use every day.
@@ -49,6 +49,7 @@
 - **"The .com is important but the name feels specific":** "That specificity is the value. 'Autopaga' is exactly what recurring payment services are called in Spanish. It's the category name as a domain."
 
 ## Negotiation
+> **Internal Reference Only**
 - **Open:** $22,000 | **Target:** $14K–$18K | **Floor:** $8K
 
 ## Top Priority Lead

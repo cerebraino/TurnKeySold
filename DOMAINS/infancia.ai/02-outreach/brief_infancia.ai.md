@@ -21,7 +21,7 @@
 4. **Age of Learning / ABCmouse** (DMPS 88) — Paul Candland, CEO. Dominant US children's edtech; expanding Spanish-language content.
 5. **BYJU'S** (DMPS 85) — Byju Raveendran, CEO. World's largest edtech; expanding into Latin America.
 
-**Valuation:** $8K–$25K | **Asking anchor:** $20K–$25K | **Floor:** $8K
+> **Internal Reference Only** **Valuation:** $8K–$25K | **Asking anchor:** $20K–$25K | **Floor:** $8K
 
 ## Messaging Strategy
 - **Primary Angle:** The Word Every Parent Searches. "Infancia" isn't just a word — it's an emotion. It's what parents want for their children: a beautiful, formative childhood. "Infancia" + ".ai" = the childhood you want, powered by the technology of tomorrow.
@@ -77,9 +77,10 @@ This is the kind of domain that defines a category. Let me know if it's on your 
 - **"We already have a brand":** "Your brand is strong, and infancia.ai would complement it perfectly — not replace it. As you expand into Spanish-language AI education, this domain gives you a dedicated, culturally-authentic brand for that audience. It's a bridge, not a replacement."
 - **"Infancia is too emotional — we need something more technical":** "The emotion IS the value. Parents don't search for 'AI-driven adaptive learning platform' — they search for 'education for my child.' 'Infancia' captures that emotional intent. Technology changes; childhood doesn't."
 - **"It's a Spanish word — our audience is global":** "Spanish is the world's second-most-spoken native language, with 500M+ speakers and the fastest-growing demographic in the US. If your audience includes Spanish speakers, infancia.ai is the most powerful domain you could own."
-- **"The price is too high":** "This is a once-in-a-generation domain for the Spanish edtech market. Comparable Spanish keywords have sold for $25K+. We understand budget constraints and are open to structuring a deal that works for your mission."
+- **"The price is too high":** "This is a once-in-a-generation domain for the Spanish edtech market. Comparable Spanish keywords have sold for comparable range+. We understand budget constraints and are open to structuring a deal that works for your mission."
 
 ## Negotiation Strategy
+> **Internal Reference Only**
 - **Open (asking):** $22,000
 - **Target:** $14,000–$18,000
 - **Floor (walk-away):** $8,000

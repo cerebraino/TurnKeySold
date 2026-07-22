@@ -21,7 +21,7 @@
 4. **Fast** (DMPS 88) — Domm Holland, CEO. One-click checkout pioneer.
 5. **Klarna** (DMPS 86) — Sebastian Siemiatkowski, CEO. BNPL + AI-powered shopping; "payquick" fits "smoooth" checkout.
 
-**Valuation:** $10K–$28K | **Asking anchor:** $24K–$28K | **Floor:** $10K
+> **Internal Reference Only** **Valuation:** $10K–$28K | **Asking anchor:** $24K–$28K | **Floor:** $10K
 
 ## Messaging Strategy
 - **Primary Angle:** Your Value Prop as a URL. "Pay Quick" is the promise every checkout platform makes. Owning this domain means your URL says it before you do.

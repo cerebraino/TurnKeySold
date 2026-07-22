@@ -21,7 +21,7 @@
 4. **New Relic** (DMPS 87) — Ashan Willy, CEO. APM pioneer; could use nofail.ai for a dedicated reliability product brand.
 5. **Snyk** (DMPS 85) — Peter McKay, CEO. Developer security platform expanding into reliability testing.
 
-**Valuation:** $10K–$28K | **Asking anchor:** $22K–$28K | **Floor:** $10K
+> **Internal Reference Only** **Valuation:** $10K–$28K | **Asking anchor:** $22K–$28K | **Floor:** $10K
 
 ## Messaging Strategy
 - **Primary Angle:** The Promise as a Domain. "No fail" is the strongest possible reliability claim. It's what every DevOps tool promises. Owning it as a domain means your brand IS the promise.
@@ -73,10 +73,11 @@ Where does [Company Name] stand on domain investment this year?"
 ## Objection Handling
 - **"We're happy with our current domain":** "Understood. Many of our clients acquire nofail.ai as a dedicated product brand for their AI-driven reliability offering or their premium enterprise tier — keeping their existing brand for the core product while using nofail.ai to capture the 'ultimate reliability' position."
 - **"'No fail' is a risky brand promise — what if we have an outage?":** "That's actually the power of owning it. When you brand reliability, the promise IS the product. Companies like Datadog and PagerDuty have made 'always on' their brand promise — outages happen, but the brand stands for the relentless pursuit of reliability. nofail.ai signals ambition, not arrogance."
-- **"The price is too high":** "This is one of the strongest reliability domains on the market. Comparable domains like Uptime.ai ($15K) and ZeroFail.ai ($11K) confirm the premium. That said, we can discuss structure — option periods, lease-to-own, or performance-based terms."
+- **"The price is too high":** "This is one of the strongest reliability domains on the market. Comparable domains like Uptime.ai (comparable range) and ZeroFail.ai (comparable range) confirm the premium. That said, we can discuss structure — option periods, lease-to-own, or performance-based terms."
 - **"Not interested":** "Respect that. If your brand roadmap ever includes a reliability-focused product line or enterprise tier, nofail.ai will still be the strongest name in the category. I'll check back."
 
 ## Negotiation Strategy
+> **Internal Reference Only**
 - **Open (asking):** $25,000
 - **Target:** $16,000–$22,000
 - **Floor (walk-away):** $10,000

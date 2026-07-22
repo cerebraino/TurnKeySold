@@ -6,7 +6,7 @@
 
 **Same buyer pool + trademark risk** as Dalai.com (see brief_Dalai.com.md).
 
-**Valuation:** $300–$2K | **Asking:** $8K standalone | **Bundle:** Part of $30K Dalai package
+> **Internal Reference Only** **Valuation:** $300–$2K | **Asking:** $8K standalone | **Bundle:** Part of $30K Dalai package
 
 ## Messaging — Bundle-only. "Dalai.co is your startup brand while Dalai.com waits for scale."
 

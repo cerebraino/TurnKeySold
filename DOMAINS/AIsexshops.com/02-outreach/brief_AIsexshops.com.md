@@ -10,7 +10,7 @@
 
 Top leads: **Adam & Eve** (DMPS 93, Chad Freeman), **Lovehoney** (DMPS 90), **Lovense** (DMPS 88), **Lelo** (DMPS 85).
 
-**Valuation:** $5K–$16K | **Asking:** $15K | **Floor:** $5K
+> **Internal Reference Only** **Valuation:** $5K–$16K | **Asking:** $15K | **Floor:** $5K
 
 ## Messaging
 **Angle:** The future of intimate retail. AI-powered product recommendations, personalization, and discovery.
@@ -20,5 +20,6 @@ Top leads: **Adam & Eve** (DMPS 93, Chad Freeman), **Lovehoney** (DMPS 90), **Lo
 "Hi [Name], I'm reaching out about **AIsexshops.com** — a digital asset positioned for the future of AI-powered retail. For [Company Name]'s ecommerce presence, this could be a forward-looking brand. Open to the details?"
 
 ## Negotiation: Open $15K | Target $9K–$12K | Floor $5K
+> **Internal Reference Only**
 
 ## Top Lead: Adam & Eve (Chad Freeman, CEO)

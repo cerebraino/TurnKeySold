@@ -21,7 +21,7 @@
 4. **Asana** (DMPS 85) — Dustin Moskovitz, CEO. Public work management leader ($5B+); expanding Asana Intelligence.
 5. **Linear** (DMPS 83) — Karri Saarinen, CEO. Developer-focused project management; engineering efficiency mindset.
 
-**Valuation:** $5K–$16K | **Asking anchor:** $14K–$16K | **Floor:** $5K
+> **Internal Reference Only** **Valuation:** $5K–$16K | **Asking anchor:** $14K–$16K | **Floor:** $5K
 
 ## Messaging Strategy
 - **Primary Angle:** The Framework as a Brand. The Pareto Principle (80/20 rule) is the most famous productivity framework in the world. "Pareto Buddy" owns that concept — it tells every knowledge worker: "I'll help you find the 20% that matters."
@@ -77,6 +77,7 @@ Worth a look? Happy to share the data."
 - **"The price is too high":** "Productivity domains with this level of conceptual alignment are rare. The value isn't in the words — it's in the framework it owns. We're open to structuring a deal. What's your range?"
 
 ## Negotiation Strategy
+> **Internal Reference Only**
 - **Open (asking):** $15,000
 - **Target:** $10,000–$13,000
 - **Floor (walk-away):** $5,000

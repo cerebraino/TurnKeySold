@@ -16,7 +16,7 @@
 4. **Ally Financial** (DMPS 85) — Michael Rhodes, CEO. Leading auto lender; tech-forward pivot.
 5. **Westlake Financial** (DMPS 83) — Ian Anderson, CEO. Major auto finance; current domain is long/generic.
 
-**Valuation:** $8K–$25K | **Asking anchor:** $20K–$25K | **Floor:** $8K
+> **Internal Reference Only** **Valuation:** $8K–$25K | **Asking anchor:** $20K–$25K | **Floor:** $8K
 
 **Companion Domain:** **paycarai.com** also available — bundle for companies needing both .ai (tech signal) and .com (trust).
 
@@ -44,6 +44,7 @@
 - **Objection — "We prefer .com":** "We also have paycarai.com. Bundle both for maximum reach — .ai for tech-forward branding, .com for trust."
 
 ## Negotiation
+> **Internal Reference Only**
 - **Open:** $22,000 | **Target:** $14K–$18K | **Floor:** $8K
 - **Bundle:** paycar.ai + paycarai.com for $26K–$30K combined.
 

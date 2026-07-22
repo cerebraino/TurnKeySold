@@ -10,7 +10,7 @@
 
 **Top 5 leads:** Univision LA/KMEX (DMPS 92), Telemundo 52/KVEA (DMPS 90), La Opinión (DMPS 88), Mitú (DMPS 78), Remezcla (DMPS 75). Plus 5 more in lower tiers.
 
-**Valuation:** $2K–$8K | **Asking:** $15K standalone | **Bundle:** All 5 domains $20K combined
+> **Internal Reference Only** **Valuation:** $2K–$8K | **Asking:** $15K standalone | **Bundle:** All 5 domains $20K combined
 
 ## The LA Hispanic Bundle
 | Domain | Use | Standalone |
@@ -40,6 +40,7 @@ We're offering the full LA Hispanic bundle — LAhispanic.com plus 4 companion d
 - **"Digital media is consolidating":** "Exactly — owning the exact-match domain for LA Hispanic gives you category authority no competitor can replicate."
 
 ## Negotiation: Anchor $15K | Bundle 5 for $20K | Flexible terms
+> **Internal Reference Only**
 
 ## Top Lead: Univision LA/KMEX
 **Angle:** "LAhispanic.com is your audience's search term. Own it."

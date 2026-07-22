@@ -21,7 +21,7 @@
 4. **Groupon** (DMPS 85) — Kedar Deshpande, CEO. Deals marketplace; AI pivot could revitalize.
 5. **Rakuten** (DMPS 83) — Mickey Mikitani, CEO. Cashback + deals; expanding fintech.
 
-**Valuation:** $8K–$25K | **Asking anchor:** $20K–$25K | **Floor:** $8K
+> **Internal Reference Only** **Valuation:** $8K–$25K | **Asking anchor:** $20K–$25K | **Floor:** $8K
 
 ## Messaging Strategy
 - **Primary Angle:** The Deal Economy. BNPL is transforming how people pay — "paydeal.ai" captures both sides: the deal (what you buy) and the payment (how you pay). AI-powered deal discovery + flexible payments.

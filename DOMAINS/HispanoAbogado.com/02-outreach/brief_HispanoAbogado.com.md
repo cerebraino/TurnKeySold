@@ -36,6 +36,7 @@
 *   **Cultural:** Cultural competency is key. Emphasize how this domain removes barriers to legal access for the Hispanic community. In the US, "Abogado" is a high-intent search term with significant emotional weight (trust/safety).
 
 ## Negotiation Anchor
+> **Internal Reference Only**
 *   **Target:** $8,000 - $18,000
 *   **Scarcity:** Highly descriptive and culturally relevant. The .com extension remains critical for this demographic's perceived trust in legal services.
 

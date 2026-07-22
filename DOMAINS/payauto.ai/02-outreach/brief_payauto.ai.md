@@ -16,7 +16,7 @@
 4. **ParkMobile** (DMPS 85) — Jeff Perkins, CEO. Parking payments; current .io domain could upgrade.
 5. **SpotHero** (DMPS 83) — Mark Lawrence, CEO. Parking marketplace expanding into broader auto payments.
 
-**Valuation:** $8K–$25K | **Asking anchor:** $20K–$25K | **Floor:** $8K
+> **Internal Reference Only** **Valuation:** $8K–$25K | **Asking anchor:** $20K–$25K | **Floor:** $8K
 
 ## Messaging Strategy
 - **Primary Angle:** The Vertical Brand. "payauto.ai" is a category-defining domain for automotive payments. It says "payments for the auto industry, powered by AI." Perfect for a payment platform's auto vertical brand or standalone auto fintech.
@@ -42,6 +42,7 @@
 - **Objection — "We're not in auto payments specifically":** "'Auto' also means automatic. payauto.ai works for recurring/auto-pay products too — the double meaning is an asset."
 
 ## Negotiation
+> **Internal Reference Only**
 - **Open:** $22,000 | **Target:** $14K–$18K | **Floor:** $8K
 
 ## Top Priority Lead

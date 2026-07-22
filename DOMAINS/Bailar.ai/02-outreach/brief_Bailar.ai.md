@@ -11,7 +11,7 @@
 
 **Top 3 leads:** Zumba (DMPS 92), STEEZY (DMPS 88), DanceBit (DMPS 85). Also: Apple Fitness+, Peloton Latin, TikTok Dance.
 
-**Valuation:** $5K–$16K | **Asking:** $15K | **Floor:** $5K
+> **Internal Reference Only** **Valuation:** $5K–$16K | **Asking:** $15K | **Floor:** $5K
 
 ## Messaging
 **Angle:** The word 500M+ Spanish speakers use for dance. "Bailar" is joy, movement, culture. The .ai signals AI-powered dance coaching and personalization.
@@ -32,6 +32,7 @@
 - **"Too niche — just Spanish?":** "Spanish is the world's second-most-spoken language with 500M+ speakers. For dance, it's the definitive word."
 
 ## Negotiation: Open $15K | Target $9K–$12K | Floor $5K
+> **Internal Reference Only**
 
 ## Top Lead: Zumba (Alberto Perlman, CEO)
 **Angle:** "Bailar.ai is what your 15M+ weekly participants do. Own the word."

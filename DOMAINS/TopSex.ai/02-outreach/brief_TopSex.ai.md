@@ -11,7 +11,7 @@
 
 Top leads: **Aylo/MindGeek** (DMPS 95, Feras Antoon CEO — Pornhub, Brazzers, YouPorn), **Vixen Media Group** (DMPS 92, Greg Lansky), **WGCZ/xvideos** (DMPS 90).
 
-**Valuation:** $15K–$50K+ | **Asking:** $45K | **Floor:** $15K
+> **Internal Reference Only** **Valuation:** $15K–$50K+ | **Asking:** $45K | **Floor:** $15K
 
 ## Messaging Strategy
 **Angle:** The #1 premium brand for adult AI. "Top Sex" = category leadership. The .ai signals AI-powered curation, personalization, and moderation.
@@ -32,9 +32,10 @@ Top leads: **Aylo/MindGeek** (DMPS 95, Feras Antoon CEO — Pornhub, Brazzers, Y
 
 ## Objection Handling
 - **"We don't need another brand":** "This isn't a replacement — it's a premium tier brand or AI product extension. Think of it as the brand for your AI-powered offering."
-- **"The price is too high":** "This is the strongest two-word compound on .ai. Comparable adult domains have sold for $12K–$25K. We're open to structuring terms."
+- **"The price is too high":** "This is the strongest two-word compound on .ai. Comparable adult domains have sold for comparable range. We're open to structuring terms."
 
 ## Negotiation: Open $45K | Target $25K–$35K | Floor $15K
+> **Internal Reference Only**
 
 ## Top Lead: Aylo (Feras Antoon, CEO)
 **Angle:** "TopSex.ai is the brand for premium AI-curated content. It's your category statement."

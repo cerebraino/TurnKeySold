@@ -36,6 +36,7 @@
 *   **Cultural:** For French buyers, emphasize "patrimoine" (heritage) meeting "innovation." Avoid overly aggressive sales tactics; focus on the *prestige* of owning the definitive French automotive domain.
 
 ## Negotiation Anchor
+> **Internal Reference Only**
 *   **Target:** $25,000 - $45,000
 *   **Scarcity:** Definitive French keyword in the .ai extension. High relevance to the current AI + Auto boom in Europe (e.g., Mistral AI influence).
 

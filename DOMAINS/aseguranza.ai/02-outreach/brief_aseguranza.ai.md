@@ -21,7 +21,7 @@
 4. **Kin Insurance** (DMPS 85) — Sean Harper, CEO. Home insurance in high-Hispanic states (FL, TX, CA, AZ).
 5. **PolicyGenius** (DMPS 83) — Jennifer Fitzgerald, CEO. Digital insurance marketplace expanding into Spanish-language content.
 
-**Valuation:** $10K–$28K | **Asking anchor:** $22K–$28K | **Floor:** $10K
+> **Internal Reference Only** **Valuation:** $10K–$28K | **Asking anchor:** $22K–$28K | **Floor:** $10K
 
 ## Messaging Strategy
 - **Primary Angle:** The Cultural Bridge. "Aseguranza" is the Spanish word millions search for daily. "AI" is the technology redefining insurance. Together, the domain says to 500M+ Spanish speakers: "modern insurance, in your language, powered by AI."
@@ -79,9 +79,10 @@ Estamos explorando ofertas para el activo. ¿Les interesaría ver los datos de v
 - **"Our customers speak English — we don't need a Spanish domain":** "Respectfully, the numbers say otherwise. 65M+ US Hispanics, 40%+ are Spanish-dominant or bilingual. Spanish-language insurance searches grew 15% last year. Owning aseguranza.ai isn't about abandoning your English brand — it's about capturing the fastest-growing demographic segment with a dedicated, authentic brand."
 - **"We can buy a Spanish-language domain later when we need it":** "You can, but aseguranza.ai is the definitive term. 'Aseguranza' + '.ai' = the perfect compound. Once it's gone, the next best option is significantly weaker — and the company that owns it will have first-mover advantage in the Hispanic insurtech space."
 - **"The domain is too long":** "Ten characters is standard for Spanish keywords. More importantly, 'aseguranza' is the most authoritative Spanish insurance term — it's what people actually search for. Short domains are worthless if they don't communicate the right message."
-- **"The price is too high":** "This is the single strongest Spanish-language insurtech domain on the market. Comparable Spanish keyword domains (Aseguranza.com) have sold for $25K+. With .ai and the insurtech boom, this is a generational asset. We're open to structuring a deal — option periods, installments — to make it work."
+- **"The price is too high":** "This is the single strongest Spanish-language insurtech domain on the market. Comparable Spanish keyword domains (Aseguranza.com) have sold for comparable range+. With .ai and the insurtech boom, this is a generational asset. We're open to structuring a deal — option periods, installments — to make it work."
 
 ## Negotiation Strategy
+> **Internal Reference Only**
 - **Open (asking):** $25,000
 - **Target:** $16,000–$22,000
 - **Floor (walk-away):** $10,000

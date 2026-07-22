@@ -16,7 +16,7 @@
 4. **Noom** (DMPS 85) — Geoff Cook, CEO. Behavior change + metabolic health; GLP-1 + nutrition.
 5. **Metabolic Meals** (DMPS 82) — (Founder), CEO. Keto meal delivery; expanding therapeutic meal plans.
 
-**Valuation:** $5K–$16K | **Asking anchor:** $14K–$16K | **Floor:** $5K
+> **Internal Reference Only** **Valuation:** $5K–$16K | **Asking anchor:** $14K–$16K | **Floor:** $5K
 
 ## Messaging Strategy
 - **Primary Angle:** The Therapeutic Claim. "Cure by keto" is the ultimate mission statement for the metabolic health community. It's what every therapeutic keto company promises: that keto can reverse, heal, and cure.
@@ -45,6 +45,7 @@
 - **"We're not a 'cure' company — we're a management company":** "The domain is aspirational. It captures the hope that drives patients to seek metabolic health. Even if you frame it as 'reversal' or 'remission' officially, 'cure' is the word patients search for."
 
 ## Negotiation
+> **Internal Reference Only**
 - **Open:** $15,000 | **Target:** $9K–$12K | **Floor:** $5,000
 
 ## Top Priority Lead

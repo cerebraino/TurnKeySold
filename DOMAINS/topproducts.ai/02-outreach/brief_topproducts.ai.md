@@ -21,7 +21,7 @@
 4. **Product Hunt** (DMPS 88) — Josh Constine, CEO. Product discovery platform; "top products" is their community's daily reality.
 5. **Capterra / Gartner** (DMPS 86) — Meghan O'Leary, GM. Leading B2B software directory.
 
-**Valuation:** $10K–$28K | **Asking anchor:** $22K–$28K | **Floor:** $10K
+> **Internal Reference Only** **Valuation:** $10K–$28K | **Asking anchor:** $22K–$28K | **Floor:** $10K
 
 ## Messaging Strategy
 - **Primary Angle:** Your Category as a URL. "Top Products" is the exact phrase that describes what these platforms do. Owning it as a domain means your URL IS your value proposition — no explanation needed.
@@ -79,6 +79,7 @@ For a company shaping the future of how people discover products, this domain is
 - **"The price is too high":** "This is a top-tier descriptive domain for one of the largest e-commerce categories in the world. 'Top Products' has millions of monthly searches. The domain pays for itself in organic traffic value within the first year. We can discuss structure."
 
 ## Negotiation Strategy
+> **Internal Reference Only**
 - **Open (asking):** $25,000
 - **Target:** $16,000–$22,000
 - **Floor (walk-away):** $10,000

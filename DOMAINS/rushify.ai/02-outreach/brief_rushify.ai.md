@@ -21,7 +21,7 @@
 4. **Deliveroo** (DMPS 88) — Will Shu, CEO. UK/European delivery leader; expanding quick commerce (Deliveroo Hop).
 5. **Getir** (DMPS 85) — Nazim Salur, Founder. Turkish instant delivery pioneer expanding in Europe/US.
 
-**Valuation:** $10K–$28K | **Asking anchor:** $22K–$28K | **Floor:** $10K
+> **Internal Reference Only** **Valuation:** $10K–$28K | **Asking anchor:** $22K–$28K | **Floor:** $10K
 
 ## Messaging Strategy
 - **Primary Angle:** The Verb for Delivery. "Rushify" is short, energetic, and action-oriented. It's a verb — it tells customers and partners what you do: "we rushify your delivery." Perfect for a company defining the future of on-demand logistics.
@@ -76,9 +76,10 @@ Interested in exploring this? Happy to share more."
 - **"We already have a strong brand":** "Your brand IS strong for your core business. But as delivery platforms expand beyond their original category (food → groceries → retail → everything), they need a brand that captures the broader vision. rushify.ai isn't a replacement — it's the brand for the next decade."
 - **"'Rushify' — isn't that already a company?":** "There are very small local players using similar names, but nobody owns the .ai domain at this level. And none of them have the brand recognition or resources to enforce a trademark. The opportunity is to establish rushify.ai as the definitive brand in on-demand logistics before someone else does."
 - **"The .ai extension is trendy — we should stay on .com":** ".com is trusted, but .ai signals AI-native technology — and AI is the next frontier in logistics (route optimization, demand prediction, autonomous delivery). The .ai extension makes rushify.ai feel forward-looking, not trendy."
-- **"The price is too high":** "This is the strongest short-form domain in the on-demand delivery space. Comparable domains like OnDemand.ai ($14K) and Speedify.ai ($12K) confirm the premium. For a company valued in the billions, the acquisition cost is negligible compared to the brand value it creates."
+- **"The price is too high":** "This is the strongest short-form domain in the on-demand delivery space. Comparable domains like OnDemand.ai (comparable range) and Speedify.ai (comparable range) confirm the premium. For a company valued in the billions, the acquisition cost is negligible compared to the brand value it creates."
 
 ## Negotiation Strategy
+> **Internal Reference Only**
 - **Open (asking):** $25,000
 - **Target:** $15,000–$20,000
 - **Floor (walk-away):** $10,000

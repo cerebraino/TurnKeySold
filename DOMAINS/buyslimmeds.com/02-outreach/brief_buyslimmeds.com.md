@@ -21,7 +21,7 @@
 4. **WeightWatchers / WW** (DMPS 88) — Sima Sistani, CEO. Acquired Sequence; major pivot to medical weight loss.
 5. **Calibrate** (DMPS 85) — Isabelle Kenyon, CEO. Metabolic health + GLP-1; raised $100M+; current domain is wordy.
 
-**Valuation:** $8K–$25K | **Asking anchor:** $20K–$25K | **Floor:** $8K
+> **Internal Reference Only** **Valuation:** $8K–$25K | **Asking anchor:** $20K–$25K | **Floor:** $8K
 
 ## Messaging Strategy
 - **Primary Angle:** The Domain is the Distribution Channel. "Buy slim meds" is a high-intent search phrase with $50–$100/click ad costs. Owning buyslimmeds.com means you capture that traffic for free — and own the transactional mindset of the buyer.
@@ -79,6 +79,7 @@ We also represent **LeanMeds.com** — the professional counterpart. Together th
 - **"The price is too high":** "Weight loss is a $100B+ market, and GLP-1 is the fastest-growing segment. buyslimmeds.com captures the highest-intent traffic in that market at zero ongoing cost. We're open to structuring a deal — option periods, payment plans — to make the numbers work."
 
 ## Negotiation Strategy
+> **Internal Reference Only**
 - **Open (asking):** $22,000
 - **Target:** $14,000–$18,000
 - **Floor (walk-away):** $8,000

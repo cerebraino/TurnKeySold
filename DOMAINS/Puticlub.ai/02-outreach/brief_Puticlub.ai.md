@@ -11,7 +11,7 @@
 
 Top leads: **Aylo Spanish** (DMPS 90), **Stripchat Spanish** (DMPS 88), **Chaturbate Spanish** (DMPS 85). Also: Barcelona studios (DMPS 78), Miami LatAm studios (DMPS 75).
 
-**Valuation:** $5K–$16K | **Asking:** $15K | **Floor:** $5K
+> **Internal Reference Only** **Valuation:** $5K–$16K | **Asking:** $15K | **Floor:** $5K
 
 **Companion:** Puticlub.online — bundle at $18K combined
 
@@ -24,5 +24,6 @@ Top leads: **Aylo Spanish** (DMPS 90), **Stripchat Spanish** (DMPS 88), **Chatur
 "Hi, I'm representing **Puticlub.ai** — a premium Spanish-language brand asset on the .ai extension. For a platform serving the Hispanic market, this could be a strategic acquisition. We're exploring offers."
 
 ## Negotiation: Open $15K | Target $9K–$12K | Floor $5K | Bundle w/ .online: $18K
+> **Internal Reference Only**
 
 ## Top Lead: Aylo Spanish division

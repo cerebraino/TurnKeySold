@@ -12,7 +12,7 @@
 
 **Top leads (wellness/tech, non-spiritual use):** Calm (DMPS 85), Headspace (DMPS 82), Insight Timer (DMPS 78). Also: Balance, Ten Percent Happier, Open, MyFitnessPal, Mindbody/ClassPass, Sweat, WHOOP.
 
-**Valuation:** $5K–$15K (moderated by trademark) | **Asking:** $25K | **Floor:** $10K
+> **Internal Reference Only** **Valuation:** $5K–$15K (moderated by trademark) | **Asking:** $25K | **Floor:** $10K
 
 ## The Dalai Package
 | Domain | Use | Asking |
@@ -52,6 +52,7 @@ Important disclosure: these domains are offered as coined/invented brand names, 
 - **"We'd rather pick a completely neutral name":** "Respect that. The advantage of 'Dalai' is it's already known — 5 letters, rhythmic, sticks in memory. Starting from scratch with a completely unknown word costs millions in brand building. With proper positioning, Dalai can be your coined word."
 
 ## Negotiation Strategy
+> **Internal Reference Only**
 - **Open:** $25K (Dalai.com) | **Target:** $12K–$18K | **Floor:** $8K
 - **Bundle:** All 3 for $22K–$30K
 - **Flexibility:** Be more flexible than for non-trademark domains. The risk is real and price should reflect it.

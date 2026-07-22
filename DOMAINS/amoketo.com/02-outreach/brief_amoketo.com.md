@@ -16,7 +16,7 @@
 4. **Carb Manager** (DMPS 86) — David Jackson, CEO. #1 keto tracking app (10M+ users); growing Spanish content.
 5. **MyFitnessPal** (DMPS 84) — Mike Giancursio, SVP. Largest diet tracking app; keto is a top diet category.
 
-**Valuation:** $5K–$16K | **Asking anchor:** $14K–$16K | **Floor:** $5K
+> **Internal Reference Only** **Valuation:** $5K–$16K | **Asking anchor:** $14K–$16K | **Floor:** $5K
 
 ## Messaging Strategy
 - **Primary Angle:** The Passionate Keto Community. Keto isn't just a diet — it's a lifestyle with a passionate following. "Amo Keto" captures that passion in the language of 500M+ Spanish speakers. It's the brand for the keto community that loves what they do.
@@ -61,9 +61,10 @@ For [Company Name], this is your Spanish-language brand ready-made. It's short, 
 ## Objection Handling
 - **"Keto is a fad — the market might shrink":** "Keto has been growing for 10+ years and is now a $15B+ market. Even if 'keto' as a term evolves, 'low-carb' and 'healthy lifestyle' aren't going anywhere. And amoketo.com's emotional resonance ('love') transcends any specific diet."
 - **"We don't have a Spanish-language strategy yet":** "The US Hispanic population is 65M+ and growing. The LATAM health market is expanding rapidly. Owning amoketo.com now positions you for when you're ready — at a fraction of the future acquisition cost."
-- **"The price is too high":** "This is a premium domain for a passionate, growing community. Comparable Spanish-language health domains have sold for $10K+. Amoketo.com is a one-time cost for a brand that could anchor your entire Spanish-language strategy."
+- **"The price is too high":** "This is a premium domain for a passionate, growing community. Comparable Spanish-language health domains have sold for comparable range+. Amoketo.com is a one-time cost for a brand that could anchor your entire Spanish-language strategy."
 
 ## Negotiation Strategy
+> **Internal Reference Only**
 - **Open:** $15,000 | **Target:** $9K–$12K | **Floor:** $5,000
 - **Structuring:** Offer 6-month payment plan for smaller keto brands.
 

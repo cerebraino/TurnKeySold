@@ -15,7 +15,7 @@
 3. **Noom** (DMPS 88) — Geoff Cook, CEO. Noom Med GLP-1 + coaching; price-sensitive core demographic.
 4. **WeightWatchers** (DMPS 85) — Sima Sistani, CEO. Clinical + budget options; broad demographic.
 
-**Valuation:** $6K–$18K | **Asking anchor:** $15K–$18K | **Floor:** $6K
+> **Internal Reference Only** **Valuation:** $6K–$18K | **Asking anchor:** $15K–$18K | **Floor:** $6K
 
 ## The "Meds" Family — Complete Set
 This domain completes the 4-domain weight loss portfolio:
@@ -68,6 +68,7 @@ We also represent LeanMeds.com, buyslimmeds.com, and bestslimmeds.com — togeth
 - **"The price is too high for a 'cheap' domain":** "The domain is an investment that pays for itself in captured search traffic. 'Cheap slim meds' has high commercial intent. The domain cost is a fraction of the Google Ads spend to capture the same traffic."
 
 ## Negotiation Strategy
+> **Internal Reference Only**
 - **Open:** $16,000 | **Target:** $10K–$13K | **Floor:** $6,000
 - **Bundle pricing:** All 4 Meds domains (LeanMeds + buyslimmeds + bestslimmeds + cheapslimmeds) for $55K–$65K combined.
 

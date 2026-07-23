@@ -32,3 +32,34 @@
 ---
 
 *Lead list prepared.*
+
+---
+
+## Google Search Enrichment
+
+**Query:** `apuesto` | **Market:** ES (google.es) | **Date:** 2026-07-22
+
+### Top 5 Paid Advertisers
+| # | Advertiser | Landing Page | Spend Signal |
+|---|-----------|-------------|-------------|
+| 1 | **Bet365** | bet365.es | 🟢 +10 DMPS |
+| 2 | **Codere** | codere.es | 🟢 +10 DMPS |
+| 3 | **William Hill** | williamhill.es | 🟢 +10 DMPS |
+| 4 | **Betway** | betway.es | 🟢 +10 DMPS |
+| 5 | **888Sport** | 888sport.es | 🟢 +10 DMPS |
+
+### Top 5 Organic Results
+| # | Domain | URL | Type |
+|---|--------|-----|------|
+| 1 | **RAE** (dle.rae.es) | dle.rae.es/apuesto | Dictionary definition |
+| 2 | **WordReference** | wordreference.com/es/apuesto | Dictionary |
+| 3 | **Bet365** | bet365.es | Sports betting |
+| 4 | **Codere** | codere.es | Sports betting |
+| 5 | **Apuestas.com** | apuestas.com | Betting affiliate |
+
+### Insights
+- "Apuesto" is **dominated by dictionary results** in organic (RAE, WordReference) — the word primarily means "I bet" but also "handsome/elegant" in Spanish. This means the betting SERP is split between dictionary and gambling results.
+- **Bet365 and Codere** are the top betting advertisers on Spanish-language gambling keywords — both are already in the lead list. Each gets +10 DMPS.
+- **Apuestas.com** (the .com version of the keyword) ranks organically — they operate a betting affiliate site and would be a natural buyer for the .ai version.
+- The .ai extension signals **AI-powered betting/predictions** — differentiating from traditional .es betting sites. This positions apuesto.ai as a tech-forward sports betting or AI prediction brand.
+- **DMPS bonus:** Bet365, Codere, William Hill, Betway, 888Sport (+10 each).

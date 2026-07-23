@@ -126,3 +126,34 @@
 ---
 
 *Lead list prepared for outreach-architect. Full DMPS methodology in research_framework.md §3.*
+
+---
+
+## Google Search Enrichment
+
+**Query:** `know law ai legal` | **Market:** US | **Date:** 2026-07-22
+
+### Top 5 Paid Advertisers
+| # | Advertiser | Landing Page | Spend Signal |
+|---|-----------|-------------|-------------|
+| 1 | **Thomson Reuters** | legal.thomsonreuters.com/ai/ | 🟢 +10 DMPS |
+| 2 | **LexisNexis** | lexisnexis.com/ai-legal/ | 🟢 +10 DMPS |
+| 3 | **Clio** | clio.com/ai/ | 🟢 +10 DMPS |
+| 4 | **Ironclad** | ironcladapp.com/product/ai/ | 🟢 +10 DMPS |
+| 5 | **Harvey AI** | harvey.ai | 🟢 +10 DMPS |
+
+### Top 5 Organic Results
+| # | Domain | URL | Type |
+|---|--------|-----|------|
+| 1 | **Thomson Reuters** | legal.thomsonreuters.com/ | Legal research |
+| 2 | **LexisNexis** | lexisnexis.com/ | Legal research |
+| 3 | **ABA Journal** | abajournal.com/topic/ai | Legal media |
+| 4 | **Law.com** | law.com/legal-tech/ | Legal media |
+| 5 | **Harvard Law** | hls.harvard.edu/ai-law/ | Academic |
+
+### Insights
+- The legal AI space is **dominated by legacy legal research platforms** — Thomson Reuters and LexisNexis have the deepest pockets for ad spend and are both in the lead list. Each gets +10 DMPS.
+- **Harvey AI** is the breakout legal AI startup (raised $100M+) and already lead #1 — the +10 DMPS bonus reinforces its top position.
+- **Clio and Ironclad** are the leading legal tech SaaS companies actively advertising on AI/legal keywords — both are solid domain buyers.
+- The "know law" phrase positions as **consumer legal education** — distinct from the enterprise legal AI tools dominating the SERP. This could appeal to legal publishers (Nolo, LegalZoom, Rocket Lawyer) as a content/education brand.
+- **DMPS bonus:** Thomson Reuters, LexisNexis, Clio, Ironclad, Harvey AI (+10 each). Harvey AI revised DMPS: 96 → **106** (effectively maxed out).

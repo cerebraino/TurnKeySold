@@ -64,3 +64,32 @@
 ---
 
 *Lead list prepared for outreach-architect.*
+
+---
+
+## Google Search Enrichment
+
+**Query:** `puticlub` | **Market:** ES (google.es) | **Date:** 2026-07-22
+
+### Top 5 Paid Advertisers
+*No paid ads — adult keywords restricted from search ads.*
+
+| # | Advertiser | Landing Page | Notes |
+|---|-----------|-------------|-------|
+| — | *Restricted category* | — | Adult industry keywords blocked from Google/Bing Ads |
+
+### Top 5 Organic Results
+| # | Domain | Type | Notes |
+|---|--------|------|-------|
+| 1 | **PutaLocura** (putalocura.com) | Spanish adult tube | Major Spanish adult brand |
+| 2 | **XVideos** (WGCZ) | Adult tube | Global #2 adult site with Spanish content |
+| 3 | **Pornhub** (Aylo) | Adult tube | Global #1 with Spanish localization |
+| 4 | **Mileroticos** (mileroticos.com) | Spanish escort/adult directory | Major Spanish adult platform |
+| 5 | **Pasion.com** | Spanish adult contacts | Spanish adult dating/contacts |
+
+### Insights
+- The Spanish adult market is served by **local brands** (PutaLocura, Mileroticos, Pasion.com) alongside global players (Aylo, WGCZ). Spanish-language adult domains have strong local search presence.
+- **PutaLocura** is the most directly comparable Spanish adult brand — bold, provocative name that mirrors the Puticlub.ai branding style.
+- **Mileroticos** is a major Spanish adult classifieds platform — they would benefit from Puticlub.ai as a premium AI-enhanced brand.
+- Like all adult domains, **no paid search ads** — organic visibility and brand memorability are the competitive moat.
+- **No DMPS bonus applicable** (no paid advertisers).

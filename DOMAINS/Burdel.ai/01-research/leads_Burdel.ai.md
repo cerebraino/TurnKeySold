@@ -73,3 +73,32 @@
 ---
 
 *Lead list prepared for outreach-architect.*
+
+---
+
+## Google Search Enrichment
+
+**Query:** `burdel` | **Market:** ES (google.es) | **Date:** 2026-07-22
+
+### Top 5 Paid Advertisers
+*No paid ads — adult keywords restricted from search ads.*
+
+| # | Advertiser | Landing Page | Notes |
+|---|-----------|-------------|-------|
+| — | *Restricted category* | — | Adult industry keywords blocked from Google/Bing Ads |
+
+### Top 5 Organic Results
+| # | Domain | Type | Notes |
+|---|--------|------|-------|
+| 1 | **Mileroticos** (mileroticos.com) | Spanish adult directory | Dominant Spanish adult classifieds |
+| 2 | **PutaLocura** (putalocura.com) | Spanish adult tube | Major Spanish adult content brand |
+| 3 | **XVideos** (WGCZ) | Adult tube | Global platform with Spanish content |
+| 4 | **Pasion.com** | Spanish adult contacts | Adult dating platform |
+| 5 | **Skokka** (skokka.com) | Adult classifieds | International adult classifieds with Spanish presence |
+
+### Insights
+- "Burdel" (brothel in Spanish) is a **high-volume Spanish adult search term** with strong local intent. The .ai extension modernizes a traditional category word.
+- **Mileroticos and Skokka** are the adult classifieds platforms that most closely align with "burdel" search intent — they could use Burdel.ai as a premium brand for Spanish-speaking markets.
+- The Spanish adult market has **no dominant AI-forward brand** — Burdel.ai could fill that gap as the first major AI-enhanced Spanish adult brand.
+- Like all adult domains, **no paid search ads** — organic visibility is the primary battleground.
+- **No DMPS bonus applicable** (no paid advertisers).

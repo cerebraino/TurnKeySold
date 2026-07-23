@@ -126,3 +126,34 @@
 ---
 
 *Lead list prepared for outreach-architect. Full DMPS methodology in research_framework.md §3.*
+
+---
+
+## Google Search Enrichment
+
+**Query:** `hispano abogado` | **Market:** ES (google.es) | **Date:** 2026-07-22
+
+### Top 5 Paid Advertisers
+| # | Advertiser | Landing Page | Spend Signal |
+|---|-----------|-------------|-------------|
+| 1 | **Abogado.com** | abogado.com | 🟢 +10 DMPS |
+| 2 | **LegalZoom** (ES) | legalzoom.com/es/ | 🟢 +10 DMPS |
+| 3 | **Rocket Lawyer** (ES) | rocketlawyer.com/es/ | 🟢 +10 DMPS |
+| 4 | **Avvo** | avvo.com | 🟢 +10 DMPS |
+| 5 | **Martindale-Hubbell** | martindale.com | 🟢 +10 DMPS |
+
+### Top 5 Organic Results
+| # | Domain | URL | Type |
+|---|--------|-----|------|
+| 1 | **Abogado.com** | abogado.com | Legal directory |
+| 2 | **Martindale-Hubbell** | martindale.com | Lawyer directory |
+| 3 | **Avvo** | avvo.com | Legal Q&A |
+| 4 | **Justia** | justia.com/abogados/ | Legal directory |
+| 5 | **FindLaw** | findlaw.com/espanol/ | Legal directory |
+
+### Insights
+- The "hispano abogado" SERP is **dominated by lawyer directories** — Abogado.com, Martindale, Avvo, Justia are the top players. These are lead-gen platforms that bid aggressively on Spanish-language legal keywords.
+- **Abogado.com** is the #1 organic + paid result — a direct competitor to HispanoAbogado.com. They are the strongest buyer prospect as they could use the domain for SEO defense or a dedicated Hispanic brand.
+- **LegalZoom and Rocket Lawyer** have Spanish-language services and advertise on legal help keywords — both are not in the current lead list and should be added.
+- The Spanish-language legal market is **growing rapidly** — 40M+ US Hispanic population with significant legal needs. Owning the exact-match domain is a major SEO asset.
+- **DMPS bonus:** Abogado.com, LegalZoom, Rocket Lawyer, Avvo, Martindale-Hubbell (+10 each).

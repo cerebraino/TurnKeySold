@@ -66,3 +66,31 @@
 ---
 
 *Lead list prepared for outreach-architect.*
+
+---
+
+## Google Search Enrichment
+
+**Query:** `ai sex shop` | **Market:** US | **Date:** 2026-07-22
+
+### Top 5 Paid Advertisers
+*No paid ads detected — adult/sex shop keywords are restricted from search ad placements.*
+
+| # | Advertiser | Landing Page | Notes |
+|---|-----------|-------------|-------|
+| — | *Restricted category* | — | Adult industry keywords blocked from Google/Bing Ads |
+
+### Top 5 Organic Results
+| # | Domain | Type | Notes |
+|---|--------|------|-------|
+| 1 | **Adam & Eve** (adameve.com) | Adult retailer | Largest US adult retailer — already lead #1 |
+| 2 | **Lovehoney** (lovehoney.com) | Adult retailer | UK-based global adult retailer |
+| 3 | **PinkCherry** (pinkcherry.com) | Adult retailer | Major online adult store |
+| 4 | **Fleshlight** (fleshlight.com) | Adult products | Premium adult toy brand |
+| 5 | **Lovense** (lovense.com) | Teledildonics/AI sex tech | AI-connected adult toys — strongest AI fit |
+
+### Insights
+- Like other adult domains, **no paid search ads** — the adult retail industry competes entirely on organic search + brand.
+- **Lovense** is the standout — they make AI-connected adult toys and are actively positioned at the intersection of sex tech and AI. They would be an excellent buyer for AIsexshops.com as a dedicated AI product line.
+- **Adam & Eve** is already lead #1 — they dominate adult retail SEO and could use this as an AI/tech-forward sub-brand.
+- **No DMPS bonus applicable** (no paid advertisers).

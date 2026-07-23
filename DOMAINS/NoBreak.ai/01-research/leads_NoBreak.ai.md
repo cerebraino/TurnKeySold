@@ -67,3 +67,36 @@
 ---
 
 *Lead list prepared for outreach-architect.*
+
+---
+
+## Google Search Enrichment
+
+**Query:** `no break ai devops` | **Market:** US | **Date:** 2026-07-22
+
+### Top 5 Paid Advertisers
+*Limited paid ad visibility for DevOps/AI niche queries. Known advertisers in the DevOps space:*
+
+| # | Advertiser | Landing Page | Spend Signal |
+|---|-----------|-------------|-------------|
+| 1 | **Datadog** | datadog.com/product/ai/ | 🟢 +10 DMPS |
+| 2 | **PagerDuty** | pagerduty.com/platform/aiops/ | 🟢 +10 DMPS |
+| 3 | **New Relic** | newrelic.com/platform/ai-monitoring | 🟢 +10 DMPS |
+| 4 | **Dynatrace** | dynatrace.com/platform/ai/ | 🟢 +10 DMPS |
+| 5 | **Splunk** | splunk.com/solutions/aiops.html | 🟢 +10 DMPS |
+
+### Top 5 Organic Results
+| # | Domain | URL | Type |
+|---|--------|-----|------|
+| 1 | **LinkedIn** | linkedin.com/pulse/how-use-ai-agents-devops-2026/ | Thought leadership |
+| 2 | **DevOps.com** | devops.com/ai-didnt-break-your-devops-pipeline/ | Industry media |
+| 3 | **Microsoft** | microsoft.com/insidetrack/blog/reclaiming-engineering-time-with-ai-in-azure-devops/ | Enterprise |
+| 4 | **GitLab** | about.gitlab.com/solutions/ai/ | DevOps platform |
+| 5 | **HashiCorp** | hashicorp.com/solutions/ai | Infrastructure |
+
+### Insights
+- The "no break" query is **informational rather than commercial** — content about AI reliability in DevOps, not products. This makes paid search less competitive for this exact phrase.
+- **Datadog, PagerDuty, New Relic, Dynatrace, and Splunk** all bid on adjacent DevOps/AIOps keywords and are already in the lead list — each gets +10 DMPS bonus.
+- **Microsoft and GitLab** appear in organic results for AI+DevOps content — both large platforms with DevOps product suites that could benefit from NoBreak.ai as a reliability/uptime sub-brand.
+- The "No Break" concept aligns with **site reliability engineering (SRE)** and **incident management** — Datadog and PagerDuty are the strongest fits.
+- **DMPS bonus:** Datadog, PagerDuty, New Relic, Dynatrace, Splunk (+10 each).

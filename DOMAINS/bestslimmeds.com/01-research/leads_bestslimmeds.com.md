@@ -95,3 +95,36 @@
 ---
 
 *Lead list prepared for outreach-architect. Full DMPS methodology in research_framework.md §3.*
+
+---
+
+## Google Search Enrichment
+
+**Query:** `best weight loss medication online` | **Market:** US | **Date:** 2026-07-22
+
+### Top 5 Paid Advertisers
+*Same advertiser pool as "buy weight loss medication" query — Forbes Health, GoodRx, Walgreens, CompareTreatments dominate both "best" and "buy" intent keywords.*
+
+| # | Advertiser | Landing Page | Spend Signal |
+|---|-----------|-------------|-------------|
+| 1 | **Forbes Health** | forbes.com/health/weight-loss/ | 🟢 +10 DMPS |
+| 2 | **GoodRx** | goodrx.com/conditions/weight-loss/drugs | 🟢 +10 DMPS |
+| 3 | **Walgreens** | walgreens.com/.../weight-loss.jsp | 🟢 +10 DMPS |
+| 4 | **CompareTreatments** | comparetreatments.com/weight-loss-treatments/ | 🟢 +10 DMPS |
+| 5 | **Hims & Hers** | hims.com/weight-loss | 🟢 +10 DMPS |
+
+### Top 5 Organic Results
+| # | Domain | URL | Type |
+|---|--------|-----|------|
+| 1 | **Forbes Health** | forbes.com/health/weight-loss/best-online-weight-loss-medication/ | Review |
+| 2 | **GoodRx** | goodrx.com/conditions/weight-loss/drugs | Comparator |
+| 3 | **ConsumerAffairs** | consumeraffairs.com/health/... | Reviews |
+| 4 | **Healthline** | healthline.com/health/weight-loss/... | Health media |
+| 5 | **Verywell Health** | verywellhealth.com/weight-loss-medication... | Health media |
+
+### Insights
+- **"Best" intent keywords are review/affiliate dominated** — Forbes Health, GoodRx, Healthline, and ConsumerAffairs control the organic SERP. These are content/affiliate players, not the telehealth brands themselves.
+- **Hims & Hers advertises on "best" queries** — they're already lead #1 in this file. The +10 DMPS bonus reinforces their top position.
+- The "best weight loss medication" SERP is distinct from "buy weight loss medication" — more informational, less transactional. **bestslimmeds.com could serve as a review/affiliate brand** or a premium telehealth tier.
+- **Forbes Health** is the dominant player across both "best" and "buy" queries — they should be added to the lead list for both buyslimmeds and bestslimmeds as an affiliate/lead-gen buyer.
+- **DMPS bonus:** Forbes Health (+10), GoodRx (+10), Walgreens (+10), CompareTreatments (+10), Hims & Hers (+10).

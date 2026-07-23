@@ -81,3 +81,34 @@
 ---
 
 *Lead lists prepared for outreach-architect.*
+
+---
+
+## Google Search Enrichment
+
+**Query:** `automóviles` | **Market:** ES (google.es) | **Date:** 2026-07-22
+
+### Top 5 Paid Advertisers
+| # | Advertiser | Landing Page | Spend Signal |
+|---|-----------|-------------|-------------|
+| 1 | **Coches.net** | coches.net | 🟢 +10 DMPS |
+| 2 | **Milanuncios** | milanuncios.com/coches/ | 🟢 +10 DMPS |
+| 3 | **Autocasión** | autocasion.com | 🟢 +10 DMPS |
+| 4 | **Motor.es** | motor.es | 🟢 +10 DMPS |
+| 5 | **AutoScout24** | autoscout24.es | 🟢 +10 DMPS |
+
+### Top 5 Organic Results
+| # | Domain | URL | Type |
+|---|--------|-----|------|
+| 1 | **Coches.net** | coches.net | Auto classifieds |
+| 2 | **Milanuncios** | milanuncios.com/coches/ | General classifieds |
+| 3 | **Autocasión** | autocasion.com | Auto classifieds |
+| 4 | **Motor.es** | motor.es | Auto news/reviews |
+| 5 | **AutoScout24** | autoscout24.es | Auto marketplace |
+
+### Insights
+- The Spanish "automóviles" SERP is **dominated by auto classifieds/marketplaces** — Coches.net, Milanuncios, Autocasión are the top players. These are consumer marketplaces that benefit heavily from domain authority and type-in traffic.
+- **Coches.net** (#1 organic + paid) is already in the lead list at DMPS 78 — the +10 DMPS bonus elevates them to **88, moving from Warm to Hot tier**.
+- **Milanuncios, Autocasión, Motor.es, and AutoScout24** are not in the current lead list — all four should be added as prospects given their paid search investment in the exact keyword "automóviles."
+- The Spanish auto classified market is **highly competitive on paid search** — multiple platforms bidding on generic "automóviles" queries, validating strong commercial intent.
+- **DMPS bonus:** Coches.net, Milanuncios, Autocasión, Motor.es, AutoScout24 each +10 DMPS. Coches.net revised DMPS: 78 → **88** (Hot tier).

@@ -121,3 +121,31 @@
 ---
 
 *Lead list prepared for outreach-architect. Full DMPS methodology in research_framework.md §3.*
+
+---
+
+## Google Search Enrichment
+
+**Query:** `voiture ai` | **Market:** FR (google.fr) | **Date:** 2026-07-22
+
+### Top 5 Paid Advertisers
+| # | Advertiser | Landing Page | Spend Signal |
+|---|-----------|-------------|-------------|
+| 1 | **Intel France** | intel.fr/learn/ai-in-automotive.html | 🟢 +10 DMPS |
+| 2 | **AICAR.fr** | aicar.fr | 🟢 +10 DMPS |
+| — | *Limited paid results* | Niche French query, low ad competition | — |
+
+### Top 5 Organic Results
+| # | Domain | URL | Type |
+|---|--------|-----|------|
+| 1 | **Intel France** | intel.fr/learn/ai-in-automotive.html | Enterprise tech |
+| 2 | **AICAR.fr** | aicar.fr | French AI auto platform |
+| 3 | **Renault Group** | renaultgroup.com | OEM (already in lead list) |
+| 4 | **Stellantis** | stellantis.com/fr | OEM (already in lead list) |
+| 5 | **Valeo** | valeo.com/fr | Auto supplier (already in lead list) |
+
+### Insights
+- **Intel France is the top organic + paid result** for "voiture ai" — they're investing in automotive AI content marketing. Intel is not currently in the lead list and could be a new prospect for the domain as a campaign/event brand.
+- **AICAR.fr** is a dedicated French AI automotive platform — a direct domain fit. They would benefit from upgrading to LaVoiture.ai.
+- The query is **low-competition** in French — relatively few advertisers bidding, which means owning the exact-match domain has outsized SEO value.
+- **DMPS bonus:** Intel France and AICAR.fr each get +10 DMPS for paid search presence on the core keyword.

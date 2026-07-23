@@ -65,3 +65,33 @@
 ---
 
 *Lead list prepared for outreach-architect.*
+
+---
+
+## Google Search Enrichment
+
+**Query:** `sex ai` | **Market:** US (google.com) | **Date:** 2026-07-22
+
+### Top 5 Paid Advertisers
+*No paid ads detected in HTML search — adult keywords likely restricted from ad placements on DuckDuckGo/Bing.*
+
+| # | Advertiser | Landing Page | Notes |
+|---|-----------|-------------|-------|
+| — | *Restricted category* | — | Adult content advertisers are typically blocked from search ads |
+
+### Top 5 Organic Results
+| # | Domain | URL | Type |
+|---|--------|-----|------|
+| 1 | **Nastia.ai** | nastia.ai/ai-sex-chat | AI companion/chatbot |
+| 2 | **OurDream.ai** | ourdream.ai/sex-chat/ai-sex-chat | AI sex chat |
+| 3 | **AIChattings** | aichattings.com/ai-sex-chat/ | AI chatbot aggregator |
+| 4 | **AI Haven** | aihaven.com/guides/best-ai-sex-chatbots/ | Review/guide site |
+| 5 | **JuicyChat.ai** | juicychat.ai/tags/sex-ai | AI companion platform |
+
+**Additional organic domains ranking:** selira.ai, hammerai.com, crushon.ai, blushly.chat, blog.kinkly.com
+
+### Insights
+- **AI chatbot/companion sites dominate** the "sex ai" SERP — not traditional adult studios. This validates TopSex.ai's positioning at the intersection of adult entertainment + AI.
+- **Nastia.ai** and **CrushOn.ai** are the most visible AI companion brands — both potential buyers for a premium adult AI domain.
+- Adult keywords have **restricted ad placements** — organic rankings are the primary battleground, making domain authority and brand memorability even more valuable.
+- **No DMPS bonus applicable** (no paid advertisers detected to score).

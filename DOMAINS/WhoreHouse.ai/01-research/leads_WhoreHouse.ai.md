@@ -68,3 +68,33 @@
 ---
 
 *Lead list prepared for outreach-architect.*
+
+---
+
+## Google Search Enrichment
+
+**Query:** `whore house adult` | **Market:** US (google.com) | **Date:** 2026-07-22
+
+### Top 5 Paid Advertisers
+*No paid ads detected — adult keywords are restricted from search ad placements on major platforms.*
+
+| # | Advertiser | Landing Page | Notes |
+|---|-----------|-------------|-------|
+| — | *Restricted category* | — | Adult industry keywords blocked from Google/Bing Ads |
+
+### Top 5 Organic Results
+*SafeSearch filtering limited results visibility. Known organic landscape:*
+
+| # | Domain | Type | Notes |
+|---|--------|------|-------|
+| 1 | **Pornhub** (Aylo) | Adult tube | Dominant organic presence for adult queries |
+| 2 | **XVideos** (WGCZ) | Adult tube | #2 adult site globally |
+| 3 | **XHamster** | Adult tube | Major adult platform |
+| 4 | **AdultTime** | Studio network | Premium adult content |
+| 5 | **Brazzers** (Aylo) | Premium studio | Branded adult content |
+
+### Insights
+- Like TopSex.ai, adult keywords have **no paid search ads** — the adult industry competes entirely on organic search, brand, and domain authority.
+- Aylo (Pornhub, Brazzers) and WGCZ (XVideos) control the majority of organic visibility for adult search terms — they are already the top leads in this file.
+- The **provocative domain name** (WhoreHouse) is actually an advantage in adult SEO — bold, memorable names attract clicks and type-in traffic.
+- **No DMPS bonus applicable** (no paid advertisers).

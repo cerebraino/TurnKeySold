@@ -111,3 +111,34 @@
 ---
 
 *Lead list prepared for outreach-architect. Full DMPS methodology in research_framework.md §3.*
+
+---
+
+## Google Search Enrichment
+
+**Query:** `buy weight loss medication online` | **Market:** US | **Date:** 2026-07-22
+
+### Top 5 Paid Advertisers (Bing/DDG Ads)
+| # | Advertiser | Landing Page | Spend Signal |
+|---|-----------|-------------|-------------|
+| 1 | **Forbes Health** | forbes.com/health/weight-loss/best-weight-loss-pills/ | 🟢 +10 DMPS |
+| 2 | **CompareTreatments** | comparetreatments.com/weight-loss-treatments/GLP-1 | 🟢 +10 DMPS |
+| 3 | **GoodRx** | goodrx.com/care/services/glp-1-weight-loss | 🟢 +10 DMPS |
+| 4 | **Walgreens** | walgreens.com/topic/virtual-healthcare/weight-loss.jsp | 🟢 +10 DMPS |
+| 5 | **Forbes Health** | forbes.com/health/weight-loss/best-affordable-online-glp1-providers/ | 🟢 +10 DMPS |
+
+### Top 5 Organic Results
+| # | Domain | URL | Type |
+|---|--------|-----|------|
+| 1 | **GoodRx** | goodrx.com/conditions/weight-loss/drugs | Price comparison |
+| 2 | **Walgreens** | walgreens.com/.../weight-loss.jsp | Pharmacy/telehealth |
+| 3 | **Forbes Health** | forbes.com/health/weight-loss/best-online-weight-loss-medication/ | Review/affiliate |
+| 4 | **ConsumerAffairs** | consumeraffairs.com/health/how-to-get-weight-loss-medication-online.html | Review site |
+| 5 | **Forbes Health** | forbes.com/health/weight-loss/best-affordable-online-glp1-providers/ | Review/affiliate |
+
+### Insights
+- **Forbes Health dominates both paid and organic** — they're running aggressive affiliate/lead-gen campaigns on weight loss medication keywords. Forbes is not in the lead list — worth adding as an affiliate/lead-gen buyer.
+- **GoodRx and Walgreens** have strong dual presence (paid + organic) — they're major pharmacy players investing heavily in weight loss drug search terms.
+- **CompareTreatments** is a direct competitor to the "buy slim meds" value proposition — they aggregate GLP-1 providers and could benefit from a stronger domain.
+- The "buy [x] medication online" keyword space is **highly competitive with significant ad spend** — CPCs likely $30–$80. Owning an exact-match domain like buyslimmeds.com captures traffic that competitors pay premium rates for.
+- **DMPS bonus:** Forbes Health (+10), GoodRx (+10), Walgreens (+10), CompareTreatments (+10). These paid advertisers should be prioritized in outreach.

@@ -157,3 +157,37 @@
 - **LegalZoom and Rocket Lawyer** have Spanish-language services and advertise on legal help keywords — both are not in the current lead list and should be added.
 - The Spanish-language legal market is **growing rapidly** — 40M+ US Hispanic population with significant legal needs. Owning the exact-match domain is a major SEO asset.
 - **DMPS bonus:** Abogado.com, LegalZoom, Rocket Lawyer, Avvo, Martindale-Hubbell (+10 each).
+
+---
+
+## 6. 13-Category Expansion (New Leads)
+
+### Tier 1 — Lead Gen + PI + Marketing (★★★★★)
+| # | Company | DMPS | Category | Decision-Maker | Role |
+|---|---------|------|----------|---------------|------|
+| 18 | **elAbogado.com** | **90** | Lead Gen | Matias Villanueva (CEO) | CEO |
+| 19 | **Abogados.com** | **88** | Lead Gen | — (Private) | CEO |
+| 20 | **Scorpion** | **85** | Legal Marketing | Rustin Kretz (CEO) | CEO |
+| 21 | **EvenUp** | **85** | AI Legal Intake | Rami Karabibar (CEO) | CEO |
+| 22 | **Jim Adler (Texas Hammer)** | **85** | PI Firm | Jim Adler (Founder) | Founder |
+| 23 | **The Barnes Firm** | **82** | PI Firm | Steve Barnes (Founder) | Founder |
+| 24 | **FileVine** | **82** | AI Legal | Ryan Anderson (CEO) | CEO |
+| 25 | **Boundless** | **82** | Immigration | Xiao Wang (CEO) | CEO |
+| 26 | **Cellino Law** | **80** | PI Firm | Ross Cellino (CEO) | CEO |
+| 27 | **Litify** | **80** | AI Legal | Ari Treuhaft (CEO) | CEO |
+
+### Tier 2 — Immigration, Family, Workers' Comp (★★★★☆)
+| 28 | **BAL** | **78** | Immigration | Jeremy Fudge (CEO) | CEO |
+| 29 | **Atticus** | **78** | Workers' Comp | Sam Eder (CEO) | CEO |
+| 30 | **Lawmatics** | **78** | AI Legal CRM | Matt Spiegel (CEO) | CEO |
+| 31 | **LegalMatch** | **78** | Lead Gen | Laurie Ziffrin (CEO) | CEO |
+| 32 | **Cordell & Cordell** | **75** | Family Law | Scott Trout (CEO) | CEO |
+| 33 | **Ngage** | **75** | Legal Marketing | Stephen Fairley (CEO) | CEO |
+| 34 | **Trust & Will** | **72** | Estate Planning | Cody Barbo (CEO) | CEO |
+
+### Tier 3 — Consumer, Insurance, Criminal (★★★☆☆)
+| 35 | **Consultwebs** | **72** | Legal Marketing | Dale Tincher (CEO) | CEO |
+| 36 | **Divorce.com** | **72** | Family Law | — (Private) | CEO |
+| 37 | **Outten & Golden** | **72** | Employment Law | Adam Klein (Partner) | Partner |
+
+*Total: 37 leads (17 existing + 20 new). Full 13-category expansion in hispanoabogado-buyer-expansion.md.*

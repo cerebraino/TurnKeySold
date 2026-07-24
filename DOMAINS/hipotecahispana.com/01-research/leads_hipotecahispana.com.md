@@ -32,3 +32,41 @@
 ---
 
 *Lead list prepared.*
+
+---
+
+## 3. 14-Category Mortgage Expansion (New Leads)
+
+### Tier 1 — Lenders, Lead Gen, Banks, Tech (★★★★★)
+| # | Company | DMPS | Category | Decision-Maker | Role |
+|---|---------|------|----------|---------------|------|
+| 11 | **LendingTree** (Spanish) | **85** | Lead Gen | Doug Lebda (CEO) | CEO |
+| 12 | **JPMorgan Chase** | **85** | National Bank | Jamie Dimon (CEO) | CEO |
+| 13 | **Guild Mortgage** | **82** | National Lender | Terry Schmidt (CEO) | CEO |
+| 14 | **Blend** | **82** | Mortgage Tech | Nima Ghamsari (CEO) | CEO |
+| 15 | **Wells Fargo** | **82** | National Bank | Charlie Scharf (CEO) | CEO |
+| 16 | **Bank of America** | **80** | National Bank | Brian Moynihan (CEO) | CEO |
+| 17 | **Bankrate** | **80** | Lead Gen | — (Red Ventures) | — |
+| 18 | **Zillow Home Loans** | **78** | Lead Gen/Portal | Jeremy Wacksman (CEO) | CEO |
+| 19 | **Citi** | **78** | National Bank | Jane Fraser (CEO) | CEO |
+| 20 | **Navy Federal CU** | **78** | Credit Union | Mary McDuffie (CEO) | CEO |
+| 21 | **Lennar** | **78** | Homebuilder | Stuart Miller (CEO) | CEO |
+| 22 | **Fairway Independent** | **75** | National Lender | Steve Jacobson (CEO) | CEO |
+| 23 | **Latino Community CU** | **75** | Credit Union | Luis Pastor (CEO) | CEO |
+| 24 | **DR Horton** | **75** | Homebuilder | Paul Romanowski (CEO) | CEO |
+| 25 | **Tavant** | **75** | AI Mortgage | Sarvesh Mahesh (CEO) | CEO |
+| 26 | **BBVA** | **75** | Cross-Border | Onur Genç (CEO) | CEO |
+
+### Tier 2 — Real Estate, Insurance (★★★★☆)
+| 27 | **Keller Williams** | **75** | Real Estate Franchise | Mark Willis (CEO) | CEO |
+| 28 | **State Farm** | **72** | Insurance | Jon Farney (CEO) | CEO |
+| 29 | **Santander** | **72** | Cross-Border | Héctor Grisi (CEO) | CEO |
+| 30 | **Re/Max** | **72** | Real Estate Franchise | Erik Carlson (CEO) | CEO |
+| 31 | **Roostify** | **72** | Mortgage Tech | Rajesh Bhat (CEO) | CEO |
+
+### Tier 3 — Education, Government (★★★☆☆)
+| 32 | **UnidosUS** | **68** | Homeownership Ed | Janet Murguía (CEO) | CEO |
+| 33 | **NeighborWorks** | **65** | Homeownership Ed | Marietta Rodriguez (CEO) | CEO |
+| 34 | **FHA** | **60** | Government | — (HUD) | — |
+
+*Total: 34 leads (10 existing + 24 new). Full 14-category expansion in hipotecahispana-buyer-expansion.md.*

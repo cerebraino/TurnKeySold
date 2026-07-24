@@ -2,50 +2,59 @@
 
 ## Domain Overview
 - **Domain:** quitesuacasa.com
-- **Niche:** Spanish-Language Real Estate / iBuying / Home Ownership Transfer
-- **Target Market:** Real estate platforms, iBuyers, mortgage companies, real estate legal services
-- **Value Prop:** "Quite Su Casa" — a Spanish real estate domain with dual meaning: (1) "take possession of your house" (home buying/ownership transfer), or (2) "remove/take away your house" (eviction defense, mortgage relief). The ambiguity gives it broad applicability across real estate use cases. For iBuyers like Opendoor or real estate platforms like Zillow, the "take your house" concept aligns with instant home buying.
+- **Niche:** Portuguese-Language Mortgage Payoff / Home Equity / Debt Relief
+- **Target Market:** Brazil (215M), Portugal — mortgage lenders, home equity fintechs, digital banks
+- **Value Prop:** "Quite Sua Casa" = "Pay Off Your House" in Portuguese. The exact phrase millions of Brazilians search for when they dream of mortgage freedom. Brazil has an R$800B+ mortgage market, a booming home equity fintech sector, and 7M+ families in the Minha Casa Minha Vida housing program — every single one wants to "quitar sua casa." This domain captures that universal aspiration.
 
 ## Lead Research Summary
-*Source: leads_quitesuacasa.com.md (domain-researcher, Jul 22)*
+*Source: leads_quitesuacasa.com.md (domain-researcher, Jul 23) + quitesuacasa-portuguese-buyers.md*
 
 **Top 5 ranked leads (by DMPS):**
-1. **Zillow** (DMPS 85) — Jeremy Wacksman, CEO. Largest real estate marketplace.
-2. **Realtor.com** (DMPS 82) — Damian Eales, CEO. Major real estate platform.
-3. **Opendoor** (DMPS 80) — Carrie Wheeler, CEO. Leading iBuyer — "sell your house instantly."
-4. **Offerpad** (DMPS 78) — Brian Bair, CEO. iBuying platform.
-5. **Redfin** (DMPS 75) — Glenn Kelman, CEO. Tech-forward real estate brokerage.
+1. **Creditas** (DMPS 92) — Sergio Furio, CEO. Brazilian home equity lending unicorn ($4.8B valuation). "Quite sua casa" IS their product in two words: use home equity to pay off debt.
+2. **Caixa Econômica Federal** (DMPS 90) — Carlos Vieira, President. Brazil's largest mortgage bank. Handles Minha Casa Minha Vida — 7M+ families wanting to "quitar" their homes.
+3. **QuintoAndar** (DMPS 88) — Gabriel Braga, CEO. Brazil's leading real estate platform ($5.1B), expanding into mortgages.
+4. **Itaú Unibanco** (DMPS 85) — Milton Maluhy Filho, CEO. LATAM's largest private bank; major mortgage portfolio.
+5. **Pontte** (DMPS 80) — Pedro Nascimento, CEO. Pure-play Brazilian home equity lending fintech.
 
-> **Internal Reference Only** **Valuation:** $500–$3K | **Asking anchor:** $1,500 | **Floor:** $500
+> **Internal Reference Only** **Valuation:** $500–$3K | **Asking anchor:** $2,000 | **Floor:** $800
 
 ## Messaging Strategy
-- **Primary Angle:** The iBuying Domain. "Quite Su Casa" can mean "take possession of your house" — a perfect concept for iBuyers who literally "take your house" off your hands for cash. Opendoor and Offerpad built billion-dollar businesses on that promise. This domain captures it in Spanish.
-- **Key Talking Points:** Dual meaning gives flexibility — home buying or mortgage relief. "Quite" = take possession — aligns with iBuying model. Formal "su" — professional tone. 12 characters — clean. Part of the Spanish real estate domain collection.
+- **Primary Angle:** The Mortgage Freedom Domain. "Quitar" in Portuguese means to pay off, settle, or liquidate a debt — it's the word Brazilians use when they dream of owning their home outright. "Quite sua casa" is the exact search phrase for mortgage payoff. For a Brazilian bank, home equity fintech, or mortgage platform, this domain captures the #1 financial aspiration of 215M Brazilians.
+- **Key Talking Points:** "Quite sua casa" = the exact phrase Brazilians search for mortgage freedom. Brazil has an R$800B+ mortgage market. Home equity lending is exploding as a fintech category. 7M+ Minha Casa Minha Vida families want to "quitar" their homes. Natural companion to the Spanish RE payment family (pagacasa, pagatucasa, paguecasa, paguesucasa).
+- **For Creditas specifically:** They lend against home equity so Brazilians can consolidate debt. "Quite sua casa" is literally their value proposition as a domain name.
 
 ## Adapted Email Templates
 
-**Subject:** quitesuacasa.com — "quite su casa," el dominio inmobiliario
+**Subject:** quitesuacasa.com — o domínio que todo brasileiro pesquisa
 
-"Hola [Name], [Company Name] está transformando cómo las personas compran y venden casas. Quiero presentarles **quitesuacasa.com** — un dominio con doble significado: tomar posesión de su casa o liberarse de una carga hipotecaria. Para plataformas como [Company Name], especialmente en el modelo iBuying, captura la promesa de 'tomar su casa' al instante. ¿Les interesaría conocer más?"
+"Olá [Name], a [Company Name] está ajudando milhões de brasileiros a realizar o sonho da casa própria — e da casa quitada. Quero apresentar **quitesuacasa.com** — o domínio que captura a frase exata que os brasileiros digitam quando sonham com a liberdade da hipoteca: 'quite sua casa.' Para a [Company Name], este domínio pode ser uma campanha de quitação, uma ferramenta digital, ou um portal de educação financeira. É a intenção de busca mais poderosa do mercado imobiliário brasileiro. Gostariam de saber mais?"
+
+**Subject (English):** quitesuacasa.com — the Portuguese "pay off your house" domain
+
+"Hi [Name], [Company Name]'s position in Brazilian mortgage and home equity lending is strong. **quitesuacasa.com** captures the exact phrase 215M Brazilians search for: 'pay off your house.' For a bank, fintech, or real estate platform, this domain is the SEO front door to the #1 financial aspiration in Brazil. I'd love to share more."
 
 ## LinkedIn Approach
-- **Connection:** "Hola [Name], [Company Name] está revolucionando las transacciones inmobiliarias para la comunidad hispana."
-- **Follow-up:** "Gracias por conectar. Estoy manejando la venta de **quitesuacasa.com** — un dominio inmobiliario versátil en español. ¿Conversamos?"
+- **Connection:** "Olá [Name], o trabalho da [Company Name] no mercado de crédito imobiliário brasileiro está transformando vidas."
+- **Follow-up:** "Obrigado por conectar. Estou gerenciando a venda de **quitesuacasa.com** — 'quite sua casa,' a frase que todo brasileiro pesquisa. Acredito que seja ideal para a [Company Name]. Gostaria de conhecer mais?"
 
 ## Tone & Cultural Considerations
-- **Tone:** Professional, real estate-native. The dual meaning requires careful positioning — lead with the positive "take possession" framing.
-- **Key insight:** The iBuying concept ("we'll take your house off your hands for cash") maps perfectly to "quite su casa" in the positive sense. For Opendoor/Offerpad, it's a natural Spanish brand extension.
+- **Tone (Portuguese):** Aspirational, financial-empowerment, trustworthy. Homeownership is deeply emotional in Brazil — "casa própria" is the Brazilian dream. "Quitar" is the final step of that dream.
+- **Key insight:** "Quitar" carries enormous emotional weight in Brazilian Portuguese. It's not just "pay off" — it's freedom, security, and the culmination of years of sacrifice. The domain captures that entire emotional journey in three words.
+- **Market note:** Brazil's mortgage market is one of the world's largest and most sophisticated. Home equity lending (crédito com garantia de imóvel) is the fastest-growing fintech vertical in the country.
 
 ## Objection Handling
-- **"'Quite' could mean 'take away' negatively — is that a problem?":** "Context determines meaning. In real estate, 'quite su casa' means take possession — the positive framing. That dual meaning actually gives the domain flexibility: it can serve home buying, selling, or mortgage relief contexts."
+- **"We already have a mortgage payoff calculator on our site":** "quitesuacasa.com captures the search traffic your calculator can't reach. When Brazilians search 'quite sua casa,' they find this domain first — and it funnels them directly to your product. It's the SEO asset that pays for itself in organic traffic."
+- **"We're a digital bank, not just a mortgage lender":** "Mortgage payoff is the gateway to broader financial products — home equity, debt consolidation, refinancing. quitesuacasa.com is the high-intent entry point that brings customers into your ecosystem."
+- **"Brazil is our only Portuguese-speaking market — is the domain worth it?":** "215M Brazilians is not a niche — it's one of the world's largest single-language markets. Plus Portugal and Portuguese-speaking Africa. The domain's SEO value in Brazilian Portuguese alone justifies the investment."
 
 ## Negotiation
 > **Internal Reference Only**
-- **Solo:** Open $2,000 | **Target:** $1K–$1.5K | **Floor:** $500
+- **Open:** R$10,000 (~$2,000 USD) | **Target:** R$7,000–R$10,000 | **Floor:** R$4,000 (~$800)
 
 ## Top Priority Lead
-**Opendoor — Carrie Wheeler (CEO)**
-- **Angle:** "quitesuacasa.com is the Spanish-language domain for what Opendoor does: take your house off your hands. For the leading iBuyer, it's the brand that opens the Hispanic home seller market."
+**Creditas — Sergio Furio (CEO)**
+- **Why:** Creditas is a $4.8B home equity lending unicorn. Their entire product is "quite sua casa" — borrow against home equity to pay off debt and become debt-free. The domain IS their elevator pitch.
+- **Angle:** "quitesuacasa.com é o que a Creditas faz em duas palavras. Para o unicórnio de home equity que ajuda brasileiros a quitar dívidas, este domínio é o seu produto como marca."
 - **Channel:** Email first, LinkedIn Day 3
 
 ---

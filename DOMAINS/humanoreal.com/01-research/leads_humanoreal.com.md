@@ -38,4 +38,15 @@
 
 ---
 
-*Updated lead list — 10 leads, revised valuation reflecting PoH trend. Full ecosystem research in proof-of-human-spanish-buyers.md.*
+*Updated lead list — 12 leads, revised valuation reflecting PoH trend + external Ibero-American identity intel. Full ecosystem research in proof-of-human-spanish-buyers.md.*
+
+---
+
+## 3. Cross-Referenced Additions
+
+| # | Company | DMPS | Decision-Maker | Role | Website | Rationale |
+|---|---------|------|---------------|------|---------|-----------|
+| 11 | **idwall** | **72** | Raphael Melo (Co-Founder) / Lincoln Ando (CEO) | Co-Founder | idwall.com.br | Brazil's top identity platform. $38M Series C. LATAM expansion. |
+| 12 | **Unico** | **65** | Diego Martins (CEO) | CEO | unico.io | Brazil's identity leader. Acquired Trully.ai. LATAM expansion. |
+
+**World contact update:** Martín Mazza (Country Manager Argentina/LATAM) is now the priority World contact alongside Tiago Sada (Head of Product). Mazza's Forbes Argentina quote — *"No buscamos verificar identidad sino humanidad"* — perfectly captures humanoReal.com's value proposition.

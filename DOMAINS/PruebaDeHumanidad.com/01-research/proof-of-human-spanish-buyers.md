@@ -340,4 +340,169 @@ World vs. Kleros is the perfect competitive dynamic. World has the money and LAT
 
 ---
 
-*Research complete. 25+ leads across PoH protocols, digital identity companies, government systems, and industry platforms. The PoH trend is exploding — these domains are perfectly timed.*
+---
+
+## 9. Cross-Referenced Additions from Ibero-American Digital Identity Research
+
+### A. New Companies (Not in Original Research)
+
+#### Trully.ai (Acquired by Unico)
+**HQ:** Mexico City, Mexico | **Exit:** $4.1M to Unico | Identity fraud detection
+
+| Executive | Role | LinkedIn | Rationale |
+|-----------|------|----------|-----------|
+| **Raphael Melo** | CEO & Co-Founder (ex-Trully, now idwall) | — | Brazilian, built Trully into identity decisioning leader before Unico acquisition |
+
+**Why relevant:** Trully/Unico is the leading identity fraud detection platform in Mexico. As AI-generated fraud explodes, "prueba de humanidad" becomes their core product. "humanoReal.com" as their verification seal.
+- **DMPS: 68**
+
+#### idwall
+**HQ:** São Paulo, Brazil | **Funding:** $38M Series C | Digital identity platform
+
+| Executive | Role | LinkedIn | Rationale |
+|-----------|------|----------|-----------|
+| **Raphael Melo** | Co-Founder | — | Key architect of idwall's growth |
+| **Lincoln Ando** | CEO & Co-Founder | — | idwall CEO |
+
+**Why idwall should buy:**
+- Brazil's leading digital identity platform. $38M raised. Expanding across LATAM. "humanoReal.com" for their identity verification brand across Spanish-speaking LATAM markets. "PruebaDeHumanidad.com" as the PoH vertical.
+- **DMPS: 72**
+
+#### Unico
+**HQ:** São Paulo, Brazil | Brazil's leading identity verification company
+
+| Executive | Role | LinkedIn | Rationale |
+|-----------|------|----------|-----------|
+| **Diego Martins** | CEO & Founder | — | Unico founder, acquired Trully.ai |
+
+**Why Unico should buy:**
+- Brazil's identity verification leader. After acquiring Trully.ai, they have the AI fraud detection capabilities. Spanish-language domains for LATAM expansion beyond Brazil.
+- **DMPS: 65**
+
+#### midoconline
+**HQ:** Mexico | Mexican digital identity platform
+
+**Why relevant:** Mexican digital identity company. "humanoReal.com" for their verification services.
+- **DMPS: 50** — smaller player, less intel available.
+
+---
+
+### B. Critical Executive Addition — Martín Mazza (World/Tools for Humanity)
+
+| Executive | Role | Nationality | LinkedIn | Why He's the Key |
+|-----------|------|-------------|----------|------------------|
+| **Martín Mazza** | Country Manager, Argentina & LATAM, Tools for Humanity (World) | Argentine/Spanish | — | THE Spanish-speaking executive at World. Runs LATAM operations from Argentina. |
+
+**Martín Mazza's defining quote** (from Forbes Argentina / Wired en Español interviews):
+
+> *"No buscamos verificar identidad sino humanidad — no es quién sos sino que sos. ¿Sos humano o bot?"*
+
+Translation: *"We're not trying to verify identity but humanity — it's not who you are but THAT you are. Are you human or a bot?"*
+
+**Why this quote matters:** Mazza literally articulates the exact value proposition of PruebaDeHumanidad.com in perfect Spanish. This quote IS the sales pitch. If Mazza sees PruebaDeHumanidad.com, he will immediately recognize it as the Spanish-language domain for World's core mission.
+
+**Outreach priority:** Mazza should be the #1 contact at World for both domains. He's Argentine (same country as Kleros!), runs LATAM operations, and deeply understands the cultural resonance of "prueba de humanidad."
+
+- **Revised World DMPS with Mazza intel: 93** (was 92)
+
+---
+
+### C. Key Hispanic/Spanish Executives at Global PoH Companies (Summary)
+
+| Executive | Company | Role | Nationality | Domain Fit |
+|-----------|---------|------|-------------|------------|
+| **Martín Mazza** | World (Tools for Humanity) | Country Manager Argentina/LATAM | Argentine/Spanish | Both domains — his quote is the pitch |
+| **Tiago Sada** | World | Head of Product | Mexican | Both domains (already in file) |
+| **Santiago Siri** | Kleros | Strategic Advisor | Argentine | PruebaDeHumanidad.com (already in file) |
+| **Federico Ast** | Kleros | CEO | Argentine | Both domains (already in file) |
+| **Raphael Melo** | idwall (ex-Trully.ai) | Co-Founder | Brazilian | humanoReal.com (NEW) |
+| **Fernando González Paulin** | — | Digital identity expert | Mexican | Spanish-language PoH thought leader (NEW) |
+
+---
+
+### D. Events & Conferences
+
+| Event | Date | Location | Relevance |
+|-------|------|----------|-----------|
+| **European Identity and Cloud Conference (EIC 2026)** | 2026 | Berlin | Premier European identity conference. PoH is a growing track. Spanish/EU intersection. |
+| **Blockchain Week LATAM** | 2026 | Bolivia, Mexico, Peru | LATAM blockchain events with strong identity/PoH content. Target attendees from World, Kleros, Gitcoin. |
+| **Argencon** | 2026 | Argentina | World selected Argentina as regional hub. Argencon is Argentina's premier tech conference. Martín Mazza likely speaks here. |
+| **World Orb Global Tour** | Ongoing | LATAM cities | World's LATAM expansion events. Orb activations in Buenos Aires, Santiago, Bogotá, Mexico City. |
+
+**Opportunity:** These events are where PoH buyers congregate. Domain acquisition conversations happen at the bar, not in the boardroom. Attendees from World, Kleros, Gitcoin, and LATAM identity companies are all present.
+
+---
+
+### E. Policy & Regulatory Landscape
+
+| Jurisdiction | Action | Date | Impact on Domains |
+|-------------|--------|------|-------------------|
+| **Spain** | Temporarily suspended Worldcoin data collection | 2024 | Creates need for Spanish-language PoH compliance/education — PruebaDeHumanidad.com as policy hub |
+| **Portugal** | Banned Worldcoin temporarily | 2024 | Portuguese-speaking market concern — validates need for LATAM/European PoH discourse |
+| **Argentina** | Selected as World's regional hub for LATAM | 2024 | Argentina = center of Spanish-language PoH. Both domains anchored in Argentine market. |
+| **EU AI Act** | Human oversight requirements | 2025+ | Spanish implementation needs Spanish-language resources — both domains as EU compliance info hubs |
+
+---
+
+### F. Personhood Credentials (PHCs) — New Institutional Angle
+
+**PHC Coalition:** MIT, OpenAI, Microsoft, Harvard researchers published a framework for "Personhood Credentials" — proving you're a unique, real person while maintaining full anonymity. This is the academic/establishment version of PoH.
+
+**Why it matters for our domains:**
+- PHCs are the institutional, non-crypto framing of Proof of Personhood
+- Spanish-language institutions (universities, governments, EU agencies) need Spanish-language resources
+- "PruebaDeHumanidad.com" could be THE Spanish-language hub for PHC research and implementation
+- Opens an entirely new buyer category: academic consortia, policy institutes, EU-funded research projects
+
+---
+
+### G. "Puppeteering" Risk — Deepens the Use Case
+
+Research into Idena showed that financial incentives could lead to one user controlling multiple verified accounts ("puppeteering"). This validates the NEED for robust proof of humanity — and positions PruebaDeHumanidad.com as the Spanish-language resource for understanding PoH risks and solutions.
+
+---
+
+### H. Spanish-Language Media Coverage (Reference URLs)
+
+| Source | Title | Relevance |
+|--------|-------|-----------|
+| **proofofhumanity.id** | Kleros Proof of Humanity registry | The registry itself |
+| **blog.kleros.io** | "Proof of Humanity: qué es y cómo funciona" | Kleros's own explainer in Spanish |
+| **world.org/es-es** | World Spanish blog | World's Spanish content hub |
+| **clarin.com** | "Prueba de humanidad: la verificación que llegó a Bariloche" | Major Argentine newspaper covering PoH — validates mainstream interest |
+| **forbesargentina.com** | Martín Mazza interview | Mazza articulating PoH in Spanish |
+| **es.wired.com** | Martín Mazza profile | Wired's Spanish edition profiling the key exec |
+| **r3d.mx** | Worldcoin risks analysis | Mexican digital rights org analyzing PoH |
+| **telos.fundaciontelefonica.com** | Digital identity deep dive | Telefónica's think tank covering digital ID |
+
+---
+
+### I. Revised Outreach Strategy (with Mazza Intel)
+
+**World pitch (to Martín Mazza):**
+*"Martín, you said it yourself: 'No buscamos verificar identidad sino humanidad.' PruebaDeHumanidad.com IS that mission in Spanish. It's the domain for your exact words — '¿Sos humano o bot?' For the country where World has chosen its LATAM hub, this is the domain that speaks directly to 500 million Spanish speakers. Tiago Sada would understand. You should own it before Kleros does."*
+
+**Revised Hot Leads:**
+| # | Company | DMPS | Contact | Why |
+|---|---------|------|---------|-----|
+| 1 | **Kleros** | **95** | Federico Ast | Existential need. Product name match. Argentine. |
+| 2 | **World** | **93** | Martín Mazza, Tiago Sada | LATAM hub. Mazza's own words are the pitch. $25B+ company. |
+| 3 | **idwall** | **72** | Raphael Melo | Brazil's top identity platform. $38M Series C. LATAM expansion. |
+| 4 | **Gitcoin** | **75** | Kevin Owocki | Leading Sybil resistance. LATAM web3 community. |
+
+---
+
+### J. Cross-Reference: What Our Original Research Caught vs. What Was New
+
+| Category | In Original | New from External |
+|----------|------------|-------------------|
+| Companies | Kleros, World, Gitcoin, BrightID, Idena, Humanity Protocol, Civic, Os City, Dock, Extrimian, VOTTUN | Trully.ai/Unico, idwall, midoconline |
+| Hispanic Execs | Tiago Sada, Federico Ast, Santiago Siri | **Martín Mazza** (critical add), Raphael Melo, Fernando González Paulin |
+| Events | None | EIC 2026, Blockchain Week LATAM, Argencon |
+| Policy | None | Spain/Portugal Worldcoin suspensions, Argentina as LATAM hub |
+| Frameworks | PoP/PoH general | Personhood Credentials (MIT/OpenAI/Microsoft/Harvard), "puppeteering" risk |
+| Media References | None | Clarín, Forbes Argentina, Wired ES, r3d.mx, Fundación Telefónica |
+
+---
+
+*Cross-reference complete. Original research validated — external intel confirms and deepens every category. Martín Mazza is the single most important new addition.*

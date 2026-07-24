@@ -68,3 +68,35 @@
 ---
 
 *Lead list prepared. Full ecosystem research in proof-of-human-spanish-buyers.md.*
+
+---
+
+## 6. Cross-Referenced Additions from External Ibero-American Research
+
+### Critical Contact: Martín Mazza (World)
+**Role:** Country Manager, Argentina & LATAM, Tools for Humanity (World)
+**Nationality:** Argentine/Spanish
+**Quote** (Forbes Argentina / Wired ES):
+> *"No buscamos verificar identidad sino humanidad — no es quién sos sino que sos. ¿Sos humano o bot?"*
+
+**Why Mazza is the #1 contact at World:** His own words are the sales pitch for PruebaDeHumanidad.com. He runs LATAM operations from Argentina — the same region as Kleros. He deeply understands the cultural weight of "prueba de humanidad." Revised World DMPS: **93**.
+
+### New Companies
+| # | Company | DMPS | Decision-Maker | Rationale |
+|---|---------|------|---------------|-----------|
+| 13 | **idwall** | **72** | Raphael Melo (Co-Founder) | Brazil's top identity platform. $38M Series C. Spanish-language PoH expansion. |
+| 14 | **Unico** | **65** | Diego Martins (CEO) | Brazil's identity leader. Acquired Trully.ai. LATAM PoH vertical. |
+
+### Policy Context
+- **Spain** temporarily suspended Worldcoin (2024) — PruebaDeHumanidad.com as Spanish PoH compliance/policy hub
+- **Argentina** selected as World's LATAM hub — Argentina = Spanish-language PoH epicenter
+- **Portugal** banned Worldcoin temporarily
+- **EU AI Act** human oversight requirements drive Spanish-language PoH demand
+
+### Events
+- EIC 2026 (Berlin) — European identity conference
+- Blockchain Week LATAM 2026 — Bolivia, Mexico, Peru
+- Argencon 2026 — Argentina's premier tech conference
+
+### New Institutional Angle
+**Personhood Credentials (PHCs):** MIT, OpenAI, Microsoft, Harvard coalition framework. PruebaDeHumanidad.com as THE Spanish-language hub for PHC research and implementation.

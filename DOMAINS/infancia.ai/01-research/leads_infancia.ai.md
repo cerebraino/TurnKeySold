@@ -105,3 +105,34 @@
 ---
 
 *Lead list prepared for outreach-architect. Full DMPS methodology in research_framework.md §3.*
+
+---
+
+## 6. AI-Powered Children's Products & Services (New Category)
+
+| # | Company | DMPS | Decision-Maker | Role | Website | Rationale |
+|---|---------|------|---------------|------|---------|-----------|
+| 17 | **Miko** | **85** | Sneh Vaswani (CEO) | CEO | miko.ai | Leading AI companion robot for kids (500K+ units). Expanding LATAM. |
+| 18 | **Nanit** | **82** | Sarah Dorsett (CEO) | CEO | nanit.com | AI baby monitor with sleep/development tracking. $100M+ raised. |
+| 19 | **Pocoyo** (Zinkia) | **82** | María Doolan (CEO) | CEO | pocoyo.com | Iconic Spanish children's brand. 25M+ YouTube subs. Perfect cultural fit. |
+| 20 | **Roybi Robot** | **78** | Elnaz Sarraf (CEO) | CEO | roybirobot.com | AI language-learning robot. Spanish-language focus. |
+| 21 | **Owlet** | **78** | Kurt Workman (CEO) | CEO | owletcare.com | AI infant health monitoring. Public company (OWLT). |
+| 22 | **Cubo AI** | **75** | Joey Ho (CEO) | CEO | cuboai.com | Pediatrician-founded AI baby safety monitor. |
+| 23 | **Amazon Kids+** | **70** | Kurt Beidler (GM) | GM | amazon.com/kids | Massive child content ecosystem. Spanish brand needed. |
+
+---
+
+## 7. NGOs & Government — Child Well-being + AI (New Category)
+
+| # | Company | DMPS | Decision-Maker | Role | Website | Rationale |
+|---|---------|------|---------------|------|---------|-----------|
+| 24 | **Plataforma de Infancia** | **78** | Ricardo Ibarra (Director) | Director | plataformadeinfancia.org | Spain's 70-NGO childhood coalition. Domain IS their name. |
+| 25 | **UNICEF LAC** | **72** | Garry Conille (Reg. Dir.) | Regional Dir. | unicef.org/lac | 36-country mandate. Childhood = core mission. |
+| 26 | **UNICEF España** | **68** | José María Vera (Exec. Dir.) | Exec. Director | unicef.es | Spanish UNICEF. AI + children's rights platform. |
+| 27 | **Save the Children España** | **65** | Andrés Conde (CEO) | CEO | savethechildren.es | Leading Spanish child rights org. |
+| 28 | **Alianza por la Niñez** | **62** | Juan Martín Pérez (Coord.) | Coordinator | alianzaporlaninez.org.mx | Mexican child rights network. |
+| 29 | **IIN-OAS** | **60** | María Julia Garcete (Dir. Gen.) | Director General | iin.oea.org | Hemispheric children's institute. 35 OAS member states. |
+
+---
+
+*Expanded lead list — 29 total leads across edtech, AI children's products, and child well-being organizations. Full expansion details in infancia-ai-buyer-expansion.md.*

@@ -255,8 +255,8 @@ Priority domains to set up first (highest value): TopSex.ai, LaVoiture.ai, Whore
 ## Status
 
 - **LeanMeds.com** — ✅ SOLD (Trinity HealthCare Supply)
-- **127 domains** — fully researched with lead lists
-- **125 domains** — outreach briefs complete
-- **13 domains** — enriched with Google ad competitor data
-- **110 domains** — remaining in backlog (NameCheap import), mostly ★/★★ lower-value
-- **6 strategic expansions** — Cold Beer, MuyGuay, SlimMeds, miniterapia, quitesuacasa, LaVoiture Quebec
+- **131 domains** — fully researched with lead lists (~132 lead files; some domains have multiple angles)
+- **125 domains** — outreach briefs complete (6 pending: oneguy.org, paycarai.com, pruebadehumanidad.com, teapuesto.bet/casino/xyz)
+- **8 domains** — enriched with structured Google ad competitor data; 10 more in progress
+- **13 strategic expansions** — Cold Beer, MuyGuay, SlimMeds, miniterapia, quitesuacasa, LaVoiture Quebec, NoFail/NoBreak, Proof of Human, HispanoAbogado, LatinoMedico, HipotecaHispana, OneGuy, Apuesto Family, Infancia.ai
+- **Decision architecture** — [docs/architecture/DECISION_ARCHITECTURE.md](docs/architecture/DECISION_ARCHITECTURE.md) defines how the company reasons

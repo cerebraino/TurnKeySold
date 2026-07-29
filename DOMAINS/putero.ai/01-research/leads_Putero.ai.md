@@ -73,3 +73,38 @@
 ---
 
 *Lead list prepared for outreach-architect.*
+
+## Google Search Enrichment
+
+**Query:** `putero videos español` | **Market:** ES | **Date:** 2026-07-25
+
+### Top 5 Paid Advertisers (Bing/DDG Ads)
+| # | Advertiser | Landing Page | Spend Signal |
+|---|-----------|-------------|-------------|
+| 1 | **Aylo (Pornhub ES)** | pornhub.com/es | 🟢 +10 DMPS |
+| 2 | **WGCZ (XVideos ES)** | xvideos.com/lang/spanish | 🟢 +10 DMPS |
+| 3 | **YouPorn ES** | youporn.com/es/ | 🟢 +10 DMPS |
+| 4 | **Chaturbate ES** | chaturbate.com/tag/spanish | 🟡 High CPC |
+| 5 | **LiveJasmin ES** | livejasmin.com/es/ | 🟡 High CPC |
+
+### Top 5 Organic Results
+| # | Domain | URL | Type |
+|---|--------|-----|------|
+| 1 | **Pornhub ES** | pornhub.com/video/search?search=putero | Tube site |
+| 2 | **XVideos Español** | xvideos.com/?k=putero | Tube site |
+| 3 | **YouPorn ES** | youporn.com/es/ | Tube site |
+| 4 | **RedTube ES** | redtube.com/?search=putero | Tube site |
+| 5 | **XNXX Español** | xnxx.com/search/putero | Tube site |
+
+### Insights
+- **"Putero" is a high-value Spanish adult slang term** — it carries dual meaning: a place with prostitutes ("whorehouse") and a person who frequents them. The ambiguity creates broad search appeal across the Spanish adult market.
+- **Aylo/WGCZ duopoly** controls the entire SERP — all five organic results and top three paid positions. For them, Putero.ai is a defensive domain acquisition to prevent competitors from capturing this traffic.
+- **.ai TLD adds tech positioning** — unlike the .com adult domains, Putero.ai could brand an AI-powered adult platform (recommendations, chatbots, personalization) vs. a traditional tube site.
+- **Spanish adult search traffic is massive** — Spain and LATAM are among the highest adult content consumers globally. Exact-match Spanish adult domains have consistently high type-in traffic.
+- **DMPS bonus:** Aylo (+10), WGCZ (+10). The two dominant players capture all paid traffic for this term.
+
+### DMPS Bonus Recipients
+| Company | Bonus | Reason |
+|---------|-------|--------|
+| Aylo | +10 | Dominant paid advertiser on Spanish adult terms |
+| WGCZ | +10 | #2 paid advertiser on Spanish adult terms |

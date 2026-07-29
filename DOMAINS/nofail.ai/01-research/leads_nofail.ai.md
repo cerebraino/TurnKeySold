@@ -103,3 +103,40 @@
 ---
 
 *Lead list prepared for outreach-architect. Full DMPS methodology in research_framework.md §3.*
+
+## Google Search Enrichment
+
+**Query:** `AI reliability platform enterprise` | **Market:** US | **Date:** 2026-07-25
+
+### Top 5 Paid Advertisers (Bing/DDG Ads)
+| # | Advertiser | Landing Page | Spend Signal |
+|---|-----------|-------------|-------------|
+| 1 | **Datadog** | datadoghq.com/product/llm-observability | 🟢 +10 DMPS |
+| 2 | **PagerDuty** | pagerduty.com/platform/aiops | 🟢 +10 DMPS |
+| 3 | **Arize AI** | arize.com | 🟢 +10 DMPS |
+| 4 | **Weights & Biases** | wandb.ai | 🟢 +10 DMPS |
+| 5 | **CrowdStrike** | crowdstrike.com/ai-security | 🟢 +10 DMPS |
+
+### Top 5 Organic Results
+| # | Domain | URL | Type |
+|---|--------|-----|------|
+| 1 | **G2** | g2.com/categories/ai-observability | Review/comparison |
+| 2 | **Datadog** | datadoghq.com/product/llm-observability | Product page |
+| 3 | **Arize AI** | arize.com/blog/ai-observability | Content/thought leadership |
+| 4 | **Gartner** | gartner.com/reviews/market/ai-observability | Analyst reviews |
+| 5 | **WhyLabs** | whylabs.ai | Product page |
+
+### Insights
+- **AI reliability/observability is a red-hot category** — Datadog, PagerDuty, and Arize AI are bidding aggressively. NoFail.ai as a brand name perfectly captures the #1 enterprise requirement: "our AI systems must not fail."
+- **Datadog and PagerDuty** dominate both paid and organic — they're the incumbent monitoring platforms expanding into AI. NoFail.ai could be a dedicated brand for their AI reliability product lines.
+- **Arize AI and Weights & Biases** represent the new guard — AI-native observability platforms. "NoFail AI" resonates as their mission statement and differentiator against legacy tools.
+- **CrowdStrike's presence** in the paid results highlights the security angle — AI failures are security failures too. NoFail.ai spans both reliability and security use cases.
+- **DMPS bonus:** Datadog (+10), PagerDuty (+10), Arize AI (+10), CrowdStrike (+10).
+
+### DMPS Bonus Recipients
+| Company | Bonus | Reason |
+|---------|-------|--------|
+| Datadog | +10 | Paid leader (LLM observability) |
+| PagerDuty | +10 | Paid advertiser (AIOps platform) |
+| Arize AI | +10 | Paid + organic (AI observability) |
+| CrowdStrike | +10 | Paid advertiser (AI security) |

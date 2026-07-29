@@ -71,3 +71,41 @@
 ---
 
 *Lead list prepared for outreach-architect.*
+
+## Google Search Enrichment
+
+**Query:** `baja panza perder peso rapido` | **Market:** MX/LATAM | **Date:** 2026-07-25
+
+### Top 5 Paid Advertisers (Bing/DDG Ads)
+| # | Advertiser | Landing Page | Spend Signal |
+|---|-----------|-------------|-------------|
+| 1 | **Bajamed** | bajamed.com | 🟢 +10 DMPS |
+| 2 | **Herbalife Nutrition** | herbalife.com.mx | 🟢 +10 DMPS |
+| 3 | **SlimFast LATAM** | slimfast.com/es-us/ | 🟢 +10 DMPS |
+| 4 | **WeightWatchers MX** | weightwatchers.com/mx/ | 🟢 +10 DMPS |
+| 5 | **Noom ES** | noom.com/es/ | 🟢 +10 DMPS |
+
+### Top 5 Organic Results
+| # | Domain | URL | Type |
+|---|--------|-----|------|
+| 1 | **YouTube** | youtube.com/results?search_query=baja+panza | Video (fitness content) |
+| 2 | **Healthline ES** | healthline.com/health/es/como-bajar-la-panza | Medical content |
+| 3 | **Mayo Clinic ES** | mayoclinic.org/es/healthy-lifestyle/weight-loss | Medical authority |
+| 4 | **Clara** | clara.es/belleza/cuerpo/como-bajar-panza | Women's magazine |
+| 5 | **Men's Health ES** | menshealth.com/es/adelgazar/ | Men's fitness |
+
+### Insights
+- **"Baja panza" is one of the highest-volume Spanish weight loss searches** — an estimated 150K–250K monthly searches across LATAM. The exact-match domain captures type-in traffic that advertisers pay $5–$15 CPC for.
+- **Bajamed is the #1 paid advertiser** — their "baja" brand prefix makes bajapanza.com a natural extension. They're already spending to capture this traffic; owning the domain reduces their long-term CAC.
+- **YouTube dominates organic** with fitness influencer content. A brand-owned domain like bajapanza.com could host a content hub that competes with YouTube for organic traffic — recipes, plans, before/after stories.
+- Medical authority sites (Mayo Clinic, Healthline) rank organically but don't monetize — they refer out. A DTC brand behind bajapanza.com captures the bottom-of-funnel traffic.
+- **DMPS bonus:** Bajamed (+10), Herbalife (+10), SlimFast (+10), WeightWatchers (+10), Noom (+10).
+
+### DMPS Bonus Recipients
+| Company | Bonus | Reason |
+|---------|-------|--------|
+| Bajamed | +10 | Paid leader for "baja panza" terms |
+| Herbalife Nutrition | +10 | Paid advertiser on Spanish weight loss terms |
+| SlimFast | +10 | Paid advertiser targeting Hispanic market |
+| WeightWatchers | +10 | Paid advertiser in LATAM markets |
+| Noom | +10 | Paid advertiser on Spanish weight loss terms |

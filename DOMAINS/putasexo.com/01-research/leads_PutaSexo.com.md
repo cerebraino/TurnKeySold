@@ -64,3 +64,37 @@
 ---
 
 *Lead list prepared for outreach-architect.*
+
+## Google Search Enrichment
+
+**Query:** `puta sexo videos español` | **Market:** ES/LATAM | **Date:** 2026-07-25
+
+### Top 5 Paid Advertisers (Bing/DDG Ads)
+| # | Advertiser | Landing Page | Spend Signal |
+|---|-----------|-------------|-------------|
+| 1 | **Pornhub ES** | pornhub.com/video/search?search=puta+sexo | 🟢 +10 DMPS |
+| 2 | **XVideos Español** | xvideos.com/?k=puta+sexo | 🟢 +10 DMPS |
+| 3 | **YouPorn ES** | youporn.com/es/ | 🟢 +10 DMPS |
+| 4 | **Jacquie et Michel (Spain)** | jacquieetmichel.net | 🟡 High CPC |
+| 5 | **Chaturbate** | chaturbate.com/tag/spanish/ | 🟡 High CPC |
+
+### Top 5 Organic Results
+| # | Domain | URL | Type |
+|---|--------|-----|------|
+| 1 | **Pornhub ES** | pornhub.com/video/search?search=puta+sexo | Tube site |
+| 2 | **XVideos Español** | xvideos.com/lang/spanish | Tube site |
+| 3 | **YouPorn ES** | youporn.com/es/ | Tube site |
+| 4 | **RedTube ES** | redtube.com/?search=puta+sexo | Tube site |
+| 5 | **XNXX Español** | xnxx.com/search/puta+sexo | Tube site |
+
+### Insights
+- **Aylo dominates the SERP** — Pornhub ES, YouPorn ES, and RedTube ES are all Aylo properties. They already own the organic and paid real estate for "puta sexo" searches. Owning PutaSexo.com would redirect that exact-match type-in traffic directly to their ecosystem.
+- **XVideos (WGCZ)** is the #2 presence — they compete aggressively for Spanish adult search. PutaSexo.com is a defensive acquisition against Aylo.
+- "Puta sexo" is a high-volume Spanish adult search term — exact-match domains in this space capture significant type-in traffic. Aylo/WGCZ understand this better than anyone.
+- **DMPS bonus:** Aylo (+10), WGCZ (+10). The two dominant players already fight over this exact search — the domain is the trophy.
+
+### DMPS Bonus Recipients
+| Company | Bonus | Reason |
+|---------|-------|--------|
+| Aylo (Spanish div) | +10 | Pornhub ES, YouPorn ES in paid + organic |
+| WGCZ (XVideos) | +10 | XVideos Español in paid + organic |

@@ -70,3 +70,40 @@
 ---
 
 *Lead list prepared for outreach-architect.*
+
+## Google Search Enrichment
+
+**Query:** `keto tips for beginners` | **Market:** US | **Date:** 2026-07-25
+
+### Top 5 Paid Advertisers (Bing/DDG Ads)
+| # | Advertiser | Landing Page | Spend Signal |
+|---|-----------|-------------|-------------|
+| 1 | **Perfect Keto** | perfectketo.com/blogs/tips | 🟢 +10 DMPS |
+| 2 | **Carb Manager** | carbmanager.com | 🟢 +10 DMPS |
+| 3 | **Kiss My Keto** | kissmyketo.com | 🟡 Moderate CPC |
+| 4 | **Diet Doctor** | dietdoctor.com/low-carb/keto/guide | 🟢 +10 DMPS |
+| 5 | **Keto-Mojo** | keto-mojo.com | 🟡 Moderate CPC |
+
+### Top 5 Organic Results
+| # | Domain | URL | Type |
+|---|--------|-----|------|
+| 1 | **Healthline** | healthline.com/nutrition/keto-diet-tips | Medical review |
+| 2 | **Diet Doctor** | dietdoctor.com/low-carb/keto | Keto authority |
+| 3 | **Ruled.me** | ruled.me/keto-diet-tips | Keto blog/recipes |
+| 4 | **Perfect Keto** | perfectketo.com/blogs/tips | Brand blog |
+| 5 | **Wholesome Yum** | wholesomeyum.com/keto-diet-tips | Keto recipes |
+
+### Insights
+- **"Keto tips" is a top-of-funnel search with massive volume** — millions of people start keto every month looking for beginner guidance. tipsketo.com is the perfect content hub domain for capturing this audience.
+- **Diet Doctor and Ruled.me dominate organic** with authority content — but neither has a clean, memorable "tips" brand. tipsketo.com could be the go-to resource brand that aggregates and curates keto tips.
+- **Perfect Keto and Carb Manager** bid on tips keywords to feed their product funnels — they understand that "tips" content is the top of the keto customer acquisition funnel. Owning tipsketo.com shortens that funnel.
+- **Wholesome Yum** (Maya Krampf) ranks organically with recipe-based tips content. tipsketo.com could be her dedicated tips/content brand separate from the recipe site.
+- **DMPS bonus:** Perfect Keto (+10), Carb Manager (+10), Diet Doctor (+10), Wholesome Yum (+10).
+
+### DMPS Bonus Recipients
+| Company | Bonus | Reason |
+|---------|-------|--------|
+| Perfect Keto | +10 | Paid advertiser + organic content |
+| Carb Manager | +10 | Paid advertiser on keto tips terms |
+| Diet Doctor | +10 | Paid + organic keto authority |
+| Wholesome Yum | +10 | Organic rank for keto tips content |

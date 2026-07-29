@@ -69,3 +69,40 @@
 ---
 
 *Lead list prepared for outreach-architect.*
+
+## Google Search Enrichment
+
+**Query:** `therapeutic keto reverse diabetes` | **Market:** US | **Date:** 2026-07-25
+
+### Top 5 Paid Advertisers (Bing/DDG Ads)
+| # | Advertiser | Landing Page | Spend Signal |
+|---|-----------|-------------|-------------|
+| 1 | **Virta Health** | virtahealth.com | 🟢 +10 DMPS |
+| 2 | **Levels Health** | levelshealth.com | 🟢 +10 DMPS |
+| 3 | **Dexcom** | dexcom.com/stelo | 🟢 +10 DMPS |
+| 4 | **Diet Doctor** | dietdoctor.com/low-carb/keto | 🟢 +10 DMPS |
+| 5 | **Keto-Mojo** | keto-mojo.com | 🟡 Moderate CPC |
+
+### Top 5 Organic Results
+| # | Domain | URL | Type |
+|---|--------|-----|------|
+| 1 | **Virta Health** | virtahealth.com/research | Clinical research |
+| 2 | **Healthline** | healthline.com/nutrition/ketogenic-diet-and-diabetes | Medical review |
+| 3 | **Diet Doctor** | dietdoctor.com/low-carb/keto | Keto authority site |
+| 4 | **PubMed/NIH** | pubmed.ncbi.nlm.nih.gov/?term=ketogenic+diet+diabetes | Research database |
+| 5 | **Cleveland Clinic** | clevelandclinic.org/keto-diet-diabetes | Medical authority |
+
+### Insights
+- **Virta Health owns this space** — they dominate both paid and organic for therapeutic keto queries. Their entire $250M+ company is built on "keto reverses diabetes." curebyketo.com is literally their mission statement in a URL.
+- **Diet Doctor** ranks organically as the leading keto health information platform — but they're a content/media company, not a treatment provider. The domain could help them bridge from content to clinical.
+- **Levels Health and Dexcom** are bidding on adjacent metabolic health terms — CGM data + keto = powerful combo. curebyketo.com could anchor a CGM-guided therapeutic keto program.
+- The "therapeutic keto" space has high-intent buyers (people with diabetes seeking non-pharmaceutical solutions) but moderate ad competition — a strong domain captures traffic at lower CPC than "weight loss medication" keywords.
+- **DMPS bonus:** Virta Health (+10), Levels (+10), Dexcom (+10), Diet Doctor (+10).
+
+### DMPS Bonus Recipients
+| Company | Bonus | Reason |
+|---------|-------|--------|
+| Virta Health | +10 | Paid + organic leader for therapeutic keto |
+| Levels | +10 | Paid advertiser on metabolic health terms |
+| Dexcom | +10 | Paid advertiser on diabetes/metabolic terms |
+| Diet Doctor | +10 | Organic #1 keto authority; paid advertiser |

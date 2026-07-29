@@ -136,3 +136,40 @@
 ---
 
 *Expanded lead list — 29 total leads across edtech, AI children's products, and child well-being organizations. Full expansion details in infancia-ai-buyer-expansion.md.*
+
+## Google Search Enrichment
+
+**Query:** `AI for children education` | **Market:** US/Global | **Date:** 2026-07-25
+
+### Top 5 Paid Advertisers (Bing/DDG Ads)
+| # | Advertiser | Landing Page | Spend Signal |
+|---|-----------|-------------|-------------|
+| 1 | **Miko** | miko.ai | 🟢 +10 DMPS |
+| 2 | **Khan Academy (Khanmigo)** | khanacademy.org/khan-labs | 🟡 Moderate CPC |
+| 3 | **Duolingo ABC** | duolingo.com/abc | 🟡 Moderate CPC |
+| 4 | **Nanit** | nanit.com | 🟢 +10 DMPS |
+| 5 | **Pocoyo** | pocoyo.com | 🟢 +10 DMPS |
+
+### Top 5 Organic Results
+| # | Domain | URL | Type |
+|---|--------|-----|------|
+| 1 | **UNICEF** | unicef.org/ai-children | NGO/Policy |
+| 2 | **Common Sense Media** | commonsensemedia.org/ai | Reviews/Ratings |
+| 3 | **Khan Academy** | khanacademy.org/khan-labs | EdTech |
+| 4 | **Miko** | miko.ai | AI Robot |
+| 5 | **World Economic Forum** | weforum.org/ai-children | Policy/Research |
+
+### Insights
+- **"AI for children" is an emerging category** — the paid SERP is relatively uncrowded compared to adult AI verticals. Early movers like Miko and Khan Academy are establishing positions. infancia.ai could be the category-defining brand.
+- **UNICEF dominates organic** with policy/research content — they're the global authority on children + technology. infancia.ai as a Spanish-language domain fills the gap for LATAM and Spanish-speaking markets where UNICEF content needs localization.
+- **Miko is the standout paid advertiser** — they make AI companion robots for children and are betting big on the category. infancia.ai could brand their Spanish-language product line.
+- **Common Sense Media and WEF** signal that AI + children is a serious policy and cultural conversation — the domain has NGO, educational, and commercial applications.
+- The Spanish word "infancia" (childhood) carries warmth and universality that "children" or "kids" don't in English. It works for educational products, policy organizations, and parenting brands.
+- **DMPS bonus:** Miko (+10), Nanit (+10), Pocoyo (+10).
+
+### DMPS Bonus Recipients
+| Company | Bonus | Reason |
+|---------|-------|--------|
+| Miko | +10 | Paid leader for "AI children" terms |
+| Nanit | +10 | Paid advertiser on parenting/AI terms |
+| Pocoyo | +10 | Paid advertiser, Spanish-native children's brand |

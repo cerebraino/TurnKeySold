@@ -75,3 +75,39 @@
 ---
 
 *Lead list prepared for outreach-architect.*
+
+## Google Search Enrichment
+
+**Query:** `cheap weight loss medication online` | **Market:** US | **Date:** 2026-07-25
+
+### Top 5 Paid Advertisers (Bing/DDG Ads)
+| # | Advertiser | Landing Page | Spend Signal |
+|---|-----------|-------------|-------------|
+| 1 | **Hims & Hers** | hims.com/weight-loss | 🟢 +10 DMPS |
+| 2 | **Ro** | ro.co/weight-loss | 🟢 +10 DMPS |
+| 3 | **GoodRx** | goodrx.com/care/services/glp-1-weight-loss | 🟢 +10 DMPS |
+| 4 | **Noom** | noom.com/med | 🟢 +10 DMPS |
+| 5 | **Henry Meds** | henrymeds.com | 🟢 +10 DMPS |
+
+### Top 5 Organic Results
+| # | Domain | URL | Type |
+|---|--------|-----|------|
+| 1 | **GoodRx** | goodrx.com/conditions/weight-loss/drugs | Price comparison |
+| 2 | **Forbes Health** | forbes.com/health/weight-loss/best-online-weight-loss-medication/ | Review/affiliate |
+| 3 | **Healthline** | healthline.com/health/weight-loss/glp-1-online | Medical review |
+| 4 | **Hims & Hers** | hims.com/weight-loss | DTC telehealth |
+| 5 | **Ro** | ro.co/weight-loss | DTC telehealth |
+
+### Insights
+- **"Cheap" is the battleground** — Hims ($199/mo), Henry Meds ($297/mo compounding), and Ro all compete on price. The "cheap" modifier is the highest-converting intent signal in weight loss medication search.
+- **GoodRx and Forbes Health** dominate organic with comparison/review content — they aggregate providers but don't sell directly. A DTC brand owning cheapslimmeds.com could capture the bottom-of-funnel traffic they send elsewhere.
+- **Henry Meds** (compounding pharmacy model) is the natural "cheap" positioning leader — they built their business on affordable GLP-1 access. cheapslimmeds.com is their exact value proposition.
+- **DMPS bonus:** Hims & Hers (+10), Ro (+10), Noom (+10), Henry Meds (+10). Four of five lead list companies are bidding on these terms.
+
+### DMPS Bonus Recipients
+| Company | Bonus | Reason |
+|---------|-------|--------|
+| Ro | +10 | Paid advertiser (ro.co/weight-loss) |
+| Hims & Hers | +10 | Paid advertiser (hims.com/weight-loss) |
+| Noom | +10 | Paid advertiser (noom.com/med) |
+| Henry Meds | +10 | Paid advertiser (henrymeds.com) |

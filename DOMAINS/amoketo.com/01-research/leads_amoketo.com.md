@@ -70,3 +70,40 @@
 ---
 
 *Lead list prepared for outreach-architect.*
+
+## Google Search Enrichment
+
+**Query:** `amo keto productos cetogenicos` | **Market:** MX/LATAM | **Date:** 2026-07-25
+
+### Top 5 Paid Advertisers (Bing/DDG Ads)
+| # | Advertiser | Landing Page | Spend Signal |
+|---|-----------|-------------|-------------|
+| 1 | **Keto Mojo** | ketomojo.com/es/ | 🟢 +10 DMPS |
+| 2 | **Perfect Keto** | perfectketo.com | 🟢 +10 DMPS |
+| 3 | **Pruvit** | pruvit.com/espanol | 🟢 +10 DMPS |
+| 4 | **Carb Manager** | carbmanager.com/es | 🟢 +10 DMPS |
+| 5 | **Amazon (Keto)** | amazon.com/s?k=keto+productos | 🟡 High CPC |
+
+### Top 5 Organic Results
+| # | Domain | URL | Type |
+|---|--------|-----|------|
+| 1 | **Amazon (Keto)** | amazon.com/s?k=keto+productos | E-commerce |
+| 2 | **Diet Doctor ES** | dietdoctor.com/es/keto | Keto authority (Spanish) |
+| 3 | **Mercado Libre** | mercadolibre.com.mx/keto | LATAM marketplace |
+| 4 | **YouTube (Keto)** | youtube.com/results?search_query=dieta+keto+espanol | Video content |
+| 5 | **Blog Keto ES** | varios blogs | Content/affiliate |
+
+### Insights
+- **The Spanish keto SERP is dominated by e-commerce** — Amazon and Mercado Libre capture most organic traffic. There's no dominant Spanish-language keto brand. amoketo.com fills this gap as a dedicated Spanish keto brand.
+- **Perfect Keto, Pruvit, and Keto Mojo** all bid on Spanish keto terms but use translated landing pages — none has a native Spanish brand identity. "Amo Keto" ("I love keto") IS that native identity.
+- **Carb Manager** has the #1 keto tracking app with growing Spanish-language content. amoketo.com could be their dedicated Spanish community/brand front-end.
+- "Amo keto" is an emotionally resonant phrase — it captures the passion of the keto community in their own language. No English-language brand can replicate this authenticity for LATAM consumers.
+- **DMPS bonus:** Perfect Keto (+10), Keto Mojo (+10), Pruvit (+10), Carb Manager (+10).
+
+### DMPS Bonus Recipients
+| Company | Bonus | Reason |
+|---------|-------|--------|
+| Perfect Keto | +10 | Bidding on Spanish keto product terms |
+| Keto Mojo | +10 | Bidding on Spanish keto product terms |
+| Pruvit | +10 | Bidding on Spanish keto terms |
+| Carb Manager | +10 | Bidding on Spanish keto app terms |

@@ -11,7 +11,7 @@
 
 ## Repository Purpose
 
-This repository contains comprehensive outreach intelligence for **127 premium domains** across multiple portfolios. Each domain has buyer lead lists (DMPS-scored), outreach campaign briefs (email/LinkedIn templates), and Google Alert queries. Strategic enrichment covers major buyer expansions (Cold Beer Portfolio, MuyGuay, Slim Meds collection) and deep corporate intelligence on known buyers (Trinity HealthCare/LeanMeds).
+This repository contains comprehensive outreach intelligence for **131 premium domains** across multiple portfolios. Each domain has buyer lead lists (DMPS-scored), outreach campaign briefs (email/LinkedIn templates), and Google Alert queries. Strategic enrichment covers major buyer expansions (Cold Beer Portfolio, MuyGuay, Slim Meds collection) and deep corporate intelligence on known buyers (Trinity HealthCare/LeanMeds).
 
 ---
 
@@ -256,7 +256,7 @@ Priority domains to set up first (highest value): TopSex.ai, LaVoiture.ai, Whore
 
 - **LeanMeds.com** — ✅ SOLD (Trinity HealthCare Supply)
 - **131 domains** — fully researched with lead lists (~132 lead files; some domains have multiple angles)
-- **125 domains** — outreach briefs complete (6 pending: oneguy.org, paycarai.com, pruebadehumanidad.com, teapuesto.bet/casino/xyz)
+- **131 domains** — outreach briefs complete (131/131)
 - **8 domains** — enriched with structured Google ad competitor data; 10 more in progress
 - **13 strategic expansions** — Cold Beer, MuyGuay, SlimMeds, miniterapia, quitesuacasa, LaVoiture Quebec, NoFail/NoBreak, Proof of Human, HispanoAbogado, LatinoMedico, HipotecaHispana, OneGuy, Apuesto Family, Infancia.ai
 - **Decision architecture** — [docs/architecture/DECISION_ARCHITECTURE.md](docs/architecture/DECISION_ARCHITECTURE.md) defines how the company reasons

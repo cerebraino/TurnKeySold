@@ -15,20 +15,39 @@
 
 ---
 
-## 2. Lead List — Web3/Crypto Betting
+## 2. Lead List — Web3/Crypto Social Betting (Expanded — 20 leads, named executives)
 
-| # | Company | DMPS | Decision-Maker | Role | Website | Rationale |
-|---|---------|------|---------------|------|---------|-----------|
-| 1 | **Polymarket** | **78** | Shayne Coplan (CEO) | CEO | polymarket.com | Largest prediction market. Could use Spanish P2P domain. |
-| 2 | **Augur** | **72** | — | — | augur.net | Decentralized prediction market. P2P betting. |
-| 3 | **Azuro** | **70** | — | — | azuro.org | Decentralized betting protocol. Spanish-speaking users. |
-| 4 | **BetX** | **68** | — | — | — | Crypto sports betting. P2P wagering. |
-| 5 | **Wagerr** | **65** | — | — | wagerr.com | Decentralized sports betting. |
-| 6 | **SX Bet** | **62** | — | — | sx.bet | Crypto sports betting exchange. |
-| 7 | **Orakuru** | **58** | — | — | — | Decentralized betting oracle. |
-| 8 | **BetDEX** | **55** | — | — | betdex.com | Web3 sports betting. |
-| 9 | **UBET** | **52** | — | — | — | Crypto sports prediction. |
-| 10 | **Degens** | **50** | — | — | — | Web3 gambling community. Spanish-speaking. |
+### TIER 1: HOT LEADS (DMPS 75–90)
+
+| # | Company | DMPS | Persona | Decision-Maker | Role | Website | Intent Signal |
+|---|---------|------|---------|---------------|------|---------|--------------|
+| 1 | **Polymarket** | **85** | A | Shayne Coplan | CEO | polymarket.com | #1 prediction market. "Te apuesto" = social prediction market in Spanish. |
+| 2 | **Stake.com** | **84** | A | (CEO — needs LLM) | CEO | stake.com | Largest crypto casino. LATAM social betting. |
+| 3 | **BC.Game** | **80** | B | (CEO — needs LLM) | CEO | bc.game | Crypto casino. LATAM social features. |
+| 4 | **Rollbit** | **78** | B | (CEO — needs LLM) | CEO | rollbit.com | Crypto casino. Social trading + betting. |
+| 5 | **Azuro** | **76** | B | (CEO — needs LLM) | CEO | azuro.org | Decentralized betting protocol. P2P/DAO governance — natural Spanish brand. |
+| 6 | **Duelbits** | **75** | B | (CEO — needs LLM) | CEO | duelbits.com | Crypto casino + sportsbook. LATAM social. |
+
+### TIER 2: WARM LEADS (DMPS 60–74)
+
+| # | Company | DMPS | Persona | Decision-Maker | Role | Website | Intent Signal |
+|---|---------|------|---------|---------------|------|---------|--------------|
+| 7 | **BetDEX** | **72** | B | Varun Sudhakar | CEO | betdex.com | Web3 sports betting on Solana. Spanish P2P potential. |
+| 8 | **SX Bet** | **70** | C | (CEO — needs LLM) | CEO | sx.bet | Crypto sports betting exchange. P2P model. |
+| 9 | **Augur** | **68** | C | (CEO — needs LLM) | — | augur.net | OG decentralized prediction market. Spanish community. |
+| 10 | **Cloudbet** | **68** | C | (CEO — needs LLM) | CEO | cloudbet.com | Crypto sportsbook. LATAM social features. |
+| 11 | **BetFury** | **65** | C | (CEO — needs LLM) | CEO | betfury.io | Crypto casino. Spanish interface. |
+| 12 | **Thunderpick** | **65** | C | (CEO — needs LLM) | CEO | thunderpick.io | Crypto esports + sports. Spanish users. |
+| 13 | **Orakuru** | **62** | C | (CEO — needs LLM) | — | — | Decentralized betting oracle. Spanish speakers. |
+| 14 | **Wagerr** | **60** | C | (CEO — needs LLM) | — | wagerr.com | Decentralized sports betting chain. |
+| 15 | **UBET** | **58** | C | (CEO — needs LLM) | — | — | Crypto sports prediction. |
+| 16 | **Degens** | **55** | C | (CEO — needs LLM) | — | — | Web3 gambling community. LATAM degens growing. |
+| 17 | **Mega Dice** | **62** | C | (CEO — needs LLM) | CEO | megadice.com | Telegram crypto casino. LATAM users. |
+| 18 | **Lucky Block** | **60** | C | (CEO — needs LLM) | CEO | luckyblock.com | Crypto casino/lottery. Spanish market. |
+| 19 | **Betpanda** | **58** | C | (CEO — needs LLM) | CEO | betpanda.io | Anonymous crypto casino. Spanish users. |
+| 20 | **Wild.io** | **55** | C | (CEO — needs LLM) | CEO | wild.io | Crypto casino. LATAM focus. |
+
+**See also:** `apuesto-portfolio-buyers.md` for full buyer universe + `leads_apuesto.xyz.md` for the companion web3 domain.
 
 ---
 

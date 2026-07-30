@@ -12,22 +12,52 @@
 
 ---
 
-## 2. Lead List
+## 2. Lead List (Expanded — 26 leads, all named executives)
 
-| # | Company | DMPS | Persona | Decision-Maker | Role | Website |
-|---|---------|------|---------|---------------|------|---------|
-| 1 | **Bet365** (LatAm) | 92 | A | Denise Coates (CEO) | CEO | bet365.com |
-| 2 | **DraftKings** (LatAm) | 90 | A | Jason Robins (CEO) | CEO | draftkings.com |
-| 3 | **BetMGM** (LatAm) | 88 | A | Adam Greenblatt (CEO) | CEO | betmgm.com |
-| 4 | **Codere** | 86 | B | (CEO) | CEO | codere.com |
-| 5 | **BetWarrior** | 84 | B | (CEO) | CEO | betwarrior.bet |
-| 6 | **RushBet** (Rush Street LatAm) | 82 | B | (CEO) | CEO | rushbet.co |
-| 7 | **Betsson** (LatAm) | 80 | B | (CEO) | CEO | betsson.com |
-| 8 | **Stake.com** (LatAm) | 78 | B | (CEO) | CEO | stake.com |
-| 9 | **Betano** | 75 | B | (CEO) | CEO | betano.com |
-| 10 | **Sportingbet** (Entain LatAm) | 72 | A | (CEO Entain) | CEO | sportingbet.com |
+### TIER 1: HOT LEADS — Spanish-Language Sportsbooks (DMPS 85–100)
 
-**Top priority:** Codere — the largest Spanish-language sportsbook brand. "Apuesto.ai" literally means "I bet" — it's the exact verb their customers use.
+| # | Company | DMPS | Persona | Decision-Maker | Role | Website | Intent Signal |
+|---|---------|------|---------|---------------|------|---------|--------------|
+| 1 | **Codere** | **95** | A | Gonzaga Higuero | CEO | codere.com | Largest Spanish sportsbook. "Apuesto" is their customers' verb. |
+| 2 | **Caliente** | **95** | A | Emilio Hank | CEO | caliente.mx | Mexico's #1 sportsbook. "Apuesto" + .ai = AI betting for Mexican market. |
+| 3 | **Bet365 (LATAM)** | **94** | A | Denise Coates | CEO | bet365.com | +10 DMPS from enrichment. Global leader, LATAM expansion. |
+| 4 | **DraftKings (LATAM)** | **92** | A | Jason Robins | CEO | draftkings.com | US sportsbook leader. LATAM ambitions. AI/tech brand play. |
+| 5 | **Betcris** | **90** | A | JD Duarte | CEO | betcris.com | LATAM-native operator across 10+ countries. "Apuesto" = their brand upgrade. |
+| 6 | **BetMGM (LATAM)** | **88** | A | Adam Greenblatt | CEO | betmgm.com | MGM's betting arm. LATAM expansion. |
+| 7 | **William Hill (evoke)** | **87** | A | Per Widerström | CEO (evoke) | williamhill.es | +10 DMPS. Spanish market heritage. AI rebrand opportunity. |
+| 8 | **BetWarrior** | **86** | B | Santiago García | CEO | betwarrior.bet | LATAM mobile-first. "Apuesto" IS their product positioning. |
+| 9 | **RushBet (Rush Street LATAM)** | **85** | A | Richard Schwartz | CEO | rushbet.co | Colombia/Mexico operator. AI-powered expansion brand. |
+
+### TIER 2: WARM LEADS — Global Sportsbooks + AI Platforms (DMPS 70–84)
+
+| # | Company | DMPS | Persona | Decision-Maker | Role | Website | Intent Signal |
+|---|---------|------|---------|---------------|------|---------|--------------|
+| 10 | **Sportradar** | **84** | A | Carsten Koerl | CEO | sportradar.com | Global AI sports data leader. Spanish product brand. |
+| 11 | **FanDuel** | **83** | A | Amy Howe | CEO | fanduel.com | US DFS + sportsbook. Spanish expansion. |
+| 12 | **Genius Sports** | **82** | A | Mark Locke | CEO | geniussports.com | AI sports data. LATAM clients include Bet365, Codere. |
+| 13 | **Betsson (LATAM)** | **82** | A | Pontus Lindwall | CEO | betsson.com | LATAM sportsbook operator. |
+| 14 | **Kindred Group (Unibet)** | **80** | A | Nils Andén | CEO | kindredgroup.com | Unibet parent. LATAM market entry. |
+| 15 | **Betway** | **80** | A | Richard Akitt | CEO | betway.com | +10 DMPS. LATAM sportsbook. |
+| 16 | **Stake.com (LATAM)** | **78** | B | (CEO — needs LLM) | CEO | stake.com | World's largest crypto casino. LATAM = core market. |
+| 17 | **Betano (Kaizen Gaming)** | **78** | A | George Daskalakis | CEO | betano.com | LATAM expansion. Portuguese/Spanish markets. |
+| 18 | **888Sport / 888casino (evoke)** | **78** | A | Per Widerström | CEO (evoke) | 888sport.es | +10 DMPS. Spanish-language casino + sportsbook. |
+| 19 | **Stats Perform** | **76** | A | Carl Mergele | CEO | statsperform.com | AI sports analytics. Spanish betting partnerships. |
+| 20 | **Betegy** | **74** | B | Alex Kornilov | CEO | betegy.com | AI sports prediction. White-label for operators. |
+
+### TIER 3: LUKEWARM — Regional & Emerging (DMPS 55–69)
+
+| # | Company | DMPS | Persona | Decision-Maker | Role | Website | Intent Signal |
+|---|---------|------|---------|---------------|------|---------|--------------|
+| 21 | **Strendus** | **68** | B | (CEO — needs LLM) | CEO | strendus.com.mx | Mexican casino + sportsbook. |
+| 22 | **Sportium** | **65** | B | (CEO — needs LLM) | CEO | sportium.es | Spanish operator (Ladbrokes-Cirsa JV). |
+| 23 | **Univision (TelevisaUnivision)** | **65** | B | Wade Davis | CEO | univision.com | Spanish media giant. Betting content partnerships. |
+| 24 | **Apuestas.com** | **62** | C | (CEO — needs LLM) | CEO | apuestas.com | Spanish betting affiliate. Ranks organically for "apuesto." |
+| 25 | **Luckia** | **60** | C | (CEO — needs LLM) | CEO | luckia.es | Spanish gaming operator. |
+| 26 | **Entravision** | **58** | C | Michael Christenson | CEO | entravision.com | Latino media + digital. Sports betting partnerships. |
+
+**Top priority:** Codere — the largest Spanish-language sportsbook brand. "Apuesto.ai" literally means "I bet" — it's the exact verb their customers use. Caliente (#2) is Mexico's dominant operator with identical fit.
+
+**See also:** `apuesto-portfolio-buyers.md` for full 67-company buyer universe across all 7 domains.
 
 ---
 

@@ -36,4 +36,27 @@
 
 ---
 
-*Lead list prepared. Rocket Mortgage (#1) is the largest US mortgage lender — could use this for Hispanic homebuyer outreach. Creditas (#6) and Yave (#7) are leading LatAm mortgage fintech platforms where a Spanish domain has direct brand value.*
+---
+
+## 3. Portfolio Expansion (New Leads from Hispanic Mortgage Portfolio Research)
+
+> **Researcher:** domain-researcher | **Date:** 2026-07-29
+> **Context:** PaguesuCasa.com uses the formal "pague su casa" — professional financial services tone. Best fit for banks and established lenders. These 13 new leads complement the 10 existing.
+
+| # | Company | DMPS | Decision-Maker | Role | Website | Why PaguesuCasa |
+|---|---------|------|---------------|------|---------|----------------|
+| 11 | **JPMorgan Chase** | 88 | Mark O'Donovan (CEO, Home Lending) | CEO Home Lending | chase.com | "Pague su casa" = formal banking language. Chase Home Lending's tone. |
+| 12 | **Wells Fargo** | 85 | Charlie Scharf (CEO) | CEO | wellsfargo.com | Formal Spanish. Rebuilding trust. Professional tone fits Wells Fargo brand. |
+| 13 | **Bank of America** | 83 | Brian Moynihan (CEO) | CEO | bankofamerica.com | Formal "pague su casa" matches BofA's professional Hispanic marketing. |
+| 14 | **Citi** | 80 | Jane Fraser (CEO) | CEO | citi.com | Global bank. Formal Spanish domain for cross-border mortgage marketing. |
+| 15 | **SoFi** | 78 | Anthony Noto (CEO) | CEO | sofi.com | Banking + mortgage. Formal domain for SoFi's Hispanic banking products. |
+| 16 | **US Bank** | 78 | Andy Cecere (CEO) | CEO | usbank.com | Major mortgage lender. Formal Spanish domain for multicultural lending. |
+| 17 | **Guild Mortgage** | 78 | Terry Schmidt (CEO) | CEO | guildmortgage.com | Professional Spanish domain for established retail lender. |
+| 18 | **BBVA** | 75 | Onur Genç (CEO) | CEO | bbva.com | Spanish bank. "Pague su casa" = their customers' literal language. |
+| 19 | **Santander** | 72 | Héctor Grisi (CEO) | CEO | santander.com | Spanish bank with US operations. Domain = native language trust signal. |
+| 20 | **Lennar Mortgage** | 72 | Stuart Miller (CEO) | CEO | lennar.com | Builder + lender. Formal domain for professional Spanish buyer experience. |
+| 21 | **Carrington Mortgage** | 70 | Bruce Rose (CEO) | CEO | carringtonmortgage.com | Established lender. Hispanic borrower programs. |
+| 22 | **Alterra Home Loans** | 70 | Jason Madiedo (CEO) | CEO | alterrahomeloans.com | Latino-founded. Formal domain for professional Spanish outreach. |
+| 23 | **CrossCountry Mortgage** | 68 | Ron Leonhardt (CEO) | CEO | crosscountrymortgage.com | Retail lender. Formal Spanish domain for professional marketing. |
+
+*Expanded to 23 leads. Full portfolio strategy: DOMAINS/hipotecahispana.com/01-research/hispanic-mortgage-portfolio-buyers.md.*

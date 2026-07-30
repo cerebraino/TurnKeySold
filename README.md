@@ -208,6 +208,7 @@ Deep corporate profiles on known domain buyers:
 | **trinity-healthcare-intel.md** | LeanMeds.com buyer profile | Full corporate intel, CEO hunt roadmap |
 | **leads_LaVoiture.ai-quebec.md** | Quebec/Canada AI auto expansion | 20 leads, bilingual outreach |
 | **campaign-playbook.md** | Outreach methodology | Campaign design framework |
+| **docs/methodology/three-line-outreach-framework.md** | Ultra-short cold outbound | Three-line reply-first methodology |
 | **research-framework.md** | Domain valuation methodology | DMPS scoring, comps analysis |
 
 ---

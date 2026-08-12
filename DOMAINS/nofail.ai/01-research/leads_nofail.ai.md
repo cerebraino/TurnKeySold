@@ -64,7 +64,7 @@
 | 10 | **Lemma** 🆕 | **86** | B | Jerry Zhang (Co-founder & CEO), Cole Gawin | CEO | uselemma.ai (YC F25) | **"Production Monitoring for AI agents"** — eval + observability that improves performance automatically; recently raised (source: YC company page, verified live; email jerry@uselemma.ai — M confidence) |
 | 11 | **Snyk** | **85** | B | Peter McKay (CEO) | CEO | snyk.io | Developer security platform; expanding into reliability testing; strong developer brand |
 | 12 | **Cekura** 🆕 | **84** | B | Tarush Agarwal (Co-founder & CEO), Sidhant Kabra (Co-founder & President) | CEO | cekura.ai (YC F24) | **"Automated QA for Voice AI and Chat AI Agents"** — pre-seed raised $2.4M; QA on 5M+ voice-agent minutes, 70+ customers (source: YC company page, verified live; email founders@cekura.ai — M confidence) |
-| 13 | **Galileo** 🆕 | **83** | B | (CEO per site) | CEO | galileo.ai | Markets an **"Agent Reliability Platform"** — reliability now central positioning; sleeper with potential high strategic price (source: owner's Buyer Prospecting Run; site verified live — "AI Observability and Evaluation Platform") |
+| 13 | **Galileo** 🆕 | **83** | B | Vikram Chatterji (Co-founder & CEO), Yash Sheth (Co-founder & CTO) | CEO | galileo.ai | Markets an **"Agent Reliability Platform"** — reliability now central positioning; sleeper with potential high strategic price (source: owner's Buyer Prospecting Run; site verified live — "AI Observability and Evaluation Platform") |
 | 14 | **Roark** 🆕 | **83** | B | James Zammit (CEO), Daniel Gauci (CTO) | CEO | roark.ai | **"Voice AI Testing & Evals"** — replay real production calls against updates; actively soliciting demos (source: YC Launch page, verified live; email james@roark.ai — M confidence) |
 | 15 | **Moda** 🆕 | **82** | B | Pranav Bedi, Mohammed Al-Rasheed (Founders) | CEO | moda.dev / usemoda.ai (YC W26) | **"Monitoring and Reliability for Agents"** — continual learning layer for AI agents (source: owner's Buyer Prospecting Run; YC + site verified live) |
 | 16 | **Momentic** 🆕 | **82** | B | (Founders per YC/LinkedIn post) | CEO | momentic.ai | **"AI Testing Platform for Web & Mobile"** — just closed **$15M Series A** to build the verification layer for AI; direct fit (source: YC LinkedIn post; verified live) |
@@ -75,14 +75,14 @@
 | # | Company | DMPS | Persona | Decision-Maker | Role | Website | Intent Signal |
 |---|---------|------|---------|---------------|------|---------|--------------|
 | 18 | **Grafana Labs** | **78** | B | Raj Dutt (CEO & Co-Founder) | CEO | grafana.com | Leading open-source observability; Labs — commercial products need strong domain brands |
-| 19 | **Fiddler AI** 🆕 | **78** | B | (CEO per site) | CEO | fiddler.ai | Enterprise agentic observability; new **AI Control Plane for Coding Agents** Jun 23 2026 (source: owner's Buyer Prospecting Run; site verified live — "AI Control Plane for the Enterprise Agent Workforce") |
+| 19 | **Fiddler AI** 🆕 | **78** | B | Krishna Gade (Founder & CEO), Amit Paka (Founder & CTO) | CEO | fiddler.ai | Enterprise agentic observability; new **AI Control Plane for Coding Agents** Jun 23 2026 (source: owner's Buyer Prospecting Run; site verified live — "AI Control Plane for the Enterprise Agent Workforce") |
 | 20 | **Honeycomb.io** | **76** | B | Christine Yen (CEO & Co-Founder) | CEO | honeycomb.io | Observability for engineering teams; growing fast; might need stronger domain for enterprise |
 | 21 | **Fabraix** 🆕 | **76** | B | Ahmed Aly (Founder) | CEO | fabraix.com (YC S26) | Red-teaming agent finding AI failure modes — "The world's frontier hacker for AI agents"; claims Fortune 500 usage (source: YC company page, verified live; site — "Adversarial Verification for AI Agents") |
 | 22 | **Checkly** | **74** | B | Tim Nolet (CEO & Co-Founder) | CEO | checkly.io | Modern monitoring/synthetic checks; developer-focused; "nofail" is the perfect positioning |
 | 23 | **Catchpoint** | **72** | A | Mehdi Daoudi (CEO & Co-Founder) | CEO | catchpoint.com | Digital experience monitoring; expanding observability |
 | 24 | **Better Uptime** | **70** | B | Jon Hodrien (CEO) | CEO | betteruptime.com | Status page + monitoring; "No Fail" is a natural brand upgrade from "Better Uptime" |
-| 25 | **Patronus AI** 🆕 | **70** | B | (Co-founders per site) | CEO | patronus.ai | Eval/monitoring/hallucination detection — strong fit, weaker purchase trigger (source: owner's Buyer Prospecting Run; site verified live — "Simulating the World's Intelligence") |
-| 26 | **Agnost AI** 🆕 | **70** | B | (Founder per YC directory) | CEO | agnost.ai (YC S26 early) | Detects conversational-agent bugs/frustration/failure patterns — "Product analytics for AI Agents" (source: YC company page, verified live; site — "Product analytics for conversational agents"); founder-accessible |
+| 25 | **Patronus AI** 🆕 | **70** | B | Anand Kannappan (Co-founder & CEO), Rebecca Qian (Co-founder & CTO) | CEO | patronus.ai | Eval/monitoring/hallucination detection — strong fit, weaker purchase trigger (source: owner's Buyer Prospecting Run; site verified live — "Simulating the World's Intelligence") |
+| 26 | **Agnost AI** 🆕 | **70** | B | Parth Ajmera, Shubham Palriwala (Founders) | CEO | agnost.ai (YC S26 early) | Detects conversational-agent bugs/frustration/failure patterns — "Product analytics for AI Agents" (source: YC company page, verified live; site — "Product analytics for conversational agents"); founder-accessible |
 | 27 | **Squadcast** | **68** | B | Amjad Afanah (CEO) | CEO | squadcast.com | Incident management platform; growing; current domain generic |
 
 ### TIER 3: LUKEWARM LEADS (DMPS 40–59)
@@ -179,3 +179,15 @@
 - **Two-campaign structure (per doc, lead-confirmed):** the owner's doc proposes running two outreach campaigns. Natural split from the doc's own tiering: **Campaign 1** = the 8 hot prospects (doc tier 1, BMS 76–89: Confident AI → Fabraix) — product/category-asset pitch aimed at evals/observability/reliability platforms with recent launches or funding; **Campaign 2** = the 2 warm prospects (doc tier 2, BMS 70: Patronus AI, Agnost AI) — follow-on wave with the same framing. Exact campaign copy lives in the owner's doc (outreach-architect holds the full text); this note records the split for campaign planning.
 - **Funding triggers:** Respan $5M (Mar 18 2026, M), Confident AI Governance launch (Jun 22 2026, M), Fiddler Control Plane (Jun 23 2026, M) — carried from doc at M confidence, not independently re-verified.
 - **No emails** were provided in the doc for these 10 — contact discovery for top leads is a follow-up (outreach-architect may request contact sheets).
+
+## Owner-File Review Notes #3 — Executive Contact Sheet (2026-08-12)
+
+- **Contact sheet built:** `contact_nofail.ai.md` in this folder — 10/10 companies, 14 execs named/verified, LinkedIn URLs (10 H from YC pages/company sites), public emails (9 H), format-inferred exec emails (M/L, explicitly flagged), and a MISSING-contacts summary at the top (14 items) for the owner's separate research.
+- **Decision-maker markers resolved on-site** (verified from company pages this session, replacing "(per site)" markers):
+  - Galileo → **Vikram Chatterji (Co-founder & CEO), Yash Sheth (Co-founder & CTO)** — galileo.ai/about
+  - Fiddler AI → **Krishna Gade (Founder & CEO), Amit Paka (Founder & CTO)** — fiddler.ai/about-us; LinkedIn krishnagade + amitpaka listed on-page (H)
+  - Patronus AI → **Anand Kannappan (Co-founder & CEO), Rebecca Qian (Co-founder & CTO)** — patronus.ai/company (note: Kannappan is CEO, Qian is CTO — opposite of the common assumption)
+  - Agnost AI → **Parth Ajmera, Shubham Palriwala (Founders)** — YC directory
+- **Public emails confirmed (H):** support@confident-ai.com (docs), team@respan.ai + support@respan.ai, contact@bentolabs.ai, founders@modaflows.com + pranav@modaflows.com (mailto), security@fiddler.ai, contact@patronus.ai + security@patronus.ai.
+- **Email gaps (MISSING → owner lookup):** Galileo (no public addresses at all), TrustAI, Fabraix, Agnost have zero public exec emails; Abhinav Soni (BentoLabs) and both Patronus execs lack verified LinkedIn; Fabraix 2nd founder unnamed. Full 14-item list in contact sheet §0.
+- **No emails invented** — all format-inferred addresses carry M/L confidence + "format-inferred" flag; must be verified before outreach (owner LLM or hunter.io-style lookup).

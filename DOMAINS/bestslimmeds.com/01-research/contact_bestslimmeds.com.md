@@ -18,10 +18,12 @@ Every exec whose **email** or **LinkedIn URL** could not be confirmed from a pub
 | 4 | Noom | Geoff Cook | verify format-inferred email |
 | 5 | Calibrate | Isabelle Kenyon | verify format-inferred email |
 | 6 | Found Health | Sarah Jones | verify format-inferred email |
-| 7 | Hims & Hers | *(company)* | no verified public email — only format-inferred addresses |
-| 8 | Ro | *(company)* | no verified public email — only format-inferred addresses |
-| 9 | Noom | *(company)* | no verified public email — only format-inferred addresses |
-| 10 | Calibrate | *(company)* | no verified public email — only format-inferred addresses |
+| 7 | Ivím Health | Megan Trowbridge | email |
+| 8 | Hims & Hers | *(company)* | no verified public email — only format-inferred addresses |
+| 9 | Ro | *(company)* | no verified public email — only format-inferred addresses |
+| 10 | Noom | *(company)* | no verified public email — only format-inferred addresses |
+| 11 | Calibrate | *(company)* | no verified public email — only format-inferred addresses |
+| 12 | Ivím Health | *(company)* | no verified public email — only format-inferred addresses |
 
 ---
 
@@ -106,13 +108,24 @@ Every exec whose **email** or **LinkedIn URL** could not be confirmed from a pub
 | **Intent signal** | Weight-care platform (medical + coaching); exact value proposition match. | — |
 | **Note** | help@ is the verified public channel; 'Sarah' confirmed on about page (surname not shown there — from leads file). | — |
 
+### Ivím Health — ivimhealth.com
+| Field | Detail | Confidence |
+|-------|--------|:---:|
+| **Exec** | Megan Trowbridge — CEO | — |
+| **LinkedIn** | linkedin.com/in/megantrowbridge | L |
+| **Email** | **MISSING** — no public address found | — |
+| **Source** | leads file (2026-07-18) | — |
+| **Priority domain** | bestslimmeds.com | — |
+| **Intent signal** | GLP-1 telehealth; hard-to-spell current domain. | — |
+| **Note** | Name from leads file (M); no public exec email found. | — |
+
 ---
 
 ## Coverage Summary
 
 | Metric | Count |
 |---|---|
-| Companies covered | 6 |
+| Companies covered | 7 |
 | Execs with LinkedIn (H — verified this session) | 0 |
 | Execs with LinkedIn (M — known handle, unverified) | 3 |
 | Companies with public email (H — listed on site) | 2 |

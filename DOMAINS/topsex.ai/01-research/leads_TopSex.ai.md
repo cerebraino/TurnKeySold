@@ -95,3 +95,11 @@
 - **Nastia.ai** and **CrushOn.ai** are the most visible AI companion brands — both potential buyers for a premium adult AI domain.
 - Adult keywords have **restricted ad placements** — organic rankings are the primary battleground, making domain authority and brand memorability even more valuable.
 - **No DMPS bonus applicable** (no paid advertisers detected to score).
+---
+
+## Owner-File Review Notes #1 (domain-researcher, 2026-08-12)
+
+- Exec contact sheet added: `contact_topsex.ai.md` (covers BOTH leads_TopSex.ai.md and leads_TopSex.ai-health.md top leads).
+- ⚠ LEADERSHIP-CHANGE FLAG: OnlyFans lead lists "Ami Gan (CEO)" — she exited OnlyFans in 2023 (Keily Blair subsequently CEO). Verify current CEO before outreach.
+- ⚠ Aylo (lead #1): Feras Antoon listed as CEO — Aylo underwent executive changes post-2023; verify current CEO. Verified public channel: regional info.*@aylo.com inboxes + linkedin.com/company/ayloservices.
+- Private-company leads (WGCZ, Gamma, Stripchat) publish no executives — outreach via site forms/company LinkedIn.

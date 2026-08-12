@@ -16,8 +16,12 @@ Every exec whose **email** or **LinkedIn URL** could not be confirmed from a pub
 | 2 | Perfect Keto | Dr. Anthony Gustin | verify format-inferred email |
 | 3 | Pruvit | Brian Underwood | email |
 | 4 | Carb Manager | David Jackson | email |
-| 5 | Pruvit | *(company)* | no verified public email — only format-inferred addresses |
-| 6 | Carb Manager | *(company)* | no verified public email — only format-inferred addresses |
+| 5 | MyFitnessPal | Mike Giancursio | email |
+| 6 | Kiss My Keto | Ryan Jones | email |
+| 7 | Pruvit | *(company)* | no verified public email — only format-inferred addresses |
+| 8 | Carb Manager | *(company)* | no verified public email — only format-inferred addresses |
+| 9 | MyFitnessPal | *(company)* | no verified public email — only format-inferred addresses |
+| 10 | Kiss My Keto | *(company)* | no verified public email — only format-inferred addresses |
 
 ---
 
@@ -30,7 +34,7 @@ Every exec whose **email** or **LinkedIn URL** could not be confirmed from a pub
 
 ## Company Blocks (DMPS order)
 
-*Spanish keto ('Amo Keto'): Keto Mojo, Perfect Keto, Pruvit, Carb Manager, MyFitnessPal.*
+*Spanish keto ('Amo Keto'): Keto Mojo, Perfect Keto, Pruvit, Carb Manager, MyFitnessPal, Kiss My Keto.*
 
 ### Keto Mojo — ketomojo.com
 | Field | Detail | Confidence |
@@ -77,13 +81,35 @@ Every exec whose **email** or **LinkedIn URL** could not be confirmed from a pub
 | **Priority domain** | amoketo.com | — |
 | **Intent signal** | #1 keto tracking app; 10M+ users; Spanish-language content growth. | — |
 
+### MyFitnessPal — myfitnesspal.com
+| Field | Detail | Confidence |
+|-------|--------|:---:|
+| **Exec** | Mike Giancursio — SVP (top lead per leads file) | — |
+| **LinkedIn** | linkedin.com/in/mikegiancursio | L |
+| **Email** | **MISSING** — no public address found | — |
+| **Source** | leads file (2026-07-18) | — |
+| **Priority domain** | amoketo.com | — |
+| **Intent signal** | Largest diet-tracking app; keto a top diet category; Spanish-language audience growing. | — |
+| **Note** | SVP level (not CEO) per leads file — verify current title/role before outreach. | — |
+
+### Kiss My Keto — kissmyketo.com
+| Field | Detail | Confidence |
+|-------|--------|:---:|
+| **Exec** | Ryan Jones — CEO | — |
+| **LinkedIn** | linkedin.com/in/ryanjones | L |
+| **Email** | **MISSING** — no public address found | — |
+| **Source** | leads file (2026-07-18) | — |
+| **Priority domain** | amoketo.com | — |
+| **Intent signal** | Keto product brand; 'Amo Keto' natural match. | — |
+| **Note** | Name from leads file (M); no public exec email found. | — |
+
 ---
 
 ## Coverage Summary
 
 | Metric | Count |
 |---|---|
-| Companies covered | 4 |
+| Companies covered | 6 |
 | Execs with LinkedIn (H — verified this session) | 0 |
 | Execs with LinkedIn (M — known handle, unverified) | 1 |
 | Companies with public email (H — listed on site) | 2 |

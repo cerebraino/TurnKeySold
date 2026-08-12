@@ -17,9 +17,12 @@ Every exec whose **email** or **LinkedIn URL** could not be confirmed from a pub
 | 3 | Noom | Geoff Cook | verify format-inferred email |
 | 4 | WeightWatchers (WW) | Sima Sistani | email |
 | 5 | Found Health | Sarah Jones | verify format-inferred email |
-| 6 | Ro | *(company)* | no verified public email — only format-inferred addresses |
-| 7 | Hims & Hers | *(company)* | no verified public email — only format-inferred addresses |
-| 8 | Noom | *(company)* | no verified public email — only format-inferred addresses |
+| 6 | Lemonaid Health | Dr. James Buskirk | email |
+| 7 | Henry Meds | (CEO) | LinkedIn URL, email |
+| 8 | Ro | *(company)* | no verified public email — only format-inferred addresses |
+| 9 | Hims & Hers | *(company)* | no verified public email — only format-inferred addresses |
+| 10 | Noom | *(company)* | no verified public email — only format-inferred addresses |
+| 11 | Lemonaid Health | *(company)* | no verified public email — only format-inferred addresses |
 
 ---
 
@@ -94,16 +97,40 @@ Every exec whose **email** or **LinkedIn URL** could not be confirmed from a pub
 | **Intent signal** | Weight-care platform (medical + coaching); exact value proposition match. | — |
 | **Note** | help@ is the verified public channel; 'Sarah' confirmed on about page (surname not shown there — from leads file). | — |
 
+### Lemonaid Health — lemonaidhealth.com
+| Field | Detail | Confidence |
+|-------|--------|:---:|
+| **Exec** | Dr. James Buskirk — CEO | — |
+| **LinkedIn** | linkedin.com/in/jamesbuskirk | L |
+| **Email** | **MISSING** — no public address found | — |
+| **Source** | leads file (2026-07-18) | — |
+| **Priority domain** | cheapslimmeds.com | — |
+| **Intent signal** | Telehealth + GLP-1; budget-friendly brand. | — |
+| **Note** | Name from leads file (M); no public exec email found. | — |
+
+### Henry Meds — henrymeds.com
+| Field | Detail | Confidence |
+|-------|--------|:---:|
+| **Exec** | (CEO) — CEO — name not resolved | — |
+| **LinkedIn** | **MISSING** — not found on public sources | — |
+| **Email** | **MISSING** — no public address found | — |
+| **Company LinkedIn** | linkedin.com/company/henry-meds | H |
+| **Public contact(s)** | ask@henrymeds.com | H |
+| **Source** | henrymeds.com (mailto:ask@henrymeds.com, footer LinkedIn) | — |
+| **Priority domain** | cheapslimmeds.com | — |
+| **Intent signal** | Compounding-pharmacy weight loss; budget positioning. | — |
+| **Note** | ✅ ask@henrymeds.com + company LinkedIn verified (H). CEO name MISSING — owner lookup. | — |
+
 ---
 
 ## Coverage Summary
 
 | Metric | Count |
 |---|---|
-| Companies covered | 5 |
+| Companies covered | 7 |
 | Execs with LinkedIn (H — verified this session) | 0 |
 | Execs with LinkedIn (M — known handle, unverified) | 3 |
-| Companies with public email (H — listed on site) | 2 |
+| Companies with public email (H — listed on site) | 3 |
 | Execs with format-inferred email (M/L — MUST verify before send) | 4 |
 
 ---

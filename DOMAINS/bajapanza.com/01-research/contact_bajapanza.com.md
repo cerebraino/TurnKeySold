@@ -17,10 +17,14 @@ Every exec whose **email** or **LinkedIn URL** could not be confirmed from a pub
 | 3 | Herbalife Nutrition | Michael Johnson | email |
 | 4 | WeightWatchers (WW) | Sima Sistani | email |
 | 5 | Noom | Geoff Cook | verify format-inferred email |
-| 6 | Bajamed | *(company)* | no verified public email — only format-inferred addresses |
-| 7 | SlimFast | *(company)* | no verified public email — only format-inferred addresses |
-| 8 | Herbalife Nutrition | *(company)* | no verified public email — only format-inferred addresses |
-| 9 | Noom | *(company)* | no verified public email — only format-inferred addresses |
+| 6 | Healthline (Spanish — MedTerms) | David Kopp | email |
+| 7 | Facebook/Meta (Fitness/Latin market) | Mark Zuckerberg | email |
+| 8 | Bajamed | *(company)* | no verified public email — only format-inferred addresses |
+| 9 | SlimFast | *(company)* | no verified public email — only format-inferred addresses |
+| 10 | Herbalife Nutrition | *(company)* | no verified public email — only format-inferred addresses |
+| 11 | Noom | *(company)* | no verified public email — only format-inferred addresses |
+| 12 | Healthline (Spanish — MedTerms) | *(company)* | no verified public email — only format-inferred addresses |
+| 13 | Facebook/Meta (Fitness/Latin market) | *(company)* | no verified public email — only format-inferred addresses |
 
 ---
 
@@ -33,7 +37,7 @@ Every exec whose **email** or **LinkedIn URL** could not be confirmed from a pub
 
 ## Company Blocks (DMPS order)
 
-*Spanish weight-loss ('Baja Panza'): Bajamed, SlimFast, Herbalife, WW LatAm, Noom ES.*
+*Spanish weight-loss ('Baja Panza'): Bajamed, SlimFast, Herbalife, WW LatAm, Noom ES, Healthline ES, Meta.*
 
 ### Bajamed — bajamed.com
 | Field | Detail | Confidence |
@@ -93,13 +97,35 @@ Every exec whose **email** or **LinkedIn URL** could not be confirmed from a pub
 | **Intent signal** | Pivoted to clinical weight loss (Noom Med, GLP-1 prescribing); 'Buy/Best/Cheap Slim Meds' matches clinical/pharma direction. | — |
 | **Note** | 'Geoff Cook' name confirmed on noom.com/about; direct email unverified. | — |
 
+### Healthline (Spanish — MedTerms) — healthline.com
+| Field | Detail | Confidence |
+|-------|--------|:---:|
+| **Exec** | David Kopp — CEO | — |
+| **LinkedIn** | linkedin.com/in/davidkopp | L |
+| **Email** | **MISSING** — no public address found | — |
+| **Source** | leads file (2026-07-18) | — |
+| **Priority domain** | bajapanza.com | — |
+| **Intent signal** | Health publisher with Spanish vertical; 'bajapanza' content hub. | — |
+| **Note** | Enterprise media company — press/IR channels preferred; direct exec email unlikely public. | — |
+
+### Facebook/Meta (Fitness/Latin market) — meta.com
+| Field | Detail | Confidence |
+|-------|--------|:---:|
+| **Exec** | Mark Zuckerberg — CEO | — |
+| **LinkedIn** | linkedin.com/in/markzuckerberg | L |
+| **Email** | **MISSING** — no public address found | — |
+| **Source** | leads file (2026-07-18) | — |
+| **Priority domain** | bajapanza.com | — |
+| **Intent signal** | Community/group for weight loss; less product-focused (low-priority lead). | — |
+| **Note** | Mega-cap — no cold outreach path; included for completeness per leads file. | — |
+
 ---
 
 ## Coverage Summary
 
 | Metric | Count |
 |---|---|
-| Companies covered | 5 |
+| Companies covered | 7 |
 | Execs with LinkedIn (H — verified this session) | 0 |
 | Execs with LinkedIn (M — known handle, unverified) | 1 |
 | Companies with public email (H — listed on site) | 1 |

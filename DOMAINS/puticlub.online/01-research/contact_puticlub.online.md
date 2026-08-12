@@ -4,7 +4,7 @@
 > **Scope:** Executive contact data for the top leads in `leads_Puticlub.online.md`. Built to the established contact-sheet format (cf. `contact_nofail.ai.md`).
 > **Verification:** All company LinkedIn URLs and public emails below were verified live this session (company sites / YC pages, HTTP 200). Exec names/roles are carried from the leads file at M confidence unless marked H (verified on-site this session). No email address was invented — format-inferred addresses are explicitly marked M/L and flagged.
 
-> **Bundle companion:** Puticlub.ai — same buyer pool; see `contact_Puticlub.ai.md` for full per-company blocks. This sheet lists the shared contacts plus domain-specific notes.
+> **Bundle companion:** Puticlub.ai (+ paired bundle: Putero.ai + Putero.online) — same buyer pool; see `contact_Puticlub.ai (+ paired bundle: Putero.ai + Putero.online).md` for full per-company blocks. This sheet lists the shared contacts plus domain-specific notes.
 
 ---
 
@@ -31,7 +31,7 @@ Every exec whose **email** or **LinkedIn URL** could not be confirmed from a pub
 
 ## Company Blocks (DMPS order)
 
-*BUNDLE companion to Puticlub.ai — same buyer pool (see contact_Puticlub.ai.md for full blocks).*
+*BUNDLE companion to Puticlub.ai — same buyer pool (see contact_Puticlub.ai.md for full blocks). Sold as a pair with putero.online + the .ai brands.*
 
 ### Aylo (MindGeek) — aylo.com
 | Field | Detail | Confidence |

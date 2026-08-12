@@ -17,11 +17,15 @@ Every exec whose **email** or **LinkedIn URL** could not be confirmed from a pub
 | 3 | Levels | Sam Corcos | verify format-inferred email |
 | 4 | Noom | Geoff Cook | verify format-inferred email |
 | 5 | Metabolic Meals | (Founder) | LinkedIn URL, email |
-| 6 | Virta Health | *(company)* | no verified public email — only format-inferred addresses |
-| 7 | Dexcom | *(company)* | no verified public email — only format-inferred addresses |
-| 8 | Levels | *(company)* | no verified public email — only format-inferred addresses |
-| 9 | Noom | *(company)* | no verified public email — only format-inferred addresses |
-| 10 | Metabolic Meals | *(company)* | no verified public email — only format-inferred addresses |
+| 6 | KetoNutrition (Dom D'Agostino) | Dom D'Agostino | email |
+| 7 | Charlie Foundation | Beth Zupec-Kania | email |
+| 8 | Virta Health | *(company)* | no verified public email — only format-inferred addresses |
+| 9 | Dexcom | *(company)* | no verified public email — only format-inferred addresses |
+| 10 | Levels | *(company)* | no verified public email — only format-inferred addresses |
+| 11 | Noom | *(company)* | no verified public email — only format-inferred addresses |
+| 12 | Metabolic Meals | *(company)* | no verified public email — only format-inferred addresses |
+| 13 | KetoNutrition (Dom D'Agostino) | *(company)* | no verified public email — only format-inferred addresses |
+| 14 | Charlie Foundation | *(company)* | no verified public email — only format-inferred addresses |
 
 ---
 
@@ -34,7 +38,7 @@ Every exec whose **email** or **LinkedIn URL** could not be confirmed from a pub
 
 ## Company Blocks (DMPS order)
 
-*Therapeutic keto: Virta Health, Dexcom, Levels, Noom, Metabolic Meals.*
+*Therapeutic keto: Virta Health, Dexcom, Levels, Noom, Metabolic Meals, KetoNutrition, Charlie Foundation.*
 
 ### Virta Health — virtahealth.com
 | Field | Detail | Confidence |
@@ -93,13 +97,35 @@ Every exec whose **email** or **LinkedIn URL** could not be confirmed from a pub
 | **Intent signal** | Keto meal delivery; expanding into therapeutic meal plans. | — |
 | **Note** | MISSING: named decision-maker, LinkedIn, email. | — |
 
+### KetoNutrition (Dom D'Agostino) — ketonutrition.org
+| Field | Detail | Confidence |
+|-------|--------|:---:|
+| **Exec** | Dom D'Agostino — Founder (keto researcher, PhD) | — |
+| **LinkedIn** | linkedin.com/in/domdagostino | L |
+| **Email** | **MISSING** — no public address found | — |
+| **Source** | leads file (2026-07-18) | — |
+| **Priority domain** | curebyketo.com | — |
+| **Intent signal** | Keto for therapeutic/neurological use; 'cure' angle fits. | — |
+| **Note** | Name from leads file (M); no public exec email found. | — |
+
+### Charlie Foundation — charliefoundation.org
+| Field | Detail | Confidence |
+|-------|--------|:---:|
+| **Exec** | Beth Zupec-Kania — Director of Nutrition | — |
+| **LinkedIn** | linkedin.com/in/bethzupec-kania | L |
+| **Email** | **MISSING** — no public address found | — |
+| **Source** | leads file (2026-07-18) | — |
+| **Priority domain** | curebyketo.com | — |
+| **Intent signal** | Keto for epilepsy; therapeutic mission. | — |
+| **Note** | Name from leads file (M); no public exec email found. | — |
+
 ---
 
 ## Coverage Summary
 
 | Metric | Count |
 |---|---|
-| Companies covered | 5 |
+| Companies covered | 7 |
 | Execs with LinkedIn (H — verified this session) | 0 |
 | Execs with LinkedIn (M — known handle, unverified) | 3 |
 | Companies with public email (H — listed on site) | 0 |

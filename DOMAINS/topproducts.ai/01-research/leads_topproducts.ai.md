@@ -104,4 +104,88 @@
 
 ---
 
-*Lead list prepared for outreach-architect. Full DMPS methodology in research_framework.md §3.*
+## 6. Category Expansion: Intelligent Shopping — AI Recommendation Engines & Buying Agents
+
+> **Added:** 2026-08-12 | **Lens:** Companies whose core product IS AI that recommends/selects/suggests the best products. "Top Products" + ".ai" = the domain that literally describes their function.
+
+### TIER 2: WARM LEADS (DMPS 70–84)
+
+| # | Company | DMPS | Persona | Decision-Maker | Role | Website | Intent Signal |
+|---|---------|------|---------|---------------|------|---------|--------------|
+| 17 | **Perplexity AI (Shopping)** | **88** | A | Aravind Srinivas | CEO & Co-Founder | perplexity.ai | AI-powered answer engine. Launched Perplexity Shopping — an AI buying agent that recommends products. "Top Products" IS what their shopping feature delivers. |
+| 18 | **Shopify (Magic / Sidekick)** | **86** | A | Tobi Lütke | CEO | shopify.com | Shopify Magic and Sidekick are AI commerce agents helping merchants choose and recommend products. "Top Products" = the AI curation brand within Shopify's ecosystem. |
+| 19 | **Klarna AI** | **84** | A | Sebastian Siemiatkowski | CEO | klarna.com | Klarna's AI shopping assistant recommends products and compares prices. "Top Products" = their AI shopping brand identity. |
+| 20 | **Constructor.io** | **82** | B | Eli Finkelshteyn | CEO & Co-Founder | constructor.io | AI product discovery platform for enterprise e-commerce. Powers search and recommendations for major retailers. "Top Products" = what their AI surfaces. |
+| 21 | **Algolia** | **80** | A | Bernadette Nixon | CEO | algolia.com | AI-powered search and recommendations platform. Used by 17,000+ companies. "Top Products" = their recommendation engine brand. |
+
+### TIER 3: LUKEWARM LEADS (DMPS 55–69)
+
+| # | Company | DMPS | Persona | Decision-Maker | Role | Website | Intent Signal |
+|---|---------|------|---------|---------------|------|---------|--------------|
+| 22 | **Lily AI** | **68** | B | Purva Gupta (CEO & Co-Founder) | CEO | lily.ai | Visual AI product discovery. Maps consumer intent to product attributes. "Top Products" = what their AI identifies for each shopper. |
+| 23 | **Vetted AI** | **65** | B | (CEO — needs verification) | CEO | vetted.ai | AI product research agent. Analyzes reviews across categories to surface the best products. "Top Products" = their entire value proposition in a domain. |
+| 24 | **Syte** | **62** | B | Vered Levy-Ron (CEO) | CEO | syte.ai | Visual AI product discovery and recommendations. Powers product search for fashion/retail. "Top Products" = brand upgrade from Syte. |
+| 25 | **Amazon (Rufus)** | **55** | A | Andy Jassy (CEO) | CEO | amazon.com | Amazon Rufus is the AI shopping assistant. Already on original list (#2). Rufus specifically recommends "top products" — the domain matches the feature name. |
+
+---
+
+## 7. Category Expansion: AI Product Curation & Compilation Platforms
+
+> **Added:** 2026-08-12 | **Lens:** Platforms that curate, rank, review, or list the top AI products/tools. "Top Products" + ".ai" = **the definitive domain for "top AI products."** This is where the domain's double meaning shines — it's simultaneously about ranking any products AND being the #1 destination for AI products themselves.
+
+### TIER 1H: HOTTEST LEADS — AI Directory Platforms (DMPS 80–92)
+
+| # | Company | DMPS | Persona | Decision-Maker | Role | Website | Intent Signal |
+|---|---------|------|---------|---------------|------|---------|--------------|
+| 26 | **There's an AI for That** | **92** | A | (Founder — needs verification) | Founder | theresanaiforthat.com | The largest AI tool directory. 15,000+ AI tools indexed. "Top Products" = the premium domain upgrade from their current long-tail brand. |
+| 27 | **Futurepedia / FutureTools** | **88** | B | (CEO — needs verification) | CEO | futurepedia.io | Major AI tool directory and community. "Top Products" = cleaner, more authoritative brand for ranking AI tools. |
+| 28 | **TopAI.tools** | **86** | B | (Founder — needs verification) | Founder | topai.tools | AI tool discovery platform. Already playing in the "top AI" space — "Top Products" is the definitive domain upgrade. |
+
+### TIER 2: WARM LEADS (DMPS 65–79)
+
+| # | Company | DMPS | Persona | Decision-Maker | Role | Website | Intent Signal |
+|---|---------|------|---------|---------------|------|---------|--------------|
+| 29 | **AI Parabellum** | **72** | C | (Founder — needs verification) | Founder | aiparabellum.com | AI tool directory. "Top Products" = cleaner, universally understood brand. |
+| 30 | **Supertools (Ben's Bites)** | **70** | B | Ben Tossell (Founder) | Founder | supertools.therundown.ai | Curated AI tools directory from Ben's Bites community. "Top Products" = authoritative brand extension for their AI-curation community. |
+
+---
+
+## 8. Micro-Messages for New Leads (≤250 chars)
+
+### Intelligent Shopping
+
+**17. Perplexity AI (Aravind Srinivas):**
+> Aravind, Perplexity Shopping is an AI buying agent. topproducts.ai IS what your shopping feature delivers: the top products, recommended by AI. The domain that names your product.
+
+**18. Shopify (Tobi Lütke):**
+> Tobi, Shopify Magic helps merchants find winning products. topproducts.ai = the domain that IS that promise. AI-powered product discovery, branded perfectly.
+
+**19. Klarna AI (Sebastian Siemiatkowski):**
+> Sebastian, Klarna's AI recommends the best products to shoppers. topproducts.ai is the domain that literally says "this is what our AI does." Premium brand for AI shopping.
+
+**20. Constructor.io (Eli Finkelshteyn):**
+> Eli, Constructor surfaces the top products for every shopper. topproducts.ai is the premium brand that says exactly what your AI delivers. Upgrade from constructor.io.
+
+**21. Algolia (Bernadette Nixon):**
+> Bernadette, Algolia powers product recommendations for 17K+ companies. topproducts.ai = the recommendation engine brand that explains itself in the URL.
+
+**22. Lily AI (Purva Gupta):**
+> Purva, Lily AI understands what makes a product the right one for each shopper. topproducts.ai names the output of your visual AI — the top products, for the right person.
+
+**23. Vetted AI:**
+> Vetted, your AI analyzes thousands of reviews to find the best products. topproducts.ai IS your entire value proposition as a domain. Premium upgrade from vetted.ai.
+
+### AI Product Curation
+
+**26. There's an AI for That:**
+> Your directory indexes 15K+ AI tools. topproducts.ai is the premium domain upgrade — "top products" is what visitors trust, and .ai signals your category perfectly.
+
+**27. Futurepedia:**
+> Futurepedia is where people discover AI tools. topproducts.ai is the cleaner, more authoritative brand — "top products" implies curation, quality, and trust in the AI space.
+
+**28. TopAI.tools:**
+> You're already in the "top AI" space. topproducts.ai is the definitive domain — "top products" is a universal search phrase, and .ai signals AI-native credibility.
+
+---
+
+*Lead list expanded. 30 total leads: 16 original + 9 intelligent shopping + 5 AI curation platforms. Micro-messages appended for all 14 new leads.*

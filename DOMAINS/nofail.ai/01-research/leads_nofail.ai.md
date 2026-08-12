@@ -55,28 +55,34 @@
 | 1 | **Datadog** | **94** | A | Olivier Pomel (CEO & Co-Founder) | CEO | datadoghq.com | Dominant observability platform ($30B+ market cap); expanding into AIOps; "nofail" perfectly describes their core promise to enterprise |
 | 2 | **PagerDuty** | **92** | A | Jennifer Tejada (CEO) | CEO | pagerduty.com | Incident response leader; "No Fail" is literally their value proposition; expanding into AI operations |
 | 3 | **incident.io** | **90** | B | Lawrence Jones (CEO & Co-Founder) | CEO | incident.io | Modern incident management; already on .io — .ai would be an upgrade; "nofail" aligns with mission |
-| 4 | **New Relic** | **87** | A | Ashan Willy (CEO) | CEO | newrelic.com | APM pioneer; massive brand but current domain isn't descriptive; nofail could be a dedicated reliability product brand |
-| 5 | **Snyk** | **85** | B | Peter McKay (CEO) | CEO | snyk.io | Developer security platform; expanding into reliability testing; strong developer brand |
+| 4 | **Sentrial** 🆕 | **89** | B | Neel Sharma (Co-founder & CEO), Anay Shukla (Co-founder) | CEO | sentrial.com (YC W26) | **"Datadog for Agent Reliability"** — production monitoring for AI agents: loops, hallucinations, tool misuse; "nofail" is literally their pitch; pre-seed just closed (source: YC company page, verified live; email neel@sentrial.com — M confidence) |
+| 5 | **Hamming AI** 🆕 | **88** | B | Sumanyu Sharma (CEO), Marius Buleandra | CEO | hamming.ai (YC W24) | **"Complete QA platform for voice agents"** — prompt management, evals, observability; making RAG & AI agents reliable IS the tagline (source: YC Launch page, verified live; email sumanyu@hamming.ai — M confidence) |
+| 6 | **New Relic** | **87** | A | Ashan Willy (CEO) | CEO | newrelic.com | APM pioneer; massive brand but current domain isn't descriptive; nofail could be a dedicated reliability product brand |
+| 7 | **Lemma** 🆕 | **86** | B | Jerry Zhang (Co-founder & CEO), Cole Gawin | CEO | uselemma.ai (YC F25) | **"Production Monitoring for AI agents"** — eval + observability that improves performance automatically; recently raised (source: YC company page, verified live; email jerry@uselemma.ai — M confidence) |
+| 8 | **Snyk** | **85** | B | Peter McKay (CEO) | CEO | snyk.io | Developer security platform; expanding into reliability testing; strong developer brand |
+| 9 | **Cekura** 🆕 | **84** | B | Tarush Agarwal (Co-founder & CEO), Sidhant Kabra (Co-founder & President) | CEO | cekura.ai (YC F24) | **"Automated QA for Voice AI and Chat AI Agents"** — pre-seed raised $2.4M; QA on 5M+ voice-agent minutes, 70+ customers (source: YC company page, verified live; email founders@cekura.ai — M confidence) |
+| 10 | **Roark** 🆕 | **83** | B | James Zammit (CEO), Daniel Gauci (CTO) | CEO | roark.ai | **"Voice AI Testing & Evals"** — replay real production calls against updates; actively soliciting demos (source: YC Launch page, verified live; email james@roark.ai — M confidence) |
+| 11 | **Momentic** 🆕 | **82** | B | (Founders per YC/LinkedIn post) | CEO | momentic.ai | **"AI Testing Platform for Web & Mobile"** — just closed **$15M Series A** to build the verification layer for AI; direct fit (source: YC LinkedIn post; verified live) |
 
 ### TIER 2: WARM LEADS (DMPS 60–79)
 
 | # | Company | DMPS | Persona | Decision-Maker | Role | Website | Intent Signal |
 |---|---------|------|---------|---------------|------|---------|--------------|
-| 6 | **Grafana Labs** | **78** | B | Raj Dutt (CEO & Co-Founder) | CEO | grafana.com | Leading open-source observability; Labs — commercial products need strong domain brands |
-| 7 | **Honeycomb.io** | **76** | B | Christine Yen (CEO & Co-Founder) | CEO | honeycomb.io | Observability for engineering teams; growing fast; might need stronger domain for enterprise |
-| 8 | **Checkly** | **74** | B | Tim Nolet (CEO & Co-Founder) | CEO | checkly.io | Modern monitoring/synthetic checks; developer-focused; "nofail" is the perfect positioning |
-| 9 | **Catchpoint** | **72** | A | Mehdi Daoudi (CEO & Co-Founder) | CEO | catchpoint.com | Digital experience monitoring; expanding observability |
-| 10 | **Better Uptime** | **70** | B | Jon Hodrien (CEO) | CEO | betteruptime.com | Status page + monitoring; "No Fail" is a natural brand upgrade from "Better Uptime" |
-| 11 | **Squadcast** | **68** | B | Amjad Afanah (CEO) | CEO | squadcast.com | Incident management platform; growing; current domain generic |
+| 12 | **Grafana Labs** | **78** | B | Raj Dutt (CEO & Co-Founder) | CEO | grafana.com | Leading open-source observability; Labs — commercial products need strong domain brands |
+| 13 | **Honeycomb.io** | **76** | B | Christine Yen (CEO & Co-Founder) | CEO | honeycomb.io | Observability for engineering teams; growing fast; might need stronger domain for enterprise |
+| 14 | **Checkly** | **74** | B | Tim Nolet (CEO & Co-Founder) | CEO | checkly.io | Modern monitoring/synthetic checks; developer-focused; "nofail" is the perfect positioning |
+| 15 | **Catchpoint** | **72** | A | Mehdi Daoudi (CEO & Co-Founder) | CEO | catchpoint.com | Digital experience monitoring; expanding observability |
+| 16 | **Better Uptime** | **70** | B | Jon Hodrien (CEO) | CEO | betteruptime.com | Status page + monitoring; "No Fail" is a natural brand upgrade from "Better Uptime" |
+| 17 | **Squadcast** | **68** | B | Amjad Afanah (CEO) | CEO | squadcast.com | Incident management platform; growing; current domain generic |
 
 ### TIER 3: LUKEWARM LEADS (DMPS 40–59)
 
 | # | Company | DMPS | Persona | Decision-Maker | Role | Notes |
 |---|---------|------|---------|---------------|------|-------|
-| 12 | **Dynatrace** | **58** | A | Rick McConnell (CEO) | CEO | Enterprise APM; large but slower to acquire external domains |
-| 13 | **Splunk** (Cisco) | **55** | A | Gary Steele (CEO) | CEO | Being acquired by Cisco; less likely to acquire brands now |
-| 14 | **Elastic** (ELK) | **52** | A | Ash Kulkarni (CEO) | CEO | Observability from search angle; less reliability-focused |
-| 15 | **Lightstep** (ServiceNow) | **50** | B | Ben Sigelman (CEO) | CEO | Acquired by ServiceNow; innovation budgets now central |
+| 18 | **Dynatrace** | **58** | A | Rick McConnell (CEO) | CEO | Enterprise APM; large but slower to acquire external domains |
+| 19 | **Splunk** (Cisco) | **55** | A | Gary Steele (CEO) | CEO | Being acquired by Cisco; less likely to acquire brands now |
+| 20 | **Elastic** (ELK) | **52** | A | Ash Kulkarni (CEO) | CEO | Observability from search angle; less reliability-focused |
+| 21 | **Lightstep** (ServiceNow) | **50** | B | Ben Sigelman (CEO) | CEO | Acquired by ServiceNow; innovation budgets now central |
 
 ---
 
@@ -140,3 +146,12 @@
 | PagerDuty | +10 | Paid advertiser (AIOps platform) |
 | Arize AI | +10 | Paid + organic (AI observability) |
 | CrowdStrike | +10 | Paid advertiser (AI security) |
+
+---
+
+## Owner-File Review Notes (2026-08-12)
+
+- **YC AI-reliability cohort added (6 leads)** from owner's `domain_buyer_prospects.md` (commit 08ce6b9): Sentrial, Hamming AI, Lemma, Cekura, Roark, Momentic — the highest-value section of that file, per lead review. **All 6 verified live** (sites return 200; YC company pages confirm positioning: "Datadog for Agent Reliability", "Complete QA platform for voice agents", "Production Monitoring for AI agents", "Testing and Observability", "Voice AI Testing & Evals", "$15M Series A").
+- **Emails:** neel@sentrial.com, sumanyu@hamming.ai, jerry@uselemma.ai, founders@cekura.ai, james@roark.ai — M confidence (owner's tool-fetched sources; NOT independently re-verified this session).
+- **Funding claims** (Cekura $2.4M pre-seed, Momentic $15M Series A) — M confidence, sourced to YC pages/LinkedIn posts.
+- **DMPS rationale:** YC cohort scored on thesis-fit (their product IS "make agents not fail") + founder-led fast decisions + fresh fundraising; Sentrial/Hamming/Lemma rank above the larger but slower-moving incumbents (New Relic, Snyk) because the domain is a literal category name for them.

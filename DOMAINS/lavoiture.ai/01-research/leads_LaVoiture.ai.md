@@ -68,24 +68,29 @@
 | # | Company | DMPS | Persona | Decision-Maker | Role | Contact | Intent Signal |
 |---|---------|------|---------|---------------|------|---------|--------------|
 | 6 | **Mistral AI** | **78** | B | Arthur Mensch (CEO) | CEO | mistral.ai — Paris | France's flagship AI company; expanding beyond LLMs into automotive/embedded AI; Paris HQ |
-| 7 | **BlaBlaCar** | **74** | B | Nicolas Brusson (CEO & Co-founder) | CEO | blablacar.com — Paris | European mobility leader; expanding to EV carpool; strong French brand identity |
-| 8 | **Heetch** | **72** | B | Teddy Puaud (CEO) | CEO | heetch.com — Paris | French ride-hailing startup focused on secondary cities; EV transition planned |
-| 9 | **Vulog** | **70** | A | Grégory Ducongé (CEO) | CEO | vulog.com — Nice, France | Leading mobility tech platform; powers car-sharing for major automakers; expanding AI capabilities |
-| 10 | **Navya** | **68** | B | Sophie Desormière (CEO) | CEO | navya.tech — Paris | French autonomous shuttle company; restructuring and re-branding in 2024 |
-| 11 | **Forsee Power** | **67** | B | Sébastien Rembauville-Nicolle (CEO) | CEO | forseepower.com — Paris | French EV battery systems for buses, trucks, industrial; expanding globally |
-| 12 | **Driive** | **65** | B | Maxime Legardez (CEO) | CEO | driive.com — Paris | European car delivery/replacement platform; mobility-as-a-service angle |
-| 13 | **Wunder Mobility** | **63** | B | Gunnar Froh (CEO) | CEO | wundermobility.com — Hamburg | European mobility software platform; expanding into French market; could brand AV fleet |
-| 14 | **EasyMile** | **62** | B | Benoît Perrin (General Manager) | GM | easymile.com — Toulouse | Autonomous shuttle tech; needs stronger brand for scale; .ai domain signals AI focus |
+| 7 | **Olympian Motors** 🆕 | **76** | B | Nitin Sachdeva (Founder) | CEO | olympianmotors.com — YC W22 | Art-deco EV manufacturer; $61M+ revenue backlog, 790+ orders, 2,400 units/yr capacity; explicitly challenging Tesla/Ford — brand-upgrade money on the table (source: YC company page) |
+| 8 | **Flott HQ** 🆕 | **74** | B | Sylvanus Mahe (CEO) / Kanvaly Fadiga (CTO) | CEO | flotthq.com — Paris (YC S25) | "AI-native operating system for vehicle fleet management"; 45% MoM growth, ~$200K ARR, French mobility-native — perfect category fit (source: YC company page; email founders@flotthq.com — M confidence) |
+| 9 | **BlaBlaCar** | **74** | B | Nicolas Brusson (CEO & Co-founder) | CEO | blablacar.com — Paris | European mobility leader; expanding to EV carpool; strong French brand identity |
+| 10 | **Heetch** | **72** | B | Teddy Puaud (CEO) | CEO | heetch.com — Paris | French ride-hailing startup focused on secondary cities; EV transition planned |
+| 11 | **Vulog** | **70** | A | Grégory Ducongé (CEO) | CEO | vulog.com — Nice, France | Leading mobility tech platform; powers car-sharing for major automakers; expanding AI capabilities |
+| 12 | **Quivr** 🆕 | **70** | B | Clément Chaal (Founder) | CEO | quivr.com — Paris (YC W24) | "AI-powered auto-resolutions and reply suggestions for customer support" — auto industry is one of their biggest verticals (source: YC company page) |
+| 13 | **Navya** | **68** | B | Sophie Desormière (CEO) | CEO | navya.tech — Paris | French autonomous shuttle company; restructuring and re-branding in 2024 |
+| 14 | **machine0** 🆕 | **68** | B | Barnaby Malet (CEO) | CEO | machine0.io — Paris (YC S26) | "Cloud computers for AI agents"; solo founder fresh off Demo Day — exactly when founders rebrand; Paris + AI mobility adjacency (source: YC company page) |
+| 15 | **Forsee Power** | **67** | B | Sébastien Rembauville-Nicolle (CEO) | CEO | forseepower.com — Paris | French EV battery systems for buses, trucks, industrial; expanding globally |
+| 16 | **Driive** | **65** | B | Maxime Legardez (CEO) | CEO | driive.com — Paris | European car delivery/replacement platform; mobility-as-a-service angle |
+| 17 | **Bravi** 🆕 | **64** | B | (Founder team per YC directory) | CEO | (per YC directory) — Paris (YC F25) | "AI operating system powering home services businesses"; French brand resonance + mobility-adjacent (source: YC company page) |
+| 18 | **Wunder Mobility** | **63** | B | Gunnar Froh (CEO) | CEO | wundermobility.com — Hamburg | European mobility software platform; expanding into French market; could brand AV fleet |
+| 19 | **EasyMile** | **62** | B | Benoît Perrin (General Manager) | GM | easymile.com — Toulouse | Autonomous shuttle tech; needs stronger brand for scale; .ai domain signals AI focus |
 
 ### TIER 3: LUKEWARM LEADS (DMPS 40–59)
 
 | # | Company | DMPS | Persona | Decision-Maker | Role | Notes |
 |---|---------|------|---------|---------------|------|-------|
-| 15 | **Valeo** | **58** | A | Christophe Périllat (CEO) | CEO | Major French auto supplier; AI expertise in autonomous driving sensors; less brand-needy |
-| 16 | **Faurecia** (FORVIA) | **55** | A | Patrick Koller (CEO) | CEO | Interior systems leader; smart cockpit AI; potential for sub-brand |
-| 17 | **Renault Nissan Mitsubishi (Alliance)** | **54** | A | Makoto Uchida (Nissan CEO) | CEO | Could use for joint AI venture; slower decision-making |
-| 18 | **Plastic Omnium** (OPmobility) | **52** | A | Laurent Favre (CEO) | CEO | Auto parts supplier pivoting to EV/hydrogen; less brand-focused |
-| 19 | **Alstom** | **50** | A | Henri Poupart-Lafarge (CEO) | CEO | Rail/mobility; "La Voiture" being more passenger car could be stretch |
+| 20 | **Valeo** | **58** | A | Christophe Périllat (CEO) | CEO | Major French auto supplier; AI expertise in autonomous driving sensors; less brand-needy |
+| 21 | **Faurecia** (FORVIA) | **55** | A | Patrick Koller (CEO) | CEO | Interior systems leader; smart cockpit AI; potential for sub-brand |
+| 22 | **Renault Nissan Mitsubishi (Alliance)** | **54** | A | Makoto Uchida (Nissan CEO) | CEO | Could use for joint AI venture; slower decision-making |
+| 23 | **Plastic Omnium** (OPmobility) | **52** | A | Laurent Favre (CEO) | CEO | Auto parts supplier pivoting to EV/hydrogen; less brand-focused |
+| 24 | **Alstom** | **50** | A | Henri Poupart-Lafarge (CEO) | CEO | Rail/mobility; "La Voiture" being more passenger car could be stretch |
 
 ---
 

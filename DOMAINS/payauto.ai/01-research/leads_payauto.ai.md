@@ -61,7 +61,8 @@
 | 7 | **Nevermined** | **87** | B | Francisco Cepeda | CEO | nevermined.ai | "Let your agents pay and get paid. Autonomously." — agent-payable API protocol |
 | 8 | **Fetch.ai** | **85** | B | Humayun Sheikh | CEO | fetch.ai | Autonomous economic agents "from shopping to scheduling" — agents that transact |
 | 9 | **Lindy.ai** | **84** | B | Flo Crivello | Founder/CEO | lindy.ai | $100M+ funded AI assistant platform automating workflows incl. payments |
-| 10 | **Unit** | **82** | A | Itai Damti | CEO | unit.co | Embedded finance for AI platforms; agent-payment infrastructure |
+| 10 | **Stitch Money** 🆕 | **84** | A | Kiaan Pillay (CEO), Priyen Pillay, Natalie Cuthbert | CEO | stitch.money | South African payments infra (pay-ins, payouts, in-store) — just raised **$25M+ Series A**; auto-billing/payouts is core; .money TLD is a hack — payauto.ai is the upgrade (source: Wikipedia + live site; email info@stitch.money — H confidence, listed on site) |
+| 11 | **Unit** | **82** | A | Itai Damti | CEO | unit.co | Embedded finance for AI platforms; agent-payment infrastructure |
 
 ### TIER 2: WARM LEADS (DMPS 60–79)
 
@@ -71,11 +72,13 @@
 | 12 | **Adyen** | **80** | A | Pieter van der Does | CEO | adyen.com | Enterprise payments; expanding into embedded/AI-platform payments |
 | 13 | **Solid** | **78** | A | Arjun Narula | CEO | solidfi.com | Banking-as-a-service for AI agents; agent-issued payments |
 | 14 | **Checkout.com** | **78** | A | Guillaume Pousaz | CEO | checkout.com | Payment infrastructure for AI companies; "payauto" describes their API |
-| 15 | **AutoGPT** | **75** | B | Significant Gravitas (Toran Richards) | Founder | auto-gpt.io | Autonomous AI executing tasks end-to-end — agents that must pay to finish tasks |
-| 16 | **Rabbit** | **73** | B | Jesse Lyu | CEO | rabbit.tech | Rabbit R1 AI device that transacts on your behalf |
-| 17 | **Agent.ai** | **72** | B | Doshi (platform) | Founder | agent.ai | Agent orchestration platform; needs payments layer + brand |
-| 18 | **AgentOps** | **70** | B | Alex Reibman | Co-Founder/CEO | agentops.ai | Agent observability; expanding into agent commerce |
-| 19 | **Amazon (ex-Adept)** | **68** | A | Andy Jassy | CEO | amazon.com | Acquired Adept's team/tech (June 2025); Alexa+ agents will transact — long shot but massive |
+| 15 | **Agentin AI** 🆕 | **76** | B | (Founders per YC Launch page) | CEO | agentin.ai | **"AI Agents to Automate Quote-to-Cash"** — orders → invoicing → payments, Salesforce/NetSuite/SAP integration; auto-payments IS the product (source: YC Launch; email founders@agentin.ai — L confidence, pattern-guessed) |
+| 16 | **AutoGPT** | **75** | B | Significant Gravitas (Toran Richards) | Founder | auto-gpt.io | Autonomous AI executing tasks end-to-end — agents that must pay to finish tasks |
+| 17 | **Capi Money** 🆕 | **74** | B | Scott Liddle (CEO), Mitch Riley | CEO | capimoney.com | Pay-auto for emerging-markets payroll vendors — "Helping businesses in emerging markets make [payments] international" (source: YC company page); active fundraiser |
+| 18 | **Rabbit** | **73** | B | Jesse Lyu | CEO | rabbit.tech | Rabbit R1 AI device that transacts on your behalf |
+| 19 | **Agent.ai** | **72** | B | Doshi (platform) | Founder | agent.ai | Agent orchestration platform; needs payments layer + brand |
+| 20 | **AgentOps** | **70** | B | Alex Reibman | Co-Founder/CEO | agentops.ai | Agent observability; expanding into agent commerce |
+| 21 | **Amazon (ex-Adept)** | **68** | A | Andy Jassy | CEO | amazon.com | Acquired Adept's team/tech (June 2025); Alexa+ agents will transact — long shot but massive |
 
 ---
 
@@ -96,3 +99,11 @@
 ---
 
 *Lead list prepared for outreach-architect. Micro-messages in 02-outreach/micro-messages_payauto.ai.md.*
+
+---
+
+## Owner-File Review Notes (2026-08-12)
+
+- **Mastercard (Agent Pay)** — **SKIPPED-DUP**: already #3 on this list (Michael Miebach, DMPS 93). No new entry needed.
+- **Agentin AI, Stitch Money, Capi Money** added above from owner's `domain_buyer_prospects.md` (commit 08ce6b9) — all verified live (agentin.ai, stitch.money, capimoney.com return 200; YC pages confirm positioning).
+- **Contact sheet** for the top 8 leads (pre-repositioning list) exists at `01-research/contact_payauto.ai.md` — new leads have emails inline above (Stitch H, Agentin L) and do not duplicate the contact sheet.

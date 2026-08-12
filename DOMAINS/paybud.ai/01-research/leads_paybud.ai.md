@@ -43,21 +43,24 @@
 |---|---------|------|---------|---------------|------|---------|--------------|
 | 1 | **Mint** (Intuit) | **92** | A | Sasan Goodarzi (CEO, Intuit) | CEO | mint.intuit.com | Iconic budgeting app; expanding AI capabilities (Intuit Assist); "paybud" fits their friendly finance mission |
 | 2 | **Chime** | **90** | B | Chris Britt (CEO & Co-Founder) | CEO | chime.com | Leading neobank ($25B+); built-in savings/budgeting features; "paybud" could brand a new AI budgeting assistant |
-| 3 | **Rocket Money** | **88** | B | Haroon Mokhtarzada (CEO & Co-Founder) | CEO | rocketmoney.com | Fast-growing subscription/budgeting app; current domain is long; "paybud" is a major upgrade |
-| 4 | **YNAB** (You Need A Budget) | **85** | B | Todd Curtis (CEO) | CEO | ynab.com | Premium budgeting app; loyal power users; expanding AI features |
-| 5 | **Monzo** | **83** | B | TS Anil (CEO) | CEO | monzo.com | UK neobank with strong budgeting features; expanding into AI financial insights |
+| 3 | **Allowance** 🆕 | **90** | B | Dasmer Singh (Founder, ex-Head of Product Cash App Families) | CEO | useallowance.com | **"The spend control layer for AI agents"** — virtual cards with budgets (source: YC company page, verified live). STRONGEST thesis fit: agent-wallet = paybud for AI agents |
+| 4 | **Agentcard** 🆕 | **88** | B | Karen Serfaty (CEO), Felipe Abellos (CTO) | CEO | agentcard.sh | **"Debit cards for AI agents: budget, single-use cards, auto-close"** (source: YC Launch page, verified live). Current .sh TLD is hacky — paybud.ai is the natural upgrade (email founders@agentcard.sh — M confidence) |
+| 5 | **Rocket Money** | **88** | B | Haroon Mokhtarzada (CEO & Co-Founder) | CEO | rocketmoney.com | Fast-growing subscription/budgeting app; current domain is long; "paybud" is a major upgrade |
+| 6 | **YNAB** (You Need A Budget) | **85** | B | Todd Curtis (CEO) | CEO | ynab.com | Premium budgeting app; loyal power users; expanding AI features |
+| 7 | **Monzo** | **83** | B | TS Anil (CEO) | CEO | monzo.com | UK neobank with strong budgeting features; expanding into AI financial insights |
 
 ### TIER 2: WARM LEADS (DMPS 60–79)
 
 | # | Company | DMPS | Persona | Decision-Maker | Role | Notes |
 |---|---------|------|---------|---------------|------|-------|
-| 6 | **SoFi** | **78** | A | Anthony Noto (CEO) | CEO | All-in-one fintech; expanding AI budgeting/planning tools |
-| 7 | **Albert** | **76** | B | Yinon Ravid (CEO) | CEO | AI-powered banking + budgeting app; "paybud" directly matches their value prop |
-| 8 | **Cleo** | **74** | B | Barney Hussey-Yeo (CEO) | CEO | AI budgeting assistant with personality; "paybud" is their exact concept |
-| 9 | **Digit** | **72** | B | (Founder) | CEO | Automatic savings + budgeting app; could use as brand refresh |
-| 10 | **N26** | **70** | A | Valentin Stalf (CEO) | CEO | German neobank; expanding budgeting features; US market exit complicates |
-| 11 | **Revolut** | **68** | B | Nikolay Storonsky (CEO) | CEO | Super-app fintech; budgeting + analytics features |
-| 12 | **Truebill** (Rocket Money) | **65** | B | (Now Rocket Money) | — | Already rebranded; less likely to acquire again |
+| 8 | **SoFi** | **78** | A | Anthony Noto (CEO) | CEO | All-in-one fintech; expanding AI budgeting/planning tools |
+| 9 | **Carrot Labs / SuperPenguin** 🆕 | **76** | B | (YC W26 founder per YC directory) | CEO | **"AI Cost Management: Track and attribute AI spend across every provider"** (YC company page, verified live; superpenguin.ai — "Know where your AI spend goes"). Budgeting infra for AI-agent cost — exact domain thesis |
+| 10 | **Albert** | **76** | B | Yinon Ravid (CEO) | CEO | AI-powered banking + budgeting app; "paybud" directly matches their value prop |
+| 11 | **Cleo** | **74** | B | Barney Hussey-Yeo (CEO) | CEO | AI budgeting assistant with personality; "paybud" is their exact concept |
+| 12 | **Digit** | **72** | B | (Founder) | CEO | Automatic savings + budgeting app; could use as brand refresh |
+| 13 | **N26** | **70** | A | Valentin Stalf (CEO) | CEO | German neobank; expanding budgeting features; US market exit complicates |
+| 14 | **Revolut** | **68** | B | Nikolay Storonsky (CEO) | CEO | Super-app fintech; budgeting + analytics features |
+| 15 | **Truebill** (Rocket Money) | **65** | B | (Now Rocket Money) | — | Already rebranded; less likely to acquire again |
 
 ---
 
@@ -70,5 +73,9 @@
 - **Tone:** Friendly, warm, approachable. "Bud" = buddy = the AI assistant everyone wants for their money.
 
 ---
+
+## 4. Owner-File Review Notes (2026-08-12)
+
+**Orite** ("Give your AI Agent money. Not a blank check." — pre-launch Product Hunt, Aug 7 2026) — **SKIPPED, unverified**: orite.ai / useorite.com do not resolve; orite.com is an unrelated Australian web-design agency. No matching company site or named founder could be confirmed. Revisit if a real site + exec appears post-launch.
 
 *Lead list prepared for outreach-architect.*

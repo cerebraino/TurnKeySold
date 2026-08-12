@@ -53,7 +53,7 @@
 | Roark | ✅ ADDED (Tier 1, 83) | Verified: roark.ai "Voice AI Testing & Evals"; james@roark.ai (M) |
 | Momentic | ✅ ADDED (Tier 1, 82) | Verified: momentic.ai "AI Testing Platform"; $15M Series A (M) |
 
-### 6. Agizent.com — 3 added, 2 skipped (1 unverified, 1 shared)
+### 6. Agizent.com — 4 added, 1 skipped (1 unverified)
 | Prospect | Verdict | Reason |
 |---|---|---|
 | Oak | ✅ ADDED (Tier 1, 90) | Verified: TechCrunch title "$60M... fix the identity mess that AI agents are making worse"; oak.id "AI-Native Identity Operating System"; awkward .id TLD |
@@ -78,7 +78,7 @@
 | Metric | Count |
 |---|---|
 | Prospects reviewed | 34 |
-| **ADDED** (verified) | **25** (12 with M-confidence emails from owner's tool-fetched sources; 3 L-confidence pattern emails flagged) |
+| **ADDED** (verified) | **26** (12 with M-confidence emails from owner's tool-fetched sources; 3 L-confidence pattern emails flagged) |
 | **REJECTED** (thin/unverifiable) | **6** (Easybilling, Appaca, BetterClaw, Xirp, AgentX, Orite) |
 | **SKIPPED-DUP** | **1** (Mastercard — already in payauto.ai list) |
 | **SKIPPED-UNVERIFIED** | **1** (Kairos — company mismatch) |

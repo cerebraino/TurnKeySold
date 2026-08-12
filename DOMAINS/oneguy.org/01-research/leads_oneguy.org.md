@@ -3,7 +3,7 @@
 > **Researcher:** domain-researcher | **Date:** 2026-07-24 | **NEW**
 > **Domain:** OneGuy.org | **Tagline:** "Run an entire company. Be One Guy."
 > **Concept:** AI-enabled one-person organization. .org = community, mission, movement.
-> **Value:** $500–$3,000 | **Anchor:** $2,000
+> **Value:** $3,000–$10,000 | **Anchor:** $6,000–$8,000 (revised 2026-08-12 — "one person company" thesis now mainstream; see oneguY-solo-ai-expansion.md)
 
 ---
 

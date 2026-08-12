@@ -60,7 +60,7 @@
 | # | Company | DMPS | Persona | Decision-Maker | Role | Contact | Intent Signal |
 |---|---------|------|---------|---------------|------|---------|--------------|
 | 1 | **Harvey AI** | **96** | B | Winston Weinberg (CEO & Co-Founder) | CEO | harvey.ai — San Francisco, CA | THE defining AI legal startup; raised $100M+ Series C (Sequoia, OpenAI); current domain harvey.ai is good but KnowLaw.ai is a category-killer upgrade |
-| 2 | **Ironclad** | **90** | A | Cai GoGwilt (Co-Founder & Chief Architect) | Co-Founder | ironclad.com — San Francisco, CA | Leading contract lifecycle management; expanding AI capabilities; raised $270M+; could use KnowLaw for AI product line |
+| 2 | **Ironclad** | **90** | A | Cai GoGwilt (Co-Founder & Chief Architect) | Co-Founder | ironcladhq.com — San Francisco, CA | Leading contract lifecycle management; expanding AI capabilities; raised $270M+; could use KnowLaw for AI product line |
 | 3 | **Casetext** (Thomson Reuters) | **89** | A | Jake Heller (CEO & Co-Founder) | CEO | casetext.com — San Francisco, CA | Acquired by Thomson Reuters for $650M (2023); flagship AI product "CoCounsel" needs category-defining domain for brand expansion |
 | 4 | **LexisNexis** (RELX) | **85** | A | Mike Walsh (CEO, LexisNexis North America) | CEO | lexisnexis.com — NYC/Dayton, OH | Giant legal publisher launching AI tools; "Lexis+ AI" launched 2023; KnowLaw could anchor their AI sub-brand |
 | 5 | **Clio** | **83** | B | Jack Newton (CEO & Founder) | CEO | clio.com — Burnaby, BC, Canada | Leading legal practice management SaaS; expanding AI features; Clio Duo launched; KnowLaw.ai could be a vertical AI product |
@@ -157,3 +157,12 @@
 - **Clio and Ironclad** are the leading legal tech SaaS companies actively advertising on AI/legal keywords — both are solid domain buyers.
 - The "know law" phrase positions as **consumer legal education** — distinct from the enterprise legal AI tools dominating the SERP. This could appeal to legal publishers (Nolo, LegalZoom, Rocket Lawyer) as a content/education brand.
 - **DMPS bonus:** Thomson Reuters, LexisNexis, Clio, Ironclad, Harvey AI (+10 each). Harvey AI revised DMPS: 96 → **106** (effectively maxed out).
+
+---
+
+## Owner-File Review Notes #1 (domain-researcher, 2026-08-12)
+
+- **Ironclad website corrected:** `ironclad.com` → `ironcladhq.com` — legal-tech Ironclad's real domain. `ironclad.com` is an unrelated workwear company (Ironclad Performance Wear); outreach to the wrong domain would go nowhere.
+- **Exec contacts for the 7 top leads:** see `contact_knowlaw.ai.md` — Harvey (Winston Weinberg, M), Ironclad (Jason Boehmig CEO, LinkedIn H via YC; Cai GoGwilt co-founder per leads file), Casetext (Jake Heller, LinkedIn H via YC), LexisNexis (Mike Walsh), Clio (Jack Newton), Luminance (Emily Foges), Levelset (Chris Lehnen).
+- **MISSING (owner lookup):** direct emails for all execs (only format-inferred addresses exist); personal LinkedIn for LexisNexis/Levelset/GoGwilt.
+- **Leadership flags:** Casetext acquired by Thomson Reuters (2023) — decision authority may sit with TR; verify Jake Heller's current role. LexisNexis exec title to verify.

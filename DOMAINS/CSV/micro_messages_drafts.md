@@ -1,5 +1,5 @@
 # Micro-Message Drafts — Full Portfolio (146 domains)
-> **CSV part 2 (architect):** one sample micro-message per domain → column 5 (sample_micro_message) of full_portfolio_ranked.csv
+> **CSV part 2 (architect):** one sample micro-message per domain → column 5 (sample_micro_message) of TurnKeySold_Full_Portfolio_Ranked.csv
 > **Framework:** Three-Line (their world → their stakes → the name that fits) | **Spec:** 150–220 chars, no pricing, no links, no "I'm the owner"
 > **Sources:** top DMPS lead per domain's leads_*.md; approved micros reused verbatim where they exist; ES/PT where the market is Spanish/Portuguese-speaking.
 > **QA note:** sweep ALL blocks at the end (incl. mirrored pairs); count = 146 domains exactly once.

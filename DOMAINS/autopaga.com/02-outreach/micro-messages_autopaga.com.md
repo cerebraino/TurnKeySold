@@ -1,11 +1,11 @@
 # Top 4 Micro-Messages — autopaga.com (Pagos Automáticos, ES/LATAM)
-> **Framework:** Three-Line | **Máx:** 250 caracteres (objetivo 150–220) | **Idioma:** Español
+> **Framework:** Three-Line | **Máx:** 220 caracteres (objetivo 150–220)
 > **Reglas:** señal real → 'el dominio premium [Dominio]' → micro-pregunta. Sin precios, sin enlaces, sin 'yo tengo'.
 > **Bundle:** funciona igual con PayAuto.ai — mismo mensaje, dominio intercambiable (par: LATAM + global).
 
 ### 1. Mercado Pago — Marcos Galperin (CEO)
 - **Señal:** Líder de pagos LATAM; Meli, su asistente de IA, integrado en el ecosistema de compras
-- **Mensaje (225 chars [OK]):** Mercado Pago lidera los pagos en LATAM y su asistente de IA, Meli, ya vive dentro del ecosistema. El dominio premium autopaga.com dice literalmente "paga automáticamente" — el nombre de la categoría en español. ¿Te interesa?
+- **Mensaje (214 chars [OK]):** Mercado Pago lidera los pagos en LATAM y su asistente de IA, Meli, ya vive en el ecosistema. El dominio premium autopaga.com dice literalmente "paga automáticamente" — el nombre de la categoría en español. ¿Te interesa?
 
 ### 2. Clip — Adolfo Babatz (CEO)
 - **Señal:** Plataforma líder de pagos para SMBs en México; expande pagos digitales e IA

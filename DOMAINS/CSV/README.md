@@ -1,9 +1,9 @@
-# full_portfolio_ranked.csv — Methodology Note
+# TurnKeySold_Full_Portfolio_Ranked.csv — Methodology Note
 
 **Built:** 2026-08-12 by domain-researcher (task 173d2bb9, owner request "FULL PORTFOLIO ranked CSV").
 **Revised:** 2026-08-14 — fixed the 15 "not yet researched" rows whose leads files were missed by the original case-sensitive scan (uppercase filenames like leads_Puticlub.online.md / leads_Dalai.co.md, plus lowercase ones like leads_paycarai.com.md); filled buyer categories + top-3 companies in place from each domain's own leads file, and resolved automoviles.ai's value from its $5K–$20K appraisal range ($12,500 midpoint). Column 5 (micro-messages, architect's part 2) untouched.
 **Source:** every domain dir under `DOMAINS/` in the repo (146 dirs = 145 domains + coldbeerportfolio bundle).
-**Output:** `/home/team/shared/DOMAINS/CSV/full_portfolio_ranked.csv` — 5 columns, 146 data rows, ranked most → least valuable.
+**Output:** `/home/team/shared/DOMAINS/CSV/TurnKeySold_Full_Portfolio_Ranked.csv` — 5 columns, 146 data rows, ranked most → least valuable.
 
 ## Columns
 1. **Domain** — folder name under `DOMAINS/`.

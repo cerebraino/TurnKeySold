@@ -1,279 +1,206 @@
 # TurnKeySold — Repository Index (LLM & Human Onboarding)
 
-> **Read this first.** This file is the single entry point to understand every asset in this repository, how the information is structured, and which guiding documents govern the work. It exists so a future LLM or team member can reach full context **without exploring 600+ files**.
+> **Read this first.** This is the single canonical entry point to understand every asset in this repository, how the information is structured, and which guiding documents govern the work. A future LLM (or new team member) should be able to read **only this file** and reach full context — without exploring 600+ files.
 >
-> **Last updated:** 2026-08-15 · **Repo:** `cerebraino/TurnKeySold` · **Portfolio:** 145 domains + 1 bundle
+> **Last updated:** 2026-08-15 · **Repo:** `cerebraino/TurnKeySold` · **Portfolio:** 145 domains + 1 bundle (coldbeerportfolio) = 146 dirs in `DOMAINS/`
 
 ---
 
-## 1. What This Repository Is
+## Quick Reference (asset type → location → status → format doc)
 
-TurnKeySold is an **agentic premium-domain sales operation**. This repository is its **single canonical source of truth** (see Principle P1) — it contains:
+| Asset | Location | Status (ASSET_AUDIT 2026-08-14) | Defines the format |
+|---|---|---|---|
+| Appraisal / value (A1) | `01-research/leads_<domain>.md` §1 | 146/146 | — |
+| Buyer categories (A2) | `01-research/leads_<domain>.md` §2 | 146/146 | `COMPANY/research-framework.md` |
+| DMPS-scored leads (A3) | `01-research/leads_<domain>.md` §3 | 146/146 | `COMPANY/research-framework.md` |
+| Verified exec contact sheets (A4) | `01-research/contact-sheet_<domain>.md` (+ older `contact_<domain>.md`) | ~95/146 (103 in in-progress batch-4) | `docs/assets/ASSET_CHECKLIST.md` |
+| Outreach email packs (A5) | `02-outreach/email-pack_<domain>.md` | 100/146 | header block in any `email-pack_*.md` |
+| Micro-messages (A6) | `02-outreach/micro-messages_<domain>.md` | **146/146 claimed — ⚠️ only 28 files verified in repo** | `docs/methodology/three-line-outreach-framework.md` |
+| Outreach briefs (B1) | `02-outreach/brief_<domain>.md` | 145/146 (coldbeerportfolio n/a) | `COMPANY/campaign-playbook.md` |
+| Google ad enrichment (B2) | embedded in `leads_<domain>.md` | 22 domains | — |
+| Google Alerts (B3) | `google_alerts_v2.csv` | 127 domains | — |
 
-1. **Per-domain sales assets** — for 145+ domains, the full research-to-outreach pipeline: appraisals, buyer lead lists (DMPS-scored), verified executive contact sheets, outreach briefs, email packs, and micro-messages.
-2. **Guiding documents** — the company's methodology, brand, playbooks, and the *decision/knowledge architecture* that defines how the organization thinks.
-3. **Structured data** — CSVs of the full portfolio, domain values, Google Alert queries, and outreach contact lists.
-4. **The website** — `WEBSITE/` (TurnKeySold.com source).
-
-The **business model**: success-fee commission (20%) on domain sales. No upfront fees. The **founding bet**: if agents can systematically sell domains, they can sell anything.
-
----
-
-## 2. The Mental Model (How to Think About This Repo)
-
-The repository encodes one core loop (from `docs/architecture/KNOWLEDGE_MODEL.md`):
-
-```
-Source → Evidence → Hypothesis → Contact → Outcome → Learning → Pattern → Principle → Playbook
-```
-
-Every domain folder is a vertical slice of that loop, frozen at the "research → ready-to-outreach" stage. The **guiding documents** (`docs/`, `COMPANY/`) describe *how to keep running* the loop. The **CSVs** are the *queryable* projection of the narrative files.
-
-**Key insight:** The repo is organized **per-domain** (content) + **cross-cutting** (governance + structured data). Do not look for a single "master file" — instead, learn the *file-type vocabulary* in §5, then navigate by type, not by browsing.
+> ⚠️ **Verification flags (do not propagate the audit's numbers blindly):** (1) A6 "146/146 per-domain files" is **not** reflected in the repo — only 28 `micro-messages_*.md` files exist; the full 146-domain micro-message content lives in `DOMAINS/CSV/TurnKeySold_Full_Portfolio_Ranked.csv` (col 5) + `DOMAINS/CSV/micro_messages_drafts.md`. (2) The email-pack body policy is **"<100 words"** (not "<60 words" — that was an earlier assumption; micro-messages are the short 150–220-char ones).
 
 ---
 
-## 3. Top-Level Map
+## 1. Repo Purpose & Current State
+
+**TurnKeySold Domains** — a TurnKeySold venture. **Mission:** build the best agentic sales company in the world, starting with premium domains. **Revenue model:** 20% success-fee commission on closed sales; no upfront fees. **Tagline:** *Premium domains, sold on purpose.*
+
+This repo is the **single canonical source of truth** (Architecture Principle P1). It holds the complete research-to-outreach pipeline for the domain portfolio: appraisals, DMPS-scored buyer lead lists, verified contact sheets, pricing-free outreach briefs, email packs, and micro-messages — plus the methodology/architecture that governs the work.
+
+**Current coverage** (from `ASSET_AUDIT_2026-08-14.md`, which is the LIVE tracker updated as batches merge):
+
+| Layer | Coverage |
+|---|---|
+| A1 Appraisal | 146/146 |
+| A2 Buyer categories | 146/146 |
+| A3 Buyer companies + execs (DMPS) | 146/146 |
+| A4 Verified exec contact sheets | ~95/146 (103 in in-progress batch-4 branch) |
+| A5 Outreach email packs | 100/146 |
+| A6 Micro-messages | 146/146 claimed (⚠️ 28 verified — see flag above) |
+| B1 Outreach briefs | 145/146 |
+| B2 Google ad enrichment | 22 leads files |
+| B3 Google Alerts | 127 domains |
+
+**The research layer (A1–A3, B1) is complete. The execution layer (A4–A6) is still being backfilled** in ~25-domain batches ordered by value rank.
+
+---
+
+## 2. Directory Map
 
 ```
 TurnKeySold/
-├── README.md                      ← Older index (still useful; superseded by this file for detail)
-├── REPO_INDEX.md                  ← THIS FILE — authoritative navigation
+├── README.md                      ← Stale index (says "131 domains" — WRONG). See REPO_INDEX.md (this file).
+├── REPO_INDEX.md                  ← THIS FILE — canonical navigation
 │
-├── COMPANY/                       ← Brand + methodology (guiding docs)
-│   ├── brand-identity.md          ← Brand guidelines, positioning, voice, tone
-│   ├── campaign-playbook.md       ← Outreach campaign methodology (design framework)
-│   ├── research-framework.md      ← Domain valuation + buyer research methodology (DMPS scoring)
-│   ├── seller-onboarding.md       ← New client onboarding process
-│   ├── website-brief.md           ← Original TurnKeySold.com requirements
-│   └── website-final-copy.md      ← Final website copy & structure (what was built)
+├── DOMAINS/                       ← 146 per-domain packages (145 domains + coldbeerportfolio)  ← CORE CONTENT
+│   ├── CSV/                       ← Master ranked portfolio CSV + micro-message drafts
+│   └── [domain]/                  ← lowercase, dot-included (e.g. agizent.com)
+│       ├── 01-research/           ← leads, contact sheets, expansions
+│       └── 02-outreach/           ← briefs, email packs, micro-messages
 │
-├── docs/                          ← Architecture, asset standards, methodology
-│   ├── architecture/              ← HOW THE ORGANIZATION THINKS (see §4)
-│   ├── assets/                    ← Asset completeness checklist + gap analysis
-│   ├── methodology/               ← Three-Line outreach framework + messages
-│   └── outreach-contact-list-*.csv/.md  ← Master exec contact lists (see §6)
-│
-├── DOMAINS/                       ← 146 per-domain packages (145 domains + 1 bundle)  ← CORE CONTENT
-│   ├── CSV/                       ← Full-portfolio ranked CSV + micro-message drafts
-│   └── [domain]/                  ← One folder per domain (lowercase, dot-included)
-│       ├── 01-research/           ← Leads, valuations, contact sheets, expansions
-│       └── 02-outreach/           ← Briefs, email packs, micro-messages, outreach
-│
-├── OUTREACH/                      ← Master outreach assets (email templates, old alert CSV)
-├── PORTFOLIO/                     ← Portfolio-level analysis + appraisal CSVs
-├── WEBSITE/                       ← TurnKeySold.com HTML/CSS (live site source)
+├── COMPANY/                       ← Brand + methodology (brand-identity, campaign-playbook, research-framework, seller-onboarding, website-brief)
+├── OUTREACH/                      ← Master email templates + older alert/email CSVs
+├── PORTFOLIO/                     ← Portfolio analysis + appraisal CSVs
+├── WEBSITE/                       ← TurnKeySold.com HTML/CSS source
+├── docs/                          ← Architecture, asset standards, methodology (see below)
 ├── contact-verification/          ← Batch contact-verification findings (2026-08-14)
 │
-└── (top-level CSVs, owner research docs, Genspark xlsx exports — see §6)
+└── (root CSVs + owner research .md + Genspark .xlsx exports — see §6)
 ```
 
+**`docs/` subdirectories:**
+- `docs/architecture/` — `DECISION_ARCHITECTURE.md`, `KNOWLEDGE_MODEL.md`, `METADATA_STANDARD.md`, `ARCHITECTURE_PRINCIPLES.md`, `knowledge-architecture-review.md`, `phase1-preparation.md`, `phase1-report.md`
+- `docs/methodology/` — `three-line-outreach-framework.md`, `three-line-messages-36-domains.md`
+- `docs/assets/` — `ASSET_CHECKLIST.md`, `GAP_ANALYSIS_2026-08-12.md`
+
 ---
 
-## 4. Guiding Documents (Read These to Understand "The Why")
+## 3. Per-Domain Structure
 
-### 4A. Architecture — *How the organization reasons* (`docs/architecture/`)
+For a domain dir, e.g. `DOMAINS/agizent.com/`:
 
-| File | Purpose | When to read |
-|---|---|---|
-| `KNOWLEDGE_MODEL.md` | The conceptual model: fundamental concepts (Organization, Person, Domain, Source, Evidence, Market) and derived concepts (Hypothesis, Opportunity, Contact, Learning, Pattern, Principle, Playbook, Bundle, Outcome, Campaign). Defines what knowledge must exist and how it compounds. | First, to understand the vocabulary |
-| `DECISION_ARCHITECTURE.md` | How decisions are made: tactical/operational/strategic/constitutional tiers; three authority zones (Agent → Lead → Founder); confidence model; assumptions lifecycle; experiments; belief revision. | To understand *who decides what* |
-| `ARCHITECTURE_PRINCIPLES.md` | **P1–P10** — the 10 non-negotiable principles governing all repo changes (canonical source, structured data, relationships, templates, provenance, naming, delete-vs-duplicate, git reversibility, lifecycle tracking, LLM navigation). **Ratified, founder-level.** | Before making *any* structural change |
-| `METADATA_STANDARD.md` | The YAML-frontmatter provenance standard every knowledge artifact should carry (artifact_id, created_by, source, confidence, etc.). **Proposed** (not yet enforced). | When creating/editing research artifacts |
-| `knowledge-architecture-review.md` | The Chief Knowledge Architect assessment: current gaps, entity model, proposed `_templates/`/`_data/`/`_indexes/`/`_playbooks/` restructuring, 5-phase roadmap. **Design doc, not yet implemented.** | To understand the *planned* target architecture |
-| `phase1-preparation.md` | Pre-cleanup inventory + migration plan (what shared-vs-repo divergence looked like). Historical. | Context only |
-| `phase1-report.md` | Phase 1 completion report (dedup, lowercase renaming, `v0.1-stable` tag). Historical. | Context only |
-
-### 4B. Asset Standards (`docs/assets/`)
-
-| File | Purpose |
+### `01-research/` — WHAT WE KNOW
+| File | Contains |
 |---|---|
-| `ASSET_CHECKLIST.md` | Defines the "complete bar" for each asset type (A1–A6 core, B1–B6 supporting). The canonical reference for what a domain folder *should* contain. |
-| `GAP_ANALYSIS_2026-08-12.md` | Mechanical gap scan (which domains lack which assets) + fill-the-gaps sequencing plan. |
+| `leads_<domain>.md` | §1 valuation (comparables, brandability /50, value range, anchor) · §2 buyer categories · §3 ranked DMPS lead table (Tier 1 = 80–100, Tier 2 = 60–79) · optional Google Search Enrichment · owner-file review notes |
+| `contact-sheet_<domain>.md` | **NEW** Group-1 verified exec contact sheets — per-company blocks in DMPS order, H/M/L confidence, "best exec to reach", and **§0 MISSING-CONTACTS summary** (owner follow-up list) |
+| `contact_<domain>.md` | **OLDER** naming for flagship domains (same content shape, being superseded by `contact-sheet_`) |
+| `*-buyer-expansion.md`, `*-buyers.md`, `*-intel.md` | Expanded buyer universe (20–40+ companies) and corporate deep-dives (e.g. `trinity-healthcare-intel.md`) |
 
-### 4C. Methodology (`docs/methodology/` + top-level copies)
-
-| File | Purpose |
+### `02-outreach/` — WHAT WE SAY
+| File | Contains |
 |---|---|
-| `three-line-outreach-framework.md` | The **Three-Line Framework** — the core cold-outreach methodology (signal → strategic bridge → tiny ask; ≤250 chars; no pricing, no "I own", no links). Authoritative. |
-| `three-line-messages-36-domains.md` | Pre-written three-line messages for 36 domains. |
+| `brief_<domain>.md` | Pricing-free positioning brief: overview, lead summary, messaging strategy, email/LinkedIn templates, objection handling, **internal pricing** (always behind a marker, never in copy) |
+| `micro-messages_<domain>.md` | 150–220-char Three-Line one-liners per top-10 leads (signal → bridge → tiny ask). **A6 target: 146/146; only 28 files actually in repo** |
+| `email-pack_<domain>.md` | **NEW canonical format**: header block (Domain/Anchor/Policy/Sources/Contacts) + 5 leads, each with Context / Subject / Email / Follow-up Day 3 + 7 + 14 / Motivation button |
+| `outreach-<domain>.md` | **OLD format** (flagship domains) — being converted to the `email-pack_` format |
 
-### 4D. Company (`COMPANY/`)
+### `03-buyer-intel/` — brand research deep-dives
+e.g. `slimmeds-brand-research.md` (companies already using "Slim Meds" phrasing + USPTO analysis). Also `03-results/` holds sale records for sold domains (LeanMeds.com).
 
-| File | Purpose |
+**Naming-convention note:** the repo is mid-migration. `outreach-<domain>.md` (old, hyphen, ~26 files) is being replaced by `email-pack_<domain>.md` (new, underscore, 100 files). `contact_<domain>.md` (old, ~20 files) is being replaced by `contact-sheet_<domain>.md` (new, 75 files). Read the **new** format first; treat old files as legacy for flagship domains.
+
+---
+
+## 4. Asset Audit (LIVE coverage tracker)
+
+`ASSET_AUDIT_2026-08-14.md` is the live coverage tracker, updated as batches merge. It defines 9 asset types:
+
+| ID | Asset | Meaning |
+|---|---|---|
+| A1 | Appraisal | Defensible value (comparables + brandability + range) |
+| A2 | Buyer categories | 3+ industry targets per domain |
+| A3 | DMPS leads | Ranked buyer companies with execs |
+| A4 | Verified contact sheets | Exec contact channels (H/M/L confidence, §0 missing list) |
+| A5 | Email packs | Initial + Day 3/7/14 follow-ups, top-5 leads |
+| A6 | Micro-messages | Short personalized one-liners |
+| B1 | Briefs | Pricing-free positioning brief |
+| B2 | Google ad enrichment | Paid/organic competitor landscape (embedded in leads) |
+| B3 | Google Alerts | Buyer-signal monitoring queries |
+
+Current status is quoted in §1. The gap-fill plan (dispatched 2026-08-14) is: micro-message split → contact sheets (researcher, value-ranked batches) → email packs (architect, ~25/batch).
+
+---
+
+## 5. Guiding Documents & Skills (one paragraph each)
+
+- **`docs/architecture/DECISION_ARCHITECTURE.md`** — the decision protocol: tactical/operational/strategic/constitutional tiers; three authority zones (Agent → Lead → Founder); confidence model (HIGH/MEDIUM/LOW); assumption lifecycle; experiment discipline; belief revision. Read when you need to know *who decides what and how*.
+- **`docs/architecture/KNOWLEDGE_MODEL.md`** — the conceptual vocabulary (Organization, Person, Domain, Source, Evidence, Market; Hypothesis, Opportunity, Contact, Learning, Pattern, Principle, Playbook, Bundle, Outcome, Campaign) and the core intelligence loop. Read first to understand the shared vocabulary.
+- **`docs/architecture/METADATA_STANDARD.md`** — the YAML-frontmatter provenance standard (artifact_id, created_by, source, confidence). Proposed, not yet enforced. Read before creating/editing research artifacts.
+- **`docs/architecture/ARCHITECTURE_PRINCIPLES.md`** — P1–P10, the non-negotiable rules (canonical source, structured data, relationships, templates, provenance, naming, delete-vs-duplicate, git reversibility, lifecycle, LLM navigation). Read before any structural change.
+- **`Three-Line_Framework_for_Premium_Domain_Outbound.md`** (= `docs/methodology/three-line-outreach-framework.md`) — the core cold-outreach methodology: signal → bridge → tiny ask, ≤250 chars, no pricing/links/"I own". Governs all outreach copy.
+- **`docs/methodology/three-line-messages-36-domains.md`** — pre-written Three-Line messages for 25–36 domain-buyer pairings (ranked strongest→weakest).
+- **`docs/assets/ASSET_CHECKLIST.md`** — the "complete" bar for each asset type A1–A6/B1–B6. Read to know what "done" means.
+- **`Domain_Buyer_Prospecting_Research_10_Domains.md`** — owner's buyer-prospecting research on 10 priority domains (NoBreak, NoFail, Automovil, KnowLaw, PayCar, HipotecaHispana, HispanoAbogado, LatinoMedico, OneGuy, PossibleAGI).
+- **`domain_buyer_prospects.md`** — buyer prospecting report (YC/Product Hunt/TechCrunch/etc. sources), ranked by ability to pay.
+- **`verdict_domain_buyer_prospects.md`** — the researcher's integration verdict: which prospects were ADDED to leads files, with source + H/M/L confidence ("add, don't remove" rule).
+- **`coldbeer-portfolio-buyers.md`** — Cold Beer portfolio (6 beer domains) buyer universe + Google Search Enrichment (top advertisers with +10 DMPS signals).
+
+---
+
+## 6. Data Files
+
+| File | Columns / Purpose |
 |---|---|
-| `brand-identity.md` | Brand guidelines, positioning ("Proactive vs. Passive"), voice ("boutique investment firm, not used car lot"). |
-| `campaign-playbook.md` | Outreach campaign design framework. |
-| `research-framework.md` | Domain valuation + buyer research methodology (the DMPS scoring system's home). |
-| `seller-onboarding.md` | New client onboarding process. |
-| `website-brief.md` / `website-final-copy.md` | Website requirements and final copy. |
+| `DOMAINS/CSV/TurnKeySold_Full_Portfolio_Ranked.csv` | **The value-ranked master portfolio index.** 146 rows, ranked by value. Cols: `Domain, Approx Defensible Market Value, Main 3 Buyer Categories, Top-3 Companies, Sample Micro-Message` |
+| `DOMAINS/CSV/micro_messages_drafts.md` | Pre-split source of all micro-messages (split into per-domain files — incomplete) |
+| `docs/outreach-contact-list-complete.csv` | **Exec contact master.** Cols: `#, Priority (P1/P2/P3), Batch, Name, Title, Company, Domain, LinkedIn, Email, Confidence, Motivation, Micro-Message, Has Message` |
+| `docs/outreach-contact-list-batch1.csv` | Batch-1 slice of the above (adds `Price`, `Twitter/X`, `Pitch Angle`) |
+| `NameCheap_Domain_List.csv` | Raw registrar export. Cols: `Domain Name, privacy, status, auto-renew, expiration` |
+| `domain-backlog-new.csv` (+ `PORTFOLIO/` copy) | 110 unprocessed domains. Cols: `Domain, Category, Est. Value, Priority, Notes` |
+| `google_alerts_v2.csv` | 127 domains × 2-3 buyer-signal queries. Cols: `Domain, Value Range, Primary Query, Secondary Query, Market` |
+| `OUTREACH/email-templates.md`, `outreach-email-list.csv`, `prospect-emails.md` | Reusable email frameworks + prospect lists (older) |
+| `OUTREACH/google_alerts.csv` | Older 62-domain alert queries (superseded by v2) |
+| `PORTFOLIO/full_appraisal.csv` | Appraisal spreadsheet. Cols: `Domain, Category, Est. Low/High, Brandability (1-10), Sale Potential, Top Buyer Industry, Priority` |
+| `contact-verification/batch*-findings-2026-08-14.txt` | Raw contact-verification working notes (3 batches) |
+| `Executive_contact_...xlsx`, `ViveMucho.com_...xlsx`, `Je7mTksY.xlsx` | Genspark AI Sheets research exports (owner source data) |
 
 ---
 
-## 5. Per-Domain Asset Vocabulary (The Heart of the Repo)
+## 7. Workflow & Conventions
 
-`DOMAINS/[domain]/` uses a **fixed subfolder + naming convention**. Learn these file types — they repeat across all 145 domains.
+### Git / code workflow
+From `/home/team/shared/WORKFLOW.md` (the managed code workflow):
+1. Members push code to **feature branches** and open **pull requests**.
+2. The team lead reviews and merges PRs.
+3. Before starting new work, pull the latest default branch so you branch from up-to-date code.
 
-### Structure
+- **Lead-side git ops** happen in `/home/agent-lead/TurnKeySold` (the lead's canonical working copy).
+- **Members' concurrent workspace** is `/home/team/shared/repo-review`.
+- Active feature branches (as of this writing): `research/contact-sheets-batch4`, `outreach/email-packs-batch5`, etc. — work is landed via PRs, not direct pushes to `main`.
 
-```
-DOMAINS/[domain]/                 e.g. DOMAINS/topsex.ai/
-├── 01-research/                  ← WHAT WE KNOW (research layer)
-│   ├── leads_[Domain].md         ← Primary lead list (ALWAYS present — the core file)
-│   ├── contact-sheet_[Domain].md ← Verified exec contact sheet (present for ~75 domains)
-│   ├── contact_[Domain].md       ← Older-format contact sheet (~20 domains)
-│   ├── [domain]-buyer-expansion.md  ← Expanded buyer universe (optional, ~7-13 domains)
-│   └── *-portfolio-*.md / *-buyers.md / *-intel.md  ← Cross-domain & corporate intel
-│
-└── 02-outreach/                  ← WHAT WE SAY (execution layer)
-    ├── brief_[Domain].md         ← Outreach campaign brief (ALWAYS present)
-    ├── email-pack_[Domain].md    ← Top-5 leads email pack: initial + Day 3/7/14 (~100 domains)
-    ├── micro-messages_[Domain].md  ← 150-220 char LinkedIn/X messages (~27+ domains)
-    └── outreach-[Domain].md      ← Personalized outreach messaging (~15 active-campaign domains)
-```
+### Batch convention
+Gap-filling runs in **~25-domain batches ordered by CSV value rank** (most valuable first, alphabetical within the value tier):
+- **Contact sheets (A4, researcher):** batches 1–3 merged (70→95/146); batch 4 in progress (+8 → 103). ~43 domains remain.
+- **Email packs (A5, architect):** batches 1–4 merged (24+25+25+25 + putero.online = 100/146); batch 5 in progress. ~46 domains remain.
+- **Micro-messages (A6):** claimed complete but per-domain split not fully committed (see flag in Quick Reference).
 
-### File-Type Reference (what each contains)
+### Skip rules
+- **`leanmeds.com`** — SOLD (Trinity HealthCare Supply). No further outreach assets needed.
+- **`coldbeerportfolio`** — a portfolio bundle (6 beer domains), not a single domain; no leads/brief by design ($350K anchor, AB InBev top buyer).
 
-| Asset | Naming | Contains | Coverage |
-|---|---|---|---|
-| **Lead list** | `01-research/leads_[Domain].md` | §1 Domain valuation (comparables, brandability /50, value range, anchor) · §2 Industry targets/buyer categories · §3 ranked lead table (DMPS 0–100, company, decision-maker, role, intent signal) · Google Search Enrichment (top paid/organic competitors) on ~22 domains · owner-file review notes | 147 files / 145 domains (a few domains have 2 leads files, e.g. TopSex.ai + TopSex.ai-health) |
-| **Outreach brief** | `02-outreach/brief_[Domain].md` | Domain overview · lead summary · messaging strategy · email/LinkedIn templates · objection handling · **internal pricing** (floor/target/ask — always behind a marker; never in outreach copy) | 146 files / 145 domains + coldbeerportfolio |
-| **Email pack** | `02-outreach/email-pack_[Domain].md` | Top-5 leads, each with context, subject, email body, Day 3/7/14 follow-ups, "motivation button". Pricing-free, <100 words, no "I own" framing | 100 files |
-| **Contact sheet** | `01-research/contact-sheet_[Domain].md` + `contact_[Domain].md` | Verified exec contact channels per company (email/LinkedIn/X), "best exec to reach", confidence levels (H/M/L), explicit missing-contact list | 95 total (75 `contact-sheet_` + 20 older-format `contact_`) |
-| **Micro-messages** | `02-outreach/micro-messages_[Domain].md` | 150–220 char Three-Line messages per top-10 leads | 28 per-domain files; **full content for all 146 lives in the CSV** (`TurnKeySold_Full_Portfolio_Ranked.csv` col 5) + `DOMAINS/CSV/micro_messages_drafts.md` |
-| **Personalized outreach** | `02-outreach/outreach-[Domain].md` | Deeper personalized first-touch + sequence for actively-campaigned domains | 26 files |
-| **Buyer expansion** | `01-research/*-buyer-expansion.md`, `*-buyers.md` | 20–40+ additional buyer companies with named execs, verticals, acquisition rationale | 7+ file-based + 13 documented |
-
-### The DMPS Scoring System
-
-**Domain-Market-Prospect Score (0–100)** — how likely a company is to buy the domain.
-
-| Range | Tier | Meaning |
-|---|---|---|
-| 90–100 | Hot | Direct category fit, high intent, budget likely |
-| 70–89 | Warm | Adjacent category, growing into space |
-| 50–69 | Lukewarm | Peripheral fit, speculative |
-| <50 | Cold | Remote fit, unlikely without a trigger |
-
-*(+10 bonus for companies already running paid ads on the domain's core keyword.)*
+### Content policies (verified from sample `email-pack_*.md` files)
+- **Pricing-free** — no dollar figures in outreach copy (pricing lives only behind "Internal Reference" markers in briefs).
+- **No "I own" framing** — use "the premium domain X" instead.
+- **No links** in first-touch emails.
+- **Email bodies <100 words** (note: *not* "<60 words" — that's the micro-message char range, which is 150–220 chars).
+- **No invented emails** — unverifiable exec contacts are marked `MISSING` and listed for owner follow-up; H/M/L confidence applied per contact.
 
 ---
 
-## 6. Structured Data & CSVs
+## 8. Future Work
 
-The **queryable** projection of the narrative files. Read these instead of scanning 145 folders.
-
-| File | Purpose | Columns / Notes |
-|---|---|---|
-| `DOMAINS/CSV/TurnKeySold_Full_Portfolio_Ranked.csv` | **THE master portfolio index.** All 146 rows ranked by value. | `Domain, Approx Defensible Market Value, Main 3 Buyer Categories, Top-3 Companies, Sample Micro-Message` |
-| `DOMAINS/CSV/micro_messages_drafts.md` | Pre-split micro-message drafts (source of the per-domain micro-messages files). | — |
-| `PORTFOLIO/full_appraisal.csv` | Full domain valuation spreadsheet. | — |
-| `PORTFOLIO/domain-backlog-new.csv` + `domain-backlog-new.csv` (root) | 110 unprocessed domains (NameCheap portfolio). | Duplicate copies — see P7 |
-| `PORTFOLIO/portfolio_analysis.md` | Cross-portfolio strategic analysis. | Narrative |
-| `google_alerts_v2.csv` (root) + `OUTREACH/google_alerts.csv` | Google Alert buyer-signal queries. | v2 = 127 domains × 2-3 queries; OUTREACH copy = older 62-domain version |
-| `NameCheap_Domain_List.csv` (root) | Original domain export. | Raw source |
-| `docs/outreach-contact-list-complete.csv` / `-batch1.csv` / `-master.md` | Exec contact lists (verified emails/LinkedIn + micro-messages). | Master doc has H/M/L confidence + 20 execs |
-| `OUTREACH/email-templates.md` | Reusable email frameworks. | Narrative |
-| `OUTREACH/outreach-email-list.csv` / `prospect-emails.md` | Prospect contact + email strategy. | — |
-| `contact-verification/batch*-findings-2026-08-14.txt` | Raw contact-verification findings (3 batches). | Working notes |
-
-### Owner-Provided Research Inputs (top level)
-
-| File | What it is |
-|---|---|
-| `Domain_Buyer_Prospecting_Research_10_Domains.md` | Owner's research on 10 priority domains (NoBreak, NoFail, Automovil, KnowLaw, PayCar, HipotecaHispana, HispanoAbogado, LatinoMedico, OneGuy, PossibleAGI) |
-| `domain_buyer_prospects.md` + `verdict_domain_buyer_prospects.md` | Buyer prospects + the team's integration verdict |
-| `coldbeer-portfolio-buyers.md` | Cold Beer portfolio (6 beer domains) buyer universe |
-| `Three-Line_Framework_for_Premium_Domain_Outbound.md` | Top-level copy of the Three-Line methodology |
-| `ASSET_AUDIT_2026-08-14.md` | Full-portfolio coverage audit (supersedes the 08-12 gap analysis) |
-| `Executive_contact_...Genspark...xlsx`, `ViveMucho.com_...Genspark...xlsx`, `Je7mTksY.xlsx` | Genspark AI Sheets research exports (source data for leads) |
+From `ASSET_AUDIT_2026-08-14.md` + the business plan:
+- **A4 contact sheets:** ~43 domains remaining (batches 5+).
+- **A5 email packs:** ~46 domains remaining (batch 5+).
+- **A6 micro-messages:** finish the per-domain `.md` split (28 done of 146 claimed).
+- **§0 MISSING lists** in contact sheets are owner-research items (Tier-1 execs whose direct channels couldn't be verified).
+- **Flagship pack review** in progress (old `outreach-*.md` → new `email-pack_*.md` conversion).
+- **Long-term (Phase 2+, not yet built):** `_templates/`, `_data/*.json`, `_indexes/`, `_playbooks/` restructuring (see `docs/architecture/knowledge-architecture-review.md`). Do **not** assume these exist yet.
 
 ---
 
-## 7. Domain Portfolios & Bundles
-
-Domains are grouped into strategic portfolios. The per-domain files live in `DOMAINS/`, but the *grouping* is cross-cutting intelligence:
-
-| Portfolio | Domains | Where documented |
-|---|---|---|
-| **Adult** (whorehouse.ai) | topsex.ai, whorehouse.ai, aisexshops.com, puticlub.ai, burdel.ai, putasexo.com, putero.ai, putero.online, puticlub.online | `DOMAINS/*/01-research` + `COMPANY` playbooks |
-| **Weight Loss / Slim Meds** | buyslimmeds.com, bestslimmeds.com, cheapslimmeds.com, curebyketo.com, amoketo.com, tipsketo.com, bajapanza.com (+ LeanMeds.com SOLD) | leads + briefs + `slimmeds-brand-research.md` |
-| **Cold Beer** | chelafria.com, chevefria.com, cervefria.com, birrafria.com, cervezahelada.com, umagelada.com | `DOMAINS/coldbeerportfolio/` + `coldbeer-portfolio-buyers.md` |
-| **Apuesto Family** (7) | apuesto.ad/.ai/.casino/.xyz + teapuesto.bet/.casino/.xyz | `apuesto-family-bundle.md`, `apuesto-portfolio-buyers.md` |
-| **Auto AI** | lavoiture.ai, automoviles.ai, automovil.ai, automoveis.ai, automovel.ai | `leads_LaVoiture.ai-quebec.md` |
-| **Hispanic cluster** | hispanoabogado.com, hipotecahispana.com, latinomedico.com, oneguy.org, etc. | `*-buyer-expansion.md` files |
-| **Core** | lavoiture.ai, knowlaw.ai, hispanoabogado.com, leanmeds.com | leads + briefs |
-
-> **Sold:** `LeanMeds.com` (→ Trinity HealthCare Supply). See `DOMAINS/leanmeds.com/03-buyer-intel/trinity-healthcare-intel.md` + `03-results/sale-record.md`.
-
----
-
-## 8. Status Snapshot (as of 2026-08-14)
-
-From `ASSET_AUDIT_2026-08-14.md`:
-
-| Layer | Coverage | Gap |
-|---|---|---|
-| Appraisal (A1) | 146/146 | — |
-| Buyer categories (A2) | 146/146 | — |
-| Buyer companies + execs (A3) | 146/146 | — |
-| Verified contact sheets (A4) | ~95/146 | ~51 domains |
-| Outreach email packs (A5) | 100/146 | ~46 domains |
-| Micro-messages (A6) | 146/146 content (in CSV col 5) | only 28 per-domain `.md` files split so far |
-| Outreach briefs (B1) | 145/146 | coldbeerportfolio (bundle) |
-| Google ad enrichment (B2) | 22 embedded | in progress |
-| Google Alerts (B3) | 127 domains | running/external |
-
-**The research layer is complete; the execution layer (contacts + per-company messaging) is still being backfilled for the long tail.** See `docs/assets/GAP_ANALYSIS_2026-08-12.md` for the priority sequencing.
-
----
-
-## 9. How to Do Common Tasks (LLM Navigation Recipes)
-
-### "Show me everything about one domain"
-1. `DOMAINS/[domain]/01-research/leads_[Domain].md` — valuation + leads
-2. `DOMAINS/[domain]/02-outreach/brief_[Domain].md` — messaging + internal pricing
-3. `DOMAINS/[domain]/01-research/contact-sheet_[Domain].md` — verified contacts (if present)
-4. `DOMAINS/[domain]/02-outreach/email-pack_[Domain].md` — sendable emails (if present)
-
-### "Rank all domains by value"
-→ Read `DOMAINS/CSV/TurnKeySold_Full_Portfolio_Ranked.csv` (one file, 146 rows).
-
-### "Which buyers haven't been contacted?"
-→ There is **no outreach-log yet** (a known gap — see `knowledge-architecture-review.md` §Risk 4). The contact CSVs tell you *who to contact*, not *who was contacted*. Until `_data/outreach-log.json` exists, this must be inferred from git history or team channels.
-
-### "What are the rules I must not violate?"
-→ `docs/architecture/ARCHITECTURE_PRINCIPLES.md` (P1–P10).
-
-### "How should I write a new lead list / brief?"
-→ There are **no formal templates yet** (Phase 2 of the roadmap). Reverse-engineer from any existing file (e.g. `DOMAINS/topsex.ai/`), then check `docs/assets/ASSET_CHECKLIST.md` for the "complete" bar, and `docs/architecture/METADATA_STANDARD.md` for provenance.
-
-### "I need to send outreach"
-→ Use `email-pack_[Domain].md` / `micro-messages_[Domain].md` (pricing-free, Three-Line compliant). Follow `docs/methodology/three-line-outreach-framework.md`. **Never** include pricing in first contact (Principle: pricing-free).
-
----
-
-## 10. Conventions & Gotchas (For Contributors)
-
-1. **Single canonical source (P1):** the repo is authoritative. `/home/team/shared/` is an ephemeral workspace — never the permanent home of intelligence.
-2. **Domain folder naming (P6):** lowercase, dot-included (`topsex.ai`, NOT `TopSex.ai`). Subfolders `01-research/` + `02-outreach/`.
-3. **Pricing-free outreach:** dollar figures live only behind "Internal Reference" markers in briefs. Never in email/micro-message copy.
-4. **Never invent contacts:** contact sheets flag "MISSING" for unverifiable execs; format-inferred emails are explicitly labeled, not asserted.
-5. **Duplicates exist (known debt):** `domain-backlog-new.csv` (root + PORTFOLIO/), Google Alerts CSVs (root + OUTREACH/), some proof-of-human/outreach files appear twice. Per P7, prefer one canonical copy; do not add new duplicates.
-6. **The target architecture (Phase 2+, not yet built):** `_templates/`, `_data/*.json`, `_indexes/`, `_playbooks/`, lowercase `domains/` + `research/`/`outreach/`/`history/` subfolders. See `knowledge-architecture-review.md`. Do **not** assume these exist yet — the current layout is `DOMAINS/` + `01-research/`/`02-outreach/`.
-
----
-
-## 11. Where to Start (Suggested Reading Order)
-
-1. This file (done).
-2. `docs/architecture/ARCHITECTURE_PRINCIPLES.md` — the 10 rules.
-3. `docs/architecture/KNOWLEDGE_MODEL.md` — the vocabulary.
-4. `DOMAINS/CSV/TurnKeySold_Full_Portfolio_Ranked.csv` — the full portfolio at a glance.
-5. One complete domain folder (e.g. `DOMAINS/topsex.ai/`) — see the asset types in action.
-6. `docs/assets/ASSET_CHECKLIST.md` — what "done" means per asset.
-7. `COMPANY/research-framework.md` + `docs/methodology/three-line-outreach-framework.md` — the how.
-
----
-
-*This index is a living document. Update it when the repository structure changes, a new asset type is introduced, or a phase of the architecture roadmap lands.*
+*This index is a living document. Update it when the repo structure changes, a new asset type lands, or a phase of the architecture roadmap is implemented. The canonical coverage numbers always live in `ASSET_AUDIT_2026-08-14.md` — this file points to it rather than duplicating it.*

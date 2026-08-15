@@ -9,7 +9,7 @@ Audit source: repo main `f7b95fd` (DOMAINS/), cross-checked against shared. Supe
 | A1 Appraisal / defensible value | 146/146 (CSV + leads) | — |
 | A2 Buyer categories (3 per domain) | 146/146 (CSV + leads) | — |
 | A3 Buyer companies w/ DMPS + execs | 146/146 (CSV; 145 leads files) | coldbeerportfolio (bundle, flagged) |
-| A4 Verified exec contact sheets | 70/146 | ~76 domains (Group-1 17 + nofail + autopaga + payauto + **batch 1 of gap-fill: 25 — 2026-08-14** + **batch 2: 25 more — 2026-08-14**) |
+| A4 Verified exec contact sheets | 95/146 | ~51 domains (Group-1 17 + gap-fill batches 1-3: 75 sheets — 2026-08-14; batch 4+ pending) |
 | A5 Outreach email packs (initial + Day 3/7/14) | 25/146 | ~121 domains |
 | A6 Micro-messages per-domain files | 27/146 as files; **146/146 content** (CSV col 5 + drafts) | 119 domains need file split (mechanical) |
 | B1 Outreach briefs | 145/146 | coldbeerportfolio (bundle) |

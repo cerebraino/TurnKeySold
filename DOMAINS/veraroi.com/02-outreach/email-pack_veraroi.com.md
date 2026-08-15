@@ -2,10 +2,10 @@
 > **Domain:** VeraROI.com = "See ROI" in Spanish — names the result your client wants | **Anchor:** $6K–$8K
 > **Policy:** Pricing-free. No "I own" framing. No links. Emails <100 words. Emails in Spanish (market) / EN where lead is EN-native.
 > **Sources:** leads_veraroi.com.md (DMPS); micro-messages_veraroi.com.md (message source); CSV col 4.
-> **Contacts:** researcher contact sheet NOT yet available — exec names from leads file (VERIFIED roles); direct emails MISSING (note each).
+> **Contacts:** contact-sheet_veraroi.com.md EXISTS (researcher, 2026-08-14) — live sweep: NO public exec emails found for top-5 leads; Klipfolio/Geckoboard LinkedIn (H) (not top-5). Exec names from leads file. See §0 MISSING list.
 ---
 ## 1. Tableau (Salesforce) — Marc Benioff (Salesforce CEO) — DMPS 92
-**Context:** Líder en visualización de datos; « ver el ROI » es el valor que venden. Contact: direct email MISSING.
+**Context:** Líder en visualización de datos; « ver el ROI » es el valor que venden. Contact: direct email MISSING (per sheet).
 **Subject:** VeraROI.com — « ver el ROI », el resultado que sus clientes buscan
 **Email (ES):**
 Tableau analiza y visualiza datos — y el resultado que sus clientes buscan es « ver el ROI ». El dominio premium VeraROI.com nombra ese resultado en español: una marca de producto, una campaña para LATAM o la defensa del término en el mercado hispano. ¿Te interesa?
@@ -15,7 +15,7 @@ Tableau analiza y visualiza datos — y el resultado que sus clientes buscan es 
 **Motivation button:** Nombrar el resultado que sus clientes buscan.
 ---
 ## 2. Google Analytics — Thomas Kurian (Google Cloud CEO) — DMPS 90
-**Context:** La plataforma de analítica más usada; el ROI es el idioma del marketero. Contact: direct email MISSING.
+**Context:** La plataforma de analítica más usada; el ROI es el idioma del marketero. Contact: direct email MISSING (per sheet).
 **Subject:** VeraROI.com — el idioma del marketero, como marca
 **Email (ES):**
 Google Analytics es la plataforma de analítica más usada del mundo — y « ver el ROI » es el idioma del marketero. El dominio premium VeraROI.com nombra ese idioma en español: una campaña para LATAM, una marca de producto o la defensa del término en el mercado. ¿Les interesaría?
@@ -25,7 +25,7 @@ Google Analytics es la plataforma de analítica más usada del mundo — y « ve
 **Motivation button:** Nombrar el idioma del marketero en español.
 ---
 ## 3. Datadog — Olivier Pomel (CEO & Co-Founder) — DMPS 88
-**Context:** Observabilidad líder; el ROI de la infraestructura es la promesa. Contact: direct email MISSING.
+**Context:** Observabilidad líder; el ROI de la infraestructura es la promesa. Contact: direct email MISSING (per sheet, site not yet swept).
 **Subject:** VeraROI.com — el ROI de la infraestructura, con nombre
 **Email (ES):**
 Datadog hace visible el rendimiento de la infraestructura — y lo que el negocio quiere ver es el ROI. El dominio premium VeraROI.com nombra ese resultado: una campaña para LATAM, una marca de producto o la defensa del término en el mercado hispano. ¿Curioso?
@@ -35,7 +35,7 @@ Datadog hace visible el rendimiento de la infraestructura — y lo que el negoci
 **Motivation button:** Nombrar el resultado que el negocio quiere ver.
 ---
 ## 4. Power BI (Microsoft) — Satya Nadella (CEO) — DMPS 85
-**Context:** Analítica empresarial líder; el ROI es el idioma del CFO. Contact: direct email MISSING.
+**Context:** Analítica empresarial líder; el ROI es el idioma del CFO. Contact: direct email MISSING (per sheet).
 **Subject:** VeraROI.com — el idioma del CFO, como marca
 **Email (EN):**
 Power BI puts analytics in every decision — and the number executives want to see is ROI. VeraROI.com names that number: "see ROI" in the language of the fastest-growing analytics market. A Spanish-language campaign, a product brand, or the defensive domain for the ROI phrase in LATAM. Open to a conversation?
@@ -45,7 +45,7 @@ Power BI puts analytics in every decision — and the number executives want to 
 **Motivation button:** Own the ROI phrase in the LATAM analytics market.
 ---
 ## 5. Looker (Google) — Thomas Kurian (CEO) — DMPS 82
-**Context:** Plataforma de datos empresarial; el ROI del dato es la promesa. Contact: direct email MISSING.
+**Context:** Plataforma de datos empresarial; el ROI del dato es la promesa. Contact: direct email MISSING (per sheet).
 **Subject:** VeraROI.com — el ROI del dato, con nombre en español
 **Email (ES):**
 Looker convierte datos en decisiones — y la decisión final es « ver el ROI ». El dominio premium VeraROI.com nombra esa promesa en español: una campaña para LATAM, una marca de producto o la defensa del término en el ecosistema Google. ¿Tiene sentido para Looker?

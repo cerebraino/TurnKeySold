@@ -2,10 +2,10 @@
 > **Domain:** LatinoAbogado.com = "Latino Lawyer" in the client's own words | **Anchor:** $8K–$10K
 > **Policy:** Pricing-free. No "I own" framing. No links. Emails <100 words. Emails in Spanish (market).
 > **Sources:** leads_latinoabogado.com.md (DMPS); micro-messages_latinoabogado.com.md (message source); CSV col 4.
-> **Contacts:** researcher contact sheet NOT yet available — exec names from leads file (VERIFIED roles); direct emails MISSING (note each).
+> **Contacts:** contact-sheet_latinoabogado.com.md EXISTS (researcher, 2026-08-14) — live sweep: Morgan & Morgan media@forthepeople.com (H) + LinkedIn (H); Garcia & Garcia LinkedIn (H); others MISSING per sheet. Exec names from leads file. See §0 MISSING list.
 ---
 ## 1. Morgan & Morgan — John Morgan (CEO & Founder) — DMPS 90
-**Context:** El bufete de abogados más grande del país; crece en el mercado latino. Contact: direct email MISSING.
+**Context:** El bufete de abogados más grande del país; crece en el mercado latino. Contact: media@forthepeople.com (H, verified live); LinkedIn (H).
 **Subject:** LatinoAbogado.com — la marca que nombra su mercado en las palabras del cliente
 **Email (ES):**
 Morgan & Morgan está creciendo en el mercado latino — latinoabogado.com es la marca que lo nombra. El dominio premium dice « abogado latino » en las palabras que el cliente ya usa al buscar: una línea de producto para el mercado hispano, una campaña o la defensa del término frente a la competencia. ¿Te interesa?
@@ -15,7 +15,7 @@ Morgan & Morgan está creciendo en el mercado latino — latinoabogado.com es la
 **Motivation button:** Nombrar su mercado en las palabras del cliente.
 ---
 ## 2. Aguirre Law Firm — Oscar Aguirre (Partner) — DMPS 87
-**Context:** Bufete hispano establecido; el nombre del dominio es literalmente su categoría. Contact: direct email MISSING.
+**Context:** Bufete hispano establecido; el nombre del dominio es literalmente su categoría. Contact: direct email MISSING (per sheet).
 **Subject:** LatinoAbogado.com — la categoría, como marca para su bufete
 **Email (ES):**
 Aguirre Law sirve a la comunidad hispana — y « abogado latino » es exactamente lo que sus clientes buscan. El dominio premium LatinoAbogado.com es esa categoría como marca: su puerta digital, una campaña o la defensa del término frente a los bufetes que entran al mercado. ¿Quieres conocerlo?
@@ -25,7 +25,7 @@ Aguirre Law sirve a la comunidad hispana — y « abogado latino » es exactamen
 **Motivation button:** Nombrar su categoría con las palabras de sus clientes.
 ---
 ## 3. Molina Law Group — Raul Molina (Principal) — DMPS 84
-**Context:** Bufete hispano (inmigración/lesiones); la marca de la categoría. Contact: direct email MISSING.
+**Context:** Bufete hispano (inmigración/lesiones); la marca de la categoría. Contact: direct email MISSING (per sheet).
 **Subject:** LatinoAbogado.com — la marca de la categoría para Molina Law
 **Email (ES):**
 Molina Law Group sirve a la comunidad latina — latinoabogado.com es la marca que nombra esa categoría: « abogado latino ». Una puerta digital para su bufete, una campaña de captación o la defensa del término en el mercado hispano. ¿Les interesaría?
@@ -35,7 +35,7 @@ Molina Law Group sirve a la comunidad latina — latinoabogado.com es la marca q
 **Motivation button:** Nombrar la categoría que su bufete sirve.
 ---
 ## 4. Garcia & Garcia — Leticia Garcia (Partner) — DMPS 82
-**Context:** Bufete familiar hispano; el apellido y la categoría conectan. Contact: direct email MISSING.
+**Context:** Bufete familiar hispano; el apellido y la categoría conectan. Contact: direct email MISSING (per sheet); LinkedIn (H).
 **Subject:** LatinoAbogado.com — la marca que conecta apellido y categoría
 **Email (ES):**
 Garcia & Garcia es un bufete con identidad hispana — y « abogado latino » es la categoría que su apellido ya evoca. El dominio premium LatinoAbogado.com une ambas cosas: una marca digital para su bufete, una campaña o la defensa del término en el mercado. ¿Tiene sentido para ustedes?
@@ -45,7 +45,7 @@ Garcia & Garcia es un bufete con identidad hispana — y « abogado latino » es
 **Motivation button:** Nombrar su identidad con la palabra de la categoría.
 ---
 ## 5. ImmigrationHelp.org — Tejas Shah (CEO) — DMPS 80
-**Context:** Plataforma digital de inmigración; el término « abogado latino » capta su audiencia. Contact: direct email MISSING.
+**Context:** Plataforma digital de inmigración; el término « abogado latino » capta su audiencia. Contact: direct email MISSING (per sheet, site not yet swept).
 **Subject:** LatinoAbogado.com — el término de búsqueda de su audiencia, como marca
 **Email (ES):**
 ImmigrationHelp.org conecta a inmigrantes con ayuda legal — y « abogado latino » es una de las búsquedas centrales de su audiencia. El dominio premium LatinoAbogado.com captura ese término: una marca de producto, una campaña o la defensa de la frase mientras crece la competencia. ¿Curioso?

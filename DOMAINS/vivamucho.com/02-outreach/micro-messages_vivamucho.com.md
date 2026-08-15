@@ -1,6 +1,6 @@
 # Top 10 Micro-Messages — VivaMucho.com (Genspark Longevity/Wellness Prospects)
 
-> **Framework:** Three-Line | **Máx:** 250 caracteres (objetivo 150–220) | **Idioma:** Español
+> **Framework:** Three-Line | **Máx:** 220 caracteres (objetivo 150–220)
 > **Reglas:** señal real → 'el dominio premium' → micro-pregunta. Sin precios, sin enlaces, sin 'yo tengo'.
 > **Nota:** Funciona igual con ViveMucho.com — mismo mensaje, dominio intercambiable (pack 2 dominios).
 

@@ -1,5 +1,5 @@
 # Micro-Messages — nofail.ai (Buyer Prospecting Run, 2026-08-12)
-> **Framework:** Three-Line | **Max:** 250 chars (target 150–220) | **Language:** English
+> **Framework:** Three-Line | **Max:** 220 chars (target 150–220)
 > **Rules:** real signal → 'the premium domain [Domain]' → micro-ask. No pricing, no links, no 'I own'.
 > **Source:** owner's "NoFail.ai — Buyer Prospecting Run" chat message (10 prospects) — **all 10 covered**.
 > **Verification status:** all 10 VERIFIED (domain-researcher, task 8f428f8e / PR #8) — sites live this session (confident-ai.com, respan.ai, bentolabs.ai, galileo.ai, moda.dev, trytrust.ai, fiddler.ai, fabraix.com, patronus.ai, agnost.ai); positioning confirmed via page titles. Moda = moda.dev / usemoda.ai (YC W26 "The continual learning layer for AI agents"); TrustAI = trytrust.ai (YC S26 "Continuous compliance and governance for agents on sensitive systems"). Fiddler / Fabraix / Patronus / Agnost exec names unconfirmed ("per site") — messages drafted without naming execs.

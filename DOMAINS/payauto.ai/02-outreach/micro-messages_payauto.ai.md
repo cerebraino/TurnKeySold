@@ -1,5 +1,5 @@
 # Top 4 Micro-Messages — payauto.ai (Agentic Payments, EN/Global)
-> **Framework:** Three-Line | **Max:** 250 chars (target 150–220) | **Language:** English
+> **Framework:** Three-Line | **Max:** 220 chars (target 150–220)
 > **Rules:** real signal → 'the premium domain [Domain]' → micro-ask. No pricing, no links, no 'I own'.
 > **Bundle:** works with autopaga.com — same message, domain interchangeable (pair: global + LATAM).
 

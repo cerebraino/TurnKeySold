@@ -2,10 +2,10 @@
 > **Domain:** Cerebrado.com = "Brainy" / brain-powered learning, in Spanish | **Anchor:** $6K–$8K
 > **Policy:** Pricing-free. No "I own" framing. No links. Emails <100 words. Emails in Spanish (market).
 > **Sources:** leads_cerebrado.com.md (DMPS); micro-messages_cerebrado.com.md (message source); CSV col 4.
-> **Contacts:** researcher contact sheet NOT yet available — exec names from leads file (VERIFIED roles where named); Crehana/Udemy/Khan Español execs unnamed — contact MISSING (note each).
+> **Contacts:** contact-sheet_cerebrado.com.md EXISTS (researcher, 2026-08-14) — live sweep: NO public exec emails found for top-5 leads; Endeavor LinkedIn (H). Exec names from leads file. See §0 MISSING list.
 ---
 ## 1. Duolingo — Luis von Ahn (CEO & Co-Founder) — DMPS 88
-**Context:** Aprender sin esfuerzo; « cerebrado » es aprendizaje con cerebro, en español. Contact: direct email MISSING.
+**Context:** Aprender sin esfuerzo; « cerebrado » es aprendizaje con cerebro, en español. Contact: direct email MISSING (per sheet).
 **Subject:** Cerebrado.com — el aprendizaje inteligente, en el idioma de sus usuarios LATAM
 **Email (ES):**
 Duolingo hace que aprender se sienta sin esfuerzo — « cerebrado » es la palabra para el aprendizaje con cerebro, en español. El dominio premium Cerebrado.com nombra el aprendizaje inteligente en el idioma de sus usuarios LATAM: una línea de producto, una marca de contenido o la defensa del término. ¿Te interesa?
@@ -15,7 +15,7 @@ Duolingo hace que aprender se sienta sin esfuerzo — « cerebrado » es la pala
 **Motivation button:** Nombrar el aprendizaje inteligente en español.
 ---
 ## 2. Platzi — Freddy Vega (CEO & Co-Founder) — DMPS 85
-**Context:** La plataforma de aprendizaje tech en español; « cerebrado » es su idioma. Contact: direct email MISSING.
+**Context:** La plataforma de aprendizaje tech en español; « cerebrado » es su idioma. Contact: direct email MISSING (per sheet, site not yet swept).
 **Subject:** Cerebrado.com — la marca del aprendizaje tech en español
 **Email (ES):**
 Platzi es la escuela tech en español — y « cerebrado » es exactamente lo que sus estudiantes se vuelven: más listos. El dominio premium Cerebrado.com puede ser una marca de producto, una línea de cursos con IA o la defensa del término en el e-learning hispano. ¿Les interesaría?
@@ -25,7 +25,7 @@ Platzi es la escuela tech en español — y « cerebrado » es exactamente lo qu
 **Motivation button:** Nombrar el aprendizaje tech en el idioma de Platzi.
 ---
 ## 3. Crehana — CEO (name MISSING) — DMPS 82
-**Context:** Plataforma de aprendizaje creativo/profesional en LATAM. Contact: exec name + email MISSING.
+**Context:** Plataforma de aprendizaje creativo/profesional en LATAM. Contact: exec name + email MISSING (per sheet, site not yet swept).
 **Subject:** Cerebrado.com — la marca del aprendizaje profesional en LATAM
 **Email (ES):**
 Crehana forma talento profesional en LATAM — y « cerebrado » nombra el resultado: mentes preparadas. El dominio premium Cerebrado.com puede ser una marca de producto, una línea con IA o la defensa del término en el e-learning latino. Curioso por conocerlo?
@@ -35,7 +35,7 @@ Crehana forma talento profesional en LATAM — y « cerebrado » nombra el resul
 **Motivation button:** Nombrar el resultado de la formación en LATAM.
 ---
 ## 4. Udemy (LatAm) — CEO (name MISSING) — DMPS 80
-**Context:** Plataforma global de cursos; mercado LATAM creciendo; marca en español. Contact: exec name + email MISSING.
+**Context:** Plataforma global de cursos; mercado LATAM creciendo; marca en español. Contact: exec name + email MISSING (per sheet).
 **Subject:** Cerebrado.com — la marca en español para el mercado LATAM de Udemy
 **Email (ES):**
 Udemy tiene miles de cursos y un mercado LATAM en crecimiento — « cerebrado » es la palabra que nombra el aprendizaje inteligente en español. El dominio premium Cerebrado.com puede ser una marca de producto, una campaña regional o la defensa del término en el e-learning. ¿Interesados?
@@ -45,7 +45,7 @@ Udemy tiene miles de cursos y un mercado LATAM en crecimiento — « cerebrado �
 **Motivation button:** Nombrar su mercado LATAM con la palabra del aprendizaje.
 ---
 ## 5. Khan Academy Español — Director (name MISSING) — DMPS 78
-**Context:** Educación gratuita en español; « cerebrado » encaja con la misión de aprender. Contact: exec name + email MISSING.
+**Context:** Educación gratuita en español; « cerebrado » encaja con la misión de aprender. Contact: exec name + email MISSING (per sheet, site not yet swept).
 **Subject:** Cerebrado.com — la marca del aprendizaje para la misión de Khan
 **Email (ES):**
 Khan Academy Español lleva educación gratuita a millones — y « cerebrado » es la palabra que celebra aprender: mentes que crecen. El dominio premium Cerebrado.com puede ser una marca de programa, una campaña o la defensa del término en la educación hispana. ¿Tiene sentido para la misión?

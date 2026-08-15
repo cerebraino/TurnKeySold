@@ -2,10 +2,10 @@
 > **Domain:** Automovel.ai = "Car" in Portuguese — the category in the language of the market | **Anchor:** $8K–$10K (bundle with automoveis.ai $8K–$18K)
 > **Policy:** Pricing-free. No "I own" framing. No links. Emails <100 words. Emails in Portuguese (Brazilian market).
 > **Sources:** leads_automovel.ai.md (pointer → leads_automoviles.ai.md §4 Portuguese Auto); micro-messages_automovel.ai.md (message source); CSV col 4.
-> **Contacts:** researcher contact sheet NOT yet available — only Kavak has a named exec (Carlos Garcia); OLX Brasil, Webmotors, iCarros, Volanty execs unnamed — contact MISSING (note each).
+> **Contacts:** contact-sheet_automovel.ai.md EXISTS (researcher, 2026-08-14) — live sweep: NO public exec emails found for any top-5 lead; AutoAvaliar/Mobiauto LinkedIn (H) (not top-5). Exec names from leads file. See §0 MISSING list.
 ---
 ## 1. OLX Brasil (Autos) — CEO (name MISSING) — DMPS 92
-**Context:** Líder de classificados de autos no Brasil; a categoria em português. Contact: exec name + email MISSING.
+**Context:** Líder de classificados de autos no Brasil; a categoria em português. Contact: exec name + email MISSING (per sheet).
 **Subject:** Automovel.ai — a palavra da categoria no idioma do seu mercado
 **Email (PT):**
 OLX lidera o mercado de carros online no Brasil — e a palavra que o seu usuário digita é « automóvel ». O domínio premium Automovel.ai é a marca da categoria no idioma do seu mercado: uma linha de produto com IA, um portal de experiência ou a defesa do termo enquanto a compra de carros se digitaliza. Interessados?
@@ -15,7 +15,7 @@ OLX lidera o mercado de carros online no Brasil — e a palavra que o seu usuár
 **Motivation button:** Ter a palavra da categoria no idioma do mercado.
 ---
 ## 2. Webmotors — CEO (name MISSING) — DMPS 90
-**Context:** Plataforma #1 de carros do Brasil; a palavra da categoria. Contact: exec name + email MISSING.
+**Context:** Plataforma #1 de carros do Brasil; a palavra da categoria. Contact: exec name + email MISSING (per sheet).
 **Subject:** Automovel.ai — a marca da categoria para a liderança da Webmotors
 **Email (PT):**
 Webmotors é a plataforma #1 de carros do Brasil — e « automóvel » é a palavra da sua categoria. O domínio premium Automovel.ai pode ser a marca da próxima era: uma linha de IA, um portal de marca ou a defesa do termo enquanto a concorrência se consolida. A liderança que você já tem, com o nome da categoria. Interessado?
@@ -25,7 +25,7 @@ Webmotors é a plataforma #1 de carros do Brasil — e « automóvel » é a pal
 **Motivation button:** Ter o nome da categoria do líder do mercado.
 ---
 ## 3. iCarros (Itaú) — CEO (name MISSING) — DMPS 87
-**Context:** Marketplace de carros sob o Itaú; inventário grande; IA na busca. Contact: exec name + email MISSING.
+**Context:** Marketplace de carros sob o Itaú; inventário grande; IA na busca. Contact: exec name + email MISSING (per sheet, site not yet swept).
 **Subject:** Automovel.ai — o nome da categoria para a plataforma iCarros
 **Email (PT):**
 iCarros conecta milhões de compradores a carros no Brasil — e a categoria tem um nome: « automóvel ». O domínio premium Automovel.ai pode ser uma marca de produto, um portal de experiência com IA ou a defesa do termo no grupo Itaú. Vocês têm o inventário; o domínio pode ter o nome. Curioso?
@@ -35,7 +35,7 @@ iCarros conecta milhões de compradores a carros no Brasil — e a categoria tem
 **Motivation button:** Ter a palavra do setor dentro do seu grupo.
 ---
 ## 4. Kavak (Brazil) — Carlos Garcia (CEO) — DMPS 85
-**Context:** Líder de usados com IA crescendo no Brasil; a categoria em português. Contact: direct email MISSING.
+**Context:** Líder de usados com IA crescendo no Brasil; a categoria em português. Contact: direct email MISSING (per sheet, site not yet swept).
 **Subject:** Automovel.ai — a marca da categoria para a expansão da Kavak no Brasil
 **Email (PT):**
 Kavak está transformando a compra de usados e cresce no Brasil — o próximo passo é ter a palavra da categoria: « automóvel ». O domínio premium Automovel.ai pode ser a marca para o mercado brasileiro, uma linha de produto com IA ou a defesa do termo enquanto a concorrência se expande. Interessado em conversar?
@@ -45,7 +45,7 @@ Kavak está transformando a compra de usados e cresce no Brasil — o próximo p
 **Motivation button:** Ter a palavra da categoria na expansão brasileira.
 ---
 ## 5. Volanty — CEO (name MISSING) — DMPS 82
-**Context:** Plataforma digital de usados no Brasil; a categoria em uma palavra. Contact: exec name + email MISSING.
+**Context:** Plataforma digital de usados no Brasil; a categoria em uma palavra. Contact: exec name + email MISSING (per sheet).
 **Subject:** Automovel.ai — o nome da categoria para a Volanty
 **Email (PT):**
 Volanty digitaliza a compra de carros usados no Brasil — e a categoria tem um nome claro: « automóvel ». O domínio premium Automovel.ai pode ser a marca da sua plataforma, uma linha de produto com IA ou a defesa do termo enquanto o mercado cresce. O nome que o seu usuário já usa, como marca. Aberto a ver?

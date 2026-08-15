@@ -2,10 +2,10 @@
 > **Domain:** Tenlo.ai = "Have It" / "Get It" in Spanish — the CTA brand for AI commerce | **Anchor:** $7K–$8K
 > **Policy:** Pricing-free. No "I own" framing. No links. Emails <100 words. Emails in Spanish (market).
 > **Sources:** leads_tenlo.ai.md (DMPS); micro-messages_tenlo.ai.md (message source); CSV col 4.
-> **Contacts:** researcher contact sheet NOT yet available — exec names from leads file (VERIFIED roles where named); Rappi/Linio/Falabella/Dafiti execs unnamed — contact MISSING (note each).
+> **Contacts:** contact-sheet_tenlo.ai.md EXISTS (researcher, 2026-08-14) — live sweep: NO public exec emails found for top-5 leads; Cencosud LinkedIn (H). Exec names from leads file. See §0 MISSING list.
 ---
 ## 1. Mercado Libre — Marcos Galperin (Founder & CEO) — DMPS 88
-**Context:** Construyendo comercio con IA; « tenlo » es el CTA del comprador. Contact: direct email MISSING (refer contact_autopaga.com.md marcos@mercadolibre.com, M).
+**Context:** Construyendo comercio con IA; « tenlo » es el CTA del comprador. Contact: direct email MISSING (per sheet; refer contact_autopaga.com.md marcos@mercadolibre.com, M).
 **Subject:** Tenlo.ai — « tenlo », la promesa del comercio con IA
 **Email (ES):**
 Mercado Libre está construyendo el comercio con IA — y « tenlo » es la promesa que el comprador entiende: tenerlo, ya. El dominio premium Tenlo.ai nombra esa promesa en dos palabras: una marca de producto, un asistente de compra o la defensa del término en el ecosistema. ¿Te interesa?
@@ -15,7 +15,7 @@ Mercado Libre está construyendo el comercio con IA — y « tenlo » es la prom
 **Motivation button:** Nombrar la promesa del comercio con IA.
 ---
 ## 2. Rappi — CEO (name MISSING) — DMPS 85
-**Context:** Superapp LATAM de entregas y comercio; « tenlo » es su idioma. Contact: exec name + email MISSING.
+**Context:** Superapp LATAM de entregas y comercio; « tenlo » es su idioma. Contact: exec name + email MISSING (per sheet).
 **Subject:** Tenlo.ai — la marca del « tenlo ya » para Rappi
 **Email (ES):**
 Rappi lleva todo a la puerta del usuario — y « tenlo » es exactamente lo que su app promete. El dominio premium Tenlo.ai es esa promesa como marca: una línea de producto, un asistente de compra con IA o la defensa del término en LATAM. ¿Les interesaría?
@@ -25,7 +25,7 @@ Rappi lleva todo a la puerta del usuario — y « tenlo » es exactamente lo que
 **Motivation button:** Nombrar la promesa del « tenlo ya ».
 ---
 ## 3. Linio — CEO (name MISSING) — DMPS 82
-**Context:** Marketplace LATAM (Falabella); « tenlo » es el CTA del comprador. Contact: exec name + email MISSING.
+**Context:** Marketplace LATAM (Falabella); « tenlo » es el CTA del comprador. Contact: exec name + email MISSING (per sheet).
 **Subject:** Tenlo.ai — la marca del marketplace en las palabras del comprador
 **Email (ES):**
 Linio conecta a compradores con productos en LATAM — y « tenlo » es la palabra que el comprador quiere escuchar. El dominio premium Tenlo.ai puede ser una marca de producto, un asistente con IA o la defensa del término en el marketplace. Curioso por conocerlo?
@@ -35,7 +35,7 @@ Linio conecta a compradores con productos en LATAM — y « tenlo » es la palab
 **Motivation button:** Nombrar el marketplace con la palabra del comprador.
 ---
 ## 4. Falabella — CEO (name MISSING) — DMPS 80
-**Context:** Retail gigante LATAM; e-commerce creciendo; « tenlo » encaja. Contact: exec name + email MISSING.
+**Context:** Retail gigante LATAM; e-commerce creciendo; « tenlo » encaja. Contact: exec name + email MISSING (per sheet).
 **Subject:** Tenlo.ai — la promesa del comercio para Falabella
 **Email (ES):**
 Falabella es uno de los retailers más grandes de LATAM — y su comercio digital crece con IA. El dominio premium Tenlo.ai nombra la promesa que su cliente quiere: « tenlo ». Una marca de producto, un asistente de compra o la defensa del término en el grupo. ¿Tiene sentido para Falabella?
@@ -45,7 +45,7 @@ Falabella es uno de los retailers más grandes de LATAM — y su comercio digita
 **Motivation button:** Nombrar la promesa del retail con IA.
 ---
 ## 5. Dafiti — CEO (name MISSING) — DMPS 78
-**Context:** Moda online LATAM; « tenlo » como marca de producto. Contact: exec name + email MISSING.
+**Context:** Moda online LATAM; « tenlo » como marca de producto. Contact: exec name + email MISSING (per sheet, site not yet swept).
 **Subject:** Tenlo.ai — la marca de la moda online en las palabras del comprador
 **Email (ES):**
 Dafiti vende moda online en LATAM — y « tenlo » es la palabra que cierra la venta. El dominio premium Tenlo.ai puede ser una marca de producto, una campaña o la defensa del término en el e-commerce de moda. ¿Interesado en los detalles?

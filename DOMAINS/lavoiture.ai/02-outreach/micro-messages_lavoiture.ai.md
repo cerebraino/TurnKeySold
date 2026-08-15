@@ -1,5 +1,5 @@
 # Micro-Messages — lavoiture.ai (New French YC Prospects, 2026-08-12)
-> **Framework:** Three-Line | **Max:** 220 chars (target 150–220)
+> **Framework:** Three-Line | **Max:** 250 chars (target 150–220) | **Language:** French for French-native founders, English otherwise (marked per message)
 > **Rules:** real signal → 'the premium domain [Domain]' → micro-ask. No pricing, no links, no 'I own'.
 > **Source:** owner's `domain_buyer_prospects.md` (commit 08ce6b9) — verified live by domain-researcher (leads_LaVoiture.ai.md, DMPS in table)
 > **Domain note:** LaVoiture.ai = "the car" in French — a category-defining French front door for AI mobility.

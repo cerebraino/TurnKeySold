@@ -1,5 +1,5 @@
 # Micro-Messages — agizent.com (New Prospects, 2026-08-12)
-> **Framework:** Three-Line | **Max:** 220 chars (target 150–220)
+> **Framework:** Three-Line | **Max:** 250 chars (target 150–220) | **Language:** English
 > **Rules:** real signal → 'the premium domain [Domain]' → micro-ask. No pricing, no links, no 'I own'.
 > **Source:** owner's `domain_buyer_prospects.md` (commit 08ce6b9) — verified live by domain-researcher (leads_Agizent.com.md, DMPS in table)
 > **Domain note:** Agizent.com = agent + governance + infrastructure brandable — "we agentify operations." (Domain is .COM, not .ai — researcher-confirmed correction.)

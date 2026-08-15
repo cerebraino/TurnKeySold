@@ -9,7 +9,7 @@ Audit source: repo main `f7b95fd` (DOMAINS/), cross-checked against shared. Supe
 | A1 Appraisal / defensible value | 146/146 (CSV + leads) | — |
 | A2 Buyer categories (3 per domain) | 146/146 (CSV + leads) | — |
 | A3 Buyer companies w/ DMPS + execs | 146/146 (CSV; 145 leads files) | coldbeerportfolio (bundle, flagged) |
-| A4 Verified exec contact sheets | 145/146 | ~2 domains (Group-1 17 + gap-fill batches 1-5: 125 sheets — 2026-08-15; batch 4 = 25 corrected rows 97-121 + batch 5 = 25 rows 122-146) |
+| A4 Verified exec contact sheets | 146/146 | COMPLETE (Group-1 17 + gap-fill batches 1-5: 125 sheets + batch-4 correction 17 rows 105-121 + automoviles.ai — 2026-08-15) |
 | A5 Outreach email packs (initial + Day 3/7/14) | 100/146 | ~46 domains (batches 1-4: 24+25+25+25 + putero.online — merged through 2026-08-15; batch-2 header v2 pass wired 20 packs to contact sheets) |
 | A6 Micro-messages per-domain files | **147/147 in repo** (146 domains + coldbeerportfolio; synced to git 2026-08-15, PR #26) | — |
 | B1 Outreach briefs | 145/146 | coldbeerportfolio (bundle) |

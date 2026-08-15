@@ -1,0 +1,33 @@
+Batch FINAL contact-sheet verification sweep — raw findings (2026-08-14)
+Sites swept: homepage + /about /about-us /contact /contact-us /team /leadership /company /company/about-us
+Sweep ran live this session via curl (4 parallel workers). Extracted mailto: and linkedin.com URLs only.
+
+----- autocosmos.com -----
+(no public contacts extracted)
+
+----- carro.co -----
+(no public contacts extracted)
+
+----- claro.com -----
+(no public contacts extracted)
+
+----- coches.net -----
+(no public contacts extracted)
+
+----- demotores.com -----
+(no public contacts extracted)
+
+----- instacarro.com -----
+(no public contacts extracted)
+
+----- kavak.com -----
+(no public contacts extracted)
+
+----- mercadolibre.com -----
+(no public contacts extracted)
+
+----- neoauto.com -----
+https://www.linkedin.com/company/neoautocom
+
+----- olxautos.com -----
+(no public contacts extracted)

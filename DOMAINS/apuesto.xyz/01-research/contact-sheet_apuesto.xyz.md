@@ -1,0 +1,177 @@
+# apuesto.xyz — Executive Contact Sheet (Batch 4B, Gap-fill 2/3)
+
+> **Researcher:** domain-researcher | **Date:** 2026-08-15
+> **Scope:** Verified executive contacts for top leads in the domain's leads file. Built to the Group-1 contact-sheet format (cf. `contact_nofail.ai.md`, `contact_knowlaw.ai.md`).
+> **Verification:** Company LinkedIn URLs and public emails below were verified live this session via a curl sweep of company sites (HTTP 200, 2026-08-15). Exec names/roles/DMPS are carried from the domain's leads file. No email was invented — format-inferred addresses are explicitly marked M/L and flagged for owner verification before sending.
+
+---
+
+## 0. MISSING-CONTACTS SUMMARY (owner follow-up list)
+
+Every exec whose **email** or **LinkedIn URL** could not be confirmed from a public source this session. Owner has offered to research these separately — this is the exact list.
+
+| # | Company | Exec | Missing |
+|---|---------|------|---------|
+| 1 | Stake.com | (CEO — needs LLM) | email; LinkedIn |
+| 2 | Azuro | (CEO — needs LLM) | email; LinkedIn |
+| 3 | Thunderpick | (CEO — needs LLM) | email; LinkedIn |
+| 4 | BetDEX | Varun Sudhakar | email; LinkedIn |
+| 5 | SX Bet | (CEO — needs LLM) | email; LinkedIn |
+| 6 | Augur | (CEO — needs LLM) | email; LinkedIn |
+| 7 | Bet365 (LATAM) | Denise Coates | email; LinkedIn |
+| 8 | Kalshi | Tarek Mansour | email; LinkedIn |
+
+---
+
+## Confidence Levels
+- **H (High):** Verified from a public company page this session (HTTP 200)
+- **M (Medium):** Likely correct based on company conventions; not independently confirmed from a public page
+- **L (Low):** Best available; needs owner LLM verification
+
+---
+
+## Company Blocks (DMPS order)
+
+### Stake.com — stake.com
+
+| Field | Detail | Confidence |
+|-------|--------|:---:|
+| **Exec** | (CEO — needs LLM) — CEO | — |
+| **Company LinkedIn** | MISSING — not found on site sweep | — |
+| **Public email** | **MISSING** — no public address found on site sweep | — |
+| **Source** | live curl sweep of stake.com (+/about /contact /team) 2026-08-15; leads file for exec/DMPS | — |
+| **DMPS** | 95 | — |
+| **Intent signal** | Crypto casino; .xyz native web3 brand | — |
+| **Note** | no public contact found on sweep | — |
+
+### Polymarket — polymarket.com
+
+| Field | Detail | Confidence |
+|-------|--------|:---:|
+| **Exec** | Shayne Coplan — CEO | — |
+| **Company LinkedIn** | https://www.linkedin.com/company/polymarket | H |
+| **Public email(s)** | hello@polymarket.com, press@polymarket.com | H |
+| **Source** | live curl sweep of polymarket.com (+/about /contact /team) 2026-08-15; leads file for exec/DMPS | — |
+| **DMPS** | 90 | — |
+| **Intent signal** | Prediction market; Spanish users | — |
+| **Note** | — | — |
+
+### Azuro — azuro.org
+
+| Field | Detail | Confidence |
+|-------|--------|:---:|
+| **Exec** | (CEO — needs LLM) — CEO | — |
+| **Company LinkedIn** | MISSING — not found on site sweep | — |
+| **Public email** | **MISSING** — no public address found on site sweep | — |
+| **Source** | live curl sweep of azuro.org (+/about /contact /team) 2026-08-15; leads file for exec/DMPS | — |
+| **DMPS** | 85 | — |
+| **Intent signal** | Decentralized betting protocol; 'Apuesto' = DAO brand | — |
+| **Note** | no public contact found on sweep | — |
+
+### Thunderpick — thunderpick.io
+
+| Field | Detail | Confidence |
+|-------|--------|:---:|
+| **Exec** | (CEO — needs LLM) — CEO | — |
+| **Company LinkedIn** | MISSING — not found on site sweep | — |
+| **Public email** | **MISSING** — no public address found on site sweep | — |
+| **Source** | live curl sweep of thunderpick.io (+/about /contact /team) 2026-08-15; leads file for exec/DMPS | — |
+| **DMPS** | 82 | — |
+| **Intent signal** | Crypto esports betting; Spanish users growing | — |
+| **Note** | site did not respond to sweep (blocked/timeout/JS) — verify via LinkedIn search (L) | — |
+
+### BetDEX — betdex.com
+
+| Field | Detail | Confidence |
+|-------|--------|:---:|
+| **Exec** | Varun Sudhakar — CEO | — |
+| **Company LinkedIn** | MISSING — not found on site sweep | — |
+| **Public email** | **MISSING** — no public address found on site sweep | — |
+| **Source** | live curl sweep of betdex.com (+/about /contact /team) 2026-08-15; leads file for exec/DMPS | — |
+| **DMPS** | 78 | — |
+| **Intent signal** | Web3 sports betting on Solana | — |
+| **Note** | no public contact found on sweep | — |
+
+### SX Bet — sx.bet
+
+| Field | Detail | Confidence |
+|-------|--------|:---:|
+| **Exec** | (CEO — needs LLM) — CEO | — |
+| **Company LinkedIn** | MISSING — not found on site sweep | — |
+| **Public email** | **MISSING** — no public address found on site sweep | — |
+| **Source** | live curl sweep of sx.bet (+/about /contact /team) 2026-08-15; leads file for exec/DMPS | — |
+| **DMPS** | 75 | — |
+| **Intent signal** | Crypto sports betting exchange | — |
+| **Note** | no public contact found on sweep | — |
+
+### Augur — augur.net
+
+| Field | Detail | Confidence |
+|-------|--------|:---:|
+| **Exec** | (CEO — needs LLM) — CEO | — |
+| **Company LinkedIn** | MISSING — not found on site sweep | — |
+| **Public email** | **MISSING** — no public address found on site sweep | — |
+| **Source** | live curl sweep of augur.net (+/about /contact /team) 2026-08-15; leads file for exec/DMPS | — |
+| **DMPS** | 72 | — |
+| **Intent signal** | Decentralized prediction market; Spanish community | — |
+| **Note** | no public contact found on sweep | — |
+
+### Bet365 (LATAM) — bet365.com
+
+| Field | Detail | Confidence |
+|-------|--------|:---:|
+| **Exec** | Denise Coates — CEO | — |
+| **Company LinkedIn** | MISSING — not found on site sweep | — |
+| **Public email** | **MISSING** — no public address found on site sweep | — |
+| **Source** | live curl sweep of bet365.com (+/about /contact /team) 2026-08-15; leads file for exec/DMPS | — |
+| **DMPS** | 70 | — |
+| **Intent signal** | Global leader; web3-adjacent experiments | — |
+| **Note** | no public contact found on sweep | — |
+
+### DraftKings (LATAM) — draftkings.com
+
+| Field | Detail | Confidence |
+|-------|--------|:---:|
+| **Exec** | Jason Robins — CEO | — |
+| **Company LinkedIn** | https://www.linkedin.com/company/draftkings | H |
+| **Public email(s)** | jdanahy@draftkings.com, media@draftkings.com, sportsbook@draftkings.com, sportspartnerships@draftkings.com | H |
+| **Source** | live curl sweep of draftkings.com (+/about /contact /team) 2026-08-15; leads file for exec/DMPS | — |
+| **DMPS** | 68 | — |
+| **Intent signal** | Crypto partnerships; LATAM | — |
+| **Note** | — | — |
+
+### Kalshi — kalshi.com
+
+| Field | Detail | Confidence |
+|-------|--------|:---:|
+| **Exec** | Tarek Mansour — CEO | — |
+| **Company LinkedIn** | MISSING — not found on site sweep | — |
+| **Public email** | **MISSING** — no public address found on site sweep | — |
+| **Source** | live curl sweep of kalshi.com (+/about /contact /team) 2026-08-15; leads file for exec/DMPS | — |
+| **DMPS** | 65 | — |
+| **Intent signal** | US-regulated prediction market; Spanish expansion | — |
+| **Note** | site did not respond to sweep (blocked/timeout/JS) — verify via LinkedIn search (L) | — |
+
+---
+
+## Coverage Summary
+
+| Metric | Count |
+|---|---|
+| Companies covered | 10 |
+| Companies with verified public email (H) | 2 |
+| Companies with verified LinkedIn (H) | 2 |
+| Companies with NO public exec email | 8 — see §0 |
+
+---
+
+## Notes on Method & Caveats
+- **No emails invented.** Every direct exec email above is either (a) publicly listed on the company site (H), or (b) carried from the leads file / format-inferred and marked M/L. Any M/L address must be verified before sending (owner LLM or hunter.io-style lookup).
+- **LinkedIn URLs marked H** come from the company's own site footer/about pages — these are the companies' own published links, so risk is low; LinkedIn itself was not logged into, so profile pages weren't fetched directly.
+- **Exec names/roles** are carried from the leads file at M confidence (they were researched previously); only company-level contact data was re-verified live this session.
+- **JS-heavy / bot-protected sites** returned no extractable contacts — for these, exec email is MISSING by design and LinkedIn should be resolved via LinkedIn search (marked L).
+
+## Files
+- **Lead list:** `leads_*` in `apuesto.xyz/01-research/`
+- **Verification sweep:** `/home/team/shared/contact-verification/batch4b-findings-2026-08-15.txt` (raw live-sweep output)
+- **Reference format:** `../nofail.ai/01-research/contact_nofail.ai.md`

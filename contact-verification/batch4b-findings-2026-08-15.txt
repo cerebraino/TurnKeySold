@@ -1,0 +1,537 @@
+Batch 4B contact-sheet verification sweep — raw findings (2026-08-14)
+Sites swept: homepage + /about /about-us /contact /contact-us /team /leadership /company /company/about-us
+Sweep ran live this session via curl (4 parallel workers). Extracted mailto: and linkedin.com URLs only.
+
+----- aa.org -----
+https://www.linkedin.com/company/aaworldservicesinc
+
+----- acquia.com -----
+https://www.linkedin.com/company/acquia
+
+----- agentin.ai -----
+mailto:sankeerthrao@agentin.ai
+
+----- agigent.ai -----
+https://www.linkedin.com/company/agigent
+https://www.linkedin.com/in/judit-varga-75134329
+https://www.linkedin.com/in/l%C3%A1szl%C3%B3-bal%C3%A1zs-7559b898
+https://www.linkedin.com/in/sebestyen-dora
+
+----- alianzaamericas.org -----
+mailto:info@alianzaamericas.org
+
+----- aliexpress.com -----
+(no public contacts extracted)
+
+----- alignment.org -----
+(no public contacts extracted)
+
+----- amazon.com -----
+https://www.linkedin.com/company/amazon
+
+----- anthropic.com -----
+https://www.linkedin.com/company/anthropicresearch
+
+----- anyword.com -----
+https://www.linkedin.com/company/getanyword
+
+----- apartamentos.com -----
+(no public contacts extracted)
+
+----- apartments.com -----
+(no public contacts extracted)
+
+----- appsumo.com -----
+(no public contacts extracted)
+
+----- aquiva.com -----
+mailto:connect@aquiva.com
+https://www.linkedin.com/company/aquivainc
+https://www.linkedin.com/in/allison-gerrits-7896532a
+https://www.linkedin.com/in/artem-kniazev-ab2054a5
+https://www.linkedin.com/in/elena-lucas-b96a7830
+https://www.linkedin.com/in/graceklingensmith
+https://www.linkedin.com/in/jaykeating
+https://www.linkedin.com/in/jordan-rundell-1b968140
+https://www.linkedin.com/in/mgmilcher
+https://www.linkedin.com/in/nbalba
+https://www.linkedin.com/in/nicol%C3%A1s-da-silva-ramia
+https://www.linkedin.com/in/rohit-koul-02278517
+
+----- asktrim.com -----
+(no public contacts extracted)
+
+----- augur.net -----
+(no public contacts extracted)
+
+----- axxess.com -----
+mailto:corporatecommunications@axxess.com
+https://www.linkedin.com/company/axxess-consult
+
+----- azuro.org -----
+(no public contacts extracted)
+
+----- bet365.com -----
+(no public contacts extracted)
+
+----- betano.com -----
+(no public contacts extracted)
+
+----- betdex.com -----
+(no public contacts extracted)
+
+----- betmgm.com -----
+mailto:accessibility@betmgm.com
+
+----- betterme.world -----
+https://www.linkedin.com/company/betterme-company
+
+----- bicyclehealth.com -----
+https://www.linkedin.com/company/bicyclehealth
+https://www.linkedin.com/in/chrisn
+https://www.linkedin.com/in/jennhaas10
+https://www.linkedin.com/in/rickjdean
+https://www.linkedin.com/in/shayhurst
+https://www.linkedin.com/in/travis-schamber
+
+----- billbot.app -----
+(no public contacts extracted)
+
+----- bobbyapp.co -----
+(no public contacts extracted)
+
+----- brandbucket.com -----
+(no public contacts extracted)
+
+----- calm.com -----
+(no public contacts extracted)
+
+----- canopygrowth.com -----
+mailto:lsoper@biosteel.com
+https://www.linkedin.com/company/canopy-growth-corporation
+
+----- capterra.com -----
+(no public contacts extracted)
+
+----- casaverdecapital.com -----
+https://www.linkedin.com/company/casa-verde-capital
+https://www.linkedin.com/in/alexander-dann-cpa-4995a6b0
+https://www.linkedin.com/in/david-colton-1a097912a
+https://www.linkedin.com/in/karan-wadhera-87ba14
+https://www.linkedin.com/in/tony-ghanem
+https://www.linkedin.com/in/yonatanmeyer
+
+----- chirla.org -----
+mailto:jobs@chirla.org
+https://www.linkedin.com/company/chirla-coalition-for-humane-immigrant-rights
+
+----- clicksoftware.com -----
+(no public contacts extracted)
+
+----- conjecture.dev -----
+https://www.linkedin.com/company/conjecture
+
+----- cookies.co -----
+(no public contacts extracted)
+
+----- dexcare.com -----
+https://www.linkedin.com/company/dexcare
+https://www.linkedin.com/in/bryce-mcgee-a237199
+https://www.linkedin.com/in/carolinexie
+https://www.linkedin.com/in/collinrich
+https://www.linkedin.com/in/lynne-chou-o-keefe-5617a
+https://www.linkedin.com/in/matthewblosl
+https://www.linkedin.com/in/navidfarzad
+https://www.linkedin.com/in/rakshay-jain-19a7a32
+https://www.linkedin.com/in/robincahowborg
+https://www.linkedin.com/in/sean-o-connor-03949828
+https://www.linkedin.com/in/toby-cosgrove-76094158
+https://www.linkedin.com/in/toddcozzens
+
+----- draftkings.com -----
+mailto:jdanahy@draftkings.com
+mailto:media@draftkings.com
+mailto:sportsbook@draftkings.com
+mailto:sportspartnerships@draftkings.com
+https://www.linkedin.com/company/draftkings
+
+----- ebay.com -----
+(no public contacts extracted)
+
+----- eff.org -----
+mailto:activist@eff.org
+mailto:extension-devs@eff.org
+mailto:hr@eff.org
+mailto:info@eff.org
+mailto:membership@eff.org
+mailto:press@eff.org
+https://www.linkedin.com/company/EFF
+
+----- emma-app.com -----
+mailto:support@emma-app.com
+
+----- entain.com -----
+(no public contacts extracted)
+
+----- etsy.com -----
+(no public contacts extracted)
+
+----- fanduel.com -----
+mailto:press@fanduel.com
+
+----- fieldaware.com -----
+https://www.linkedin.com/company/gps-insight-llc
+
+----- fintonic.com -----
+http://www.linkedin.com/company/2603504
+https://www.linkedin.com/company/fintonic
+
+----- fiton.com -----
+(no public contacts extracted)
+
+----- flutter.com -----
+mailto:corporatecomms@flutter.com
+https://www.linkedin.com/company/flutter-entertainment
+
+----- futureoflife.org -----
+mailto:contact@futureoflife.org
+mailto:futures@futureoflife.org
+mailto:grants@futureoflife.org
+mailto:policy@futureoflife.org
+mailto:press@futureoflife.org
+https://www.linkedin.com/company/future-of-life-institute
+
+----- futurepedia.io -----
+https://www.linkedin.com/company/futurepedia
+
+----- g2.com -----
+(no public contacts extracted)
+
+----- getjobber.com -----
+(no public contacts extracted)
+
+----- glasshousebrands.com -----
+mailto:info@glasshousebrands.com
+mailto:info@glasshousegroup.com
+mailto:ir@glasshousebrands.com
+mailto:ir@glasshousegroup.com
+https://www.linkedin.com/company/glass-house-brands-inc
+
+----- godaddy.com -----
+(no public contacts extracted)
+
+----- governance.ai -----
+mailto:contact@governance.ai
+https://www.linkedin.com/company/govai
+
+----- grassdoor.com -----
+mailto:support@grassdoor.com
+
+----- guild.ai -----
+https://www.linkedin.com/company/guild-ai-group
+
+----- harborside.com -----
+(no public contacts extracted)
+
+----- headspace.com -----
+https://www.linkedin.com/company/headspace-meditation-limited
+https://www.linkedin.com/in/alexis-hernandez-hons-psyd-lmft-2b232422
+https://www.linkedin.com/in/anita-ridolfo-29a1403
+https://www.linkedin.com/in/benspero
+https://www.linkedin.com/in/brucearmstrong
+https://www.linkedin.com/in/charles-fan
+https://www.linkedin.com/in/conniechanwang
+https://www.linkedin.com/in/drjennaglover
+https://www.linkedin.com/in/faykallel
+https://www.linkedin.com/in/jon-kole-5b22095a
+https://www.linkedin.com/in/joy-zarra-parrish
+https://www.linkedin.com/in/juliataylorcheek
+https://www.linkedin.com/in/karanvsingh
+https://www.linkedin.com/in/lisamulrooneygross
+https://www.linkedin.com/in/mikestraut
+https://www.linkedin.com/in/mollyjoelcoye
+https://www.linkedin.com/in/nihalshah
+https://www.linkedin.com/in/patrick-lytle
+https://www.linkedin.com/in/ramjagannath
+https://www.linkedin.com/in/seanbrecker
+https://www.linkedin.com/in/tompickett1
+
+----- hiatusapp.com -----
+mailto:press@hiatusapp.com
+mailto:support@hiatusapp.com
+https://www.linkedin.com/company/hiatus-inc.
+
+----- hispanicfederation.org -----
+mailto:donors@hispanicfederation.org
+mailto:info@hispanicfederation.org
+https://www.linkedin.com/company/hispanic-federation
+
+----- homie.com -----
+mailto:offers@homie.com
+mailto:sales@homie.com
+mailto:support@homie.com
+mailto:tours@homie.com
+https://linkedin.com/company/homie-com
+
+----- housecallpro.com -----
+mailto:support@housecallpro.com
+https://www.linkedin.com/company/housecallpro
+
+----- ifs.com -----
+https://www.linkedin.com/company/ifs
+
+----- intelligence.org -----
+mailto:contact@intelligence.org
+mailto:development@intelligence.org
+mailto:finance@intelligence.org
+mailto:media@intelligence.org
+
+----- jobber.com -----
+(no public contacts extracted)
+
+----- joinmonument.com -----
+https://www.linkedin.com/company/joinmonument
+
+----- jointempest.com -----
+(no public contacts extracted)
+
+----- kalshi.com -----
+(no public contacts extracted)
+
+----- lark.com -----
+https://www.linkedin.com/company/lark-health
+https://www.linkedin.com/in/jeffzira
+
+----- latinocf.org -----
+(no public contacts extracted)
+
+----- leafly.com -----
+(no public contacts extracted)
+
+----- lulac.org -----
+https://www.linkedin.com/company/lulacnational
+
+----- maldef.org -----
+mailto:info@maldef.org
+mailto:media@maldef.org
+
+----- mhelpdesk.com -----
+mailto:support@mhelpdesk.com
+
+----- microsoft.com -----
+(no public contacts extracted)
+
+----- mint.com -----
+(no public contacts extracted)
+
+----- myfitnesspal.com -----
+mailto:mediarelations@myfitnesspal.com
+https://www.linkedin.com/company/myfitnesspal
+
+----- naleo.org -----
+(no public contacts extracted)
+
+----- namecheap.com -----
+(no public contacts extracted)
+
+----- noma.security -----
+https://www.linkedin.com/company/noma-security
+
+----- noom.com -----
+https://www.linkedin.com/company/noom-inc
+
+----- oak.id -----
+https://www.linkedin.com/company/oak-identity-security-os
+https://www.linkedin.com/in/moragshai
+https://www.linkedin.com/in/tal-marom
+
+----- oarhealth.com -----
+https://www.linkedin.com/company/oarhealth
+
+----- oracle.com -----
+https://www.linkedin.com/company/oracle
+
+----- pauseai.info -----
+https://www.linkedin.com/company/pauseai
+
+----- plata.com.mx -----
+(no public contacts extracted)
+
+----- pointsbet.com -----
+(no public contacts extracted)
+
+----- polymarket.com -----
+mailto:hello@polymarket.com
+mailto:press@polymarket.com
+https://www.linkedin.com/company/polymarket
+
+----- producthunt.com -----
+(no public contacts extracted)
+
+----- properati.com -----
+mailto:info@properati.com
+
+----- realtor.com -----
+mailto:customercare@realtor.com
+mailto:realtorrentals@move.com
+mailto:unblockrequest@realtor.com
+https://www.linkedin.com/company/realtor-com
+
+----- redfin.com -----
+(no public contacts extracted)
+
+----- redwoodresearch.org -----
+mailto:info@rdwrs.com
+
+----- reframeapp.com -----
+mailto:info@theglucobit.com
+mailto:support@reframeapp.com
+https://www.linkedin.com/company/glucobit-inc
+https://www.linkedin.com/in/aliceszhang
+https://www.linkedin.com/in/atgimbel
+https://www.linkedin.com/in/cammierice
+https://www.linkedin.com/in/daniel-simons-39805132
+https://www.linkedin.com/in/frank-brown-595708b
+https://www.linkedin.com/in/jacquelyn-wu
+https://www.linkedin.com/in/jamesbstubbs
+https://www.linkedin.com/in/kevin-bellack-b90ab923
+https://www.linkedin.com/in/mark-rapaport-1b678985
+https://www.linkedin.com/in/sanjuv
+https://www.linkedin.com/in/sophie-yc-cheung
+https://www.linkedin.com/in/subramanianvivek
+https://www.linkedin.com/in/vedantpradeep
+https://www.linkedin.com/in/victorwang1
+https://www.linkedin.com/in/ziyigao67
+
+----- rent.com -----
+(no public contacts extracted)
+
+----- riahealth.com -----
+https://www.linkedin.com/company/12907309
+https://www.linkedin.com/company/riahealth
+
+----- rocketmoney.com -----
+mailto:support@rocketmoney.com
+https://www.linkedin.com/company/rocketmoney
+https://www.linkedin.com/company/truebill
+
+----- rushbet.co -----
+(no public contacts extracted)
+
+----- saashub.com -----
+(no public contacts extracted)
+
+----- safe.ai -----
+mailto:contact@safe.ai
+mailto:media@safe.ai
+https://www.linkedin.com/company/center-for-ai-safety
+
+----- salesforce.com -----
+(no public contacts extracted)
+
+----- sap.com -----
+(no public contacts extracted)
+
+----- servicemax.com -----
+https://www.linkedin.com/company/ptc
+
+----- servicetitan.com -----
+https://www.linkedin.com/company/servicetitan
+
+----- shopify.com -----
+mailto:plus@shopify.com
+https://www.linkedin.com/company/shopify
+
+----- squadhelp.com -----
+(no public contacts extracted)
+
+----- squarespace.com -----
+https://www.linkedin.com/company/squarespace
+
+----- ssi.inc -----
+mailto:comms@ssi.inc
+
+----- stake.com -----
+(no public contacts extracted)
+
+----- subby.app -----
+(no public contacts extracted)
+
+----- sundialcannabis.com -----
+(no public contacts extracted)
+
+----- sunnyside.co -----
+mailto:hello@sunnyside.co
+mailto:press@sunnyside.co
+https://www.linkedin.com/company/join-sunnyside
+https://www.linkedin.com/company/sunnyside-app
+
+----- sx.bet -----
+(no public contacts extracted)
+
+----- target.com -----
+https://www.linkedin.com/company/target
+
+----- temu.com -----
+https://www.linkedin.com/company/temuapp
+
+----- theparent.co -----
+(no public contacts extracted)
+
+----- theresanaiforthat.com -----
+https://www.linkedin.com/company/taaft
+
+----- thunderpick.io -----
+(no public contacts extracted)
+
+----- toolify.ai -----
+(no public contacts extracted)
+
+----- univision.com -----
+(no public contacts extracted)
+
+----- vida.com -----
+mailto:support@vida.com
+https://www.linkedin.com/company/vida-health-inc
+
+----- vivanuncios.com.mx -----
+(no public contacts extracted)
+
+----- vivino.com -----
+https://www.linkedin.com/company/vivino
+
+----- walmart.com -----
+(no public contacts extracted)
+
+----- wayfair.com -----
+(no public contacts extracted)
+
+----- weedmaps.com -----
+(no public contacts extracted)
+
+----- wellness.com -----
+(no public contacts extracted)
+
+----- wish.com -----
+(no public contacts extracted)
+
+----- wix.com -----
+https://www.linkedin.com/company/wix-com
+https://www.linkedin.com/in/abrahamiavishai
+
+----- workithealth.com -----
+mailto:hello@workithealth.com
+https://www.linkedin.com/company/workit-health
+
+----- workiz.com -----
+(no public contacts extracted)
+
+----- zillow.com -----
+(no public contacts extracted)
+
+----- zinier.com -----
+mailto:hello@zinier.com
+https://www.linkedin.com/company/zinier-inc
+
+----- zumper.com -----
+(no public contacts extracted)

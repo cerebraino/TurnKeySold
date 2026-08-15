@@ -13,14 +13,14 @@
 | Appraisal / value (A1) | `01-research/leads_<domain>.md` §1 | 146/146 | — |
 | Buyer categories (A2) | `01-research/leads_<domain>.md` §2 | 146/146 | `COMPANY/research-framework.md` |
 | DMPS-scored leads (A3) | `01-research/leads_<domain>.md` §3 | 146/146 | `COMPANY/research-framework.md` |
-| Verified exec contact sheets (A4) | `01-research/contact-sheet_<domain>.md` (+ older `contact_<domain>.md`) | ~95/146 (103 in in-progress batch-4) | `docs/assets/ASSET_CHECKLIST.md` |
+| Verified exec contact sheets (A4) | `01-research/contact-sheet_<domain>.md` (+ older `contact_<domain>.md`) | 103/146 (batch 5 in progress → ~128) | `docs/assets/ASSET_CHECKLIST.md` |
 | Outreach email packs (A5) | `02-outreach/email-pack_<domain>.md` | 100/146 | header block in any `email-pack_*.md` |
-| Micro-messages (A6) | `02-outreach/micro-messages_<domain>.md` | **146/146 claimed — ⚠️ only 28 files verified in repo** | `docs/methodology/three-line-outreach-framework.md` |
+| Micro-messages (A6) | `02-outreach/micro-messages_<domain>.md` | **147/147 in repo (synced 2026-08-15, PR #26)** | `docs/methodology/three-line-outreach-framework.md` |
 | Outreach briefs (B1) | `02-outreach/brief_<domain>.md` | 145/146 (coldbeerportfolio n/a) | `COMPANY/campaign-playbook.md` |
 | Google ad enrichment (B2) | embedded in `leads_<domain>.md` | 22 domains | — |
 | Google Alerts (B3) | `google_alerts_v2.csv` | 127 domains | — |
 
-> ⚠️ **Verification flags (do not propagate the audit's numbers blindly):** (1) A6 "146/146 per-domain files" is **not** reflected in the repo — only 28 `micro-messages_*.md` files exist; the full 146-domain micro-message content lives in `DOMAINS/CSV/TurnKeySold_Full_Portfolio_Ranked.csv` (col 5) + `DOMAINS/CSV/micro_messages_drafts.md`. (2) The email-pack body policy is **"<100 words"** (not "<60 words" — that was an earlier assumption; micro-messages are the short 150–220-char ones).
+> ⚠️ **Verification flags (do not propagate the audit's numbers blindly):** (1) The email-pack body policy is **"<100 words"** (not "<60 words" — that was an earlier assumption; micro-messages are the short 150–220-char ones). (2) The audit's "146/146" domain counts exclude the `coldbeerportfolio` bundle — per-domain asset files total 147 (146 domains + bundle).
 
 ---
 
@@ -37,9 +37,9 @@ This repo is the **single canonical source of truth** (Architecture Principle P1
 | A1 Appraisal | 146/146 |
 | A2 Buyer categories | 146/146 |
 | A3 Buyer companies + execs (DMPS) | 146/146 |
-| A4 Verified exec contact sheets | ~95/146 (103 in in-progress batch-4 branch) |
+| A4 Verified exec contact sheets | 103/146 (batch 5 in progress → ~128) |
 | A5 Outreach email packs | 100/146 |
-| A6 Micro-messages | 146/146 claimed (⚠️ 28 verified — see flag above) |
+| A6 Micro-messages | 147/147 in repo (synced 2026-08-15) |
 | B1 Outreach briefs | 145/146 |
 | B2 Google ad enrichment | 22 leads files |
 | B3 Google Alerts | 127 domains |
@@ -94,7 +94,7 @@ For a domain dir, e.g. `DOMAINS/agizent.com/`:
 | File | Contains |
 |---|---|
 | `brief_<domain>.md` | Pricing-free positioning brief: overview, lead summary, messaging strategy, email/LinkedIn templates, objection handling, **internal pricing** (always behind a marker, never in copy) |
-| `micro-messages_<domain>.md` | 150–220-char Three-Line one-liners per top-10 leads (signal → bridge → tiny ask). **A6 target: 146/146; only 28 files actually in repo** |
+| `micro-messages_<domain>.md` | 150–220-char Three-Line one-liners per top-10 leads (signal → bridge → tiny ask). **A6: 147/147 files in repo (synced 2026-08-15)** |
 | `email-pack_<domain>.md` | **NEW canonical format**: header block (Domain/Anchor/Policy/Sources/Contacts) + 5 leads, each with Context / Subject / Email / Follow-up Day 3 + 7 + 14 / Motivation button |
 | `outreach-<domain>.md` | **OLD format** (flagship domains) — being converted to the `email-pack_` format |
 
@@ -146,7 +146,7 @@ Current status is quoted in §1. The gap-fill plan (dispatched 2026-08-14) is: m
 | File | Columns / Purpose |
 |---|---|
 | `DOMAINS/CSV/TurnKeySold_Full_Portfolio_Ranked.csv` | **The value-ranked master portfolio index.** 146 rows, ranked by value. Cols: `Domain, Approx Defensible Market Value, Main 3 Buyer Categories, Top-3 Companies, Sample Micro-Message` |
-| `DOMAINS/CSV/micro_messages_drafts.md` | Pre-split source of all micro-messages (split into per-domain files — incomplete) |
+| `DOMAINS/CSV/micro_messages_drafts.md` | Pre-split source of all micro-messages (per-domain files now complete — 147/147) |
 | `docs/outreach-contact-list-complete.csv` | **Exec contact master.** Cols: `#, Priority (P1/P2/P3), Batch, Name, Title, Company, Domain, LinkedIn, Email, Confidence, Motivation, Micro-Message, Has Message` |
 | `docs/outreach-contact-list-batch1.csv` | Batch-1 slice of the above (adds `Price`, `Twitter/X`, `Pitch Angle`) |
 | `NameCheap_Domain_List.csv` | Raw registrar export. Cols: `Domain Name, privacy, status, auto-renew, expiration` |

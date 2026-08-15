@@ -1,0 +1,317 @@
+Batch 4 contact-sheet verification sweep — raw findings (2026-08-14)
+Sites swept: homepage + /about /about-us /contact /contact-us /team /leadership /company /company/about-us
+Sweep ran live this session via curl (4 parallel workers). Extracted mailto: and linkedin.com URLs only.
+
+----- 888sport.es -----
+(no public contacts extracted)
+
+----- achievement.com -----
+(no public contacts extracted)
+
+----- ads.google.com -----
+(no public contacts extracted)
+
+----- afternic.com -----
+(no public contacts extracted)
+
+----- amazon.com -----
+https://www.linkedin.com/company/amazon
+
+----- appsumo.com -----
+(no public contacts extracted)
+
+----- apuestas.com -----
+(no public contacts extracted)
+
+----- auroramj.com -----
+(no public contacts extracted)
+
+----- avicanna.com -----
+mailto:info.latam@avicanna.com
+mailto:info@avicanna.com
+https://www.linkedin.com/company/avicanna
+
+----- bc.game -----
+(no public contacts extracted)
+
+----- bet365.com -----
+(no public contacts extracted)
+
+----- betano.com -----
+(no public contacts extracted)
+
+----- betcris.com -----
+(no public contacts extracted)
+
+----- betsson.com -----
+(no public contacts extracted)
+
+----- bettercollective.com -----
+https://www.linkedin.com/company/better-collective
+
+----- betwarrior.bet -----
+mailto:ayuda@betwarrior.bet
+mailto:help@betwarrior.bet
+
+----- bigcommerce.com -----
+http://www.linkedin.com/company/bigcommerce
+https://www.linkedin.com/company/bigcommerce
+
+----- brandbucket.com -----
+(no public contacts extracted)
+
+----- caesars.com -----
+https://www.linkedin.com/company/caesars-entertainment-inc
+
+----- caliente.mx -----
+(no public contacts extracted)
+
+----- canncura.com -----
+(no public contacts extracted)
+
+----- canopygrowth.com -----
+mailto:lsoper@biosteel.com
+https://www.linkedin.com/company/canopy-growth-corporation
+
+----- capterra.com -----
+(no public contacts extracted)
+
+----- casaverdecapital.com -----
+https://www.linkedin.com/company/casa-verde-capital
+https://www.linkedin.com/in/alexander-dann-cpa-4995a6b0
+https://www.linkedin.com/in/david-colton-1a097912a
+https://www.linkedin.com/in/karan-wadhera-87ba14
+https://www.linkedin.com/in/tony-ghanem
+https://www.linkedin.com/in/yonatanmeyer
+
+----- catenamedia.com -----
+(no public contacts extracted)
+
+----- christies.com -----
+https://www.linkedin.com/company/163032
+
+----- cleverleaves.com -----
+mailto:info@cleverleaves.com
+mailto:lineaetica@cleverleaves.com
+https://www.linkedin.com/company/clever-leaves
+
+----- cloud.google.com -----
+(no public contacts extracted)
+
+----- codere.com -----
+(no public contacts extracted)
+
+----- consumerreports.org -----
+https://www.linkedin.com/company/consumer-reports
+
+----- cookies.co -----
+(no public contacts extracted)
+
+----- danddlondon.com -----
+(no public contacts extracted)
+
+----- draftkings.com -----
+mailto:jdanahy@draftkings.com
+mailto:media@draftkings.com
+mailto:sportsbook@draftkings.com
+mailto:sportspartnerships@draftkings.com
+https://www.linkedin.com/company/draftkings
+
+----- ecwid.com -----
+(no public contacts extracted)
+
+----- endeavour.com.mx -----
+(no public contacts extracted)
+
+----- etsy.com -----
+(no public contacts extracted)
+
+----- fitbit.com -----
+(no public contacts extracted)
+
+----- floragrowth.com -----
+https://www.linkedin.com/company/zerostack-0g
+https://www.linkedin.com/company/zerostack-corp
+
+----- futurepedia.io -----
+https://www.linkedin.com/company/futurepedia
+
+----- g2.com -----
+(no public contacts extracted)
+
+----- galaxyentertainment.com -----
+(no public contacts extracted)
+
+----- gambling.com -----
+mailto:newsdesk@gambling.com
+https://www.linkedin.com/company/gambling-com
+
+----- glasshousebrands.com -----
+mailto:info@glasshousebrands.com
+mailto:info@glasshousegroup.com
+mailto:ir@glasshousebrands.com
+mailto:ir@glasshousegroup.com
+https://www.linkedin.com/company/glass-house-brands-inc
+
+----- godaddy.com -----
+(no public contacts extracted)
+
+----- google.com -----
+(no public contacts extracted)
+
+----- grassdoor.com -----
+mailto:support@grassdoor.com
+
+----- hakkasan.com -----
+(no public contacts extracted)
+
+----- harborside.com -----
+(no public contacts extracted)
+
+----- kerzner.com -----
+(no public contacts extracted)
+
+----- khiron.ca -----
+mailto:farmacovigilancia@khiron.ca
+mailto:farmacovigilancia_peru@khiron.ca
+mailto:info@khiron.ca
+https://www.linkedin.com/company/khiron-life-sciences-corp
+
+----- kindredgroup.com -----
+https://www.linkedin.com/company/FDJUNITED
+
+----- leafly.com -----
+(no public contacts extracted)
+
+----- lympo.io -----
+(no public contacts extracted)
+
+----- magento.com -----
+(no public contacts extracted)
+
+----- mapmyfitness.com -----
+(no public contacts extracted)
+
+----- melco-resorts.com -----
+(no public contacts extracted)
+
+----- mgmresorts.com -----
+(no public contacts extracted)
+
+----- namecheap.com -----
+(no public contacts extracted)
+
+----- nike.com -----
+https://www.linkedin.com/company/converse
+https://www.linkedin.com/company/jumpman23
+https://www.linkedin.com/company/nike
+
+----- nobuhotels.com -----
+mailto:ryokan@nobuhotels.com
+
+----- pacer.cc -----
+(no public contacts extracted)
+
+----- pharmacielo.com -----
+(no public contacts extracted)
+
+----- producthunt.com -----
+(no public contacts extracted)
+
+----- raketech.com -----
+https://www.linkedin.com/company/raketech
+
+----- runtastic.com -----
+(no public contacts extracted)
+
+----- rushbet.co -----
+(no public contacts extracted)
+
+----- saashub.com -----
+(no public contacts extracted)
+
+----- sands.com -----
+(no public contacts extracted)
+
+----- sedo.com -----
+(no public contacts extracted)
+
+----- shopify.com -----
+mailto:plus@shopify.com
+https://www.linkedin.com/company/shopify
+
+----- shopware.com -----
+mailto:info@shopware.com
+https://www.linkedin.com/company/shopware-ag
+
+----- sothebys.com -----
+(no public contacts extracted)
+
+----- sportytrader.com -----
+(no public contacts extracted)
+
+----- squadhelp.com -----
+(no public contacts extracted)
+
+----- squarespace.com -----
+https://www.linkedin.com/company/squarespace
+
+----- stackshare.io -----
+(no public contacts extracted)
+
+----- stake.com -----
+(no public contacts extracted)
+
+----- startup.google.com -----
+(no public contacts extracted)
+
+----- stepbet.com -----
+mailto:support@stepbet.com
+
+----- strava.com -----
+https://www.linkedin.com/company/strava-inc.
+
+----- sundialcannabis.com -----
+(no public contacts extracted)
+
+----- sweatcoin.com -----
+https://linkedin.com/company/sweatcoin
+https://www.linkedin.com/company/sweatcoin
+
+----- taogroup.com -----
+mailto:contact@taogroup.com
+https://www.linkedin.com/company/tao-group-hospitality
+
+----- thecronosgroup.com -----
+https://www.linkedin.com/company/cronos-group-cron
+
+----- theparent.co -----
+(no public contacts extracted)
+
+----- toolify.ai -----
+(no public contacts extracted)
+
+----- univision.com -----
+(no public contacts extracted)
+
+----- weedmaps.com -----
+(no public contacts extracted)
+
+----- williamhill.es -----
+(no public contacts extracted)
+
+----- wirecutter.com -----
+https://www.linkedin.com/company/the-new-york-times
+https://www.linkedin.com/company/the-wirecutter
+
+----- wix.com -----
+https://www.linkedin.com/company/wix-com
+https://www.linkedin.com/in/abrahamiavishai
+
+----- woocommerce.com -----
+https://www.linkedin.com/company/woocommerce
+
+----- wynnresorts.com -----
+mailto:investorrelations@wynnresorts.com
+mailto:pr@wynnlasvegas.com
+https://www.linkedin.com/company/wynn-resorts

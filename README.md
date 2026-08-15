@@ -1,5 +1,7 @@
 # TurnKeySold Domains
 
+> **📌 Canonical index: see [REPO_INDEX.md](REPO_INDEX.md)** — the authoritative, up-to-date map of every asset, directory, and guiding document in this repository. The content below is partially stale (e.g. "131 domains" is now 145 + 1 bundle).
+
 **Parent brand:** TurnKeySold  
 **Tagline:** Premium domains, sold on purpose.  
 **Website:** [TurnKeySold.com](https://TurnKeySold.com) | [coldbeerportfolio.com](https://coldbeerportfolio.com)  

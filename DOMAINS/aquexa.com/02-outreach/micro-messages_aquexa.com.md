@@ -1,5 +1,5 @@
 # Micro-Messages — aquexa.com (New Prospect, 2026-08-12)
-> **Framework:** Three-Line | **Max:** 250 chars (target 150–220) | **Language:** English
+> **Framework:** Three-Line | **Max:** 220 chars (target 150–220)
 > **Rules:** real signal → 'the premium domain [Domain]' → micro-ask. No pricing, no links, no 'I own'.
 > **Source:** owner's `domain_buyer_prospects.md` (commit 08ce6b9) — verified live by domain-researcher (leads_Aquexa.com.md, DMPS in table)
 > **Domain note:** Aquexa.com = pure brandable (six letters, three syllables). Only ONE prospect verified as a real lead — AGIgent (direct brand collision). The other four owner-listed candidates (Appaca, BetterClaw, Xirp, AgentX) were **rejected by the researcher as unverifiable** (HN/PH listing only, no site or named exec) — so this file carries a single micro-message plus the rationale for skipping the rest.

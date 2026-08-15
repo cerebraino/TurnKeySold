@@ -1,0 +1,5 @@
+# Micro-Messages — rentahumanos.com
+> **Framework:** Three-Line (their world → their stakes → the name that fits) | **Max:** 220 chars (target 150–220)
+> **Source:** full-portfolio drafts (CSV part 2, micro_messages_drafts.md) — top-DMPS lead; message verbatim. No pricing, no links, no ownership phrasing.
+
+Workana connects freelance talent — "renta humanos" names the freelance economy model. The premium domain rentahumanos.com says it clearly. ¿Vale la pena conversar?

@@ -45,3 +45,15 @@
 ---
 
 *30 leads. Full 16-category expansion in oneguY-buyer-expansion.md.*
+
+## Owner 10-Domain Integration (Taskade,OPC.community,Founder Institute verified 2026-08-17)
+
+New prospects added from the owner's `Domain_Buyer_Prospecting_Research_10_Domains.md` (10-domain test set). All sites verified live via curl this session (HTTP 200 unless noted). DMPS scores adapted from owner's BMS with strategic-fit verification.
+
+| # | Company | DMPS | Tier | Decision-Maker | Role | Website | Trigger / Source |
+|---|---------|------|------|---------------|------|---------|------------------|
+| 1 | **Taskade** | **89** | WARM (Tier 1/2) | John Xie | CEO (Co-founder) | taskade.com (site 200) | Published 2026 one-person-company thesis (human founder + AI agents as functional depts); Genesis |
+| 2 | **Founder Institute** | **84** | WARM (Tier 1/2) | (CEO) | CEO | fi.co (site 200) | 2026 article on one-person companies / solo unicorn model; fresh trigger |
+| 3 | **OPC.community** | **77** | LUKEWARM (Tier 2/3) | (CEO) | CEO | opc.community (site 200) | Already positioned around one-person-company concept |
+
+> **Note:** Exec-emails/contact sheets for these new prospects not yet built — add to `contact-sheet_*.md` in a follow-up pass if outreach is prioritized.

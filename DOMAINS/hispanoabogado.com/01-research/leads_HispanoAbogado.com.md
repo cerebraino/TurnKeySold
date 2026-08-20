@@ -191,3 +191,14 @@
 | 37 | **Outten & Golden** | **72** | Employment Law | Adam Klein (Partner) | Partner |
 
 *Total: 37 leads (17 existing + 20 new). Full 13-category expansion in hispanoabogado-buyer-expansion.md.*
+## Owner 10-Domain Integration (Hispanic Lawyers Network,Abogados NOW,Abogacia-US verified 2026-08-17)
+
+New prospects added from the owner's `Domain_Buyer_Prospecting_Research_10_Domains.md` (10-domain test set). All sites verified live via curl this session (HTTP 200 unless noted). DMPS scores adapted from owner's BMS with strategic-fit verification.
+
+| # | Company | DMPS | Tier | Decision-Maker | Role | Website | Trigger / Source |
+|---|---------|------|------|---------------|------|---------|------------------|
+| 1 | **Abogacia-US** | **88** | WARM (Tier 1/2) | (CEO) | CEO | abogacia-us.com (site 200) | Pay-per-lead platform connecting US Hispanics with attorneys; direct traffic value |
+| 2 | **Abogados NOW** | **83** | WARM (Tier 1/2) | (CEO) | CEO | abogadosnow.com (site 200) | Helps law firms acquire Hispanic clients; Spanish legal marketing content |
+| 3 | **Hispanic Lawyers Network** | **76** | LUKEWARM (Tier 2/3) | (CEO) | CEO | hispaniclawyersnetwork.com (site 200) | Directory helping Hispanic families find Spanish-speaking attorneys |
+
+> **Note:** Exec-emails/contact sheets for these new prospects not yet built — add to `contact-sheet_*.md` in a follow-up pass if outreach is prioritized.

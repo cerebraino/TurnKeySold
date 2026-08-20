@@ -100,3 +100,12 @@
 - **Microsoft and GitLab** appear in organic results for AI+DevOps content — both large platforms with DevOps product suites that could benefit from NoBreak.ai as a reliability/uptime sub-brand.
 - The "No Break" concept aligns with **site reliability engineering (SRE)** and **incident management** — Datadog and PagerDuty are the strongest fits.
 - **DMPS bonus:** Datadog, PagerDuty, New Relic, Dynatrace, Splunk (+10 each).
+## Owner 10-Domain Integration (NoBreak Security verified 2026-08-17)
+
+New prospects added from the owner's `Domain_Buyer_Prospecting_Research_10_Domains.md` (10-domain test set). All sites verified live via curl this session (HTTP 200 unless noted). DMPS scores adapted from owner's BMS with strategic-fit verification.
+
+| # | Company | DMPS | Tier | Decision-Maker | Role | Website | Trigger / Source |
+|---|---------|------|------|---------------|------|---------|------------------|
+| 1 | **NoBreak Security** | **96** | HOT (Tier 1) | Yuval Olsha | Founder | nobreak.ca (site 200) | EXACT-BRAND upgrade: NoBreak Security uses NoBreak.ca; AI home security, Toronto; Founding Household waitlist = early brand phase |
+
+> **Note:** Exec-emails/contact sheets for these new prospects not yet built — add to `contact-sheet_*.md` in a follow-up pass if outreach is prioritized.

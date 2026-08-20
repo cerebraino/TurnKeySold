@@ -49,3 +49,15 @@
 ---
 
 *Re-created after sandbox recovery. 32 leads. Full 16-category expansion in latinomedico-buyer-expansion.md.*
+
+## Owner 10-Domain Integration (MiSalud Health,Tú TeleDoc,Zócalo Health verified 2026-08-17)
+
+New prospects added from the owner's `Domain_Buyer_Prospecting_Research_10_Domains.md` (10-domain test set). All sites verified live via curl this session (HTTP 200 unless noted). DMPS scores adapted from owner's BMS with strategic-fit verification.
+
+| # | Company | DMPS | Tier | Decision-Maker | Role | Website | Trigger / Source |
+|---|---------|------|------|---------------|------|---------|------------------|
+| 1 | **Zócalo Health** | **94** | HOT (Tier 1) | Erik Cardenas | CEO (Co-founder) | zocalo.health (site 200) | Latino-focused clinical+social care; ~$22.8M total funding Apr 2026 |
+| 2 | **Tú TeleDoc** | **88** | WARM (Tier 1/2) | Jeremy Roberts | CEO (Founder) | tuteledoc.com (site 503) | Mexico-focused telehealth; acquiring AI health-record startup; Mexico+South America expansion |
+| 3 | **MiSalud Health** | **87** | WARM (Tier 1/2) | (CEO) | CEO | misaludhealth.com (site 200) | Virtual bilingual healthcare for Hispanic/Latino workforces; AI capabilities |
+
+> **Note:** Exec-emails/contact sheets for these new prospects not yet built — add to `contact-sheet_*.md` in a follow-up pass if outreach is prioritized.

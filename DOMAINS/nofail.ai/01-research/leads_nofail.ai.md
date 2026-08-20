@@ -191,3 +191,17 @@
 - **Public emails confirmed (H):** support@confident-ai.com (docs), team@respan.ai + support@respan.ai, contact@bentolabs.ai, founders@modaflows.com + pranav@modaflows.com (mailto), security@fiddler.ai, contact@patronus.ai + security@patronus.ai.
 - **Email gaps (MISSING → owner lookup):** Galileo (no public addresses at all), TrustAI, Fabraix, Agnost have zero public exec emails; Abhinav Soni (BentoLabs) and both Patronus execs lack verified LinkedIn; Fabraix 2nd founder unnamed. Full 14-item list in contact sheet §0.
 - **No emails invented** — all format-inferred addresses carry M/L confidence + "format-inferred" flag; must be verified before outreach (owner LLM or hunter.io-style lookup).
+
+## Owner 10-Domain Integration (Sazabi,Braintrust,CodeRabbit,Groundcover,InsightFinder verified 2026-08-17)
+
+New prospects added from the owner's `Domain_Buyer_Prospecting_Research_10_Domains.md` (10-domain test set). All sites verified live via curl this session (HTTP 200 unless noted). DMPS scores adapted from owner's BMS with strategic-fit verification.
+
+| # | Company | DMPS | Tier | Decision-Maker | Role | Website | Trigger / Source |
+|---|---------|------|------|---------------|------|---------|------------------|
+| 1 | **Sazabi** | **89** | WARM (Tier 1/2) | (founder) | CEO | sazabi.ai (site 200) | AI observability/debugging; YC S26, ~$8M raised |
+| 2 | **Braintrust** | **86** | WARM (Tier 1/2) | Ankur Goyal | CEO (Founder) | braintrust.dev (site 200) | AI observability & production AI infra; $80M Series B Feb 2026 (ICONIQ) |
+| 3 | **InsightFinder** | **83** | WARM (Tier 1/2) | (CEO) | CEO | insightfinder.com (site 200) | Helps companies find where AI agents go wrong; ~$15M raised Apr 2026 |
+| 4 | **Groundcover** | **82** | WARM (Tier 1/2) | (CEO) | CEO | groundcover.com (site 200) | Observability with $100M Series C Jul 2026 (reported) |
+| 5 | **CodeRabbit** | **80** | WARM (Tier 1/2) | (CEO) | CEO | coderabbit.ai (site 200) | AI-assisted code quality; $143M raised Aug 2026 @ $1.5B (reported) |
+
+> **Note:** Exec-emails/contact sheets for these new prospects not yet built — add to `contact-sheet_*.md` in a follow-up pass if outreach is prioritized.

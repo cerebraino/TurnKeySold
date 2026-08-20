@@ -10,7 +10,7 @@ Audit source: repo main `f7b95fd` (DOMAINS/), cross-checked against shared. Supe
 | A2 Buyer categories (3 per domain) | 146/146 (CSV + leads) | — |
 | A3 Buyer companies w/ DMPS + execs | 146/146 (CSV; 145 leads files) | coldbeerportfolio (bundle, flagged) |
 | A4 Verified exec contact sheets | 146/146 | COMPLETE (Group-1 17 + gap-fill batches 1-5: 125 sheets + batch-4 correction 17 rows 105-121 + automoviles.ai — 2026-08-15) |
-| A5 Outreach email packs (initial + Day 3/7/14) | 100/146 | ~46 domains (batches 1-4: 24+25+25+25 + putero.online — merged through 2026-08-15; batch-2 header v2 pass wired 20 packs to contact sheets) |
+| A5 Outreach email packs (initial + Day 3/7/14) | 125/146 | batches 1-5 + 3 flagship conversions complete (incl. lowercase renames topsex/whorehouse), merged through 2026-08-17 |
 | A6 Micro-messages per-domain files | **147/147 in repo** (146 domains + coldbeerportfolio; synced to git 2026-08-15, PR #26) | — |
 | B1 Outreach briefs | 145/146 | coldbeerportfolio (bundle) |
 | B2 Google ad enrichment | 22 leads files embedded | more in progress (supporting) |

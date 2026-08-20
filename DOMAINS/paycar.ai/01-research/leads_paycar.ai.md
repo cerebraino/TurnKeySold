@@ -78,3 +78,15 @@
 ---
 
 *Lead list prepared for outreach-architect.*
+## Owner 10-Domain Integration (Ever,Kavak / Kavak Crédito,Nexu,leboncoin verified 2026-08-17)
+
+New prospects added from the owner's `Domain_Buyer_Prospecting_Research_10_Domains.md` (10-domain test set). All sites verified live via curl this session (HTTP 200 unless noted). DMPS scores adapted from owner's BMS with strategic-fit verification.
+
+| # | Company | DMPS | Tier | Decision-Maker | Role | Website | Trigger / Source |
+|---|---------|------|------|---------------|------|---------|------------------|
+| 1 | **Kavak / Kavak Crédito** | **91** | HOT (Tier 1) | Carlos García Ottati | CEO (Founder) | kavak.com (site 200) | Kavak Crédito = dedicated auto-finance business; Pay+Car+AI overlap |
+| 2 | **Nexu** | **84** | WARM (Tier 1/2) | (CEO) | CEO | nexu.mx (site 200) | Mexico City auto fintech; real-time digital credit approvals to dealerships; proprietary credit/risk scoring |
+| 3 | **Ever** | **76** | LUKEWARM (Tier 2/3) | (CEO) | CEO | evercars.com (site 200) | AI auto-retail platform; could combine commerce+financing+transactions |
+| 4 | **leboncoin** | **68** | COLD | (GM) | GM | leboncoin.fr (site 200) | DEFENSIVE: acquired PayCar (P2P car payment) 2019; trademark/naming diligence before outbound |
+
+> **Note:** Exec-emails/contact sheets for these new prospects not yet built — add to `contact-sheet_*.md` in a follow-up pass if outreach is prioritized.

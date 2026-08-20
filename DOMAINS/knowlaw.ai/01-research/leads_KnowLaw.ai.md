@@ -166,3 +166,14 @@
 - **Exec contacts for the 7 top leads:** see `contact_knowlaw.ai.md` — Harvey (Winston Weinberg, M), Ironclad (Jason Boehmig CEO, LinkedIn H via YC; Cai GoGwilt co-founder per leads file), Casetext (Jake Heller, LinkedIn H via YC), LexisNexis (Mike Walsh), Clio (Jack Newton), Luminance (Emily Foges), Levelset (Chris Lehnen).
 - **MISSING (owner lookup):** direct emails for all execs (only format-inferred addresses exist); personal LinkedIn for LexisNexis/Levelset/GoGwilt.
 - **Leadership flags:** Casetext acquired by Thomson Reuters (2023) — decision authority may sit with TR; verify Jake Heller's current role. LexisNexis exec title to verify.
+
+## Owner 10-Domain Integration (KnowLaw.in,KnowLaw AI verified 2026-08-17)
+
+New prospects added from the owner's `Domain_Buyer_Prospecting_Research_10_Domains.md` (10-domain test set). All sites verified live via curl this session (HTTP 200 unless noted). DMPS scores adapted from owner's BMS with strategic-fit verification.
+
+| # | Company | DMPS | Tier | Decision-Maker | Role | Website | Trigger / Source |
+|---|---------|------|------|---------------|------|---------|------------------|
+| 1 | **KnowLaw AI** | **93** | HOT (Tier 1) | (founder) | CEO | knowlawai.com (site 200) | EXACT-BRAND: AI legal platform currently on knowlawai.com -> KnowLaw.ai cleaner |
+| 2 | **KnowLaw.in** | **72** | LUKEWARM (Tier 2/3) | (founder) | CEO | knowlaw.in (site 200) | Law education platform India; AI extension potential |
+
+> **Note:** Exec-emails/contact sheets for these new prospects not yet built — add to `contact-sheet_*.md` in a follow-up pass if outreach is prioritized.

@@ -70,3 +70,13 @@
 | 34 | **FHA** | **60** | Government | — (HUD) | — |
 
 *Total: 34 leads (10 existing + 24 new). Full 14-category expansion in hipotecahispana-buyer-expansion.md.*
+## Owner 10-Domain Integration (Supreme Lending / Supreme CASA,Movement Mortgage,Rate verified 2026-08-17)
+
+New prospects added from the owner's `Domain_Buyer_Prospecting_Research_10_Domains.md` (10-domain test set). All sites verified live via curl this session (HTTP 200 unless noted). DMPS scores adapted from owner's BMS with strategic-fit verification.
+
+| # | Company | DMPS | Tier | Decision-Maker | Role | Website | Trigger / Source |
+|---|---------|------|------|---------------|------|---------|------------------|
+| 1 | **Supreme Lending / Supreme CASA** | **94** | HOT (Tier 1) | (CEO) | CEO | supremelending.com (site 403) | Supreme CASA launched Jun 29 2026: Hispanic homeownership (15+ Spanish branches, 150+ bilingual LOs); FRESH trigger |
+| 2 | **Movement Mortgage** | **82** | WARM (Tier 1/2) | (CEO) | CEO | movement.com (site 200) | Movement Comunidad: bilingual LOs + Spanish mortgage experiences |
+
+> **Note:** Exec-emails/contact sheets for these new prospects not yet built — add to `contact-sheet_*.md` in a follow-up pass if outreach is prioritized.

@@ -17,6 +17,35 @@ Every exec whose **email** or **LinkedIn URL** could not be confirmed from a pub
 | 3 | UptimeRobot | (CEO — verify) | email |
 | 4 | Pingdom (SolarWinds) | (SolarWinds CEO) | email |
 | 5 | Grafana Labs | Raj Dutt | email; LinkedIn |
+| 6 | **NoBreak Security** | Yuval Olsha (Founder) | exec email; personal LinkedIn (site publishes only ny admin@nobreak.ca) |
+| 7 | **Veeam** | Anand Eswaran (CEO) | general/media public email |
+
+---
+
+## Tier-1 / Wave-1 Buyers (owner 10-domain + batch-6 integration) — added 2026-08-20
+
+### NoBreak Security — nobreak.ca
+| Field | Detail | Confidence |
+|-------|--------|:---:|
+| **Exec** | Yuval Olsha — Founder | — |
+| **Company LinkedIn** | not found on-page (verify via LinkedIn search) | L |
+| **Public email(s)** | admin@nobreak.ca (on-site mailto; early-stage company, Founding-Household waitlist) | H |
+| **Source** | live curl sweep of nobreak.ca (+/about /contact /team) 2026-08-20; leads file for exec/DMPS | — |
+| **DMPS** | 96 | — |
+| **Intent signal** | EXACT-BRAND upgrade: AI home-security company on NoBreak.ca; natural global `.ai` upgrade. Highest-priority buyer. | — |
+| **Note** | admin@nobreak.ca is the only published address (template placeholder `jane@example.com` ignored); exec direct email + personal LinkedIn still needed — see §0 and MISSING-CONTACT_2026-08-20.md | — |
+
+### Veeam — veeam.com
+| Field | Detail | Confidence |
+|-------|--------|:---:|
+| **Exec** | Anand Eswaran — CEO | — |
+| **Company LinkedIn** | https://www.linkedin.com/company/veeam-software | H |
+| **Personal LinkedIn(s)** | not found on-page (verify via LinkedIn search) | L |
+| **Public email(s)** | **MISSING** — no on-site general/media address found on sweep | — |
+| **Source** | live curl sweep of veeam.com (+/about /contact /team) 2026-08-20; leads file for exec/DMPS | — |
+| **DMPS** | 90 | — |
+| **Intent signal** | "No data loss / no break" is Veeam's core promise; category fit. Already targeted in `outreach-nofail-nobreak.md`. | — |
+| **Note** | Veeam already in the nofail/nobreak email pack (`email-pack_nobreak.ai.md`) — this block adds its verified company LinkedIn. Exec email needed (LinkedIn DM recommended). | — |
 
 ---
 

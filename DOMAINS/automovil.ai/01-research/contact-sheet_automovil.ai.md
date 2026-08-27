@@ -86,6 +86,32 @@ Every exec whose **email** or **LinkedIn URL** could not be confirmed from a pub
 
 ---
 
+## Tier-1 / Wave-1 Buyers (owner 10-domain integration) — added 2026-08-20
+
+### Ever — evercars.com
+| Field | Detail | Confidence |
+|-------|--------|:---:|
+| **Exec** | (CEO, unnamed in leads) — CEO | — |
+| **Company LinkedIn** | not found on-page (only unnamed personal profiles) | L |
+| **Public email(s)** | contact@evercars.com, press@evercars.com | H |
+| **Source** | live curl sweep of evercars.com (+/about /contact /team) 2026-08-20; leads file | — |
+| **DMPS** | 80 | — |
+| **Intent signal** | AI-native full-stack auto retail platform; $31M Series A Feb 2026. | — |
+| **Note** | contact@/press@ H; CEO name + company LinkedIn needed. Same buyer as PayCar.ai Ever. | — |
+
+### Cafler — cafler.com
+| Field | Detail | Confidence |
+|-------|--------|:---:|
+| **Exec** | (CEO, unnamed in leads) — CEO | — |
+| **Company LinkedIn** | https://es.linkedin.com/company/cafler | H |
+| **Public email(s)** | soporte@cafler.com | H |
+| **Source** | live curl sweep of cafler.com (+/contact /about) 2026-08-20 → 200 (was 500 on 2026-08-17); leads file | — |
+| **DMPS** | 75 | — |
+| **Intent signal** | Automotive-services marketplace with AI; BBVA Spark-backed; international expansion. | — |
+| **Note** | site now reachable (200); soporte@ is the Spanish support channel (H). CEO name + direct email needed. | — |
+
+---
+
 ## Coverage Summary
 
 | Metric | Count |

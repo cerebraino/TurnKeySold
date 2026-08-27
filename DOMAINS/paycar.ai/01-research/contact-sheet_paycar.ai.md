@@ -109,6 +109,43 @@ Every exec whose **email** or **LinkedIn URL** could not be confirmed from a pub
 
 ---
 
+## Tier-1 / Wave-1 Buyers (owner 10-domain integration) — added 2026-08-20
+
+### Kavak / Kavak Crédito — kavak.com
+| Field | Detail | Confidence |
+|-------|--------|:---:|
+| **Exec** | Carlos García Ottati — CEO (Founder) | — |
+| **Company LinkedIn** | **MISSING** — site blocked (WAF 403) on sweep; verify via LinkedIn search | L |
+| **Public email(s)** | **MISSING** — site blocked (WAF 403) | — |
+| **Source** | live curl sweep of kavak.com (+/mx path, googlebot) 2026-08-20 → 403; leads file | — |
+| **DMPS** | 91 | — |
+| **Intent signal** | Kavak Crédito = dedicated auto-finance business; Pay + Car + AI overlap. HOT Tier-1. | — |
+| **Note** | WAF blocks curl — company live. Carlos' LinkedIn/email needed → see MISSING-CONTACT_2026-08-20.md | — |
+
+### Nexu — nexu.mx
+| Field | Detail | Confidence |
+|-------|--------|:---:|
+| **Exec** | (CEO, unnamed in leads) — CEO | — |
+| **Company LinkedIn** | https://www.linkedin.com/company/nexu-mx/ | H |
+| **Public email(s)** | info@nexu.mx | H |
+| **Source** | live curl sweep of nexu.mx (+/about /contact /team) 2026-08-20; leads file | — |
+| **DMPS** | 84 | — |
+| **Intent signal** | Mexico City auto fintech; real-time digital credit approvals to dealerships; proprietary credit/risk scoring. | — |
+| **Note** | info@nexu.mx H; CEO name + direct email needed | — |
+
+### Ever — evercars.com
+| Field | Detail | Confidence |
+|-------|--------|:---:|
+| **Exec** | (CEO, unnamed in leads) — CEO | — |
+| **Company LinkedIn** | not found on-page (only unnamed personal profiles: /in/nyberglm, /in/quertermous, /in/tj-casner) | L |
+| **Public email(s)** | contact@evercars.com, press@evercars.com (also sales@/support@ literals) | H |
+| **Source** | live curl sweep of evercars.com (+/about /contact /team) 2026-08-20; leads file | — |
+| **DMPS** | 76 | — |
+| **Intent signal** | AI auto-retail platform; could combine commerce + financing + transactions. | — |
+| **Note** | contact@/press@ H; CEO name + company LinkedIn needed | — |
+
+---
+
 ## Coverage Summary
 
 | Metric | Count |

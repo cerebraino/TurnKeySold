@@ -123,6 +123,32 @@ Every exec whose **email** or **LinkedIn URL** could not be confirmed from a pub
 
 ---
 
+## Exact-Brand Buyer (owner 10-domain integration) — added 2026-08-20
+
+### KnowLaw AI — knowlawai.com
+| Field | Detail | Confidence |
+|-------|--------|:---:|
+| **Exec** | (founder, unnamed in leads) — CEO | — |
+| **Company LinkedIn** | **MISSING** — not found on swept pages; verify via LinkedIn search | L |
+| **Public email(s)** | **MISSING** — site returns 200 but no contact info on swept pages | — |
+| **Source** | live curl sweep of knowlawai.com (+/about /contact /team) 2026-08-20; leads file | — |
+| **DMPS** | 93 | — |
+| **Intent signal** | EXACT-BRAND: AI legal platform currently on knowlawai.com → KnowLaw.ai is the cleaner exact upgrade. Early-stage / high fit / uncertain pay. | — |
+| **Note** | founder name + email + LinkedIn needed before outbound → see MISSING-CONTACT_2026-08-20.md | — |
+
+### KnowLaw.in (secondary) — knowlaw.in
+| Field | Detail | Confidence |
+|-------|--------|:---:|
+| **Exec** | (founder, unnamed in leads) — CEO | — |
+| **Company LinkedIn** | **MISSING** — verify via LinkedIn search | L |
+| **Public email(s)** | **MISSING** — not found on swept pages | — |
+| **Source** | leads file (2026-08-17); site 200 on prior sweep | — |
+| **DMPS** | 72 | — |
+| **Intent signal** | Law-education platform, India; AI extension potential. Secondary/opportunistic. | — |
+| **Note** | lower priority (Tier 2/3) — owner research this only after KnowLaw AI. | — |
+
+---
+
 ## Coverage Summary
 
 | Metric | Count |

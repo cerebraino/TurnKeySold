@@ -155,6 +155,32 @@ Every exec whose **email** or **LinkedIn URL** could not be confirmed from a pub
 
 ---
 
+## Tier-1 / Wave-1 Buyers (owner 10-domain integration) — added 2026-08-20
+
+### Supreme Lending / Supreme CASA — supremelending.com
+| Field | Detail | Confidence |
+|-------|--------|:---:|
+| **Exec** | (CEO, unnamed in leads) — CEO | — |
+| **Company LinkedIn** | **MISSING** — site blocked (WAF 403) on sweep; verify via LinkedIn search | L |
+| **Public email(s)** | **MISSING** — site blocked (WAF 403); no public address retrievable | — |
+| **Source** | live curl sweep of supremelending.com (+/es path, googlebot) 2026-08-20 → 403; leads file | — |
+| **DMPS** | 94 | — |
+| **Intent signal** | Supreme CASA launched Jun 29 2026: Hispanic homeownership (15+ Spanish branches, 150+ bilingual LOs); FRESH trigger. | — |
+| **Note** | WAF blocks curl — company is live (launch well-sourced). CEO + email + LinkedIn needed before outbound → see MISSING-CONTACT_2026-08-20.md | — |
+
+### Movement Mortgage — movement.com
+| Field | Detail | Confidence |
+|-------|--------|:---:|
+| **Exec** | (CEO, unnamed in leads) — CEO | — |
+| **Company LinkedIn** | https://www.linkedin.com/company/movementmortgage/ | H |
+| **Public email(s)** | press@movement.com, servicing@movement.com | H |
+| **Source** | live curl sweep of movement.com (+/about /contact /team) 2026-08-20; leads file | — |
+| **DMPS** | 82 | — |
+| **Intent signal** | Movement Comunidad: bilingual LOs + Spanish mortgage experiences. | — |
+| **Note** | press@movement.com is the H public press channel; exec direct email + CEO name still needed. | — |
+
+---
+
 ## Coverage Summary
 
 | Metric | Count |

@@ -156,6 +156,45 @@ Every exec whose **email** or **LinkedIn URL** could not be confirmed from a pub
 
 ---
 
+## Tier-1 / Wave-1 Buyers (owner 10-domain integration) — added 2026-08-20
+
+### Taskade — taskade.com
+| Field | Detail | Confidence |
+|-------|--------|:---:|
+| **Exec** | John Xie — Co-founder & CEO | — |
+| **Company LinkedIn** | https://www.linkedin.com/company/taskade | H |
+| **Personal LinkedIn(s)** | https://www.linkedin.com/in/johnxie/ | H |
+| **Public email(s)** | john@taskade.com (direct founder), showcase@taskade.com, support@taskade.com | H |
+| **Source** | live curl sweep of taskade.com (+/about /contact /team) 2026-08-20; leads file | — |
+| **DMPS** | 89 | — |
+| **Intent signal** | Published 2026 one-person-company thesis (human founder + AI agents as functional depts); Genesis. Unusually aligned. | — |
+| **Note** | ✅ Best-sourced buyer in this pass: founder direct email (john@) + personal LinkedIn both H on-site. Confirm john@ preferred over support@ before send. | — |
+
+### Founder Institute — fi.co
+| Field | Detail | Confidence |
+|-------|--------|:---:|
+| **Exec** | (CEO, unnamed in leads) — CEO (founder Adeo Ressi) | — |
+| **Company LinkedIn** | https://www.linkedin.com/company/the-founder-institute | H |
+| **Personal LinkedIn(s)** | https://www.linkedin.com/in/adeoressi (on-page) | H |
+| **Public email(s)** | regional@fi.co | H |
+| **Source** | live curl sweep of fi.co (+/about /contact /team) 2026-08-20; leads file | — |
+| **DMPS** | 84 | — |
+| **Intent signal** | 2026 article on one-person companies / solo-unicorn model; fresh trigger. | — |
+| **Note** | regional@fi.co is the H public channel; confirm Adeo Ressi's current title before outreach. | — |
+
+### OPC.community — opc.community
+| Field | Detail | Confidence |
+|-------|--------|:---:|
+| **Exec** | (CEO, unnamed in leads) — CEO | — |
+| **Company LinkedIn** | https://www.linkedin.com/company/opc-community | H |
+| **Public email(s)** | support@opc.community | H |
+| **Source** | live curl sweep of opc.community (+/about /contact /team) 2026-08-20; leads file | — |
+| **DMPS** | 77 | — |
+| **Intent signal** | Already positioned around the one-person-company concept. | — |
+| **Note** | founder name + direct email needed; support@ is the H public channel | — |
+
+---
+
 ## Coverage Summary
 
 | Metric | Count |

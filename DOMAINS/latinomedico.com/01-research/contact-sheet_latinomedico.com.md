@@ -156,6 +156,43 @@ Every exec whose **email** or **LinkedIn URL** could not be confirmed from a pub
 
 ---
 
+## Tier-1 / Wave-1 Buyers (owner 10-domain integration) — added 2026-08-20
+
+### Zócalo Health — zocalo.health
+| Field | Detail | Confidence |
+|-------|--------|:---:|
+| **Exec** | Erik Cardenas — Co-founder & CEO | — |
+| **Company LinkedIn** | on-page (handle truncated in capture — verify `linkedin.com/company/zocalo-health`) | M |
+| **Public email(s)** | hello@zocalo.health | H |
+| **Source** | live curl sweep of zocalo.health (+/about /contact /team) 2026-08-20; leads file | — |
+| **DMPS** | 94 | — |
+| **Intent signal** | Latino-focused clinical+social care; ~$22.8M total funding Apr 2026. | — |
+| **Note** | hello@zocalo.health H; Erik's personal LinkedIn + direct email still needed → see MISSING-CONTACT list | — |
+
+### Tú TeleDoc — tuteledoc.com
+| Field | Detail | Confidence |
+|-------|--------|:---:|
+| **Exec** | Jeremy Roberts — CEO (Founder) | — |
+| **Company LinkedIn** | **MISSING** — site down (503) on sweep | — |
+| **Public email(s)** | **MISSING** — site down (503); no address retrievable | — |
+| **Source** | live curl sweep of tuteledoc.com 2026-08-20 → 503; leads file | — |
+| **DMPS** | 88 | — |
+| **Intent signal** | Mexico-focused telehealth; acquiring AI health-record startup; Mexico + South America expansion (owner-sourced). | — |
+| **Note** | Site 503 — company treated as operational (funding/acquisition signal from owner source). Verify site + Jeremy's direct contact. | — |
+
+### MiSalud Health — misaludhealth.com
+| Field | Detail | Confidence |
+|-------|--------|:---:|
+| **Exec** | (CEO, unnamed in leads) — CEO | — |
+| **Company LinkedIn** | https://www.linkedin.com/company/misaludhealth/ | H |
+| **Public email(s)** | **MISSING** — not found on-site | — |
+| **Source** | live curl sweep of misaludhealth.com (+/about /contact /team) 2026-08-20; leads file | — |
+| **DMPS** | 87 | — |
+| **Intent signal** | Virtual bilingual healthcare for Hispanic/Latino workforces; AI capabilities. | — |
+| **Note** | company LinkedIn H; CEO name + email needed | — |
+
+---
+
 ## Coverage Summary
 
 | Metric | Count |

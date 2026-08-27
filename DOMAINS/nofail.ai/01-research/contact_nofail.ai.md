@@ -196,6 +196,69 @@ Every exec whose **email** or **LinkedIn URL** could not be confirmed from a pub
 
 ---
 
+## CAMPAIGN 3 — Competitive cohort (owner 10-domain integration, added 2026-08-20)
+
+New competitive/observability buyers merged from the owner 10-domain research. Exec/direct emails were NOT invented; on-site public addresses are marked H; unresolved exec contact is flagged in §0 / `MISSING-CONTACT_2026-08-20.md`.
+
+### Sazabi — sazabi.ai (DMPS 89)
+| Field | Detail | Confidence |
+|-------|--------|:---:|
+| **Exec** | (founder, unnamed in leads) — CEO | — |
+| **Company LinkedIn** | linkedin.com/company/sazabi | H |
+| **Public email(s)** | **MISSING** — not found on-site | — |
+| **Source** | live curl sweep of sazabi.ai (+/about /contact /team) 2026-08-20; leads file | — |
+| **DMPS** | 89 | — |
+| **Intent signal** | AI observability/debugging; YC S26, ~$8M raised | — |
+| **Note** | founder name + email + personal LinkedIn needed — see MISSING-CONTACT list | — |
+
+### Braintrust — braintrust.dev (DMPS 86)
+| Field | Detail | Confidence |
+|-------|--------|:---:|
+| **Exec** | Ankur Goyal — CEO (Founder) | — |
+| **Company LinkedIn** | linkedin.com/company/braintrust-data | H |
+| **Public email(s)** | hello@braintrust.dev (on-site; likely founder inbox) | H |
+| **Source** | live curl sweep of braintrust.dev (+/about /contact /team) 2026-08-20; leads file | — |
+| **DMPS** | 86 | — |
+| **Intent signal** | AI observability & production AI infra; $80M Series B (ICONIQ) Feb 2026 | — |
+| **Note** | personal LinkedIn not on page → confirm via LinkedIn search | — |
+
+### InsightFinder — insightfinder.com (DMPS 83)
+| Field | Detail | Confidence |
+|-------|--------|:---:|
+| **Exec** | (CEO, unnamed in leads) — CEO | — |
+| **Company LinkedIn** | linkedin.com/company/insightfinder-inc | H |
+| **Public email(s)** | **MISSING** — not found on-site | — |
+| **Source** | live curl sweep of insightfinder.com (+/about /contact /team) 2026-08-20; leads file | — |
+| **DMPS** | 83 | — |
+| **Intent signal** | Helps companies find where AI agents go wrong; ~$15M raised | — |
+| **Note** | CEO name + email + LinkedIn needed | — |
+
+### Groundcover — groundcover.com (DMPS 82)
+| Field | Detail | Confidence |
+|-------|--------|:---:|
+| **Exec** | (CEO, unnamed in leads) — CEO | — |
+| **Company LinkedIn** | linkedin.com/company/groundcover-com/ | H |
+| **Public email(s)** | **MISSING** — not found on-site | — |
+| **Source** | live curl sweep of groundcover.com (+/about /contact /team) 2026-08-20; leads file | — |
+| **DMPS** | 82 | — |
+| **Intent signal** | Observability; ~$100M reported Series C Jul 2026 | — |
+| **Note** | on-page team LinkedIn profiles present but unnamed — identify CEO; no public email | — |
+
+### CodeRabbit — coderabbit.ai (DMPS 80)
+| Field | Detail | Confidence |
+|-------|--------|:---:|
+| **Exec** | (CEO, unnamed in leads) — CEO | — |
+| **Company LinkedIn** | linkedin.com/company/coderabbitai | H |
+| **Public email(s)** | pr@coderabbit.ai, support@coderabbit.ai | H |
+| **Source** | live curl sweep of coderabbit.ai (+/about /contact /team) 2026-08-20; leads file | — |
+| **DMPS** | 80 | — |
+| **Intent signal** | AI-assisted code quality; ~$143M raised @ $1.5B (reported) | — |
+| **Note** | CEO name + personal LinkedIn needed (public PR channel pr@ is H); company LinkedIn H | — |
+
+> **Observability cohort (Datadog/Olivier Pomel, Veeam/Anand Eswaran, PagerDuty/Jennifer Tejada, New Relic/Ashan Willy):** these are targeted in the shared nofail/nobreak outreach pack. Their verified contact data is maintained in `../nobreak.ai/01-research/contact-sheet_nobreak.ai.md` (Veeam company LinkedIn added 2026-08-20; Datadog/PagerDuty/New Relic blocks already there). Exec direct emails remain unresolved there — see §0 of that sheet.
+
+---
+
 ## Coverage Summary
 
 | Metric | Count |

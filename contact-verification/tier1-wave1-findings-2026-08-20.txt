@@ -1,0 +1,96 @@
+Tier-1 / Wave-1 contact-sheet verification sweep — 2026-08-20 (domain-researcher)
+===================================================================================
+Live curl sweep of buyer company sites for publicly-published emails + LinkedIn URLs.
+Format-inferred addresses are NEVER recorded as real; only on-site (H) items below.
+Raw per-site captures: /tmp/tier1/<site>.html (local, not committed).
+
+statuscode = HTTP status of https://<url>/ with desktop UA (googlebot used for WAF retry)
+
+--- nobreak.ca (NoBreak Security) ---  HTTP 301 -> 200
+  mailto: admin@nobreak.ca            [H on-site; early-stage Founding-Household waitlist]
+  ignored template placeholder: jane@example.com
+  LinkedIn: none on-page
+
+--- veeam.com ---  HTTP 200
+  public email: NONE found on swept pages (/ about / contact / team)
+  LinkedIn company: https://www.linkedin.com/company/veeam-software [H]
+
+--- sazabi.ai ---  HTTP 301 -> 200
+  public email: NONE found
+  LinkedIn company: https://www.linkedin.com/company/sazabi [H]
+
+--- braintrust.dev ---  HTTP 200
+  email literal: hello@braintrust.dev [H on-site; likely founder inbox]
+  LinkedIn company: https://www.linkedin.com/company/braintrust-data [H]
+
+--- insightfinder.com ---  HTTP 301 -> 200
+  public email: NONE found
+  LinkedIn company: https://www.linkedin.com/company/insightfinder-inc [H]
+
+--- groundcover.com ---  HTTP 200
+  public email: NONE found
+  LinkedIn company: https://www.linkedin.com/company/groundcover-com/ [H]
+  (on-page team LI profiles present but unnamed)
+
+--- coderabbit.ai ---  HTTP 200
+  mailto: pr@coderabbit.ai, support@coderabbit.ai [H]
+  LinkedIn company: https://www.linkedin.com/company/coderabbitai [H]
+
+--- supremelending.com (Supreme CASA) ---  HTTP 403 (WAF; also /es + googlebot) -> BLOCKED
+  public email / LinkedIn: UNRETRIEVABLE (WAF). Company live (publicly-sourced launch).
+
+--- movement.com (Movement Mortgage) ---  HTTP 301 -> 200
+  mailto: press@movement.com, servicing@movement.com [H]
+  LinkedIn company: https://www.linkedin.com/company/movementmortgage/ [H]
+
+--- zocalo.health (Zocalo Health) ---  HTTP 200
+  mailto: hello@zocalo.health [H]
+  LinkedIn company: on-page (handle truncated in capture -> verify /company/zocalo-health) [M]
+
+--- tuteledoc.com (Tu TeleDoc) ---  HTTP 503 -> DOWN (owner-source says operational)
+  public email / LinkedIn: UNRETRIEVABLE
+
+--- misaludhealth.com (MiSalud Health) ---  HTTP 200
+  public email: NONE found
+  LinkedIn company: https://www.linkedin.com/company/misaludhealth/ [H]
+
+--- taskade.com (Taskade) ---  HTTP 200
+  mailto: john@taskade.com (direct founder), showcase@taskade.com, support@taskade.com [H]
+  LinkedIn company: https://www.linkedin.com/company/taskade [H]
+  LinkedIn personal: https://www.linkedin.com/in/johnxie/ [H on-page]
+
+--- fi.co (Founder Institute) ---  HTTP 200
+  mailto: regional@fi.co [H]
+  LinkedIn company: https://www.linkedin.com/company/the-founder-institute [H]
+  LinkedIn personal (on-page): https://www.linkedin.com/in/adeoressi [H]
+
+--- opc.community (OPC.community) ---  HTTP 308 -> 200
+  mailto: support@opc.community [H]
+  LinkedIn company: https://www.linkedin.com/company/opc-community [H]
+
+--- kavak.com (Kavak / Kavak Credito) ---  HTTP 403 (WAF; also /mx + googlebot) -> BLOCKED
+  public email / LinkedIn: UNRETRIEVABLE (WAF). Company live.
+
+--- nexu.mx (Nexu) ---  HTTP 302 -> 200
+  mailto: info@nexu.mx [H]
+  LinkedIn company: https://www.linkedin.com/company/nexu-mx/ [H]
+
+--- evercars.com (Ever) ---  HTTP 301 -> 200
+  mailto: contact@evercars.com, press@evercars.com [H]; also sales@/support@ literals
+  LinkedIn: only unnamed personal profiles (/in/nyberglm, /in/quertermous, /in/tj-casner)
+
+--- cafler.com (Cafler) ---  HTTP 200 (was 500 on 2026-08-17 sweep -> NOW REACHABLE)
+  mailto: soporte@cafler.com [H Spanish support channel]
+  LinkedIn company: https://es.linkedin.com/company/cafler [H]
+
+--- knowlawai.com (KnowLaw AI) ---  HTTP 200
+  public email / LinkedIn: NONE found on swept pages
+
+--- knowlaw.in (KnowLaw.in) ---  HTTP 200 (prior sweep 2026-08-17)
+  public email / LinkedIn: not found on swept pages
+
+NOTES
+- No address in this file is invented. Only on-site (H) items are listed as real.
+- WAF-blocked sites (supremelending, kavak) flagged UNRETRIEVABLE -> owner LinkedIn lookup.
+- tuteledoc (503) flagged DOWN but treated operational per owner funding/acquisition source.
+- cafler.com status improved 500 -> 200 since the 2026-08-17 owner-integration sweep.

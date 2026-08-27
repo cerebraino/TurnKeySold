@@ -17,7 +17,7 @@ Every exec whose **email** or **LinkedIn URL** could not be confirmed from a pub
 | 3 | UptimeRobot | (CEO — verify) | email |
 | 4 | Pingdom (SolarWinds) | (SolarWinds CEO) | email |
 | 5 | Grafana Labs | Raj Dutt | email; LinkedIn |
-| 6 | **NoBreak Security** | Yuval Olsha (Founder) | exec email; personal LinkedIn (site publishes only ny admin@nobreak.ca) |
+| 6 | **NoBreak Security** | Yuval Olsha (Founder) | exec email; personal LinkedIn (site publishes only admin@nobreak.ca) |
 | 7 | **Veeam** | Anand Eswaran (CEO) | general/media public email |
 
 ---

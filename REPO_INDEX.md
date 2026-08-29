@@ -19,7 +19,7 @@
 | Outreach email packs (A5) | `02-outreach/email-pack_<domain>.md` | **145/146** (only sold `leanmeds.com` remains) | header block in any `email-pack_*.md` |
 | Micro-messages (A6) | `02-outreach/micro-messages_<domain>.md` | **147/147** | `docs/methodology/three-line-outreach-framework.md` |
 | Outreach briefs (B1) | `02-outreach/brief_<domain>.md` | **145/146** (coldbeerportfolio bundle n/a) | `COMPANY/campaign-playbook.md` |
-| Google ad enrichment (B2) | embedded in `leads_<domain>.md` §"Google Search Enrichment" | **24 leads files** | — |
+| Google ad enrichment (B2) | embedded in `leads_<domain>.md` §"Google Search Enrichment" | **22 leads files** | — |
 | Google Alerts (B3) | `google_alerts_v2.csv` | **127 domains** (audit); CSV now holds ~140 unique domains | — |
 
 > **Source of truth:** all coverage numbers above live canonically in **`ASSET_AUDIT_2026-08-14.md`** (the live tracker updated as batches merge). This index points to it and records the *actual filesystem* counts verified 2026-08-27 — where the two differ (B2, B3, A4) the discrepancy is flagged below so the audit can be reconciled next.
@@ -28,7 +28,7 @@
 > - **A4** — audit says 146/146 ✓ confirmed on disk: 126 `contact-sheet_*.md` + 20 legacy `contact_*.md` = 146 files (100% of 146 domain dirs).
 > - **A5** — audit says 145/146 ✓: 145 `email-pack_*.md` on disk; `leanmeds.com` is sold so it correctly has no pack. 26 legacy `outreach-*.md` coexist for flagship domains (see §3).
 > - **A6** — audit says 147/147 ✓ confirmed (146 domains + coldbeerportfolio bundle).
-> - **B2** — audit says 22; actual grep of `leads_*.md` for "Google Search Enrichment" returns **24** (2 enriched since the audit).
+> - **B2** — audit says 22; precise grep of `leads_*.md` for the "Google Search Enrichment" section header returns **22** ✓ (confirmed, matches audit).
 > - **B3** — audit says 127 domains; `google_alerts_v2.csv` on disk now holds **143 rows / ~140 unique domain tokens** (some domains have `-health` style secondary variants). The audit's 127 is stale relative to the CSV — treat the CSV as the live list.
 
 ---
@@ -50,7 +50,7 @@ This repo is the **single canonical source of truth** (Architecture Principle P1
 | A5 Outreach email packs | **145/146** (sold leanmeds.com only gap) |
 | A6 Micro-messages | **147/147** |
 | B1 Outreach briefs | 145/146 (coldbeerportfolio bundle n/a) |
-| B2 Google ad enrichment | 24 leads files |
+| B2 Google ad enrichment | 22 leads files |
 | B3 Google Alerts | 127 domains (CSV ≈ 140 unique) |
 
 **The research + execution layers are now COMPLETE for all actionable assets.** A4 contact sheets and A5 email packs reached full/effectively-full coverage as of 2026-08-20 (A5 = 145/146, the last gap being the sold domain). Remaining work is maintenance/expansion, not backfill (see §8).
@@ -212,7 +212,7 @@ Gap-filling ran in **~25-domain batches ordered by CSV value rank** (most valuab
 
 From `ASSET_AUDIT_2026-08-14.md` + the business plan (current as of 2026-08-27):
 - **Owner resolves `docs/MISSING-CONTACT_2026-08-20.md`** — the outstanding exec contacts (Section A priority: NoBreak Security/Yuval Olsha, Supreme CASA CEO, Zócalo Health/Erik Cardenas, Kavak/Carlos García Ottati, KnowLaw AI founder; Section B: PR #35 domains). This is the main open owner-side item.
-- **Reconcile `ASSET_AUDIT_2026-08-14.md`** with the 2026-08-27 deltas (B2 22→24; B3 CSAV ~140 unique; and confirm A4/A5/A6 stays as-is). The audit filename still says 2026-08-14 though its numbers were updated through 2026-08-20 — consider bumping the date/version.
+- **Reconcile `ASSET_AUDIT_2026-08-14.md`** with the 2026-08-27 deltas (B2 confirmed 22 ✓; B3 CSV grew ~127→~140 unique domain tokens). The audit filename still says 2026-08-14 though its numbers were updated through 2026-08-20 — consider bumping the date/version.
 - **Migrate lingering legacy files** to canonical names (`contact_`→`contact-sheet_` for the 20, `outreach-`→`email-pack_` for the 26) if the team wants single-namespace consistency (not required — both are readable).
 - **New-buyer contact-sheet expansions** as new Tier-1 buyers surface (pattern established in `verdict_10domains_integration.md`).
 - **Long-term (Phase 2+, not yet built):** `_templates/`, `_data/*.json`, `_indexes/`, `_playbooks/` restructuring (see `docs/architecture/knowledge-architecture-review.md`). **Do not** assume these exist yet.

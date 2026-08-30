@@ -65,3 +65,51 @@ These domains already have Group-1 contact sheets. Their §0 MISSING tables list
 For each row above, the standard resolution is: confirm the exec's **current title**, then look up their **personal LinkedIn**, and (if no public email exists) run a **hunter.io-style / LLM format check** against the domain's verified format — but ONLY for delivery, and only after confirming the format with a second source. Do not send to a format-inferred address without independent confirmation.
 
 Verified on-site (H) addresses collected 2026-08-20 are recorded in the respective domain contact sheets (see per-domain `01-research/contact-sheet_*`).
+
+---
+
+## D. RECONCILIATION — OWNER EXTERNAL RESEARCH (2026-08-31)
+
+> **Source:** `EXEC-CONTACT-RESEARCH_2026-08-31.md` (owner-ran external research agent; received 2026-08-31). These results were folded into the per-domain contact sheets as "Owner External Research Reconciliation (2026-08-31)" blocks (candidate-H until team spot-validates; **not** re-verified live by this researcher). What was resolved, what is fireable, and what is STILL unknown:
+
+### D.1 Fireable emails (literally published — ✅ H after spot-check)
+| Domain | Company / Exec | Email | Source |
+|---|---|---|---|
+| latino medico.com | Zócalo Health — Erik Cardenas | erik@zocalo.health | LinkedIn post (invited orgs to email him) |
+| oneguy.org | Taskade — John Xie | john@taskade.com | Taskade page (matches our prior on-site H) |
+| oneguy.org | Founder Institute — Adeo Ressi | adeo@founderinstitute.com | FI site (+ContactOut) |
+
+### D.2 Aggregator-sourced emails (⚠️ L — NOT literally published; LinkedIn DM recommended, disclose provenance)
+| Domain | Company / Exec | Email | Source |
+|---|---|---|---|
+| nobreak.ai | Datadog — Olivier Pomel | olivier.pomel@datadoghq.com | ContactOut/Clay |
+| automoviles.ai | Mercado Libre — Marcos Galperin | marcos.galperin@mercadolibre.com | ContactOut |
+
+### D.3 Exec names/LinkedIn RESOLVED (owner-candidate; fold into sheets so "(unnamed)" resolved)
+- NoBreak.ai: NoBreak Security (Yuval Olsha /in/yuvalolsha), Veeam (Anand Eswaran /in/anandeswaran), Datadog (Olivier Pomel /in/olivierpomel), PagerDuty (Jennifer Tejada /in/jenntejada1)
+- NoFail.ai: Sazabi (Sherwood Callaway /in/sherwoodcallaway), Braintrust (Ankur Goyal /in/ankrgyl), InsightFinder (Helen Gu /in/helen-gu-5a5a5a), Groundcover (Shahar Azulay /in/shahar-azulay-54156bb4), CodeRabbit (Harjot Gill — name-only, no LinkedIn)
+- HipotecaHispana.com: Supreme CASA (Scott Everett /in/scott-everett-supreme), Movement Mortgage (Casey Crawford /in/caseycrawford)
+- LatinoMedico.com: Zócalo (Erik Cardenas /in/erikcardenas), MiSalud (Bismarck Lepe /in/bismarcklepe), Zocdoc (Oliver Kharraz /in/kharraz), Doctoralia (Mariusz Gralewski /in/mariusz-gralewski-054a5976), Kaiser (Greg A. Adams /in/greg-a-adams), Centene (Sarah M. London /in/sarah-m-london), Molina (Joseph Zubretsky /in/josephzubretsky), HCA (Sam Hazen /in/samhazen), Teladoc (Chuck Divita /in/chuck-divita-5aa90a16)
+- PayCar.ai / automovil: Kavak (Carlos García Ottati /in/carlosjuliogarciaottati), Nexu (Fernando Gomez Arriola /in/fernando-gómez-arriola-9a427024), Ever (Lasse-Mathias Nyberg /in/nyberglm), Cafler (Ricard Guillem /in/ricardguillem)
+- automoviles.ai: Mercado Libre (Marcos Galperin /in/marcosgalperin), OLX (Gautam Thakar /in/gautam-thakar), Carro (Aaron Tan /in/aarontan), InstaCarro (Diego Fischer /in/diegofischer)
+- Tipsketo.com: Wholesome Yum (Maya Krampf /in/mayakrampf), Ruled.Me (Craig Clarke /in/ketodiet), KetoConnect (Matt Gaedke /in/matt-gaedke-6553a748), Perfect Keto (Anthony Gustin /in/anthony-gustin), Trifecta (Greg Connolly /in/gregconnolly)
+- Coldbeerportfolio: AB InBev (Michel Doukeris /in/michel-doukeris), Constellation (Bill Newlands /in/billnewlands), Heineken (Dolf van den Brink /in/dolfvandenbrink), Molson Coors (Gavin Hattersley /in/gavin-hattersley)
+- Rentapersona.com: Care.com (Brad Wilson /in/bradleywilson), Cuideo (Roberto Valdés /in/roberto-valdes-gandarillas-6890382), TaskRabbit (Ania Smith /in/aniasmith), Superprof (Wilfried Granier /in/wilfried-granier-745b91133)
+- roiexa.com: HubSpot (Yamini Rangan /in/yaminirangan), Salesforce (Marc Benioff /in/marcbenioff), Ahrefs (Dmytro Gerasymenko /in/dmytrogerasymenko), SEMrush (Oleg Shchegolev /in/oleg-shchegolev), Amplitude (Spenser Skates /in/spenserskates)
+- TopAIGuys.com: FutureTools (Matt Wolfe /in/matt-wolfe-30841712)
+
+### D.4 TURNOVER flags — execs NO LONGER in role (do not pitch as current decision-makers)
+- UnitedHealth/Optum — Andrew Witty (stepped down May 2025)
+- Healthgrades — Rob Draughon (left Feb 2023)
+- Oak Street Health — Mike Pykosz (left CVS 2025)
+- Constellation Brands — Bill Newlands (retiring Apr 2026)
+- Heineken — Dolf van den Brink (stepping down May 2026)
+- Molson Coors — Gavin Hattersley (retired Oct 2025)
+- Mixpanel — Amir Movafaghi (stepped down 2025)
+- Aylo — Feras Antoon (stepped down CEO 2022, remains shareholder)
+- Tú TeleDoc — Jeremy Roberts (rebranded/merged; now Alenio Health CEO)
+
+### D.5 STILL UNKNOWN (owner agent found nothing — keep on follow-up)
+- KnowLaw AI founder · KnowLaw.in founder · OPC.community founder · Carb Manager CEO (David Jackson — unverified) · WGCZ/XVideos owner (Stéphane Pacaud — no public LinkedIn) · Stripchat CEO (Breeze Dennis / Rick Morales — identity unverified)
+
+**Net effect:** most Tier-1/Wave-1 exec emails remain MISSING (only 3 fireable + 2 aggregator sourced above). Resolved LinkedIn URLs now live in the per-domain contact sheets for spot-verification and LinkedIn-DM outreach.

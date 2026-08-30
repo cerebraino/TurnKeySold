@@ -217,3 +217,7 @@ Every exec whose **email** or **LinkedIn URL** could not be confirmed from a pub
 |---|---|---|---|---|---|---|
 | Supreme Lending / Supreme CASA | Scott Everett | Pres & CEO | `/in/scott-everett-supreme` | `MISSING` | — | WAF-blocked site |
 | Movement Mortgage | Casey Crawford | Co-founder & CEO | `/in/caseycrawford` | `MISSING` | — | — |
+
+## Owner 2nd-Pass Reconciliation (2026-08-30)
+- **Supreme Lending (Scott Everett, Pres & CEO):** email MISSING (not published). LinkedIn /in/scott-everett-supreme (H). RocketReach shows @supremelending.com pattern — **aggregator-sourced, NOT fireable**; LinkedIn-DM/contact-form route. Source: owner 2nd-pass (2026-08-30).
+

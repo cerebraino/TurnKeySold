@@ -309,3 +309,9 @@ New competitive/observability buyers merged from the owner 10-domain research. E
 | InsightFinder | Helen Gu | Founder & CEO | `/in/helen-gu-5a5a5a` | `MISSING` | — | — |
 | Groundcover | Shahar Azulay | Co-founder & CEO | `/in/shahar-azulay-54156bb4` | `MISSING` | — | — |
 | CodeRabbit | Harjot Gill | CEO | `MISSING (name-only)` | `MISSING` | — | LinkedIn not found by agent |
+
+## Owner 2nd-Pass Reconciliation (2026-08-30)
+- **PagerDuty (CRITICAL title correction):** Jennifer Tejada is now **EXECUTIVE CHAIR** (transitioned 2026-05-11), NOT CEO. **John DiLullo is now CEO** (target for outreach). Re-scope: pitch John DiLullo (CEO); keep Tejada only as Exec Chair, never as current CEO. LinkedIn /in/jenntejada1 (H). Source: owner 2nd-pass (2026-08-30).
+- **CodeRabbit (Harjot Gill, CEO):** aggregator email harjotgill@yahoo.com (ContactOut, personal address) — **NOT fireable**. LinkedIn /in/harjotsgill (H); LinkedIn-DM route only. Source: owner 2nd-pass.
+- **Braintrust (Ankur Goyal, CEO):** email not published; LinkedIn /in/ankrgyl (H); LinkedIn-DM route. Source: owner 2nd-pass.
+

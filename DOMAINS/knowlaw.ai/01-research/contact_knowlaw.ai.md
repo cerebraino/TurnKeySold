@@ -189,3 +189,7 @@ Every exec whose **email** or **LinkedIn URL** could not be confirmed from a pub
 |---|---|---|---|---|---|---|
 | KnowLaw AI | UNKNOWN | Founder | `MISSING` | `MISSING` | — | STILL UNKNOWN — no contact info |
 | KnowLaw.in | UNKNOWN | Founder | `MISSING` | `MISSING` | — | STILL UNKNOWN — no contact info |
+
+## Owner 2nd-Pass Reconciliation (2026-08-30)
+- **KnowLaw AI / KnowLaw.in founders resolved:** **Lan Francis** (Co-Founder; NO LinkedIn found) and **Pratik Banerjee** (Co-Founder; LinkedIn /in/pratikbanerjee27, H). No published email — keep on MISSING-CONTACT until a published contact exists. Source: owner 2nd-pass (Tracxn) 2026-08-30.
+

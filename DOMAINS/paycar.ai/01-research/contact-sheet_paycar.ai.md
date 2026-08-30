@@ -184,3 +184,7 @@ Every exec whose **email** or **LinkedIn URL** could not be confirmed from a pub
 | Kavak / Kavak Crédito | Carlos García Ottati | Founder & CEO | `/in/carlosjuliogarciaottati` | `MISSING` | — | WAF-blocked site |
 | Nexu | Fernando Gomez Arriola | Co-founder & CEO | `/in/fernando-gómez-arriola-9a427024` | `MISSING` | — | YC |
 | Ever | Lasse-Mathias Nyberg | Co-founder & CEO | `/in/nyberglm` | `MISSING` | — | — |
+
+## Owner 2nd-Pass Reconciliation (2026-08-30)
+- **Kavak (Carlos García Ottati, Founder & CEO):** email MISSING. LinkedIn /in/carlosjuliogarciaottati (H). RocketReach shows @kavak.com pattern — **aggregator-sourced, NOT fireable**; LinkedIn-DM/PR-IR route. Source: owner 2nd-pass (2026-08-30).
+

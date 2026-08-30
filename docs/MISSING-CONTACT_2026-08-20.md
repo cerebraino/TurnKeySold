@@ -113,3 +113,22 @@ Verified on-site (H) addresses collected 2026-08-20 are recorded in the respecti
 - KnowLaw AI founder · KnowLaw.in founder · OPC.community founder · Carb Manager CEO (David Jackson — unverified) · WGCZ/XVideos owner (Stéphane Pacaud — no public LinkedIn) · Stripchat CEO (Breeze Dennis / Rick Morales — identity unverified)
 
 **Net effect:** most Tier-1/Wave-1 exec emails remain MISSING (only 3 fireable + 2 aggregator sourced above). Resolved LinkedIn URLs now live in the per-domain contact sheets for spot-verification and LinkedIn-DM outreach.
+
+---
+
+## Section E — Owner 2nd-Pass Reconciliation (2026-08-30)
+
+### E.1 Resolved / corrected (candidate-H, keep on MISSING-CONTACT for contact path)
+| Company | Resolution | Provenance | Action |
+|---------|-----------|-----------|--------|
+| PagerDuty | **Jennifer Tejada = EXECUTIVE CHAIR** (transitioned 2026-05-11), NOT CEO. **John DiLullo = CEO** (target). | owner 2nd-pass | Re-scope outreach to John DiLullo (CEO); Tejada only as Exec Chair |
+| KnowLaw AI / KnowLaw.in | Founders resolved: **Lan Francis** (Co-Founder, no LinkedIn), **Pratik Banerjee** (Co-Founder, /in/pratikbanerjee27, H) | Tracxn via owner 2nd-pass | Keep on MISSING-CONTACT (no published email) |
+| Stripchat | CEO resolved = **Breeze Dennis** (XBIZ + RocketReach) — replaces conflicting Breeze Dennis vs Rick Morales | owner 2nd-pass | No verified email; LinkedIn-DM route |
+| OPC.community | **Dan Koe** (Brand Advisor, /in/thedankoe H); operated by **Leago AI Inc.** (unclear if official founder/CEO) | owner 2nd-pass | support@opc.community + LinkedIn DM; candidate-H |
+
+### E.2 Aggregator-sourced — NOT fireable (LinkedIn-DM / contact-form route only)
+- `harjotgill@yahoo.com` (CodeRabbit / Harjot Gill — ContactOut personal address)
+- RocketReach `@supremelending.com` (Supreme Lending / Scott Everett), `@kavak.com` (Kavak / Carlos García Ottati), `@pagerduty.com` (PagerDuty) patterns — aggregator, not literally published.
+
+### E.3 Source
+Vendored: `docs/EXEC-CONTACT-RESEARCH-2ND_2026-08-30.md` (byte-identical to shared).

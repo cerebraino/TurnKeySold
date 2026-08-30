@@ -110,3 +110,7 @@ Every exec whose **email** or **LinkedIn URL** could not be confirmed from a pub
 | Stripchat (Spanish) | Breeze Dennis / Rick Morales | CEO? | `MISSING` | `MISSING` | — | identity UNVERIFIED |
 | Chaturbate (Spanish) | James Peach | CEO | `/in/james-peach-526387149` | `MISSING` | — | — |
 | WGCZ (xvideos) | Stéphane Pacaud | Owner | `MISSING` | `MISSING` | — | no public LinkedIn |
+
+## Owner 2nd-Pass Reconciliation (2026-08-30)
+- **Stripchat CEO resolved:** **Breeze Dennis** (via XBIZ interview + RocketReach) — replaces prior conflicting Breeze Dennis vs Rick Morales listing. No verified email; keep on MISSING-CONTACT. LinkedIn-DM (existing) route. Source: owner 2nd-pass (2026-08-30).
+

@@ -123,3 +123,7 @@ Every exec whose **email** or **LinkedIn URL** could not be confirmed from a pub
 | WGCZ (xvideos) | Stéphane Pacaud | Owner | `MISSING` | `MISSING` | — | no public LinkedIn |
 | Stripchat (Spanish) | Breeze Dennis / Rick Morales | CEO? | `MISSING` | `MISSING` | — | identity UNVERIFIED |
 | AdultTime | Bree Mills | CCO | `/in/breemills-aa8883190` | `MISSING` | — | — |
+
+## Owner 2nd-Pass Reconciliation (2026-08-30)
+- **Stripchat CEO resolved:** **Breeze Dennis** (via XBIZ interview + RocketReach) — replaces prior conflicting Breeze Dennis vs Rick Morales listing. No verified email; keep on MISSING-CONTACT. LinkedIn-DM (existing) route. Source: owner 2nd-pass (2026-08-30).
+

@@ -232,3 +232,7 @@ Every exec whose **email** or **LinkedIn URL** could not be confirmed from a pub
 | Taskade | John Xie | Co-founder & CEO | `/in/johnxie` | `john@taskade.com` | H | email literally published on Taskade page |
 | Founder Institute | Adeo Ressi | CEO/Chairman | `/in/adeoressi` | `adeo@founderinstitute.com` | H | email literally published on FI site (also ContactOut) |
 | OPC.community | UNKNOWN | — | `MISSING` | `MISSING` | — | STILL UNKNOWN — no exec info found |
+
+## Owner 2nd-Pass Reconciliation (2026-08-30)
+- **OPC.community:** **Dan Koe** associated (Brand Advisor / content creator; LinkedIn /in/thedankoe, H); operated by **Leago AI Inc.** (unclear if he is official founder/CEO). No verified email; support@opc.community + /in/thedankoe LinkedIn DM routes. Source: owner 2nd-pass (2026-08-30).
+

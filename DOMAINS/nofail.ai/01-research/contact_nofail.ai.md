@@ -290,3 +290,22 @@ New competitive/observability buyers merged from the owner 10-domain research. E
 - **Micro-messages:** `../02-outreach/micro-messages_nofail.ai.md`
 - **Reference formats:** `../payauto.ai/01-research/contact_payauto.ai.md`, `../autopaga.com/01-research/contact_autopaga.com.md`
 - **Master CSV:** `../../docs/outreach-contact-list-complete.csv`
+
+---
+
+## Owner External Research Reconciliation (2026-08-31)
+
+> **Source:** `EXEC-CONTACT-RESEARCH_2026-08-31.md` (owner-ran external research agent; received 2026-08-31).
+> **Provenance note:** These LinkedIn URLs / exec names / emails come from the owner's external agent and are **candidate-H until team spot-validates**. They were NOT re-verified live by this researcher (the repo's own on-site H data from prior sweeps remains authoritative where present). Exec names are resolved where the sheet previously said "(unnamed)".
+> **Email confidence:** ✅ `H` = literally published (fireable after spot-check) · ⚠️ `L` = aggregator-sourced (ContactOut/Clay), NOT literally published — LinkedIn DM recommended, disclose provenance.
+> **Turnover flags** note execs **no longer in role** — do NOT pitch to them as current decision-makers.
+
+### Resolved contacts (per domain)
+
+| Company | Exec | Current Title | LinkedIn (owner-candidate) | Email | Email Conf | Notes |
+|---|---|---|---|---|---|---|
+| Sazabi | Sherwood Callaway | Founder & CEO | `/in/sherwoodcallaway` | `MISSING` | — | YC founder |
+| Braintrust | Ankur Goyal | Founder & CEO | `/in/ankrgyl` | `MISSING` | — | ex-Figma Head of ML |
+| InsightFinder | Helen Gu | Founder & CEO | `/in/helen-gu-5a5a5a` | `MISSING` | — | — |
+| Groundcover | Shahar Azulay | Co-founder & CEO | `/in/shahar-azulay-54156bb4` | `MISSING` | — | — |
+| CodeRabbit | Harjot Gill | CEO | `MISSING (name-only)` | `MISSING` | — | LinkedIn not found by agent |

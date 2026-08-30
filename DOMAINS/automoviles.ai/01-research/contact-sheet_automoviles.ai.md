@@ -203,3 +203,23 @@ Every exec whose **email** or **LinkedIn URL** could not be confirmed from a pub
 - **Lead list:** `leads_*` in `automoviles.ai/01-research/`
 - **Verification sweep:** `/home/team/shared/contact-verification/final-a4-findings-2026-08-15.txt` (raw live-sweep output)
 - **Reference format:** `../nofail.ai/01-research/contact_nofail.ai.md`
+---
+
+## Owner External Research Reconciliation (2026-08-31)
+
+> **Source:** `EXEC-CONTACT-RESEARCH_2026-08-31.md` (owner-ran external research agent; received 2026-08-31).
+> **Provenance note:** These LinkedIn URLs / exec names / emails come from the owner's external agent and are **candidate-H until team spot-validates**. They were NOT re-verified live by this researcher (the repo's own on-site H data from prior sweeps remains authoritative where present). Exec names are resolved where the sheet previously said "(unnamed)".
+> **Email confidence:** ✅ `H` = literally published (fireable after spot-check) · ⚠️ `L` = aggregator-sourced (ContactOut/Clay), NOT literally published — LinkedIn DM recommended, disclose provenance.
+> **Turnover flags** note execs **no longer in role** — do NOT pitch to them as current decision-makers.
+
+### Resolved contacts (per domain)
+
+| Company | Exec | Current Title | LinkedIn (owner-candidate) | Email | Email Conf | Notes |
+|---|---|---|---|---|---|---|
+| Mercado Libre (Autos) | Marcos Galperin | Pres & CEO | `/in/marcosgalperin` | `marcos.galperin@mercadolibre.com` | L-aggregator | — |
+| OLX Autos | Gautam Thakar | Global CEO | `/in/gautam-thakar` | `MISSING` | — | — |
+| Kavak | Carlos García Ottati | Founder & CEO | `/in/carlosjuliogarciaottati` | `MISSING` | — | WAF-blocked site |
+| Carro | Aaron Tan | Co-founder & CEO | `/in/aarontan` | `MISSING` | — | — |
+| InstaCarro | Diego Fischer | Co-founder & CEO | `/in/diegofischer` | `MISSING` | — | — |
+| Ever | Lasse-Mathias Nyberg | Co-founder & CEO | `/in/nyberglm` | `MISSING` | — | — |
+| Cafler | Ricard Guillem | Founder | `/in/ricardguillem` | `MISSING` | — | co-founder Iñigo Diego |

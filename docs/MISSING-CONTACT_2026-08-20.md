@@ -70,7 +70,7 @@ Verified on-site (H) addresses collected 2026-08-20 are recorded in the respecti
 
 ## D. RECONCILIATION — OWNER EXTERNAL RESEARCH (2026-08-31)
 
-> **Source:** `EXEC-CONTACT-RESEARCH_2026-08-31.md` (owner-ran external research agent; received 2026-08-31). These results were folded into the per-domain contact sheets as "Owner External Research Reconciliation (2026-08-31)" blocks (candidate-H until team spot-validates; **not** re-verified live by this researcher). What was resolved, what is fireable, and what is STILL unknown:
+> **Source:** `docs/EXEC-CONTACT-RESEARCH_2026-08-31.md` (owner-ran external research agent; received 2026-08-31). These results were folded into the per-domain contact sheets as "Owner External Research Reconciliation (2026-08-31)" blocks (candidate-H until team spot-validates; **not** re-verified live by this researcher). What was resolved, what is fireable, and what is STILL unknown:
 
 ### D.1 Fireable emails (literally published — ✅ H after spot-check)
 | Domain | Company / Exec | Email | Source |

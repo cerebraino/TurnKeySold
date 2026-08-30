@@ -143,7 +143,7 @@ Every exec whose **email** or **LinkedIn URL** could not be confirmed from a pub
 
 ## Owner External Research Reconciliation (2026-08-31)
 
-> **Source:** `EXEC-CONTACT-RESEARCH_2026-08-31.md` (owner-ran external research agent; received 2026-08-31).
+> **Source:** `docs/EXEC-CONTACT-RESEARCH_2026-08-31.md` (owner-ran external research agent; received 2026-08-31).
 > **Provenance note:** These LinkedIn URLs / exec names / emails come from the owner's external agent and are **candidate-H until team spot-validates**. They were NOT re-verified live by this researcher (the repo's own on-site H data from prior sweeps remains authoritative where present). Exec names are resolved where the sheet previously said "(unnamed)".
 > **Email confidence:** ✅ `H` = literally published (fireable after spot-check) · ⚠️ `L` = aggregator-sourced (ContactOut/Clay), NOT literally published — LinkedIn DM recommended, disclose provenance.
 > **Turnover flags** note execs **no longer in role** — do NOT pitch to them as current decision-makers.

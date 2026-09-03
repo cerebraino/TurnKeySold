@@ -1,12 +1,10 @@
->>> ARCHIVED RUN 1 (SUPERSEDED) — preserved 2026-08-30 per owner directive <<<
->>> This run covered a MIS-SPECIFIED domain set (6 re-piloted + 9 missing). The authoritative deliverable is docs/OUTBOUND-SCALE-15DOMAINS_2026-08-30.md. Kept for its lead value: the BNPL, adult-creator, kids-ed and payments NEW leads below remain valid targets for their domains. <<<
+# ARCHIVED RUN-1 — Outbound-Lead-Research Scale-Up (MIS-SPECIFIED DOMAIN SET)
+**Status:** ARCHIVED — preserved per owner directive (2026-08-30) for its lead value. NOT the active scale-up deliverable.
+**Warning header:** This run covered a **mis-specified domain set** (15 domains selected without the lead's authoritative list): 6 domains were re-piloted (payauto, autopaga, rushify, topproducts, hispanoabogado, infancia) and **9 priority domains were missing** (fusebot.ai, weputt.com, paretobuddy.com, curebyketo.com, bajapanza.com, vivamucho.com, vivemucho.com, lavoiture.ai, cantar.ai).
+**Why preserved:** Despite the wrong set, the BNPL, adult-creator, kids-ed, and payments leads found here are still valid NEW targets for their own domains and should be carried forward / cross-referenced where they overlap the corrected set.
+**Corrected set:** See the active `docs/OUTBOUND-SCALE-15DOMAINS_2026-08-30.md` (9 priority + 6 correct domains) and `docs/CONTACT-RESEARCH-LIST_15DOMAINS_2026-08-30.md`.
 
-# Outbound-Lead-Research Scale-Up — 15 Top-25% Domains
-**Researcher:** domain-researcher | **Date:** 2026-08-30
-**Method:** `domain-outbound-lead-researcher` skill (owner-approved scale-up from 8-domain pilot).
-**Scope:** 15 most-promising top-25% domains NOT in the baseline pilot. Baseline = existing `contact-sheet_*`/`leads_*` per domain (already-covered companies excluded from NEW count).
-**Goal:** Produce an LLM-actionable NEW-lead report + a flat contact-research list the owner can hand to their contact-research agent.
-
+---
 ---
 
 ## Domains Covered (15)

@@ -1,3 +1,11 @@
+# ARCHIVED RUN-1 — Contact-Research List (MIS-SPECIFIED DOMAIN SET)
+**Status:** ARCHIVED — preserved per owner directive (2026-08-30) for its lead value. NOT the active scale-up deliverable.
+**Warning header:** This list traces to the **mis-specified run-1 report** (`docs/OUTBOUND-SCALE-RUN1-WRONGSET_2026-08-30.md`): 6 re-piloted domains (payauto, autopaga, rushify, topproducts, hispanoabogado, infancia) + 15 self-selected; 9 priority domains were missing.
+**Why preserved:** BNPL, adult-creator, kids-ed, and payments leads remain valid NEW targets for their own domains. Carry forward / cross-reference where overlapping the corrected set.
+**Corrected set:** See active `docs/OUTBOUND-SCALE-15DOMAINS_2026-08-30.md` + `docs/CONTACT-RESEARCH-LIST_15DOMAINS_2026-08-30.md`.
+**Usage:** Hand to the owner's contact-research agent to find decision-makers + verified contact paths for each target. Follow never-invent rule — only literally-published, real-source contacts are fireable; everything else candidate-H / LinkedIn-DM. Every row traces to the run-1 report.
+
+---
 # Contact-Research List — 15 Domains Scale-Up (for owner's contact-research agent)
 **Prepared by:** domain-researcher | **Date:** 2026-08-30
 **Usage:** Hand to the contact-research agent to find decision-makers + verified contact paths (LinkedIn / official contact page / published email) for each target. Follow never-invent rule: only literally-published, real-source contacts are fireable; everything else is candidate-H / LinkedIn-DM.

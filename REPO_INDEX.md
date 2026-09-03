@@ -264,3 +264,9 @@ Sources for copy: `brief_*.md` (positioning/angle), `micro-messages_*.md` (short
 ---
 
 *This index is a living document. Update it when the repo structure changes, a new asset type lands, or a phase of the architecture roadmap is implemented. The canonical coverage numbers always live in `ASSET_AUDIT_2026-08-14.md` — this file points to it rather than duplicating it.*
+
+## 10. Outbound-Lead-Research Methodology & Reports
+- **`docs/domain-outbound-lead-researcher.md`** — the owner-supplied outbound buyer-identification methodology (exact-match > sibling-TLD > use-case > timing prioritization; qualification gate; scoring tiers; provenance/never-invent rules). Read before running any outbound-lead-research task.
+- **`docs/OUTBOUND-PILOT_8DOMAINS_2026-08-30.md`** — pilot validation of the methodology on 8 top-25% domains (29 NEW surfaced / 28 live-verified). Baseline that justified scaling.
+- **`docs/OUTBOUND-SCALE-15DOMAINS_2026-08-30.md`** — owner-approved scale-up: NEW-lead report across the authoritative 15 top-25% domains (~53–55 NEW, live-verified). Self-contained methodology + per-domain tables + yield summary + constraints + recommendations.
+- **`docs/CONTACT-RESEARCH-LIST_15DOMAINS_2026-08-30.md`** — flat contact-research list (domain / company / website / category / tier / confidence / contact-research hints) for the owner's contact-research agent to find decision-makers & verified paths. No emails — every row traces to the scale report.

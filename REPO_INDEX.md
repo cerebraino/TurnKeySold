@@ -2,7 +2,7 @@
 
 > **Read this first.** This is the single canonical entry point to understand every asset in this repository, how the information is structured, and which guiding documents govern the work. A future LLM (or new team member) should be able to read **only this file** and reach full context — without exploring 600+ files.
 >
-> **Last updated:** 2026-08-27 · **Repo:** `cerebraino/TurnKeySold` · **Portfolio:** 145 domains + 1 bundle (coldbeerportfolio) = 146 dirs in `DOMAINS/`
+> **Last updated:** 2026-09-03 · **Repo:** `cerebraino/TurnKeySold` · **Portfolio:** 145 domains + 1 bundle (coldbeerportfolio) = 146 dirs in `DOMAINS/` (plus the `DOMAINS/CSV/` data dir)
 >
 > **For LLMs:** see **[§9. LLM Usage Playbook](#9-llm-usage-playbook)** — how to actually do work against this repo.
 
@@ -56,6 +56,7 @@ This repo is the **single canonical source of truth** (Architecture Principle P1
 **The research + execution layers are now COMPLETE for all actionable assets.** A4 contact sheets and A5 email packs reached full/effectively-full coverage as of 2026-08-20 (A5 = 145/146, the last gap being the sold domain). Remaining work is maintenance/expansion, not backfill (see §8).
 
 **Sold:** `LeanMeds.com` → Trinity HealthCare Supply (via Spaceship). Its dir still holds research assets for reference/process reuse.
+**Latest (2026-09-03):** First-touch outreach is LIVE — 3 fireable emails SENT (Zócalo Health, Taskade, Founder Institute; provenance: `docs/EXEC-CONTACT-RESEARCH_2026-08-31.md` rows 3/17/18; copies/cadences tracked outside repo in the team shared index). Scale run on 15 domains merged (PR #45: ~53–55 NEW vs ~197 baseline); superseded RUN-1 archived per owner directive (PR #46). Owner-approved full expansion in progress on curebyketo.com, fusebot.ai, weputt.com, paretobuddy.com. Operational rules unchanged: never-invent, no autonomous sending, no pricing in first-touch copy.
 
 ---
 
@@ -167,6 +168,10 @@ e.g. `slimmeds-brand-research.md` (companies already using "Slim Meds" phrasing 
 | `DOMAINS/CSV/micro_messages_drafts.md` | Pre-split source of all micro-messages (per-domain files now complete — 147/147) |
 | `docs/outreach-contact-list-complete.csv` | **Exec contact master.** Cols: `#, Priority (P1/P2/P3), Batch, Name, Title, Company, Domain, LinkedIn, Email, Confidence, Motivation, Micro-Message, Has Message` |
 | `docs/outreach-contact-list-batch1.csv` | Batch-1 slice of the above (adds `Price`, `Twitter/X`, `Pitch Angle`) |
+| `docs/outreach-contact-list-master.md` | **Contact-research master (owner lineage).** Compiled 2026-07-30 by the owner's executive-contact-research specialist; origin of the P1/P2/P3 prioritization that `outreach-contact-list-complete.csv` extends. Read for lineage/precedent; prefer `complete.csv` + per-domain contact sheets for current data. |
+| `docs/OWNER-RESEARCH-PROMPT_2026-08-29.md` | **Reusable research prompt** the owner runs against an external agent to fill gaps in `docs/MISSING-CONTACT_2026-08-20.md`. Never-invent applies to its outputs: only literally-published contacts are fireable. |
+| `docs/EXEC-CONTACT-RESEARCH_2026-08-31.md` | **Owner-supplied exec-contact research, pass 1** (external agent's own verification; treat as candidate-H until spot-validated). **Provenance source for the 3 fireable first-touch emails SENT 2026-09-03** — Zócalo Health / Taskade / Founder Institute (rows 3, 17, 18). |
+| `docs/EXEC-CONTACT-RESEARCH-2ND_2026-08-30.md` | **Owner-supplied exec-contact research, pass 2** (10 high-potential contacts; folded into contact sheets + `MISSING-CONTACT` §E via PR #44). Aggregator-sourced rows (ContactOut/RocketReach) are NOT literally published — lower confidence, never fireable as-is. |
 | `NameCheap_Domain_List.csv` | Raw registrar export. Cols: `Domain Name, privacy, status, auto-renew, expiration` |
 | `domain-backlog-new.csv` (+ `PORTFOLIO/` copy) | 110 unprocessed domains. Cols: `Domain, Category, Est. Value, Priority, Notes` |
 | `google_alerts_v2.csv` | Buyer-signal monitoring queries. Cols: `Domain, Value Range, Primary Query, Secondary Query, Market`. **~140 unique domains (143 rows) — exceeds the audit's 127.** |

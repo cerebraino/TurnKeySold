@@ -2,6 +2,7 @@
 **Author:** agent-outreach-architect | **Date:** 2026-09-04
 **Source:** `SCALE-FOLLOWUP_2026-09-03.md` (phase-1 report, merged as docs/SCALE-FOLLOWUP_2026-09-03.md @ a21019c) + existing brief/leads
 **Status:** DRAFT — for lead review. NOTHING SENT. All firing decisions remain with lead/owner.
+**⏸️ HOLD (owner directive 2026-09-04): copy stays READY-ONLY — do not send without explicit owner instruction per lead.**
 **Style:** approved exemplars (outreach_draft_*.md, sent 2026-09-03).
 
 **HARD RULES:** never-invent — fireable drafts ONLY against literally-published emails with source URL from the phase-1 report; DM/form routes get strategy notes, never email drafts; no pricing; no implied prior relationship; opt-out line; bodies <100 words.

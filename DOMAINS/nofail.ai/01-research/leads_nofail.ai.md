@@ -53,7 +53,7 @@
 | # | Company | DMPS | Persona | Decision-Maker | Role | Website | Intent Signal |
 |---|---------|------|---------|---------------|------|---------|--------------|
 | 1 | **Datadog** | **94** | A | Olivier Pomel (CEO & Co-Founder) | CEO | datadoghq.com | Dominant observability platform ($30B+ market cap); expanding into AIOps; "nofail" perfectly describes their core promise to enterprise |
-| 2 | **PagerDuty** | **92** | A | Jennifer Tejada (CEO) | CEO | pagerduty.com | Incident response leader; "No Fail" is literally their value proposition; expanding into AI operations |
+| 2 | **PagerDuty** | **92** | A | **John DiLullo (CEO; Jennifer Tejada = Exec Chair since 2026-05-11)** | CEO | pagerduty.com | Incident response leader; "No Fail" is literally their value proposition; expanding into AI operations |
 | 3 | **incident.io** | **90** | B | Lawrence Jones (CEO & Co-Founder) | CEO | incident.io | Modern incident management; already on .io — .ai would be an upgrade; "nofail" aligns with mission |
 | 4 | **Confident AI** 🆕 | **89** | B | Jeffery Ip (Co-founder) | CEO | confident-ai.com | Evals + observability + red teaming + governance; launched **AI Governance** Jun 22 2026 (source: owner's Buyer Prospecting Run; site verified live — "Enterprise AI Evaluation & Observability Platform") |
 | 5 | **Sentrial** 🆕 | **89** | B | Neel Sharma (Co-founder & CEO), Anay Shukla (Co-founder) | CEO | sentrial.com (YC W26) | **"Datadog for Agent Reliability"** — production monitoring for AI agents: loops, hallucinations, tool misuse; "nofail" is literally their pitch; pre-seed just closed (source: YC company page, verified live; email neel@sentrial.com — M confidence) |

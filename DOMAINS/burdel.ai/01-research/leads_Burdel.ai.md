@@ -52,7 +52,7 @@
 |---|---------|------|---------|---------------|------|-------|
 | 4 | **Barcelona studios** | **78** | B | (CEO) | CEO | Spanish adult production hub |
 | 5 | **Miami LatAm studios** | **75** | B | (CEO) | CEO | LatAm content production |
-| 6 | **Stripchat** (Spanish) | **72** | B | (CEO) | CEO | Live camming Spanish audience |
+| 6 | **Stripchat** (Spanish) | **72** | B | **Breeze Dennis (CEO)** | CEO | Live camming Spanish audience |
 
 ---
 

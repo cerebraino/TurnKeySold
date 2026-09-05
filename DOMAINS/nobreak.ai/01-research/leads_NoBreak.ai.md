@@ -42,7 +42,7 @@
 | # | Company | DMPS | Persona | Decision-Maker | Role | Website | Intent Signal |
 |---|---------|------|---------|---------------|------|---------|--------------|
 | 1 | **Datadog** | **94** | A | Olivier Pomel (CEO) | CEO | datadoghq.com | Dominant observability platform ($30B+); "NoBreak" is the promise every customer buys |
-| 2 | **PagerDuty** | **92** | A | Jennifer Tejada (CEO) | CEO | pagerduty.com | Incident response leader; "No Break" = their value proposition |
+| 2 | **PagerDuty** | **92** | A | **John DiLullo (CEO; Jennifer Tejada = Exec Chair since 2026-05-11)** | CEO | pagerduty.com | Incident response leader; "No Break" = their value proposition |
 | 3 | **incident.io** | **89** | B | Lawrence Jones (CEO) | CEO | incident.io | Modern incident management; "NoBreak" aligns with mission |
 | 4 | **UptimeRobot** | **87** | B | (CEO) | CEO | uptimerobot.com | Leading free uptime monitor; could use as product brand |
 | 5 | **Better Uptime** | **85** | B | Jon Hodrien (CEO) | CEO | betteruptime.com | "NoBreak" is a dramatic brand upgrade from "Better Uptime" |

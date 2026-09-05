@@ -57,11 +57,11 @@
 
 | # | Company | DMPS | Persona | Decision-Maker | Role | Contact | Intent Signal |
 |---|---------|------|---------|---------------|------|---------|--------------|
-| 1 | **Stellantis** | **92** | A | Carlos Tavares (CEO) / Jean-Philippe Imparato (CEO, Peugeot brand) | CEO | stellantis.com — HQ Paris | Major EV push under "Dare Forward 2030" plan; €30B+ EV investment; AI integration in infotainment |
-| 2 | **Renault Group** | **91** | A | Luca de Meo (CEO) | CEO | renaultgroup.com — Boulogne-Billancourt | "Renaulution" plan includes major AI/EV investment; launched Ampere EV division; French heritage brand |
+| 1 | **Stellantis** | **92** | A | **Antonio Filosa (CEO, since Jun 2025)** | CEO | stellantis.com — HQ Paris | Major EV push under "Dare Forward 2030" / FaSTLAne 2030 plan; €30B+ EV investment; AI integration in infotainment |
+| 2 | **Renault Group** | **91** | A | **François Provost (CEO, since Jul 2025)** | CEO | renaultgroup.com — Boulogne-Billancourt | "Futurama" strategic plan under Provost; major AI/EV investment; launched Ampere EV division; French heritage brand |
 | 3 | **Bugatti Automobiles** | **88** | A | Mate Rimac (CEO, Bugatti-Rimac) | CEO | bugatti.com — Molsheim, France | Luxury + tech; Rimac's AI/EV expertise; "La Voiture" perfectly matches luxury French branding |
-| 4 | **Verkor** | **86** | B | Benoit Lemaignan (CEO) | CEO | verkor.com — Grenoble | French EV battery startup; raised €2B+ for gigafactory; Series C 2024; needs brand presence |
-| 5 | **ACC (Automotive Cells Company)** | **84** | B | Yann Vincent (CEO) | CEO | acc-emotion.com — Paris | JV between Stellantis/Mercedes-Benz/TotalEnergies; major EV battery play; "La Voiture" brand fits |
+| 4 | **Verkor** | **86** | B | **Laurent Debrue (President & CEO, eff 1 Sep 2026)** | CEO | verkor.com — Grenoble | French EV battery startup; raised €2B+ for gigafactory; Series C 2024; new-CEO window → brand-decision moment |
+| 5 | **ACC (Automotive Cells Company)** | **84** | B | **Allan Swan (CEO, since May 2026)** | CEO | acc-emotion.com — Paris | JV between Stellantis/Mercedes-Benz/TotalEnergies; Europe's first industrial-scale EV battery maker; "La Voiture" brand fits |
 
 ### TIER 2: WARM LEADS (DMPS 60–79)
 
@@ -105,6 +105,21 @@
 | **Current domain suboptimal**: | ACC (acc-emotion.com — awkward), Navya (.tech — weak), EasyMile (.com but generic) | Clear upgrade opportunity |
 
 ---
+
+
+## 4a. Alternate Lead (scale-report NEW) — Einride
+| Company | DMPS | Persona | Decision-Maker | Role | Contact | Intent Signal |
+|---|---|---|---|---|---|---|
+| **Einride** | ~65 (scale-report Tier C, Med) | B | **Roozbeh Charli (CEO, since May 2025); Robert Falck = Founder & Executive Chairman** | CEO | einride.tech — Stockholm, Sweden | Electric/AV trucking; public on Nasdaq NY (2026); Charli leads company (Falck's own LinkedIn posts) |
+
+## 4b. LEADERSHIP-CHANGE CORRECTIONS (2026-09-05, sourced)
+> Applied to the top rows above on 2026-09-05 (folded from the LaVoiture.ai top-10 work). Sources: company press releases / newsrooms.
+> 1. **Stellantis CEO = Antonio Filosa** (since 23 Jun 2025) — stellantis.com press release on leadership-team changes (28 May 2025). Carlos Tavares left the company.
+> 2. **Renault Group CEO = François Provost** (since 31 Jul 2025, 4-yr term) — globenewswire.com / Renault press release (30 Jul 2025). Luca de Meo departed to Kering (Jul 2025).
+> 3. **ACC CEO = Allan Swan** (since 1 May 2026) — acc-emotion.com press release (30 Apr 2026). Yann Vincent retired.
+> 4. **Verkor President & CEO = Laurent Debrue** (effective 1 Sep 2026) — verkor.com press release (4 Aug 2026). Benoit Lemaignan → Supervisory Board Vice-Chairman.
+> 5. **Einride CEO = Roozbeh Charli** (since ~May 2025); Robert Falck = Founder & Executive Chairman — einride.tech newsroom (21 May 2025) + Falck's LinkedIn.
+> ⚠️ NEVER fire outreach on stale execs (Tavares, de Meo, Lemaignan, Vincent, Falck-as-CEO) — all departed or role-changed.
 
 ## 5. Outreach Recommendations
 

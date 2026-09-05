@@ -12,10 +12,10 @@ Every exec whose **email** or **LinkedIn URL** could not be confirmed from a pub
 
 | # | Company | Exec | Missing |
 |---|---------|------|---------|
-| 1 | Stellantis | Carlos Tavares (CEO) / Jean-Philippe Imparato (Peugeot) | LinkedIn URL; email |
+| 1 | Stellantis | **Antonio Filosa (CEO, since Jun 2025)** | LinkedIn URL; email |
 | 2 | Bugatti Automobiles | Mate Rimac | LinkedIn URL; email |
-| 3 | Verkor | Benoit Lemaignan | email |
-| 4 | ACC (Automotive Cells Company) | Yann Vincent | LinkedIn URL; email |
+| 3 | Verkor | **Laurent Debrue (President & CEO, eff 1 Sep 2026)** | email |
+| 4 | ACC (Automotive Cells Company) | **Allan Swan (CEO, since May 2026)** | LinkedIn URL; email |
 | 5 | BlaBlaCar | Nicolas Brusson | LinkedIn URL; email |
 | 6 | Heetch | Teddy Puaud | LinkedIn URL; email |
 
@@ -33,7 +33,7 @@ Every exec whose **email** or **LinkedIn URL** could not be confirmed from a pub
 ### Stellantis — stellantis.com
 | Field | Detail | Confidence |
 |-------|--------|:---:|
-| **Exec** | Carlos Tavares (CEO) / Jean-Philippe Imparato (Peugeot) — CEO | — |
+| **Exec** | **Antonio Filosa — CEO (since 23 Jun 2025)** | — |
 | **Company LinkedIn** | MISSING — not found on site sweep | — |
 | **Public email** | **MISSING** — no public address found on site sweep | — |
 | **Source** | live curl sweep of stellantis.com (+/about /contact /team) 2026-08-14; leads file for exec/DMPS | — |
@@ -44,7 +44,7 @@ Every exec whose **email** or **LinkedIn URL** could not be confirmed from a pub
 ### Renault Group — renaultgroup.com
 | Field | Detail | Confidence |
 |-------|--------|:---:|
-| **Exec** | Luca de Meo — CEO | — |
+| **Exec** | **François Provost — CEO (since 31 Jul 2025)** | — |
 | **Company LinkedIn** | https://www.linkedin.com/company/renaultgroup | H |
 | **Public email** | **MISSING** — no public address found on site sweep | — |
 | **Source** | live curl sweep of renaultgroup.com (+/about /contact /team) 2026-08-14; leads file for exec/DMPS | — |
@@ -66,7 +66,7 @@ Every exec whose **email** or **LinkedIn URL** could not be confirmed from a pub
 ### Verkor — verkor.com
 | Field | Detail | Confidence |
 |-------|--------|:---:|
-| **Exec** | Benoit Lemaignan — CEO | — |
+| **Exec** | **Laurent Debrue — President & CEO (effective 1 Sep 2026)** | — |
 | **Company LinkedIn** | https://www.linkedin.com/company/verkor | H |
 | **Public email** | **MISSING** — no public address found on site sweep | — |
 | **Source** | live curl sweep of verkor.com (+/about /contact /team) 2026-08-14; leads file for exec/DMPS | — |
@@ -77,7 +77,7 @@ Every exec whose **email** or **LinkedIn URL** could not be confirmed from a pub
 ### ACC (Automotive Cells Company) — acc-emotion.com
 | Field | Detail | Confidence |
 |-------|--------|:---:|
-| **Exec** | Yann Vincent — CEO | — |
+| **Exec** | **Allan Swan — CEO (since 1 May 2026)** | — |
 | **Company LinkedIn** | MISSING — not found on site sweep | — |
 | **Public email** | **MISSING** — no public address found on site sweep | — |
 | **Source** | live curl sweep of acc-emotion.com (+/about /contact /team) 2026-08-14; leads file for exec/DMPS | — |
@@ -158,6 +158,24 @@ Every exec whose **email** or **LinkedIn URL** could not be confirmed from a pub
 - **LinkedIn URLs marked H** come from the company's own site footer/about pages — these are the companies' own published links, so risk is low; LinkedIn itself was not logged into, so profile pages weren't fetched directly.
 - **Exec names/roles** are carried from the leads file at M confidence (they were researched previously); only company-level contact data was re-verified live this session.
 - **JS-heavy / bot-protected sites** (e.g. doordash, carmax, duolingo, zapier) returned no extractable contacts — for these, exec email is MISSING by design and LinkedIn should be resolved via LinkedIn search (marked L).
+
+
+## Leadership-Change Corrections (2026-09-05, sourced)
+> Applied to the top blocks above (was: Tavares, de Meo, Lemaignan, Vincent). Source: company press releases / newsrooms.
+> - Stellantis CEO **Antonio Filosa** (since 23 Jun 2025) — stellantis.com leadership-change release (28 May 2025).
+> - Renault CEO **François Provost** (since 31 Jul 2025, 4-yr) — globenewswire.com / Renault release (30 Jul 2025).
+> - ACC CEO **Allan Swan** (since 1 May 2026) — acc-emotion.com release (30 Apr 2026).
+> - Verkor President & CEO **Laurent Debrue** (eff 1 Sep 2026) — verkor.com release (4 Aug 2026).
+> - Einride alternate: CEO **Roozbeh Charli** (since ~May 2025), Robert Falck = Founder & Executive Chairman — einride.tech newsroom (21 May 2025).
+> ⚠️ Do NOT fire on departed execs (Tavares, de Meo, Lemaignan, Vincent, Falck-as-CEO).
+
+
+## Follow-up flag (2026-09-05) — already-sourced stale exec rows in OTHER core sheets
+> While editing lavoiture.ai sheets, spotted already-sourced stale top-exec rows elsewhere (NOT swept in this task — flagged for a future wave):
+> - **PagerDuty** still listed as **Jennifer Tejada (CEO)** in `DOMAINS/nofail.ai/01-research/leads_nofail.ai.md:56` and `DOMAINS/nobreak.ai/01-research/leads_NoBreak.ai.md:45`.
+>   - Sourced correction already in repo: `docs/EXEC-CONTACT-RESEARCH-2ND_2026-08-30.md` (lines 7/19/35) + `DOMAINS/nofail.ai/01-research/contact_nofail.ai.md:314` — **Jennifer Tejada = Executive Chair (transitioned 2026-05-11); John DiLullo = CEO** (outreach target).
+>   - The leads-tables still show Tejada-CEO while the same files' contact sections carry the correction → leads tables are internally stale.
+> - **Stripchat** in `DOMAINS/burdel.ai/01-research/leads_Burdel.ai.md:55` lists `(CEO)` with no name — from my exec-contact pass, Stripchat CEO is **Breeze Dennis** (sourced). No stale name to fix, but the blank could be filled.
 
 ## Files
 - **Lead list:** `leads_*` in `lavoiture.ai/01-research/`

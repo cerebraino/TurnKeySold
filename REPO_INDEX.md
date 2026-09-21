@@ -23,7 +23,8 @@
 | Google Alerts (B3) | `google_alerts_v2.csv` | **127 domains** (audit); CSV now holds ~140 unique domains | — |
 | **Master domain inventory** | `PORTFOLIO/MASTER-DOMAIN-INVENTORY_2026-09-06.csv` + `PORTFOLIO/build_master_inventory.py` | **146 rows × 13 cols** — full portfolio, machine-readable, regenerable via the script | CSV header (self-describing) |
 | **Collaborator briefing** | `docs/COLLABORATOR-BRIEFING_TurnKeySold-Domains_2026-09-06.md` | Onboarding doc for external collaborator agents (system overview + integration path) | — |
-| **Outreach tooling research + playbook** | `docs/OUTREACH-TOOLING-RESEARCH_2026-09-07.md` · `docs/OUTREACH-TOOLING-PLAYBOOK_2026-09-20.md` | Research = verified prices/URLs/flags; playbook = self-contained, action-ready, incl. CTO.new operating-layer section (§7) | playbook §0–§11 structure |
+| **Outreach tooling research** | `docs/OUTREACH-TOOLING-RESEARCH_2026-09-07.md` | Verified vendor prices/URLs ($0–$47/mo stack), UNVERIFIED flags, annual-billing traps | — |
+| **Outreach tooling playbook** | `docs/OUTREACH-TOOLING-PLAYBOOK_2026-09-20.md` | Self-contained, action-ready: context → constraints → tools+signup URLs → phased sequence → $100 allocation → CTO.new operating-layer §7 → DO-NOT-BUY-YET → verification log | playbook §0–§11 structure |
 | **Batch outreach archive** | `docs/outreach/` — `FIREABLE-OUTREACH_2026-08-30.md` (3-sent index) + `LINKEDIN-CONNECT-10_2026-09-04.md` + `LINKEDIN-CONNECT-10-BATCH2_2026-09-04.md` | **20 LinkedIn notes** (2 batches × 10) + 3-email sent index — all HOLD under freeze | — |
 | **LaVoiture batch files** | `DOMAINS/lavoiture.ai/01-research/LAVOITURE-TOP10_2026-09-04.md` + `LAVOITURE-MTL-10_2026-09-05.md`; `02-outreach/LAVOITURE-MTL-10-MESSAGES_2026-09-05.md` | **10 FR-first Montreal messages** + TOP10 buyer lists — ready copy, HOLD | — |
 

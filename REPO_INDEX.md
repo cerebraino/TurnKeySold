@@ -2,7 +2,7 @@
 
 > **Read this first.** This is the single canonical entry point to understand every asset in this repository, how the information is structured, and which guiding documents govern the work. A future LLM (or new team member) should be able to read **only this file** and reach full context — without exploring 600+ files.
 >
-> **Last updated:** 2026-09-03 · **Repo:** `cerebraino/TurnKeySold` · **Portfolio:** 145 domains + 1 bundle (coldbeerportfolio) = 146 dirs in `DOMAINS/` (plus the `DOMAINS/CSV/` data dir)
+> **Last updated:** 2026-09-21 · **Repo:** `cerebraino/TurnKeySold` · **Portfolio:** 145 domains + 1 bundle (coldbeerportfolio) = 146 dirs in `DOMAINS/` (plus the `DOMAINS/CSV/` data dir) · **main is at PR #58** (self-contained outreach tooling playbook)
 >
 > **For LLMs:** see **[§9. LLM Usage Playbook](#9-llm-usage-playbook)** — how to actually do work against this repo.
 
@@ -21,6 +21,11 @@
 | Outreach briefs (B1) | `02-outreach/brief_<domain>.md` | **145/146** (coldbeerportfolio bundle n/a) | `COMPANY/campaign-playbook.md` |
 | Google ad enrichment (B2) | embedded in `leads_<domain>.md` §"Google Search Enrichment" | **22 leads files** | — |
 | Google Alerts (B3) | `google_alerts_v2.csv` | **127 domains** (audit); CSV now holds ~140 unique domains | — |
+| **Master domain inventory** | `PORTFOLIO/MASTER-DOMAIN-INVENTORY_2026-09-06.csv` + `PORTFOLIO/build_master_inventory.py` | **146 rows × 13 cols** — full portfolio, machine-readable, regenerable via the script | CSV header (self-describing) |
+| **Collaborator briefing** | `docs/COLLABORATOR-BRIEFING_TurnKeySold-Domains_2026-09-06.md` | Onboarding doc for external collaborator agents (system overview + integration path) | — |
+| **Outreach tooling research + playbook** | `docs/OUTREACH-TOOLING-RESEARCH_2026-09-07.md` · `docs/OUTREACH-TOOLING-PLAYBOOK_2026-09-20.md` | Research = verified prices/URLs/flags; playbook = self-contained, action-ready, incl. CTO.new operating-layer section (§7) | playbook §0–§11 structure |
+| **Batch outreach archive** | `docs/outreach/` — `FIREABLE-OUTREACH_2026-08-30.md` (3-sent index) + `LINKEDIN-CONNECT-10_2026-09-04.md` + `LINKEDIN-CONNECT-10-BATCH2_2026-09-04.md` | **20 LinkedIn notes** (2 batches × 10) + 3-email sent index — all HOLD under freeze | — |
+| **LaVoiture batch files** | `DOMAINS/lavoiture.ai/01-research/LAVOITURE-TOP10_2026-09-04.md` + `LAVOITURE-MTL-10_2026-09-05.md`; `02-outreach/LAVOITURE-MTL-10-MESSAGES_2026-09-05.md` | **10 FR-first Montreal messages** + TOP10 buyer lists — ready copy, HOLD | — |
 
 > **Source of truth:** all coverage numbers above live canonically in **`ASSET_AUDIT_2026-08-14.md`** (the live tracker updated as batches merge). This index points to it and records the *actual filesystem* counts verified 2026-08-27 — where the two differ (B2, B3, A4) the discrepancy is flagged below so the audit can be reconciled next.
 >
@@ -56,7 +61,10 @@ This repo is the **single canonical source of truth** (Architecture Principle P1
 **The research + execution layers are now COMPLETE for all actionable assets.** A4 contact sheets and A5 email packs reached full/effectively-full coverage as of 2026-08-20 (A5 = 145/146, the last gap being the sold domain). Remaining work is maintenance/expansion, not backfill (see §8).
 
 **Sold:** `LeanMeds.com` → Trinity HealthCare Supply (via Spaceship). Its dir still holds research assets for reference/process reuse.
-**Latest (2026-09-03):** First-touch outreach is LIVE — 3 fireable emails SENT (Zócalo Health, Taskade, Founder Institute; provenance: `docs/EXEC-CONTACT-RESEARCH_2026-08-31.md` rows 3/17/18; copies/cadences tracked outside repo in the team shared index). Scale run on 15 domains merged (PR #45: ~53–55 NEW vs ~197 baseline); superseded RUN-1 archived per owner directive (PR #46). Owner-approved full expansion in progress on curebyketo.com, fusebot.ai, weputt.com, paretobuddy.com. Operational rules unchanged: never-invent, no autonomous sending, no pricing in first-touch copy.
+**⏸️ SEND FREEZE (owner directive 2026-09-04 — still in effect):** NO emails or sends of any kind without the owner's explicit per-send instruction — no first-touches, no D3/D7/D14 follow-ups, no replies to inbound. All outreach copy in this repo is **ready-only** (research/prepare freely; never send). This supersedes any earlier "outreach is LIVE" framing.
+**Sends to date (2026-09-03, pre-freeze):** **3 lifetime emails sent, 0 replies** — Zócalo Health (Erik Cardenas), Taskade (John Xie), Founder Institute (Adeo Ressi); provenance `docs/EXEC-CONTACT-RESEARCH_2026-08-31.md` rows 3/17/18; index `docs/outreach/FIREABLE-OUTREACH_2026-08-30.md`. Their D3/D7/D14 cadences are **PAUSED**; inbound replies (none yet) are surfaced to the owner before any response.
+**Ready copy on hold (nothing sent since the freeze):** 4 expansion email packs (`docs/outreach-pack_{curebyketo.com,fusebot.ai,weputt.com,paretobuddy.com}.md`, ~19 fireable leads, PRs #48–#50) + **20 LinkedIn connect notes** (`docs/outreach/LINKEDIN-CONNECT-10*_2026-09-04.md`, 2 batches × 10) + **10 Montreal FR-first messages** (`DOMAINS/lavoiture.ai/02-outreach/LAVOITURE-MTL-10-MESSAGES_2026-09-05.md`).
+**Earlier context kept current:** Scale run on 15 domains merged (PR #45: ~53–55 NEW vs ~197 baseline); superseded RUN-1 archived per owner directive (PR #46). Operational rules unchanged: never-invent, no autonomous sending, no pricing in first-touch copy.
 
 ---
 
@@ -76,7 +84,7 @@ TurnKeySold/
 │
 ├── COMPANY/                       ← Brand + methodology (brand-identity, campaign-playbook, research-framework, seller-onboarding, website-brief)
 ├── OUTREACH/                      ← Master email templates + older alert/email CSVs
-├── PORTFOLIO/                     ← Portfolio analysis + appraisal CSVs
+├── PORTFOLIO/                     ← Portfolio analysis + appraisal CSVs + **`MASTER-DOMAIN-INVENTORY_2026-09-06.csv`** (146×13 full inventory + `build_master_inventory.py`)
 ├── WEBSITE/                       ← TurnKeySold.com HTML/CSS source
 ├── docs/                          ← Architecture, asset standards, methodology (see below)
 ├── contact-verification/          ← Batch contact-verification findings (2026-08-14 → 2026-08-20)
@@ -88,6 +96,7 @@ TurnKeySold/
 - `docs/architecture/` — `DECISION_ARCHITECTURE.md`, `KNOWLEDGE_MODEL.md`, `METADATA_STANDARD.md`, `ARCHITECTURE_PRINCIPLES.md`, `knowledge-architecture-review.md`, `phase1-preparation.md`, `phase1-report.md`
 - `docs/methodology/` — `three-line-outreach-framework.md`, `three-line-messages-36-domains.md`
 - `docs/assets/` — `ASSET_CHECKLIST.md`, `GAP_ANALYSIS_2026-08-12.md`
+- `docs/outreach/` — **Batch outreach archive**: `FIREABLE-OUTREACH_2026-08-30.md` (3-sent first-touch index), `LINKEDIN-CONNECT-10_2026-09-04.md` + `LINKEDIN-CONNECT-10-BATCH2_2026-09-04.md` (20 LinkedIn notes; ready-only under freeze)
 - `docs/` — `MISSING-CONTACT_2026-08-20.md` (canonical owner follow-up list, §5), `outreach-contact-list-complete.csv` (§6)
 
 ---
@@ -149,6 +158,8 @@ e.g. `slimmeds-brand-research.md` (companies already using "Slim Meds" phrasing 
 - **`docs/architecture/ARCHITECTURE_PRINCIPLES.md`** — P1–P10, the non-negotiable rules (canonical source, structured data, relationships, templates, provenance, naming, delete-vs-duplicate, git reversibility, lifecycle, LLM navigation). Read before any structural change.
 - **`Three-Line_Framework_for_Premium_Domain_Outbound.md`** (= `docs/methodology/three-line-outreach-framework.md`) — the core cold-outreach methodology: signal → bridge → tiny ask, ≤250 chars, no pricing/links/"I own". Governs all outreach copy.
 - **`docs/methodology/three-line-messages-36-domains.md`** — pre-written Three-Line messages for 25–36 domain-buyer pairings (ranked strongest→weakest).
+- **`docs/COLLABORATOR-BRIEFING_TurnKeySold-Domains_2026-09-06.md`** — **reader-friendly system overview** for onboarding an external collaborator agent: business context, domains/portfolios, operating rules, integration path, where resources live. **Governance:** COLLABORATOR-BRIEFING is the *narrative* overview; **this REPO_INDEX.md remains the canonical file-level map** — when they drift, REPO_INDEX wins for file locations, the briefing wins for "how the business works".
+- **`docs/OUTREACH-TOOLING-RESEARCH_2026-09-07.md`** — outreach tooling research: verified vendor prices/URLs ($0–$47/mo stack), UNVERIFIED flags, annual-billing traps. **`docs/OUTREACH-TOOLING-PLAYBOOK_2026-09-20.md`** — self-contained action-ready playbook (context → constraints → tools+signup URLs → phased sequence → $100 allocation → CTO.new operating layer §7 → DO-NOT-BUY-YET → verification log). Both indexed in the Quick Reference table above.
 - **`docs/assets/ASSET_CHECKLIST.md`** — the "complete" bar for each asset type A1–A6/B1–B6. Read to know what "done" means.
 - **`docs/MISSING-CONTACT_2026-08-20.md`** — **the canonical MISSING/CONTACT-gap owner list.** One consolidated doc: Section A = Tier-1/Wave-1 buyer execs whose direct contact couldn't be publicly sourced (24 rows, priority-ordered); Section B = the 10 domains flagged in PR #35 with no H-verified public emails. The owner researches these; a connected LLM should CONSULT it before outreach and never fabricate the missing addresses.
 - **`Domain_Buyer_Prospecting_Research_10_Domains.md`** — owner's buyer-prospecting research on 10 priority domains (NoBreak, NoFail, Automovil, KnowLaw, PayCar, HipotecaHispana, HispanoAbogado, LatinoMedico, OneGuy, PossibleAGI).
@@ -228,6 +239,14 @@ From `ASSET_AUDIT_2026-08-14.md` + the business plan (current as of 2026-08-27):
 
 This section tells a connected LLM *how to actually do work* against this repo. If you're an LLM and you've read this far, start here for concrete operating steps.
 
+### 9.0 Start-here reading path for a NEW LLM / collaborator agent
+Read in this order — each step is self-contained, and each points to the next:
+1. **`REPO_INDEX.md`** (this file) — the canonical file-level map you are reading now.
+2. **`docs/COLLABORATOR-BRIEFING_TurnKeySold-Domains_2026-09-06.md`** — system overview + integration path (business context, operating rules, where things live — the narrative companion to this map).
+3. **`docs/OUTREACH-TOOLING-PLAYBOOK_2026-09-20.md`** — the outreach tooling stack + phased spend sequence + how the CTO.new platform works in tandem with those tools (§7 of the playbook).
+4. **`PORTFOLIO/MASTER-DOMAIN-INVENTORY_2026-09-06.csv`** — the full 146-domain inventory in machine-readable form (13 columns: value ranges, buyer categories, top buyers with DMPS, sample micro-message).
+**⏸️ Freeze rule (applies to every workstream):** you may **research and prepare** freely, but you may **NEVER send** — no emails, no LinkedIn notes, no follow-ups of any kind — until the owner gives an explicit per-send instruction. Treat every draft in this repo as ready-only.
+
 ### 9.1 How do I find everything about a domain?
 Path convention: **`DOMAINS/<domain>/01-research/`** (what we know) + **`DOMAINS/<domain>/02-outreach/`** (what we say), where `<domain>` is all-lowercase with the TLD (e.g. `DOMAINS/topsex.ai/`). The authoritative per-domain order of reading:
 1. `01-research/leads_<domain>.md` — valuation + buyer categories + ranked DMPS leads (start here for context).
@@ -279,3 +298,13 @@ Sources for copy: `brief_*.md` (positioning/angle), `micro-messages_*.md` (short
 - **`docs/CONTACT-RESEARCH-LIST-RUN1-WRONGSET_2026-08-30.md`** — ARCHIVED run-1 flat contact-research list (traces to the run-1 report above; no emails; every row follows never-invent).
 - **`docs/SCALE-FOLLOWUP_2026-09-03.md`** — phase-1 expansion follow-up: WAF-flag re-verification (curl + real-browser) + contact paths for NEW leads on the 4 expansion domains (fireable = literally published w/ source URL; 2 invalid-lead flags).
 - **`docs/outreach-pack_curebyketo.com.md`, `outreach-pack_fusebot.ai.md`, `outreach-pack_weputt.com.md`, `outreach-pack_paretobuddy.com.md`** — phase-2 expansion email packs (2026-09-04): drafts for the ~19 fireable NEW leads + DM/form strategy notes, D3/D7/D14 cadences, exclusions documented (Ketoned Bodies, Routine). DRAFTS — nothing sent; firing requires lead/owner sign-off.
+
+### Post-Sep-3 merge waves (PRs #51–#58) — repo state evolution after the freeze
+- **PR #51** — LaVoiture.ai contact sheets: 5 sourced CEO-change corrections (Filosa, Provost, Debrue, Swan, Charli/Einride).
+- **PR #52** — stale-exec row fixes from sourced research: PagerDuty CEO → John DiLullo (nofail/nobreak leads), Stripchat CEO → Breeze Dennis (burdel leads).
+- **PR #53** — LaVoiture batch files: TOP-10 + Montreal round-2 buyer lists and 10 FR-first outreach messages (paths in §3 / Quick Reference).
+- **PR #54** — batch outreach archive: LinkedIn connect-note batches 1–2 (20 notes) + FIREABLE-OUTREACH index into `docs/outreach/`.
+- **PR #55** — `docs/COLLABORATOR-BRIEFING_TurnKeySold-Domains_2026-09-06.md` (collaborator onboarding; see §5).
+- **PR #56** — `PORTFOLIO/MASTER-DOMAIN-INVENTORY_2026-09-06.csv` + `build_master_inventory.py` (146 × 13; see Quick Reference).
+- **PR #57** — `docs/OUTREACH-TOOLING-RESEARCH_2026-09-07.md` (tooling research; see §5/§6).
+- **PR #58** — `docs/OUTREACH-TOOLING-PLAYBOOK_2026-09-20.md` (self-contained playbook incl. CTO.new operating-layer §7; head of main).

@@ -9,7 +9,7 @@
 ## PayAuto.ai targets that ALSO fit PayBud.ai (contact-level)
 | Fit | Company | Contact(s) (per PayAuto CSV) | Why PayBud.ai works for them |
 |---|---|---|---|
-| STRONG | **Nekuda** | Ayal Karmi (CEO) | Agent **wallet** SDK (Secure Agent Wallet) — a consumer-facing agent wallet brand IS "your payment buddy" |
+| ~~STRONG~~ | ~~**Nekuda**~~ | ~~Ayal Karmi (CEO)~~ | ~~Agent **wallet** SDK (Secure Agent Wallet)~~ — **KILLED 2026-10-16 (PayAuto pass: site dead, funding + contact unverifiable) — removed, count 6→5** |
 | STRONG | **Payman AI** | Tyllen Bicakcic (Co-Founder & CEO) + Teymour Farman-Farmaian (per our Aug-12 row; multi-contact per owner directive) | AI-to-human agent payments; PayBud = warm consumer face for the same rails |
 | STRONG | **Crossmint** | Rodri Fernandez Touza (+ Alex Rawitz, Head of Agentic Payments) | Wallets + virtual cards for agents — consumer wallet angle |
 | MEDIUM-STRONG | **Natural** | Kahlil Lalji (CEO) | FDIC-insured agent accounts; consumer money movement needs a warm brand |

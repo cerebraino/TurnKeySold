@@ -30,8 +30,8 @@ Legend: **PRIMARY** = lead the pitch with this domain; sec = credible secondary 
 | Catena Labs (Sean Neville) | **paybud.ai** | payauto · payquick | Agent bank needs consumer-warm naming |
 | Crossmint (Rodri Fernandez Touza + Alex Rawitz) | **paybud.ai** | payquick · payauto | Wallets/virtual cards — consumer wallet brand |
 | Paid (Manny Medina) | **payauto.ai** | payquick | AP/AR automation IS their product; site copy matches exactly |
-| Skyfire (Amir Sarhangi) | **payauto.ai** | payquick | Agent checkout network |
-| Nekuda (Ayal Karmi) | **paybud.ai** | payquick | Consumer agent wallet SDK |
+| Skyfire (Amir Sarhangi) | **payauto.ai** | payquick | Agent checkout network — **funding CORRECTED 2026-10-16: $8.5M seed (TechCrunch 2024-08-21), site skyfire.xyz** |
+| Nekuda (Ayal Karmi) | ~~paybud.ai~~ | ~~payquick~~ | Consumer agent wallet SDK — **KILLED 2026-10-16 (site dead, unverifiable) — removed from buyer set** |
 | Arcade.dev (Alex Salazar) | **payauto.ai** | — | Authorization layer; infra only |
 | HappyRobot (Pablo Palafox) | **payauto.ai** | jogpay (thin) | Collections workflows = AP/AR; freight motion angle thin |
 | Rye (Arjun Bhargava) | **payquick.ai** | paydeal | Checkout acceleration is Rye's exact lane |
@@ -64,7 +64,7 @@ Legend: **PRIMARY** = lead the pitch with this domain; sec = credible secondary 
 - The live site gives every outbound email a credible destination ("the portfolio is real, here it is") — strengthens first-touch credibility without pricing in copy.
 
 ## UPDATE (2026-09-21): PayQuick.ai external research integrated — family buyer set grows to ~31
-Second collaborator-LLM research (owner-supplied, EXTERNAL-UNVERIFIED) targets payquick.ai with 18 companies; **12 are NEW to the family** (Causa Prima, GrailPay, SolvaPay, Tensec, PayQuicker [defensive-acquisition angle], Fragment, Tempo [$500M/$5B reported], Kite AI, JustPaid, Papaya Global/Tasq.ai, Koywe, Unipaas); 6 overlap the PayAuto set (Stripe, Mastercard, Visa, Payman, Skyfire, Natural). Files: root `payquick_ai_acquisition_targets.csv` + `DOMAINS/payquick.ai/01-research/` workbench + note. Verification queued behind the running PayAuto pass (task 1ba44884).
+Second collaborator-LLM research (owner-supplied, EXTERNAL-UNVERIFIED) targets payquick.ai with 18 companies; **12 are NEW to the family** (Causa Prima, GrailPay, SolvaPay, Tensec, PayQuicker [defensive-acquisition angle], Fragment, Tempo [$500M/$5B **VERIFIED 2026-10-16** — Fortune exclusive, Thrive Capital + Greenoaks], Kite AI, JustPaid, Papaya Global/Tasq.ai, Koywe, Unipaas); 6 overlap the PayAuto set (Stripe, Mastercard, Visa, Payman, Skyfire, Natural). Files: root `payquick_ai_acquisition_targets.csv` + `DOMAINS/payquick.ai/01-research/` workbench + note. Verification queued behind the running PayAuto pass (task 1ba44884).
 **Outreach doctrine additions (reconciled with our rules):** Tier-1 cluster first (tightest positioning + recent funding) → PayQuicker defensive approach → megacaps via brand/corp-dev only; quiet confidential outreach, no public listing for premium names; payquick positioning line "AI-native, instant, and agentic payment experiences." Family set now ~31 buyers across payauto (~16) + payquick (~18 with 6 shared) + paybud (6) + paydeal (3-4) — one verification pass, four sale surfaces.
 
 ## UPDATE 3 (2026-09-21): PayQuick external contact map integrated — payquick reach data materially improved

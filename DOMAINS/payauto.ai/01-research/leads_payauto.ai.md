@@ -55,7 +55,7 @@
 | 1 | **Stripe** | **96** | A | Patrick Collison | CEO | stripe.com | Live **Agentic Commerce Suite** ("enable programmatic machine payments"); building the economic infrastructure for AI — payauto.ai is the category name |
 | 2 | **Visa** | **94** | A | Ryan McInerney | CEO | visa.com | **Visa Intelligent Commerce** — agentic commerce frameworks; needs the "pay automatically" brand for its AI payments push |
 | 3 | **Mastercard** | **93** | A | Michael Miebach | CEO | mastercard.com | Shipped **Agent Pay** for AI agents; category brand for autonomous payments |
-| 4 | **Payman AI** | **92** | B | Teymour Farman-Farmaian | Founder/CEO | paymanai.com | "We deploy AI agents that handle money"; partnered with regulated banks — payauto.ai IS their exact pitch |
+| 4 | **Payman AI** | **92** | B | Tyllen Bicakcic — Co-Founder & CEO (VERIFIED 2026-09-21: paymanai.com/press/payman-ai-partners-with-middlesex-federal); Teymour Farman-Farmaian = co-founder, parallel target (owner multi-contact directive) | Co-Founder & CEO | paymanai.com | "We deploy AI agents that handle money"; partnered with regulated banks — payauto.ai IS their exact pitch; $13M total raised (paymanai.com/press) |
 | 5 | **Perplexity** | **90** | B | Aravind Srinivas | CEO | perplexity.ai | Launched **Buy on Perplexity** / shopping agents that purchase on behalf of users |
 | 6 | **PayPal** | **88** | A | Alex Chriss | CEO | paypal.com | Expanding into AI-triggered payments; "pay automatically" is PayPal's heritage (auto-pay) |
 | 7 | **Nevermined** | **87** | B | Francisco Cepeda | CEO | nevermined.ai | "Let your agents pay and get paid. Autonomously." — agent-payable API protocol |

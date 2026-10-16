@@ -60,7 +60,7 @@
 ### 4. Teymour Farman-Farmaian — Payman AI
 | Field | Detail | Confidence |
 |-------|--------|:---:|
-| **Title** | Founder & CEO, Payman AI | H |
+| **Title** | Co-Founder, Payman AI (CEO title STALE — see note) | — |
 | **LinkedIn** | linkedin.com/in/teymourfarmanfarmaian | H |
 | **Email** | teymour@paymanai.com (first@) | M |
 | **Email format** | {first}@paymanai.com | M |
@@ -69,7 +69,22 @@
 | **Source** | paymanai.com, LinkedIn, Crunchbase | — |
 | **Priority domain** | payauto.ai (DMPS 92) | — |
 | **Intent signal** | "We deploy AI agents that handle money" — payauto.ai IS their exact pitch | — |
-| **Note** | Startup pattern: first@ is standard for early-stage founders. Confirm via hunter.io or similar. | — |
+| **Note** | Startup pattern: first@ is standard for early-stage founders. Confirm via hunter.io or similar. |
+| **VERIFIED 2026-09-21** | WARNING CEO title STALE — company press release (https://www.paymanai.com/press/payman-ai-partners-with-middlesex-federal) designates **Tyllen Bicakcic — Co-Founder & CEO**; keep Teymour as co-founder + PARALLEL outreach target per owner multi-contact directive (2026-09-21). Funding primary: **$13M total** (paymanai.com/press) — collaborator's $13.8M/Boost/Protofund NOT corroborated. Details: `PAYAUTO-VERIFICATION-RESULTS_2026-09-21.md` |
+
+### 4b. Tyllen Bicakcic — Payman AI
+| Field | Detail | Confidence |
+|-------|--------|:---:|
+| **Title** | Co-Founder & CEO, Payman AI | H |
+| **LinkedIn** | linkedin.com/in/tyllenbicakcic (from collaborator original CSV — not re-verified; LinkedIn bot-walled this pass) | M |
+| **Email** | Not surfaced — never invent; site form / LinkedIn are the routes | — |
+| **Press contact** | hello@paymanai.com (general) | H |
+| **Source** | paymanai.com/press/payman-ai-partners-with-middlesex-federal (company PR — name + title); paymanai.com/press ("Funding: $13M raised in total") | — |
+| **Priority domain** | payauto.ai (DMPS 92) | — |
+| **Intent signal** | "We deploy AI agents that handle money" — payauto.ai IS their exact pitch; $13M total raised per company | — |
+| **VERIFIED 2026-09-21** | domain-researcher — primary source confirms name + title + funding figure | — |
+
+ — |
 
 ### 5. Aravind Srinivas — Perplexity AI
 | Field | Detail | Confidence |

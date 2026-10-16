@@ -2,7 +2,7 @@
 
 > **Read this first.** This is the single canonical entry point to understand every asset in this repository, how the information is structured, and which guiding documents govern the work. A future LLM (or new team member) should be able to read **only this file** and reach full context — without exploring 600+ files.
 >
-> **Last updated:** 2026-09-21 · **Repo:** `cerebraino/TurnKeySold` · **Portfolio:** 145 domains + 1 bundle (coldbeerportfolio) = 146 dirs in `DOMAINS/` (plus the `DOMAINS/CSV/` data dir) · **main is at PR #58** (self-contained outreach tooling playbook)
+> **Last updated:** 2026-09-21 · **Repo:** `cerebraino/TurnKeySold` · **Portfolio:** 145 domains + 1 bundle (coldbeerportfolio) = 146 dirs in `DOMAINS/` (plus the `DOMAINS/CSV/` data dir) · **main is at PR #69** (payquick.ai external research integration)
 >
 > **For LLMs:** see **[§9. LLM Usage Playbook](#9-llm-usage-playbook)** — how to actually do work against this repo.
 
@@ -27,8 +27,9 @@
 | **Outreach tooling playbook** | `docs/OUTREACH-TOOLING-PLAYBOOK_2026-09-20.md` | Self-contained, action-ready: context → constraints → tools+signup URLs → phased sequence → $100 allocation → CTO.new operating-layer §7 → DO-NOT-BUY-YET → verification log | playbook §0–§11 structure |
 | **Batch outreach archive** | `docs/outreach/` — `FIREABLE-OUTREACH_2026-08-30.md` (3-sent index) + `LINKEDIN-CONNECT-10_2026-09-04.md` + `LINKEDIN-CONNECT-10-BATCH2_2026-09-04.md` | **20 LinkedIn notes** (2 batches × 10) + 3-email sent index — all HOLD under freeze | — |
 | **LaVoiture batch files** | `DOMAINS/lavoiture.ai/01-research/LAVOITURE-TOP10_2026-09-04.md` + `LAVOITURE-MTL-10_2026-09-05.md`; `02-outreach/LAVOITURE-MTL-10-MESSAGES_2026-09-05.md` | **10 FR-first Montreal messages** + TOP10 buyer lists — ready copy, HOLD | — |
-| **PayAuto.ai acquisition targets (external collaborator research)** | root `payauto_ai_acquisition_targets.csv` (collaborator original, authoritative for contacts) + `DOMAINS/payauto.ai/01-research/payauto_ai_acquisition_targets.csv` (team verification workbench) + `PAYAUTO-EXTERNAL-RESEARCH-NOTE_2026-09-21.md` | 19 companies × 13 cols — agentic-payments buyer set with funding + contacts (5 named). **⚠️ EXTERNAL provenance: produced by a collaborator LLM, NOT yet team-verified** — verification pass in progress; multi-contact Payman row reframed as parallel targets per owner directive | note file (provenance + conflicts + verification plan) |
+| **PayAuto.ai acquisition targets (external collaborator research)** | root `payauto_ai_acquisition_targets.csv` (collaborator original, authoritative for contacts) + `DOMAINS/payauto.ai/01-research/payauto_ai_acquisition_targets.csv` (team verification workbench) + `PAYAUTO-EXTERNAL-RESEARCH-NOTE_2026-09-21.md` | 19 companies × 13 cols original + 15-col team workbench (owner-audit FULL-FIELD ingest: every source column incl. 12 named individual contacts + 7 partnership-routed; motivations verbatim; Paybud_Crossfit + Team_Annotations columns). **⚠️ EXTERNAL provenance: produced by a collaborator LLM, NOT yet team-verified** — verification pass in progress (task 1ba44884); Payman multi-contact reframed as parallel targets per owner directive | note file (provenance + conflicts + verification plan) |
 | **Payments-family cross-fit (portfolio-wide)** | `docs/PAYMENTS-FAMILY-CROSSFIT_2026-09-21.md` | Live-site extract (paybud.ai landing page: 7 core + 4 ES/PT payment domains) cross-fit against the 19-buyer agentic-payments set — per-contact PRIMARY/secondary domain matrix (payauto ~16, payquick ~12, paybud 6, paydeal 3-4), 4 bundle plays, inventory grouping flags, paybot.ai ownership question | see doc §D for records to fix |
+| **PayBud.ai cross-fit (vs PayAuto buyer set)** | `DOMAINS/paybud.ai/01-research/PAYBUD-CROSSFIT_2026-09-21.md` | 6 of 19 PayAuto companies/contacts also fit PayBud (Nekuda, Payman ×2, Crossmint ×2, Natural, Catena, PayPal-P2P); verification reuse; inventory grouping flag (paybud under Betting/Gambling, research says budgeting) | family cross-fit doc has the portfolio-wide matrix |
 | **PayQuick.ai acquisition targets (external collaborator research)** | root `payquick_ai_acquisition_targets.csv` + `DOMAINS/payquick.ai/01-research/payquick_ai_acquisition_targets.csv` (workbench) + `PAYQUICK-EXTERNAL-RESEARCH-NOTE_2026-09-21.md` | 18 companies (T1 ×6 incl. PayQuicker defensive angle; T2 ×6; T3 ×6) — agentic/instant-payments layer; **no contacts provided — sourcing required**; 6 rows shared with PayAuto set; conflicts flagged (Natural funding $9.8M vs $30M; Payman investor lists) | note: outreach-strategy synthesis + verification plan |
 
 > **Source of truth:** all coverage numbers above live canonically in **`ASSET_AUDIT_2026-08-14.md`** (the live tracker updated as batches merge). This index points to it and records the *actual filesystem* counts verified 2026-08-27 — where the two differ (B2, B3, A4) the discrepancy is flagged below so the audit can be reconciled next.
@@ -179,6 +180,8 @@ e.g. `slimmeds-brand-research.md` (companies already using "Slim Meds" phrasing 
 
 | File | Columns / Purpose |
 |---|---|
+| `payauto_ai_acquisition_targets.csv` (root) | **PayAuto.ai external collaborator research — canonical cleaned copy** (19×13; contacts authoritative). Team workbench + provenance note live in `DOMAINS/payauto.ai/01-research/`. ⚠️ EXTERNAL-UNVERIFIED until verification pass lands |
+| `payquick_ai_acquisition_targets.csv` (root) | **PayQuick.ai external collaborator research — canonical copy** (18×10; NO contacts provided — sourcing required). Workbench + note in `DOMAINS/payquick.ai/01-research/`. ⚠️ EXTERNAL-UNVERIFIED |
 | `DOMAINS/CSV/TurnKeySold_Full_Portfolio_Ranked.csv` | **The value-ranked master portfolio index.** 146 rows, ranked by value. Cols: `Domain, Approx Defensible Market Value, Main 3 Buyer Categories, Top-3 Companies, Sample Micro-Message` |
 | `DOMAINS/CSV/micro_messages_drafts.md` | Pre-split source of all micro-messages (per-domain files now complete — 147/147) |
 | `docs/outreach-contact-list-complete.csv` | **Exec contact master.** Cols: `#, Priority (P1/P2/P3), Batch, Name, Title, Company, Domain, LinkedIn, Email, Confidence, Motivation, Micro-Message, Has Message` |
@@ -231,6 +234,11 @@ Gap-filling ran in **~25-domain batches ordered by CSV value rank** (most valuab
 ## 8. Future Work
 
 From `ASSET_AUDIT_2026-08-14.md` + the business plan (current as of 2026-08-27):
+**2026-09-21 wave items (payments family — added by owner directive):**
+- **Verification passes:** PayAuto pass running (task 1ba44884); PayQuick pass queued (task 45a948e2 — 12 new companies + decision-maker sourcing, conflicts: Natural funding, Payman investor lists, Tempo valuation). After both: payments family (~31 buyers) fully staged for the owner's wave-1 freeze-lift decision.
+- **Owner confirmations pending:** paybot.ai ownership (absent from inventory + site + NameCheap list); SuaCasaPaga.com exact spelling in inventory.
+- **Inventory regrouping (next `build_master_inventory.py` build):** paybud.ai Betting/Gambling → budgeting/agent-wallet; autopaga/pagacasa/pagatucasa Real Estate/Mortgage → Payments (site sells them as payments); paybot.ai to be added if owned.
+- **Site polish:** paybud.ai landing page nav/meta says "Six Names" vs H1 "Seven Premium Domains" — stale count.
 - **Owner resolves `docs/MISSING-CONTACT_2026-08-20.md`** — the outstanding exec contacts (Section A priority: NoBreak Security/Yuval Olsha, Supreme CASA CEO, Zócalo Health/Erik Cardenas, Kavak/Carlos García Ottati, KnowLaw AI founder; Section B: PR #35 domains). This is the main open owner-side item.
 - **Reconcile `ASSET_AUDIT_2026-08-14.md`** with the 2026-08-27 deltas (B2 confirmed 22 ✓; B3 CSV grew ~127→~140 unique domain tokens). The audit filename still says 2026-08-14 though its numbers were updated through 2026-08-20 — consider bumping the date/version.
 - **Migrate lingering legacy files** to canonical names (`contact_`→`contact-sheet_` for the 20, `outreach-`→`email-pack_` for the 26) if the team wants single-namespace consistency (not required — both are readable).
@@ -303,7 +311,7 @@ Sources for copy: `brief_*.md` (positioning/angle), `micro-messages_*.md` (short
 - **`docs/SCALE-FOLLOWUP_2026-09-03.md`** — phase-1 expansion follow-up: WAF-flag re-verification (curl + real-browser) + contact paths for NEW leads on the 4 expansion domains (fireable = literally published w/ source URL; 2 invalid-lead flags).
 - **`docs/outreach-pack_curebyketo.com.md`, `outreach-pack_fusebot.ai.md`, `outreach-pack_weputt.com.md`, `outreach-pack_paretobuddy.com.md`** — phase-2 expansion email packs (2026-09-04): drafts for the ~19 fireable NEW leads + DM/form strategy notes, D3/D7/D14 cadences, exclusions documented (Ketoned Bodies, Routine). DRAFTS — nothing sent; firing requires lead/owner sign-off.
 
-### Post-Sep-3 merge waves (PRs #51–#58) — repo state evolution after the freeze
+### Post-Sep-3 merge waves (PRs #51–#69) — repo state evolution after the freeze
 - **PR #51** — LaVoiture.ai contact sheets: 5 sourced CEO-change corrections (Filosa, Provost, Debrue, Swan, Charli/Einride).
 - **PR #52** — stale-exec row fixes from sourced research: PagerDuty CEO → John DiLullo (nofail/nobreak leads), Stripchat CEO → Breeze Dennis (burdel leads).
 - **PR #53** — LaVoiture batch files: TOP-10 + Montreal round-2 buyer lists and 10 FR-first outreach messages (paths in §3 / Quick Reference).
@@ -311,6 +319,14 @@ Sources for copy: `brief_*.md` (positioning/angle), `micro-messages_*.md` (short
 - **PR #55** — `docs/COLLABORATOR-BRIEFING_TurnKeySold-Domains_2026-09-06.md` (collaborator onboarding; see §5).
 - **PR #56** — `PORTFOLIO/MASTER-DOMAIN-INVENTORY_2026-09-06.csv` + `build_master_inventory.py` (146 × 13; see Quick Reference).
 - **PR #57** — `docs/OUTREACH-TOOLING-RESEARCH_2026-09-07.md` (tooling research; see §5/§6).
-- **PR #58** — `docs/OUTREACH-TOOLING-PLAYBOOK_2026-09-20.md` (self-contained playbook incl. CTO.new operating-layer §7; head of main).
-- **PR #62 (pending merge)** — `DOMAINS/payauto.ai/01-research/payauto_ai_acquisition_targets.csv` + external-research note: 19-company agentic-payments acquisition-target set integrated from a collaborator LLM (provenance-flagged EXTERNAL; verification delegated).
+- **PR #58** — `docs/OUTREACH-TOOLING-PLAYBOOK_2026-09-20.md` (self-contained playbook incl. CTO.new operating-layer §7).
+- **PR #59 + #60** — REPO_INDEX.md modernization: freeze state superseding "outreach is LIVE", 3-sends/0-replies record, six-class Quick Reference, §9.0 start-here path for new LLM/collaborator agents.
+- **PR #61** — `DOMAINS/aikillswitch.org/01-research/AIKILLSWITCH-BUYERS_2026-09-21.md`: refreshed + expanded verified buyer list (3 placeholders filled, 4 leadership changes caught incl. Open Philanthropy→Coefficient Giving rebrand, 2 leads honestly killed, 18 new orgs probed).
+- **PR #62** — payauto.ai external collaborator research integrated: root original CSV (19×13, authoritative for contacts) + DOMAINS workbench + provenance note (EXTERNAL-UNVERIFIED; Payman multi-contact flagged per owner directive).
+- **PR #63** — owner multi-contact directive applied: same-company contacts = parallel targets, not conflicts; Payman Bicakcic + Farman-Farmaian reframed as multi-threading.
+- **PR #64** — owner-supplied cleaned CSV export ingested as canonical root payauto file (content identical, comma-free parse-safe; old version in history).
+- **PR #65** — paybud.ai cross-fit analysis vs PayAuto target set (6 of 19 companies also fit PayBud) + payments-family portfolio view + inventory grouping flag.
+- **PR #66 + #67** — owner-audit full-field ingest: PayAuto workbench rebuilt carrying ALL 13 source columns × 19 rows (contacts incl. Sarhangi/Salazar/Palafox/Bhargava/Wingo + Rawitz secondary; motivations verbatim) + Paybud_Crossfit + Team_Annotations; 12 named contacts + 7 partnership-routed verified.
+- **PR #68** — payments-family portfolio-wide cross-fit: live paybud.ai landing-page extract (11 payment domains) vs the buyer set; per-contact PRIMARY/secondary matrix; 4 bundle plays; inventory grouping flags; paybot.ai ownership question.
+- **PR #69** — payquick.ai external research integrated: 18-company agentic/instant-payments buyer set (12 new to family, 6 shared with PayAuto); root CSV + workbench + note; outreach doctrine updated in family cross-fit; verification queued behind PayAuto pass.
 - **PR #69** — payquick.ai external research integrated: 18-company agentic/instant-payments buyer set (12 new to family, 6 shared with PayAuto); root CSV + workbench + note; outreach doctrine updated in family cross-fit; verification queued behind PayAuto pass.

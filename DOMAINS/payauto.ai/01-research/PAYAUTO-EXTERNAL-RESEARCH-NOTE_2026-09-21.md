@@ -28,3 +28,7 @@
 
 ## Verification plan (delegated to domain-researcher)
 Tier-1 pass: verify the 8 pure-play companies' existence, funding claims, contact names/titles/LinkedIn; resolve the Payman CEO conflict. Result updates flags to our VERIFIED standard; unresolved rows keep EXTERNAL-UNVERIFIED.
+
+## UPDATE (post-integration): original handoff recovered
+The collaborator's ORIGINAL CSV was found at repo root (`payauto_ai_acquisition_targets.csv`, committed in PR #62 alongside this reconstruction). It is **authoritative for contact data**: all 19 rows carry the collaborator's verified Contact Name/Title/LinkedIn/Company-Website/Contact-Information fields — including the contacts this reconstruction marked TO SOURCE (Crossmint, Skyfire, Arcade.dev, HappyRobot, Rye, ReFiBuy). It also lists Payman's CEO as **Tyllen Bicakcic (Co-Founder & CEO)** — confirming the handoff position but NOT resolving the conflict with our Aug-12 row (Teymour Farman-Farmaian, Founder/CEO); both may be co-founders — verification still required before any outreach.
+**File roles:** root CSV = collaborator's original handoff (reference copy, EXTERNAL provenance); DOMAINS reconstruction = our verification workbench (provenance/conflict annotations; update flags here as verification completes).

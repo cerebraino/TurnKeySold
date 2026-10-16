@@ -17,8 +17,9 @@
 - Tier-3 macro buyers: Stripe (our DMPS 96), Visa (94), Mastercard (93), PayPal (88), + Ramp/Brex/Coinbase adjacency. The collaborator's Tier 3 overlaps our Tier-1 rows.
 - Payman AI was already our DMPS 92 row.
 
-## CONFLICT TO VERIFY (do not silently resolve)
-- **Payman AI CEO:** our Aug-12 row says **Teymour Farman-Farmaian (Founder/CEO)**; collaborator says **Tyllen Bicakcic (Co-Founder & CEO)**. Could be co-founder pair, title nuance, or a change — verify before any outreach. Both names flagged in the CSV notes.
+## Payman dual-contact (owner directive 2026-09-21: multi-contact = opportunity, not conflict)
+- **Payman AI has two recorded leaders:** our Aug-12 row says **Teymour Farman-Farmaian (Founder/CEO)**; the collaborator's original says **Tyllen Bicakcic (Co-Founder & CEO)**. Per owner directive, this is NOT a conflict to resolve by picking one — it is **multi-threading**: verify each person's current role independently (published sources), then treat BOTH as parallel outreach targets if both check out; correct any stale record to current reality.
+- Same principle applies to every Tier-1 company where our records + the original CSV together surface more than one contact.
 
 ## Collaborator's own honesty flags (carried into the CSV)
 - No email addresses included anywhere (aligned with our never-invent rule) — LinkedIn/site-form routes only.

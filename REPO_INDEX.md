@@ -2,7 +2,7 @@
 
 > **Read this first.** This is the single canonical entry point to understand every asset in this repository, how the information is structured, and which guiding documents govern the work. A future LLM (or new team member) should be able to read **only this file** and reach full context — without exploring 600+ files.
 >
-> **Last updated:** 2026-09-21 · **Repo:** `cerebraino/TurnKeySold` · **Portfolio:** 145 domains + 1 bundle (coldbeerportfolio) = 146 dirs in `DOMAINS/` (plus the `DOMAINS/CSV/` data dir) · **main is at PR #69** (payquick.ai external research integration)
+> **Last updated:** 2026-09-21 · **Repo:** `cerebraino/TurnKeySold` · **Portfolio:** 145 domains + 1 bundle (coldbeerportfolio) = 146 dirs in `DOMAINS/` (plus the `DOMAINS/CSV/` data dir) · **main is current** — the latest merged wave is always visible at the bottom of §10 (wave log), so this pointer can never go stale
 >
 > **For LLMs:** see **[§9. LLM Usage Playbook](#9-llm-usage-playbook)** — how to actually do work against this repo.
 

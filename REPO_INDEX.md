@@ -27,6 +27,7 @@
 | **Outreach tooling playbook** | `docs/OUTREACH-TOOLING-PLAYBOOK_2026-09-20.md` | Self-contained, action-ready: context → constraints → tools+signup URLs → phased sequence → $100 allocation → CTO.new operating-layer §7 → DO-NOT-BUY-YET → verification log | playbook §0–§11 structure |
 | **Batch outreach archive** | `docs/outreach/` — `FIREABLE-OUTREACH_2026-08-30.md` (3-sent index) + `LINKEDIN-CONNECT-10_2026-09-04.md` + `LINKEDIN-CONNECT-10-BATCH2_2026-09-04.md` | **20 LinkedIn notes** (2 batches × 10) + 3-email sent index — all HOLD under freeze | — |
 | **LaVoiture batch files** | `DOMAINS/lavoiture.ai/01-research/LAVOITURE-TOP10_2026-09-04.md` + `LAVOITURE-MTL-10_2026-09-05.md`; `02-outreach/LAVOITURE-MTL-10-MESSAGES_2026-09-05.md` | **10 FR-first Montreal messages** + TOP10 buyer lists — ready copy, HOLD | — |
+| **PayAuto.ai acquisition targets (external collaborator research)** | `DOMAINS/payauto.ai/01-research/payauto_ai_acquisition_targets.csv` + `PAYAUTO-EXTERNAL-RESEARCH-NOTE_2026-09-21.md` | 19 companies × 13 cols — agentic-payments buyer set with funding + contacts (5 named). **⚠️ EXTERNAL provenance: produced by a collaborator LLM, NOT yet team-verified** — verification pass in progress; Payman CEO conflict flagged | note file (provenance + conflicts + verification plan) |
 
 > **Source of truth:** all coverage numbers above live canonically in **`ASSET_AUDIT_2026-08-14.md`** (the live tracker updated as batches merge). This index points to it and records the *actual filesystem* counts verified 2026-08-27 — where the two differ (B2, B3, A4) the discrepancy is flagged below so the audit can be reconciled next.
 >
@@ -309,3 +310,4 @@ Sources for copy: `brief_*.md` (positioning/angle), `micro-messages_*.md` (short
 - **PR #56** — `PORTFOLIO/MASTER-DOMAIN-INVENTORY_2026-09-06.csv` + `build_master_inventory.py` (146 × 13; see Quick Reference).
 - **PR #57** — `docs/OUTREACH-TOOLING-RESEARCH_2026-09-07.md` (tooling research; see §5/§6).
 - **PR #58** — `docs/OUTREACH-TOOLING-PLAYBOOK_2026-09-20.md` (self-contained playbook incl. CTO.new operating-layer §7; head of main).
+- **PR #62 (pending merge)** — `DOMAINS/payauto.ai/01-research/payauto_ai_acquisition_targets.csv` + external-research note: 19-company agentic-payments acquisition-target set integrated from a collaborator LLM (provenance-flagged EXTERNAL; verification delegated).

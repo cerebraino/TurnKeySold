@@ -8,6 +8,22 @@
 
 ---
 
+## 0. Current State Snapshot (cold-start orientation — updated with the 2026-09-21 wave)
+
+**What this repo is:** the complete research-to-outreach pipeline for a 146-domain premium domain portfolio (145 domains + 1 bundle), sold at a 20% success fee. All outreach copy is ready-to-fire but **FROZEN** — nothing is ever sent without the owner's explicit per-send instruction.
+
+**Hot workstream — the payments family (13 owned domains):** payauto.ai · payquick.ai · paybud.ai · paycar.ai · paycarai.com · paybet.ai · paydeal.ai · jogpay.com · autopaga.com · pagacasa.com · pagatucasa.com · paguesucasa.com · suacasapaga.com. One ~31-company agentic-payments buyer system serves all thirteen. Research inputs: two external collaborator sets (PayAuto 19 companies, PayQuick 18) + an owner-commissioned contact map + team cross-fits. Verification state: PayAuto Tier-1 done (PR #73); PayQuick 18/18 graded (PR #77 — citation-URL polish in progress); Tier-2/3 passes queued. Wave-1 first-touch packs are STAGED and HOLD-bannered (PR #76). A master buyer CSV + per-domain priority lists are being produced by the own-research wave (in progress).
+
+**Rules that bind every LLM working here (violations = rework):**
+1. **SEND FREEZE** — research and prepare freely; NEVER send (no emails, no LinkedIn notes, no follow-ups) without the owner's explicit per-send instruction (§1, §7).
+2. **Never-invent** — every factual claim needs a published source, URL recorded; only literally-published contacts are fireable (§9.7 defines the flag vocabulary).
+3. **Multi-contact rule** — multiple contacts at the same company are PARALLEL outreach targets, not conflicts (verify each person's role independently).
+4. **Full-field ingest** — external research is integrated field-by-field from the SOURCE FILE; summaries are maps, never the data.
+5. **Index discipline** — every PR that adds/moves/changes artifacts carries its own `REPO_INDEX.md` update (Quick Reference row + §10 wave log) — see `WORKFLOW.md`.
+6. **Live truth lives in data files** — coverage in `ASSET_AUDIT_2026-08-14.md` (§4); portfolio data in `PORTFOLIO/MASTER-DOMAIN-INVENTORY_2026-09-06.csv` (§6); verification evidence in the per-domain `PAY*-VERIFICATION-RESULTS_2026-09-21.md` docs. This index is the MAP, not the data.
+
+---
+
 ## Quick Reference (asset type → location → status → format doc)
 
 | Asset | Location | Status | Defines the format |
@@ -183,6 +199,7 @@ e.g. `slimmeds-brand-research.md` (companies already using "Slim Meds" phrasing 
 
 | File | Columns / Purpose |
 |---|---|
+| `docs/PAYBUD-LANDING-PAGE-VERBATIM_2026-09-21.md` | **Owner's own landing-page positioning copy for the 7 core payment domains** (verbatim extract pasted by the owner) — the authoritative "Ideal for" buyer taxonomy; scoring standard for all payments-family fit work. The ES/PT "International" section is NOT in this paste (owner may supply later) |
 | `payauto_ai_acquisition_targets.csv` (root) | **PayAuto.ai external collaborator research — canonical cleaned copy** (19×13; contacts authoritative). Team workbench + provenance note live in `DOMAINS/payauto.ai/01-research/`. ⚠️ EXTERNAL-UNVERIFIED until verification pass lands |
 | `payquick_ai_acquisition_targets.csv` (root) | **PayQuick.ai external collaborator research — canonical copy** (18×10; Contact_Name + Verification_Status columns carry team verdicts + source refs). Workbench + note + **results doc** in `DOMAINS/payquick.ai/01-research/`. ✅ Verified 2026-10-16 (PR #77) |
 | `DOMAINS/CSV/TurnKeySold_Full_Portfolio_Ranked.csv` | **The value-ranked master portfolio index.** 146 rows, ranked by value. Cols: `Domain, Approx Defensible Market Value, Main 3 Buyer Categories, Top-3 Companies, Sample Micro-Message` |
@@ -268,6 +285,7 @@ Read in this order — each step is self-contained, and each points to the next:
 2. **`docs/COLLABORATOR-BRIEFING_TurnKeySold-Domains_2026-09-06.md`** — system overview + integration path (business context, operating rules, where things live — the narrative companion to this map).
 3. **`docs/OUTREACH-TOOLING-PLAYBOOK_2026-09-20.md`** — the outreach tooling stack + phased spend sequence + how the CTO.new platform works in tandem with those tools (§7 of the playbook).
 4. **`PORTFOLIO/MASTER-DOMAIN-INVENTORY_2026-09-06.csv`** — the full 146-domain inventory in machine-readable form (13 columns: value ranges, buyer categories, top buyers with DMPS, sample micro-message).
+5. **For the active payments-family workstream (13 domains, in progress):** `DOMAINS/payauto.ai/01-research/PAYAUTO-VERIFICATION-RESULTS_2026-09-21.md` + `DOMAINS/payquick.ai/01-research/PAYQUICK-VERIFICATION-RESULTS_2026-09-21.md` (verification evidence) → `DOMAINS/payquick.ai/01-research/PAYQUICK-CONTACT-MAP_2026-09-21.md` (contacts + priority order) → `docs/PAYMENTS-FAMILY-CROSSFIT_2026-09-21.md` (per-contact domain matrix) → `docs/PAYBUD-LANDING-PAGE-VERBATIM_2026-09-21.md` (owner's own positioning = the fit standard) → wave-1 packs in `DOMAINS/pay{auto,quick}.ai/02-outreach/` (HOLD-bannered). Flag meanings: §9.7.
 **⏸️ Freeze rule (applies to every workstream):** you may **research and prepare** freely, but you may **NEVER send** — no emails, no LinkedIn notes, no follow-ups of any kind — until the owner gives an explicit per-send instruction. Treat every draft in this repo as ready-only.
 
 ### 9.1 How do I find everything about a domain?
@@ -322,7 +340,7 @@ Sources for copy: `brief_*.md` (positioning/angle), `micro-messages_*.md` (short
 - **`docs/SCALE-FOLLOWUP_2026-09-03.md`** — phase-1 expansion follow-up: WAF-flag re-verification (curl + real-browser) + contact paths for NEW leads on the 4 expansion domains (fireable = literally published w/ source URL; 2 invalid-lead flags).
 - **`docs/outreach-pack_curebyketo.com.md`, `outreach-pack_fusebot.ai.md`, `outreach-pack_weputt.com.md`, `outreach-pack_paretobuddy.com.md`** — phase-2 expansion email packs (2026-09-04): drafts for the ~19 fireable NEW leads + DM/form strategy notes, D3/D7/D14 cadences, exclusions documented (Ketoned Bodies, Routine). DRAFTS — nothing sent; firing requires lead/owner sign-off.
 
-### Post-Sep-3 merge waves (PRs #51–#69) — repo state evolution after the freeze
+### Post-Sep-3 merge waves (PRs #51–#77) — repo state evolution after the freeze
 - **PR #51** — LaVoiture.ai contact sheets: 5 sourced CEO-change corrections (Filosa, Provost, Debrue, Swan, Charli/Einride).
 - **PR #52** — stale-exec row fixes from sourced research: PagerDuty CEO → John DiLullo (nofail/nobreak leads), Stripchat CEO → Breeze Dennis (burdel leads).
 - **PR #53** — LaVoiture batch files: TOP-10 + Montreal round-2 buyer lists and 10 FR-first outreach messages (paths in §3 / Quick Reference).
@@ -344,4 +362,17 @@ Sources for copy: `brief_*.md` (positioning/angle), `micro-messages_*.md` (short
 - **PR #74** — payquick.ai external contact map integrated (owner-commissioned): 12 named contacts across the 4 Tier-1 startups + corporate routes for PayQuicker/megacaps + 2 Fragment candidates; verbatim authority copy + machine-readable CSV + workbench pointers + verification-pass scope update; priority order + <100-word outreach guidance adopted.
 - **PR #76** — wave-1 first-touch copy packs (13 messages: PayAuto ×7, PayQuick ×6) authored by outreach-architect, HOLD-bannered ready-copy; repo placement + index rows applied by lead after the architect's rework pass did not land (md5-identical resubmission).
 - **PR #77** — PayQuick external-research verification COMPLETE (task 45a948e2): **18/18 rows graded** — RECONCILED Causa Prima $30M ($10M pre-seed Creandum + $20M seed Base10) + GrailPay $17.2M ($6.7M + $10.5M Series A) · CORRECTED Kite AI $18M PayPal+GC (Fortune), Skyfire $8.5M seed, Natural $30M Series A Forerunner + $10M seed ($9.8M stale) · RESOLVED Payman $13M total (Coinbase Ventures unverified) · Tempo $500M/$5B VERIFIED (Fortune exclusive) · funding-NOT-VERIFIED PayQuicker/JustPaid/Koywe. Contacts: Causa Prima founders VERIFIED (causaprima.com/about, Taulia-SAP verbatim) · GrailPay Messina CEO VERIFIED (Pulse 2.0) + **william@grailpay.com NOT-FIREABLE** · Papaya Eynat Guez VERIFIED (Forbes) · JustPaid Anelya Grant + UNIPaaS David Avgi PARTIAL · SolvaPay/Tensec/Fragment/Tempo/Kite CEOs NOT-VERIFIED (flagged w/ next steps). Ripple: Nekuda removed from PayBud cross-fit (6→5), Skyfire $8.5M + skyfire.xyz swept into family docs, Tempo mark verified. REPO_INDEX updated in-PR (standing rule). Files: `PAYQUICK-VERIFICATION-RESULTS_2026-09-21.md` + workbench/root CSV verification columns + contact-map statuses.
-- **PR #69** — payquick.ai external research integrated: 18-company agentic/instant-payments buyer set (12 new to family, 6 shared with PayAuto); root CSV + workbench + note; outreach doctrine updated in family cross-fit; verification queued behind PayAuto pass.
+- **PR #78** — comprehensive-readability pass (owner directive): new §0 cold-start snapshot; §9.7 verification/provenance flag vocabulary (EXTERNAL-UNVERIFIED/VERIFIED/RECONCILED/CORRECTED/PARTIAL/NOT-VERIFIED/KILL/FIREABLE/corporate-route); §9.0 payments-family reading path; wave-log duplicate PR #69 line removed + section title corrected to #51–#77; `docs/PAYBUD-LANDING-PAGE-VERBATIM_2026-09-21.md` added to repo (was shared-only); README.md staleness fixed (now points here).
+
+### 9.7 Verification & provenance flag vocabulary (used across workbenches, CSVs, and results docs)
+| Flag | Meaning | Action for an LLM |
+|---|---|---|
+| `EXTERNAL-UNVERIFIED` | Produced by an external LLM/collaborator; team has NOT confirmed | Treat as candidate data; do not build outreach on it until verified |
+| `VERIFIED` | Confirmed against a published source, URL recorded | Safe to use for research/copy (still never send) |
+| `RECONCILED` | Two research sets disagreed; a verified figure subsumes both | Use the reconciled figure only |
+| `CORRECTED` | A published source CONTRADICTS the collaborator claim | Use the corrected figure; never quote the old one |
+| `PARTIAL` | Name/company published; exact title/role still unconfirmed | Usable in copy WITHOUT personalizing the title; verify before send |
+| `NOT-VERIFIED` | No accessible published source; next steps flagged | Do not use in outreach; may continue research |
+| `KILL` | Company/contact defunct (dead site, parked domain, no archive) | Remove from active lists; keep the row for the record |
+| `FIREABLE` / `NOT-FIREABLE` | The owner's literal-publication gate for CONTACTS: an address is fireable ONLY if it appears verbatim on an official channel (URL recorded) | `NOT-FIREABLE` = never send to it, no matter how plausible |
+| `corporate-route` | Megacap / no-named-exec rows: approach via brand/corp-dev/site-form | Never route through sales; strategic domain brief, long cycle |

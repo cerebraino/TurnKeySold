@@ -79,7 +79,7 @@ Positioning line (internal): **PayAuto.ai — the two-word category name for age
 - **Subject:** PayAuto.ai — automatic billing for agents, in a name
 - **Email (EN, 76w):**
   Hi Manny,
-  Paid lets AI agents bill, price and collect automatically — and PayAuto.ai is that exact product compressed into two syllables: "payments on autopilot." I'm exploring its confidential sale. For Paid it could be the marketing-site name that states what you do instantly, a flagship product brand, or the domain that owns the category ahead of bigger players. Would you or your brand team like to see details?
+  Paid lets AI agents bill, package and collect automatically — and PayAuto.ai is that exact product compressed into two syllables: "payments on autopilot." I'm exploring its confidential sale. For Paid it could be the marketing-site name that states what you do instantly, a flagship product brand, or the domain that owns the category ahead of bigger players. Would you or your brand team like to see details?
   If not, just reply and I won't write again.
   Best,
   Juan L. Aguirre
@@ -101,7 +101,7 @@ Positioning line (internal): **PayAuto.ai — the two-word category name for age
 
 ---
 ## QA sweep (word counts, verified by script on compliance pass)
-All 7 bodies within 72–87 words (doctrine: <100; count = greeting+body+opt-out, excluding signature). No pricing, no links, no invented facts, no unverified names in greetings (A3 company-level; A5 Rawitz not named). Owner-verbatim angle ("payments on autopilot") applied across all 7; wording updated in-place from "pay automatically" to keep the copy anchored to the landing-page positioning. Opt-out line present in all 7.
+All 7 bodies within 74–89 words (doctrine: <100; count = greeting + body + opt-out, excluding signature). No pricing, no links, no invented facts, no unverified names in greetings (A3 company-level; A5 Rawitz not named). Owner-verbatim angle ("payments on autopilot") applied across all 7; wording updated in-place from "pay automatically" to keep the copy anchored to the landing-page positioning. Opt-out line present in all 7.
 ## ES variants — decision
 **None drafted.** Full-field scan of `payauto_ai_workbench.csv` Tier-1 rows (8 rows: Natural, Payman, Basis Theory, Catena, Crossmint, Paid, Skyfire, + Nekuda KILLED) — `Strategic_Fit_Motivation` and `Description` columns contain no Spanish-market/LatAm signal for any target. Standing rule ("bilingual ES variant where the rationale column supports it") therefore yields no ES variants in this pack.
 ## Flags / follow-ups for the lead

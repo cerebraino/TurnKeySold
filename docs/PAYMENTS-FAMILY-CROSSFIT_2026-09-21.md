@@ -69,3 +69,12 @@ Second collaborator-LLM research (owner-supplied, EXTERNAL-UNVERIFIED) targets p
 
 ## UPDATE 3 (2026-09-21): PayQuick external contact map integrated — payquick reach data materially improved
 Owner-commissioned contact research (EXTERNAL-UNVERIFIED) covers 10 of 18 PayQuick companies: 12 named contacts across the 4 Tier-1 startups (Causa Prima, GrailPay, SolvaPay, Tensec — 3 founders/execs each), corporate routes for PayQuicker/Stripe/Mastercard/Visa, 2 candidates to verify at Fragment, Tempo founder to source. Deliverables: `DOMAINS/payquick.ai/01-research/PAYQUICK-CONTACT-MAP_2026-09-21.md` + `payquick_ai_contact_map.csv`. Megacap corporate-route approach confirmed doctrine-aligned. Family reach position: payauto (12 named + 7 partnership-routed, EXTERNAL-UNVERIFIED) + payquick (12 named + 4 corporate routes + 2 candidates, EXTERNAL-UNVERIFIED) — one shared verification pass activates both sets. Priority order adopted: SolvaPay → Causa Prima → GrailPay → Tensec → PayQuicker (defensive) → megacaps.
+
+## UPDATE 4 (2026-10-16): OWN RESEARCH wave complete — 10 under-mapped domains researched (task 6e8dcea2)
+
+- Per-domain buyer research files now exist for **paycar.ai, paycarai.com, paybet.ai, paydeal.ai, jogpay.com, autopaga.com, pagacasa.com, pagatucasa.com, paguesucasa.com, suacasapaga.com** (`DOMAINS/<domain>/01-research/*-RESEARCH_2026-09-21.md`), built from DMPS leads + owner positioning copy + verified external sets.
+- **Consolidated buyer system: `payments_family_buyers_master.csv`** (root; long format, 25 cols, N=64 rows across all 13 domains) with per-domain P1/P2/P3 + family priority rank + ESTIMATED willingness-to-pay (anchor x affordability tier, labeled).
+- Buyers added from existing family matrix (Rye, ReFiBuy, Paid, Skyfire, Stripe, Visa, Mastercard, Causa Prima) cross-fitted to paydeal/autopaga as SECONDARY roles; ES/PT trio + suacasapaga share the ES mortgage pool (Zillow LatAm, Rocket Spanish, Mercado Libre, Chase Home Lending, Properati/Vivanuncios/Habi/La Haus/Lamudi).
+- Honest-fit rules applied: paybet agentic overlap THIN (deposit-flow branding, not AI); jogpay low-value fitness economy; ES trio real-estate/mortgage (no agentic claim).
+- Exec verification status: names carried from leads/inventory (DMPS-era, PENDING-EXTERNAL where not re-sourced); VERIFIED only where PR #73/#77 passes confirmed. CANDIDATE rows have no execs named (company-level only, route via site/corp-dev).
+- Freeze honored: research only, no sends. Next: wave-1 copy enrichment per domain; owner per-send approval for any firing.

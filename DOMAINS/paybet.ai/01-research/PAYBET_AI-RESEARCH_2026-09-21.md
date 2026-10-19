@@ -1,6 +1,6 @@
 # paybet.ai — Own Buyer Research (payments-family wave, task 6e8dcea2)
 
-**Date:** 2026-10-16 · **Anchor (asking target):** $25,000 · **Method:** DMPS baseline (leads files) + owner positioning copy (PAYBUD-LANDING-PAGE-VERBATIM) + verified external sets (PayAuto PR #73 / PayQuick PR #77) + honest-fit flags. No emails sent (freeze).
+**Date:** 2026-10-16 · **Anchor (asking target):** $25,000 · **Method:** DMPS baseline (leads files) + owner positioning copy (PAYBUD-LANDING-PAGE-VERBATIM) + verified external sets (PayAuto PR #73 / PayQuick commit 6946838) + honest-fit flags. No emails sent (freeze).
 
 | Company | Category | What they build | Fit | Funding (verified) | Motivation/urgency | Contact (status) | Route |
 |---|---|---|---|---|---|---|---|

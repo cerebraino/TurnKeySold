@@ -18,12 +18,12 @@ The SEND FREEZE is absolute. Every send requires the owner's explicit per-send i
 5. [ ] Send.
 6. [ ] Append the log line in §4 (target, date, route, message ID).
 
-## 3. Target status table (as of compliance pass, PR #84)
+## 3. Target status table (as of compliance pass, PR #84; A3 row updated 2026-10-20 after PR #87 — Luce VERIFIED)
 | ID | Target | Contact status | Route | Flags |
 |---|---|---|---|---|
 | A1 | Natural — Kahlil Lalji (CEO) | ✅ VERIFIED | LinkedIn (Lalji) / natural.com contact form | no published email — never infer one |
 | A2 | Payman AI — Tyllen Bicakcic (Co-Founder & CEO) | ✅ VERIFIED | hello@paymanai.com (published general/press route) / LinkedIn | parallel target Teymour Farman-Farmaian (multi-thread allowed — same body, swap greeting) |
-| A3 | Basis Theory — company-level | ⚠️ NOT verified (Luce title unverified) | basistheory.com contact route | no personalization of Luce until title verified |
+| A3 | Basis Theory — Colin Luce (Co-Founder & CEO) | ✅ VERIFIED (PRN, fetched 2026-10-19) | LinkedIn (Luce) / basistheory.com contact route | greeting personalized to Luce |
 | A4 | Catena Labs — Sean Neville (Co-Founder & CEO) | ✅ VERIFIED | LinkedIn (Neville) / catena.com contact | no public email |
 | A5 | Crossmint — Rodri Fernandez Touza (Co-Founder) | ✅ VERIFIED (secondary Rawitz ⚠️ NOT verified) | LinkedIn (Touza) / crossmint.com contact | Rawitz only after verification |
 | A6 | Paid — Manny Medina (Co-Founder & CEO) | ✅ VERIFIED | LinkedIn (Medina) / paid.ai contact | no public email |

@@ -71,3 +71,37 @@ Machine-readable companion: `MUYGUAY-VERIFICATION-MATRIX_2026-10-19.csv` (row-al
 - **Verification pass is PARTIAL-coverage but evidence-complete for what it covers:** 31 rows VERIFIED, 18 PARTIAL, 9 NOT-VERIFIED, 3 team-level/route-only (see matrix CSV for row-level flags + per-row URLs).
 
 **Follow-up needed (researcher queue):** (a) EUIPO eSearch "muy guay"/"guay" query run; (b) byl.studio consejo render via alternate path (row 14/16/17); (c) Wallapop Oteiza/Gómez article text via alternate channel; (d) commit + PR with REPO_INDEX update (this pass is uncommitted — files staged in `DOMAINS/muyguay.com/01-research/`).
+---
+## §8 — Follow-ups RESUELTOS (pass 2026-10-20, task 0769d2f9)
+
+### 8.1 EUIPO trademark query — "muy guay" + "guay" (COMPLETED via eSearch SPA)
+**Método:** eSearch plus no expone API JSON (endpoints `/eSearch/api/*` devuelven página Apache genérica; `copla/trademark/search` → 404; TMview `/tmview/api/search/results` → HTTP 000 bloqueado desde este entorno). Render vía agent-browser de la URL de búsqueda básica (hash SPA) + extracción `document.body.innerText`.
+
+**Queries exactas ejecutadas (2026-10-20, fuente = EUIPO eSearch):**
+1. `https://euipo.europa.eu/eSearch/#basic/1+1+1+1/100+100+100+100/guay` → **72 trade marks** (todas las clases/tipos, incl. IR; búsqueda en NOMBRE/OWNER/NÚMERO/VIENA).
+2. `https://euipo.europa.eu/eSearch/#basic/1+1+1+1/100+100+100+100/muy%20guay` → **3 trade marks** (lista íntegra abajo).
+
+**Resultado "muy guay" — 3 marcas EUTM, NINGUNA en clases 35/41/42:**
+| Nº | Marca | Tipo | Clase | Estado | Titular |
+|---|---|---|---|---|---|
+| 018856275 | MUY GUAY CON MY WAY | Word | 39 | Registrada (23/09/2023) | JUMBO TOURS ESPAÑA |
+| 019129794 | MUY GUAY | Word | 33 | Solicitud REFUSED (01/2025) | NIEPOORT (VINHOS) S.A. (vino) |
+| 019158344 | Muy guay | Figurativa | 33 | Registrada (02/07/2025) | NIEPOORT (VINHOS) S.A. |
+
+**VEREDICTO:** No existe marca EUTM viva "MUY GUAY" en classes 35 (publicidad/marketing), 41 (eventos/entretenimiento) ni 42 (servicios digitales) — el espacio del dominio está despejado a nivel EUIPO en su uso previsto (brand-complement cultural). Las 3 registradas son de vino (33) y viajes (39), sin conflicto aparente con el uso del dominio; la marca palabra "MUY GUAY" de vino fue incluso DENEGADA. **OEPM sigue bloqueado desde este entorno (HTTP 000) — la consulta nacional española queda owner-side obligatoria antes de contacto** (exit plan del owner).
+
+**Notables del query "guay" (72) — 26 con la palabra GUAY en el nombre** (extraídas nº/estado de las filas renderizadas): `001676360 guay.com`, `002748176 guay` (palabra exacta), `002309839 MUNDO guay`, `002549624 DJ GUAY DJ TRUÑY`, `010840213 DORAMAS GUAY`, `017873698 GUAY DIESEL SERVICES`, `017951414 GUAY ICE COFFEE`, `017961053 GUAY COMBUSTIBLES`, `018363366 SUPER GUAY PARADISE`, `018630335 GUAY events`, `018884191 DELIGUAY`, `019116064 GUAY`, `019116075 MY GUAY`, `019158318 GUAY`, `019394377 COOL CHULO ELEGANTE ATREVIDO GUAY TOP`, más `019129794/019158344/018856275` (arriba). Nota investigadora: `001676360 guay.com` es la marca literal "guay.com" — de interés para la valoración de comparables (marca × dominio ya coexistieron).
+
+### 8.2 byl.studio consejo (rows 14/16/17 — Bimba y Lola)
+byl.studio responde (Azure 20.123.108.165) pero **TODAS las rutas probadas devuelven 404**: `/consejo`, `/consejo-de-administracion` (www), `/es`, `/en`, raíz. Wayback: sin snapshot de byl.studio/consejo (`archived_snapshots: {}`). **La ruta de consejo citada en el mapa NO existe/sirve 404** → no render posible. Fuente pública más sólida para la familia: Forbes España "Quién es la familia Domínguez de la Maza…" (GN-indexed). Recomendación: verificación Registro Mercantil owner-side; rows 16/17 mantienen NOT-VERIFIED-IN-SESSION (NO fireables por email, route-only).
+
+### 8.3 Wallapop Oteiza/Gómez (rows 11/12) — canales alternativos agotados
+Dircomfidencial live: Cloudflare "Attention Required!" (b67c4f/039887). Wayback: tag page `/actualidad/wallapop/` sí está (snapshot 20251014110641, 200, 89KB) pero **NO lista el artículo "Así es el departamento de Comunicación de Wallapop"** (posterior al snapshot); CDX ReasonWhy timeout (>30s). **Veredicto mantenido: PARTIAL** — títulos GN-indexed + emails Play Store (info@, supportteam@) siguen siendo la base; ningún cuerpo de artículo recuperado. No bloqueante para envío a info@/supportteam@ (canales oficiales publicados), sí para personalización profunda.
+
+### 8.4 Guijarro row 57 — TÍTULO RESUELTO
+La Razón (cabecera del artículo, GN-indexed 2026-10-20): **"Alberto Guijarro, codirector de Primavera Sound"**. El mapa decía "Cofundador" → **CORREGIDO a CODIRECTOR** (matrix actualizada). Contexto adicional: elDiario.es "Alberto Guijarro: 'El Primavera Sound ha encontrado un punto de personalidad…'", El Mundo entrevista, TNBP (2024-2025). Email `alberto@primaverasound.com` NO fireable (no publicado).
+
+### 8.5 Notas de entorno (para próximas pasadas)
+- EUIPO eSearch: solo renderizable vía agent-browser (SPA hash); la búsqueda básica `#basic/1+1+1+1/100+100+100+100/<query>` funciona y el conteo "N search result(s)" se lee del innerText. Navegar de una query a otra requiere `open about:blank` entre medias (el SPA no re-ejecuta con solo cambio de hash).
+- TMview API (tmdn.org) bloqueada (000); Wayback CDX funciona bien para dircomfidencial (no para ReasonWhy, timeout).
+- Ficheros de evidencia intermedia en `/tmp/muyguay/` (euipo_guay.txt, euipo_muyguay.txt, wb_wallapop_tag.html) — no commiteados.

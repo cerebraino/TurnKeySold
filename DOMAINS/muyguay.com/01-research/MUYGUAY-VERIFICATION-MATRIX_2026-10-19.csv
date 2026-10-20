@@ -1,5 +1,5 @@
 row,empresa,nombre,cargo_mapa,veredicto_rol,veredicto_email,evidencia_url,nota
-1,Inditex — Bershka/Pull&Bear,Óscar García Maceiras,Consejero delegado (CEO) de Inditex,VERIFIED,route-only (no email en mapa),El Mundo/Expansion (GN-indexed; inditex.com CEO),"Universal; OK"
+1,Inditex — Bershka/Pull&Bear,Óscar García Maceiras,Consejero delegado (CEO) de Inditex,VERIFIED,route-only (no email en mapa),El Mundo/Expansion (GN-indexed; inditex.com CEO),Universal; OK
 2,Inditex — Bershka/Pull&Bear,Antonio Flórez de la Fuente,Director general de Bershka; miembro comité dirección,VERIFIED,route-only,Modaes: 'Inditex incorpora a los directores de Bershka y Stradivarius a su comité de dirección' (GN-indexed),OK
 3,Inditex — Bershka/Pull&Bear,Marta Ortega Pérez,Presidenta de Inditex,VERIFIED,route-only,inditex.com consejo (SPA) + prensa universal,OK
 4,Inditex — Bershka/Pull&Bear,Equipo Marketing y Marca Bershka,Equipo de Marketing y Brand Management,TEAM-LEVEL,route-only,theorg.com/org/bershka-bsk-espana (200 OK),Sin datos personales; ruta TheOrg/LinkedIn
@@ -9,13 +9,13 @@ row,empresa,nombre,cargo_mapa,veredicto_rol,veredicto_email,evidencia_url,nota
 8,Chupa Chups (PVM),Eoin O'Melia,Global Brand Manager Chupa Chups,NOT-VERIFIED,route-only,LinkedIn (authwall),ídem
 9,Chupa Chups (PVM),Marta Ballesteros,Global Licensing Manager Perfetti,NOT-VERIFIED,route-only,LinkedIn / License Global (no accesible),ídem
 10,Wallapop,Rob Cassedy,CEO,VERIFIED,FIREABLE,El Mundo 'Rob Cassedy, CEO de Wallapop' (GN-indexed); email en play.google.com/store/apps/details?id=com.wallapop,info@wallapop.com literal
-11,Wallapop,Edurne Oteiza,Directora de Marketing (CMO),PARTIAL,FIREABLE,ReasonWhy 'Entrevista con Wallapop: Vamos a seguir construyendo marca' + Dircomfidencial 'Así es el departamento de Comunicación de Wallapop' (GN-indexed); email Play Store,ROL EN TRANSICIÓN ('en funciones' per owner); cuerpos bot-walled
-12,Wallapop,Cristina Gómez,Directora de Comunicación,PARTIAL,FIREABLE,Dircomfidencial mismo artículo (GN-indexed); email Play Store,No renderizada individualmente en sesión
+11,Wallapop,Edurne Oteiza,Directora de Marketing (CMO),PARTIAL,FIREABLE,ReasonWhy 'Entrevista con Wallapop: Vamos a seguir construyendo marca' + Dircomfidencial 'Así es el departamento de Comunicación de Wallapop' (GN-indexed); email Play Store,PARTIAL confirmado 2026-10-20: alternativas agotadas — artículo Dircomfidencial live Cloudflare-walled; Wayback tag page (snap 20251014) NO lista el artículo 'Así es el departamento de Comunicación de Wallapop'; CDX ReasonWhy timeout. Título+email Play Store mantienen el PARTIAL. ROL EN TRANSICIÓN ('en funciones' per owner).
+12,Wallapop,Cristina Gómez,Directora de Comunicación,PARTIAL,FIREABLE,Dircomfidencial mismo artículo (GN-indexed); email Play Store,PARTIAL confirmado 2026-10-20: mismo artículo no renderizable por Cloudflare/Wayback gap; email Play Store fireable. Sin render individual en sesión.
 13,Wallapop,Olivia Calafat,Ex-CMO (hoy fundadora Witsend),PARTIAL,route-only,LinkedIn / MWC (no accesible),Ex-rol por definición
-14,Bimba y Lola,José Manuel Martínez Gutiérrez,CEO (Director ejecutivo),NOT-VERIFIED,route-only,byl.studio/consejo redirect-loop sin render,"FLAG: rol CEO sin confirmar en sesión"
+14,Bimba y Lola,José Manuel Martínez Gutiérrez,CEO (Director ejecutivo),NOT-VERIFIED,route-only,"Forbes España familia Domínguez de la Maza (GN-indexed); byl.studio → 404 en /consejo, /consejo-de-administracion, /es, /en (2026-10-20)",FLAG: byl.studio NO sirve ruta de consejo (404 todas las variantes probadas) — página de consejo no recuperable; mejor fuente pública = Forbes España; chequeo Registro Mercantil owner-side recomendado.
 15,Bimba y Lola,Óscar de Castro,Director de Marca (ex alto cargo),NOT-VERIFIED,route-only,Modaes / Faro de Vigo feb 2026 (paywall),Pendiente
-16,Bimba y Lola,Uxía Domínguez,Presidenta y cofundadora,NOT-VERIFIED-IN-SESSION,route-only,byl.studio/consejo (no render),Conocida públicamente; falta URL render en sesión
-17,Bimba y Lola,María Domínguez,Vicepresidenta y cofundadora,NOT-VERIFIED-IN-SESSION,route-only,byl.studio/consejo (no render),ídem
+16,Bimba y Lola,Uxía Domínguez,Presidenta y cofundadora,NOT-VERIFIED-IN-SESSION,route-only,Forbes España familia Domínguez de la Maza (GN-indexed); byl.studio todas rutas 404 (2026-10-20),Conocida públicamente; URL de consejo no render (404). Forbes España como fuente pública (g3_mdominguez).
+17,Bimba y Lola,María Domínguez,Vicepresidenta y cofundadora,NOT-VERIFIED-IN-SESSION,route-only,Forbes España familia Domínguez de la Maza (GN-indexed); byl.studio todas rutas 404 (2026-10-20),ídem row 16.
 18,Bimba y Lola,Carlos Soler-Duffo,Consejero independiente (ex CEO de Tous),VERIFIED,route-only,FashionUnited 'ex CEO de Tous se incorpora al Consejo de Administración de Bimba y Lola' + Modaes (GN-indexed),OK
 19,Bimba y Lola,Natalia Gamero del Castillo,Consejera independiente,VERIFIED,route-only,Glamour 'Bimba y Lola suma talento estratégico con la incorporación de Natalia Gamero del Castillo' (GN-indexed),OK
 20,Team Heretics,Antonio Catena Poderoso,Fundador y CEO,VERIFIED,route-only,Palco23 'Antonio Catena. Consejero delegado de Team Heretics' + El Economista (GN-indexed),OK
@@ -41,13 +41,13 @@ row,empresa,nombre,cargo_mapa,veredicto_rol,veredicto_email,evidencia_url,nota
 40,Dreaming Spanish,Pablo Román,Cofundador y CTO (creador),VERIFIED,route-only,dreaming.com/about (200 OK): 'Pablo Roman Humanes Co-Founder / CTO',OK
 41,Perfumerías Primor,Juan Ricardo Hidalgo,Propietario y consejero delegado,PARTIAL,NOT-FIREABLE (pedidos@ no verificado),42 hits GN (Europa Press/Sur in English); pedidos@primor.eu NO localizado; info@primor.eu FIREABLE en play.google.com/store/apps/details?id=eu.primor.app,Usar info@primor.eu tras revisión arquitecto
 42,Perfumerías Primor,Leonardo Marazia,Managing Director,NOT-VERIFIED,NOT-FIREABLE (idem),0 hits GN; LinkedIn-only,Email pendiente
-43,Heineken España — Cruzcampo,Guilherme Cury Silva,Presidente de Heineken España,VERIFIED,route-only,El Mundo 'El brasileño Guilherme Cury Silva asume la presidencia de Heineken España' (GN-indexed),"Ortografía mapa correcta: Guilherme"
+43,Heineken España — Cruzcampo,Guilherme Cury Silva,Presidente de Heineken España,VERIFIED,route-only,El Mundo 'El brasileño Guilherme Cury Silva asume la presidencia de Heineken España' (GN-indexed),Ortografía mapa correcta: Guilherme
 44,Heineken España — Cruzcampo,María Oliveira,Directora de Marketing,NOT-VERIFIED,route-only,0 hits GN; heinekenespana.es SPA sin nombres,Pendiente
 45,Heineken España — Cruzcampo,Carmen Ponce Grass,Directora de Relaciones Corporativas,PARTIAL,route-only,Cadena SER 'Carmen Ponce: Queremos una Sevilla…' (GN-indexed),Nexo Heineken no mostrado en título
 46,Heineken España — Cruzcampo,Alfonso Saiz,Director de Distribución y Ventas,NOT-VERIFIED,route-only,0 hits GN (Andalucía Económica no accesible),Pendiente
 47,Corporación Hijos de Rivera,Ignacio Rivera Quintana,Presidente ejecutivo,VERIFIED,route-only,La Vanguardia (GN-indexed) + tel 981 901 906 en corporacionhijosderivera.com/es/contacto (200 OK),Teléfono VERIFICADO
 48,Corporación Hijos de Rivera,José Cabanas,Chief Marketing Officer,VERIFIED,route-only,PuroMarketing 'José Cabanas, CMO Estrella Galicia' (GN-indexed),OK
-49,Desigual,Alberto Ojinaga,Consejero delegado,CORRECTED (VERIFIED),route-only,Modaes 'Alberto Ojinaga. Consejero delegado de Desigual' (GN-indexed),"Nombre correcto: Alberto (no Carlos); transición pendiente per owner"
+49,Desigual,Alberto Ojinaga,Consejero delegado,CORRECTED (VERIFIED),route-only,Modaes 'Alberto Ojinaga. Consejero delegado de Desigual' (GN-indexed),Nombre correcto: Alberto (no Carlos); transición pendiente per owner
 50,Desigual,Thomas Meyer,Fundador y presidente (90%),VERIFIED (público),route-only,Modaes/CatalanNews (GN-indexed),OK
 51,Desigual,Marc Calabia,Director de Producto (ex CEO Pronovias),VERIFIED,route-only,Modaes 'Desigual recupera a Marc Calabia: el exCEO de Pronovias entra como director de producto' (GN-indexed),OK
 52,Desigual,Jaume Alaudell,Director financiero,PARTIAL,route-only,Modaes 'Desigual, fase 2 de la transformación…' (GN-indexed),Título-nivel
@@ -55,7 +55,7 @@ row,empresa,nombre,cargo_mapa,veredicto_rol,veredicto_email,evidencia_url,nota
 54,Mango — Mango Teen,Jonathan Andic,Director ejecutivo (consejero),PARTIAL,route-only,El País caso Andic (familia/ejecutivos Mango) (GN-indexed),'consejero ejecutivo' per FashionNetwork no fetch
 55,Mango — Mango Teen,Daniel López,Director ejecutivo (consejero),VERIFIED,route-only,El Periódico + El País 'altos directivos de Mango…Daniel López' (GN-indexed),OK (alto directivo/albacea)
 56,Primavera Sound,Alfonso Lanza,Codirector (patrocinios y comunicación),PARTIAL,NOT-FIREABLE info@,47 hits GN contextuales; info@primaverasound.com NO localizado,Usar support@primaverasound.com (App Store)
-57,Primavera Sound,Alberto Guijarro,Cofundador,CORRECTED-PENDING,NOT-FIREABLE alberto@,El Mundo entrevista contexto PS (GN-indexed); 'Cofundador' no verificado — es directivo/director per yourope/Monocle,Corregir cargo antes de outreach
+57,Primavera Sound,Alberto Guijarro,Cofundador,CORRECTED,NOT-FIREABLE alberto@,"La Razón: 'Alberto Guijarro, codirector de Primavera Sound' (cabecera del artículo, GN-indexed 2026-10-20) + El Mundo/elDiario/TNBP entrevistas",CORREGIDO (2026-10-20): 'Cofundador' descartado — título real según La Razón = CODIRECTOR de Primavera Sound. Email alberto@ NO fireable.
 58,Primavera Sound,Gabi Ruiz,Cofundador,VERIFIED,NOT-FIREABLE info@,Binaural 'Gabi Ruiz explica…' + El Mundo (GN-indexed),Email: usar support@
 59,Primavera Sound,Marta Pallarès,Head of Press & Institutional Relations,VERIFIED,NOT-FIREABLE info@,primaverasound.com propio título 'Marta Pallarès (Primavera Sound)' (GN-indexed),Email: usar support@
 60,Mayoral,Manuel Domínguez de la Maza,Presidente ejecutivo,VERIFIED,route-only,Forbes España 'Quién es la familia Domínguez de la Maza…' (GN-indexed),OK

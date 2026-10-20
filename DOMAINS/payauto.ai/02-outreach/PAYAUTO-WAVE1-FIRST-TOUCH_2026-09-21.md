@@ -34,12 +34,12 @@ Positioning line (internal): **PayAuto.ai — the two-word category name for age
   TurnKeySold Domains
 - **Follow-ups (PAUSED):** D3 "Category claim, before bigger players move. Curious?" · D7 "Happy to send a short brief to you or your brand team." · D14 "Closing the loop — details stay ready if it ever fits."
 
-## A3. Basis Theory — company-level (⚠️ contact NOT verified)
-- **Context (internal):** PCI-compliant, processor-agnostic tokenization vault for payments incl. agent payments; $33M raise confirmed (PR Newswire/Payments Dive, 2026); leads the Agentic Commerce Consortium (collaborator claim — external). CEO Colin Luce NOT verified (no public team page — verification partial) → DO NOT name in outreach until LinkedIn/title check confirms (follow-up flagged for lead). Fit: agent-payment tokenization runs on trust naming.
-- **Route (never-invent):** basistheory.com contact route (Framer site; no team page). No emails surfaced. Verify Luce title before any personalization.
+## A3. Basis Theory — Colin Luce (Co-Founder & CEO) — ✅ VERIFIED
+- **Context (internal):** PCI-compliant, processor-agnostic tokenization vault for payments incl. agent payments; $33M raise confirmed (PR Newswire/Payments Dive, 2026); leads the Agentic Commerce Consortium (collaborator claim — external). CEO Colin Luce VERIFIED "Co-Founder and CEO" (PR Newswire Crossmint-API release, fetched 2026-10-19 — verbatim quote; Tier-2/3 pass PR #87). Fit: agent-payment tokenization runs on trust naming.
+- **Route (never-invent):** LinkedIn (Luce — VERIFIED per PRN source) / basistheory.com contact route (Framer site; no team page). No emails surfaced — never infer one.
 - **Subject:** PayAuto.ai — a trust-era name for agent payments
-- **Email (EN, 73w):**
-  Hi Basis Theory team,
+- **Email (EN, 71w):**
+  Hi Colin,
   Your tokenization vault lets agent payments run safely — and PayAuto.ai is the premium domain for that exact world: "payments on autopilot." I'm exploring its confidential sale. For Basis Theory it could brand a consumer-facing agent-payments product, anchor a standards effort, or hold the category's clearest name inside your orbit. Who on the brand or product-development team should I send details to?
   Not a fit? Just reply and I'll drop it.
   Best,

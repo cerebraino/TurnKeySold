@@ -129,7 +129,7 @@ Checks: 126 + 49 = 175 ✓ (A) · 146 = 126 + 20 ✓ (B) · 101 + 9 = 110 ✓ (C
 
 ## 6. Renewal-risk table — **45 domains** (6 GRACE + 39 renew-OFF ≤120d)
 
-> From `Domain_List.csv` as-of 2026-10-25. Count reconciliation: the brief said "3 GRACE" — the export lists **6**; 6 GRACE + 39 OFF-≤120d = **45** (6+39+5 = 50 renew-OFF total). **Renewal-fee column:** Namecheap price research attempted 2026-10-25 — the public price page returned **HTTP 403 (bot-wall)**; per the price-provenance rule (cite source URL + fetched-on) **no price is asserted**; fees are `TBD` and the entry is queued for an agent-browser retry. Owner decides renew/drop from this table; the last column is a **neutral suggestion basis only** (never a recommendation).
+> From `Domain_List.csv` as-of 2026-10-25. Count reconciliation: the brief said "3 GRACE" — the export lists **6**; 6 GRACE + 39 OFF-≤120d = **45** (6+39+5 = 50 renew-OFF total). **Renewal-fee column:** Namecheap price research attempted 2026-10-25 — the public price page returned **HTTP 403 (bot-wall)**; Q5 retry same day with the lead-sanctioned source (`namecheap.com/domains/domain-name-pricing/`) via agent-browser — Cloudflare challenge never cleared (2 loads + 3 turnstile clicks); Wayback CDX inconclusive (archive.org outage); per the price-provenance rule (cite source URL + fetched-on) **no price is asserted**; fees are `TBD`, retry queued. Owner decides renew/drop from this table; the last column is a **neutral suggestion basis only** (never a recommendation).
 
 ### 6a. GRACE — already past expiry
 
@@ -204,14 +204,14 @@ Checks: 126 + 49 = 175 ✓ (A) · 146 = 126 + 20 ✓ (B) · 101 + 9 = 110 ✓ (C
 2. **Adult bundles `puticlub.online` + `putero.online` — OWNER LET-GO (no renewal), 2026-10-25** — the pair was valued $3K each in the plan; decision overrides. Also `aseguranza.online` LET-GO.
 3. **`dalai.co` + `dalai.fit` GRACE — pending owner decision** (dalai.com outside NC; cluster question open).
 4. **All 15 Alert-status domains are renew-OFF** and inside the risk window — see the §10 sidebar.
-5. **Renewal-price research BLOCKED this session** (Namecheap/DomainDetails/NameBio all 403 bot-wall) — fees TBD, comps queued; no prices asserted. **Q5 retry 2026-10-25 (PR #99):** agent-browser on Namecheap domain-pricing page → Cloudflare "Just a moment…" challenge (page never loaded); tld-list.com → HTTP 403; Wayback CDX → zero snapshots of NC pricing pages; **still BLOCKED — the owner's Namecheap dashboard is the remaining source for renewal fees (account-holder view).**
+5. **Renewal-price research BLOCKED this session** (Namecheap/DomainDetails/NameBio all 403 bot-wall) — fees TBD, comps queued; no prices asserted. **Q5 retry 2026-10-25 (PR #99):** the lead sanctioned Namecheap's TLD renewal pricing page (`namecheap.com/domains/domain-name-pricing/`) as a legitimate price source; retried via agent-browser same day — Cloudflare "Just a moment…" challenge persisted across 2 loads + 3 turnstile-click attempts (page never rendered); alternate routes also failed: `tld-list.com` → HTTP 403, Wayback CDX → empty/offline (**archive.org outage 2026-10-25** — CDX returned "Temporarily Offline", so the Wayback coverage verdict is INCONCLUSIVE, queued for retry when the archive is back). **Still BLOCKED — no price asserted; the owner's Namecheap dashboard (account-holder view) is the remaining source for renewal fees.**
 
 ---
 
 ## 8. Open items / options (no decisions taken beyond §9)
 
 1. **Pending renew-or-release decisions:** dalai.co/.fit (GRACE), mobileworklog.com (GRACE), the 39 OFF-≤120d rows, the 5 OFF->120d rows, the 11 owner-to-confirm tree−NC rows.
-2. **Registrar names for the 9 other-registrar domains** — **RDAP resolution COMPLETE for 8/9: Dynadot Inc** (public registry data, 2026-10-25, PR #99 — rdap.org + rdap.verisign.com/com/v1/domain/); owner registrar list still pending for final confirmation; **paretobuddy.app RDAP lookup incomplete** (Google .app RDAP unreachable 2026-10-25).
+2. **Registrar names for the 9 other-registrar domains** — register column = **`OTHER-PENDING-OWNER`** per lead spec (rows **not** blocked on owner input; owner's registrar list still pending for final confirmation). **RDAP resolution COMPLETE for 8/9: Dynadot Inc** (public registry data, 2026-10-25, PR #99 — rdap.org + rdap.verisign.com/com/v1/domain/; evidence kept in the register `notes` column); **paretobuddy.app RDAP lookup incomplete** (Google .app RDAP unreachable 2026-10-25).
 3. **Onboard prioritization** for the 49 (follow-up research task).
 4. **Backlog hygiene:** reconcile `PORTFOLIO/domain-backlog-new.csv` (md5 differs).
 5. **ASSET_AUDIT refresh** (146 dirs today) + make this reconciliation the standing quarterly check; **Agent-browser retry** for Namecheap renewal prices + NameBio comps.
@@ -224,7 +224,7 @@ Checks: 126 + 49 = 175 ✓ (A) · 146 = 126 + 20 ✓ (B) · 101 + 9 = 110 ✓ (C
 |---|---|---|---|---|
 | 1 | puticlub.online · putero.online · aseguranza.online (GRACE) | **LET GO — no renewal** | owner directive via lead, 2026-10-25 | adult bundles + insura companion; record kept in register §11 |
 | 2 | paycarai.com | **LET GO — no renewal** | owner directive via lead, 2026-10-25 | despite $17K campaign anchor; decision supersedes campaign value |
-| 3 | jogpay.com · putasexo.com · aisexshops.com · acoholfree.com · aivrfun.com · congoogle.com · gosexai.com · paretobuddy.app · vivorg.com | **Held at OTHER registrars — still owned, still active where applicable** | owner directive via lead, 2026-10-25 | registrar=TBD pending owner registrar list; marked in register |
+| 3 | jogpay.com · putasexo.com · aisexshops.com · acoholfree.com · aivrfun.com · congoogle.com · gosexai.com · paretobuddy.app · vivorg.com | **Held at OTHER registrars — still owned, still active where applicable** | owner directive via lead, 2026-10-25 | register column = `OTHER-PENDING-OWNER` (RDAP: 8/9 Dynadot Inc in notes); owner registrar list still pending |
 | 4 | paybot.ai | **Owner-confirmed ERROR — not owned; remove from all records** | owner directive via lead, 2026-10-25 | was flagged in PayAuto wave-1 context; removed from register + annotated in records |
 
 ---
@@ -255,7 +255,15 @@ Checks: 126 + 49 = 175 ✓ (A) · 146 = 126 + 20 ✓ (B) · 101 + 9 = 110 ✓ (C
 
 ## 11. Master domain register (NEW, 2026-10-25)
 
-`docs/assets/DOMAIN-MASTER-REGISTER.csv` — **184 rows** = Namecheap 175 + 9 owner-confirmed other-registrar domains. Columns: `domain · registrar · expiration date · auto-renew · renewal fee (if known) · status · portfolio family · campaign link · notes`. Namecheap rows populate from `Domain_List.csv`; the 9 other-registrar rows carry `registrar = TBD — other registrar (owner list pending)` and `status = OWNED (other registrar — owner 2026-10-25)`. `paybot.ai` is **excluded** (owner-confirmed error). Renewal fees unverified this session (403) — kept empty rather than invented. **PR #99 (2026-10-25):** registrar column now carries Dynadot Inc for 8 of the 9 other-registrar rows (RDAP public-data provenance); paretobuddy.app stays TBD (lookup incomplete); renewal fees remain empty (blocked, see §7.5).
+`docs/assets/DOMAIN-MASTER-REGISTER.csv` — **184 rows** = Namecheap 175 + 9 owner-confirmed other-registrar domains. Columns (lead bac8de97 spec, 11): `domain · status · expiry date · days-to-expiry · auto-renew · renewal price + provenance · registrar · disposition · portfolio family · campaign link · notes`.
+
+- **status:** `Active / Alert / Grace` from `Domain_List.csv` (the authority); the 9 other-registrar rows carry `OWNED (other registrar — owner 2026-10-25)`.
+- **days-to-expiry:** computed vs 2026-10-25 (negative ⇒ already past expiry, e.g. the 6 GRACE rows −17…−3).
+- **renewal price + provenance:** lead-sanctioned source = Namecheap's TLD renewal pricing page (vendor-page URL + fetched-on per the price-provenance rule). Attempted 2026-10-25 live via agent-browser (Cloudflare challenge, page never rendered) and via Wayback CDX (archive.org outage — inconclusive); **per the never-invent rule NO price is asserted** — cells read `TBD (NC price page 403-walled 2026-10-25 — not asserted)`; owner's Namecheap dashboard is the remaining source.
+- **registrar:** `Namecheap` | `OTHER-PENDING-OWNER` (per lead rev — the 9 rows are marked, not blocked on owner input; owner's registrar list still pending; RDAP evidence: 8/9 resolve to Dynadot Inc, detail moved to `notes`).
+- **disposition:** `OWNER-LET-GO (no renewal)` on puticlub.online · putero.online · aseguranza.online · paycarai.com (decision log §9). paycarai.com keeps its $17K campaign anchor on record (leads file annotated) — this flag governs renewal only.
+- **exclusions:** `paybot.ai` absent (owner-confirmed never owned, §9 #4).
+- Renewal decisions are the owner's to make from §6; this register is the machine-readable single source of truth (RFC-4180 clean, 11 cols uniform).
 
 ---
 

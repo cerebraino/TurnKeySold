@@ -9,8 +9,10 @@ Source claims: median ~$2,500 · average ~$16,233 · 55% $1K–$3K / 25% $3K–$
 ## 2. "$1,500–$3,000 band for a short two-word .com" — ◐ UNVERIFIED (carried)
 Claim attributes generic value of ComePlantas.com (11 chars, no hyphen) to a $1,500–$3,000 band. No independent source fetched this session (same bot-wall applies to market sources). Band is the source's reasoning, recorded as source-proposal only.
 
-## 3. NameBio comps (vegan / plantbased / comer, last 2 years, $1,000+) — ❌ BLOCKED 2026-10-25
-**Attempted:** `https://namebio.com/?s=vegan` (+ plantbased, comer) via curl with browser UA → **HTTP 403 bot-wall, 0 rows retrieved.** **No comps are asserted** (never-invent). Queue: agent-browser retry, filters `vegan`, `plantbased`, `comer`, last-2-years, `$1,000+`; record domain · price · date · source URL per §9.7.
+## 3. NameBio comps (vegan / plantbased / comer, last 2 years, $1,000+) — ❌ BLOCKED (retried 2026-10-25, task 78f094f9)
+**Attempted 2026-10-25 (PR #97 wave):** `https://namebio.com/?s=vegan` (+ plantbased, comer) via curl → **HTTP 403 bot-wall, 0 rows retrieved.**
+**Retry 2026-10-25 (task 78f094f9) via agent-browser (play that beat EUIPO's wall):** NameBio is behind a **hard Cloudflare WAF ban, not a challenge** — agent-browser rendered the block page (`Attention Required! | Cloudflare` → "Sorry, you have been blocked", IP-level, no interactive checkbox) for both `https://namebio.com/?s=vegan` and the bare homepage `https://namebio.com/`, including after a 45s pause and a full browser restart. **No bypass attempted (evading a WAF block is not appropriate) — retry avenues from this network are exhausted.**
+**Verdict: no comps asserted (never-invent).** The `vegan / plantbased / comer · 2y · $1,000+` NameBio query remains **queued for alternate access — flagged as an OWNER-side item**: NameBio requires a different egress IP (e.g. a residential session) or a paid NameBio API key; the agent's network is WAF-banned. §4 source proposal stands unaudited until comps land.
 
 ## 4. Source's setup (recorded as the SOURCE's proposal only — no endorsement)
 BIN **$25,000** · private floor **~$7,500** · direct-outreach anchor **$30,000** (settle $10K–$20K for NotCo/Heura-tier; broker route for CPG/brand-house leads). Same source: "don't take the first flipper offer", "list by early December so the January Veganuary spike hits your lander". **Owner rules the ladder after the queued comps.**

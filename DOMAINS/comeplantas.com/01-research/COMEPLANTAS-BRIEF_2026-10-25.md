@@ -12,6 +12,7 @@ List by **early December** so the January **Veganuary** demand spike hits the la
 
 ## Valuation
 - **No valuation set yet.** This is the MuyGuay lesson applied: the owner sets the valuation ladder **after verified comps + verified buyer funding exist**. Nothing in the owner research file is "the ask"; the verification doc marks what is now evidence-backed.
+- **Comps status (task 78f094f9, 2026-10-25):** NameBio retry via agent-browser **STILL BLOCKED** (hard Cloudflare WAF ban — IP-level, no challenge; homepage + search both blocked). **No comp asserted; placeholder unchanged.** Alternate access (different egress IP / residential session / NameBio API key) is an owner-side item — flag open in the verification doc §3.
 
 ## Key market signal
 - **Veganuary (January) is the annual demand spike** noted in the owner research — time-limited campaigns + CPG category launches cluster there. That makes the run-up to January the natural campaign-window planning horizon.

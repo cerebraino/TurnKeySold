@@ -1,4 +1,5 @@
 # Payments Family — Portfolio-Wide Cross-Fit Analysis
+> **2026-10-25 — OWNER-CONFIRMED ERROR:** `paybot.ai` is **not owned** (owner directive via lead). Remove from all records; this historical line is kept for provenance only.
 **Date:** 2026-09-21 · **Author:** agent-lead
 **Sources:** live landing page paybud.ai ("PremiumPayDomains — Seven Premium Domains. One Category: Payments.") fetched 2026-09-21 via browser (11 domains: 7 core + 4 international); master inventory (146 domains); canonical `payauto_ai_acquisition_targets.csv` (19 buyers, full-field workbench). Provenance: site copy + our data — buyer-fit judgments are OURS (analysis), buyer facts are per the CSV (EXTERNAL-UNVERIFIED until verification pass lands).
 

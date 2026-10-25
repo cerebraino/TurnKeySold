@@ -1,4 +1,5 @@
 # paycarai.com — Buyer Research & Lead List
+> **2026-10-25 — OWNER LET-GO (no renewal):** paycarai.com expires 2026-12-03 (Namecheap, auto-renew OFF) — decision log §9 row 2, INVENTORY-RECONCILIATION_2026-10-25.md. Records kept for provenance; how hard to keep pushing the sibling paycar.ai = owner's call (§7.1).
 
 > **Researcher:** domain-researcher  
 > **Date:** 2026-07-02  

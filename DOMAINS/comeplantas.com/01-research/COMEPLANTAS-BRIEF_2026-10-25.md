@@ -7,6 +7,9 @@
 - Sold as a ready-made **Spanish-language category brand name** for plant-based food/wellness companies in Spain, LatAm and the US Hispanic market — not as resolving any conflict (see trademark gate below).
 - **Spanish-first copy applies** (MuyGuay ES-first pattern). The pitched positioning is a brand-launch play for a funded plant-based company localizing into Spanish-speaking markets.
 
+## Timing (owner-supplied, 2026-10-25)
+List by **early December** so the January **Veganuary** demand spike hits the lander — feeds the Afternic/Sedo November setup queue (listing decision = owner).
+
 ## Valuation
 - **No valuation set yet.** This is the MuyGuay lesson applied: the owner sets the valuation ladder **after verified comps + verified buyer funding exist**. Nothing in the owner research file is "the ask"; the verification doc marks what is now evidence-backed.
 

@@ -189,3 +189,15 @@
 ---
 
 *Lead list expanded. 30 total leads: 16 original + 9 intelligent shopping + 5 AI curation platforms. Micro-messages appended for all 14 new leads.*
+---
+
+## Owner-supplied findings — 2026-11-03 (integration)
+
+> Source: owner workbook `Domains Target Buyers.xlsx` (branch `cerebraino-patch-3`, commit 9bcb9f6) — integrated verbatim, **research only; SEND FREEZE intact, nothing sends**. Full rows, rationale/angle text and per-row verification verdicts: `01-research/OWNER-FINDINGS-2026-11-03.md`.
+
+| Finding | Date | Buyer (source) | Named contact | Fit/Timing | Source URL | Verification (2026-11-03) | In this file already? |
+|---|---|---|---|---|---|---|---|
+| F31 | 2026-09-23 | G2 | none published | 4/3 | https://company.g2.com/news/how-g2-is-bringing-accountability-to-ai-software-claims-in-2026 | **VERIFIED** (HTTP 200) | already present |
+
+**Route gate:** NO ROUTE (source records no published contact)
+**New-lead yield (heuristic, company-name match):** G2=already present

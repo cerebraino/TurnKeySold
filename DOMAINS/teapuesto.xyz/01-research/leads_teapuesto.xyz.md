@@ -52,3 +52,16 @@
 ---
 
 *Lead list prepared. Part of 7-domain apuesto bundle. Full bundle overview in apuesto-family-bundle.md.*
+
+---
+
+## Owner-supplied findings — 2026-11-03 (integration)
+
+> Source: owner workbook `Domains Target Buyers.xlsx` (branch `cerebraino-patch-3`, commit 9bcb9f6) — integrated verbatim, **research only; SEND FREEZE intact, nothing sends**. Full rows, rationale/angle text and per-row verification verdicts: `01-research/OWNER-FINDINGS-2026-11-03.md`.
+
+| Finding | Date | Buyer (source) | Named contact | Fit/Timing | Source URL | Verification (2026-11-03) | In this file already? |
+|---|---|---|---|---|---|---|---|
+| F50 | 2026-10-22 | Polymarket | — | 4/5 | https://riotimesonline.com/latin-american-pulse-for-thursday-october-22-2026 | **VERIFIED-EXPIRED** (HTTP 200) | already present |
+
+**Route gate:** NO ROUTE (source records no published contact)
+**New-lead yield (heuristic, company-name match):** Polymarket=already present

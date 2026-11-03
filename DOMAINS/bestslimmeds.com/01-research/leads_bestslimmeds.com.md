@@ -128,3 +128,15 @@
 - The "best weight loss medication" SERP is distinct from "buy weight loss medication" — more informational, less transactional. **bestslimmeds.com could serve as a review/affiliate brand** or a premium telehealth tier.
 - **Forbes Health** is the dominant player across both "best" and "buy" queries — they should be added to the lead list for both buyslimmeds and bestslimmeds as an affiliate/lead-gen buyer.
 - **DMPS bonus:** Forbes Health (+10), GoodRx (+10), Walgreens (+10), CompareTreatments (+10), Hims & Hers (+10).
+---
+
+## Owner-supplied findings — 2026-11-03 (integration)
+
+> Source: owner workbook `Domains Target Buyers.xlsx` (branch `cerebraino-patch-3`, commit 9bcb9f6) — integrated verbatim, **research only; SEND FREEZE intact, nothing sends**. Full rows, rationale/angle text and per-row verification verdicts: `01-research/OWNER-FINDINGS-2026-11-03.md`.
+
+| Finding | Date | Buyer (source) | Named contact | Fit/Timing | Source URL | Verification (2026-11-03) | In this file already? |
+|---|---|---|---|---|---|---|---|
+| F38 | 2026-09-25 | WeightWatchers (WW) | none published | 4/3 | https://corporate.ww.com/news/news-details/2026/Weight-Watchers-Expands-Its-Integrated-GLP-1-Platform-with-Access-to-Wegovy-Pill-Advancing-a-New-Standard-for-Long-Term-Weight-Health/default.aspx | **BLOCKED** (HTTP 403) | already present |
+
+**Route gate:** NO ROUTE (source records no published contact)
+**New-lead yield (heuristic, company-name match):** WeightWatchers (WW)=already present

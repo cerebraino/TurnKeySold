@@ -31,3 +31,15 @@
 ---
 
 *Lead list prepared.*
+---
+
+## Owner-supplied findings — 2026-11-03 (integration)
+
+> Source: owner workbook `Domains Target Buyers.xlsx` (branch `cerebraino-patch-3`, commit 9bcb9f6) — integrated verbatim, **research only; SEND FREEZE intact, nothing sends**. Full rows, rationale/angle text and per-row verification verdicts: `01-research/OWNER-FINDINGS-2026-11-03.md`.
+
+| Finding | Date | Buyer (source) | Named contact | Fit/Timing | Source URL | Verification (2026-11-03) | In this file already? |
+|---|---|---|---|---|---|---|---|
+| F45 | 2026-10-07 | PagerDuty | — | 5/5 | https://www.pagerduty.com/blog/announcements/the-rundeck-mcp-server-ai-where-your-automation-lives/ | **PARTIAL** (HTTP 200) | already present |
+
+**Route gate:** NO ROUTE (source records no published contact)
+**New-lead yield (heuristic, company-name match):** PagerDuty=already present

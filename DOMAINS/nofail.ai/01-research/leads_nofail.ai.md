@@ -205,3 +205,16 @@ New prospects added from the owner's `Domain_Buyer_Prospecting_Research_10_Domai
 | 5 | **CodeRabbit** | **80** | WARM (Tier 1/2) | (CEO) | CEO | coderabbit.ai (site 200) | AI-assisted code quality; $143M raised Aug 2026 @ $1.5B (reported) |
 
 > **Note:** Exec-emails/contact sheets for these new prospects not yet built — add to `contact-sheet_*.md` in a follow-up pass if outreach is prioritized.
+
+---
+
+## Owner-supplied findings — 2026-11-03 (integration)
+
+> Source: owner workbook `Domains Target Buyers.xlsx` (branch `cerebraino-patch-3`, commit 9bcb9f6) — integrated verbatim, **research only; SEND FREEZE intact, nothing sends**. Full rows, rationale/angle text and per-row verification verdicts: `01-research/OWNER-FINDINGS-2026-11-03.md`.
+
+| Finding | Date | Buyer (source) | Named contact | Fit/Timing | Source URL | Verification (2026-11-03) | In this file already? |
+|---|---|---|---|---|---|---|---|
+| F06 | 2026-09-07 | incident.io | Lawrence Jones | 4/4 | https://aurorasre.ai/blog/best-ai-post-mortem-tools | **VERIFIED** (HTTP 200) | already present |
+
+**Route gate:** NO ROUTE (source records no published contact)
+**New-lead yield (heuristic, company-name match):** incident.io=already present

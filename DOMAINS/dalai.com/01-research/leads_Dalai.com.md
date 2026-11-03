@@ -82,3 +82,15 @@
 ---
 
 *Lead list prepared for outreach-architect. ⚠️ Trademark risk must be disclosed to all potential buyers.*
+---
+
+## Owner-supplied findings — 2026-11-03 (integration)
+
+> Source: owner workbook `Domains Target Buyers.xlsx` (branch `cerebraino-patch-3`, commit 9bcb9f6) — integrated verbatim, **research only; SEND FREEZE intact, nothing sends**. Full rows, rationale/angle text and per-row verification verdicts: `01-research/OWNER-FINDINGS-2026-11-03.md`.
+
+| Finding | Date | Buyer (source) | Named contact | Fit/Timing | Source URL | Verification (2026-11-03) | In this file already? |
+|---|---|---|---|---|---|---|---|
+| F34 | 2026-09-24 | Calm | none published | 4/4 | https://www.latimes.com/entertainment-arts/business/story/2026-09-08/is-news-stressing-you-out-ms-now-partners-with-calm | **VERIFIED** (HTTP 200) | already present |
+
+**Route gate:** NO ROUTE (source records no published contact)
+**New-lead yield (heuristic, company-name match):** Calm=already present

@@ -89,3 +89,15 @@
 ---
 
 *Lead list prepared for outreach-architect. Full DMPS methodology in research_framework.md §3.*
+---
+
+## Owner-supplied findings — 2026-11-03 (integration)
+
+> Source: owner workbook `Domains Target Buyers.xlsx` (branch `cerebraino-patch-3`, commit 9bcb9f6) — integrated verbatim, **research only; SEND FREEZE intact, nothing sends**. Full rows, rationale/angle text and per-row verification verdicts: `01-research/OWNER-FINDINGS-2026-11-03.md`.
+
+| Finding | Date | Buyer (source) | Named contact | Fit/Timing | Source URL | Verification (2026-11-03) | In this file already? |
+|---|---|---|---|---|---|---|---|
+| F03 | 2026-09-07 | UiPath | Daniel Dines | 4/3 | https://ir.uipath.com/news/detail/425/uipath-acquires-workfusion-strengthening-agentic-solutions-for-financial-services | **VERIFIED** (HTTP 200) | already present |
+
+**Route gate:** NO ROUTE (source records no published contact)
+**New-lead yield (heuristic, company-name match):** UiPath=already present

@@ -117,3 +117,15 @@
 ---
 
 *Lead list prepared for outreach-architect. Full DMPS methodology in research_framework.md §3.*
+---
+
+## Owner-supplied findings — 2026-11-03 (integration)
+
+> Source: owner workbook `Domains Target Buyers.xlsx` (branch `cerebraino-patch-3`, commit 9bcb9f6) — integrated verbatim, **research only; SEND FREEZE intact, nothing sends**. Full rows, rationale/angle text and per-row verification verdicts: `01-research/OWNER-FINDINGS-2026-11-03.md`.
+
+| Finding | Date | Buyer (source) | Named contact | Fit/Timing | Source URL | Verification (2026-11-03) | In this file already? |
+|---|---|---|---|---|---|---|---|
+| F20 | 2026-09-12 | SxxxAI | none published | 5/5 | https://adultfyi.com/new-ai-companion-platform-sxxxai-launches/ | **VERIFIED-EXPIRED** (HTTP 200) | NEW to this file |
+
+**Route gate:** NO ROUTE (source records no published contact)
+**New-lead yield (heuristic, company-name match):** SxxxAI=NEW to this file

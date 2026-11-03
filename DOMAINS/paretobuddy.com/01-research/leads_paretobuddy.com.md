@@ -101,3 +101,18 @@
 ---
 
 *Lead list prepared for outreach-architect. Full DMPS methodology in research_framework.md §3.*
+---
+
+## Owner-supplied findings — 2026-11-03 (integration)
+
+> Source: owner workbook `Domains Target Buyers.xlsx` (branch `cerebraino-patch-3`, commit 9bcb9f6) — integrated verbatim, **research only; SEND FREEZE intact, nothing sends**. Full rows, rationale/angle text and per-row verification verdicts: `01-research/OWNER-FINDINGS-2026-11-03.md`.
+
+| Finding | Date | Buyer (source) | Named contact | Fit/Timing | Source URL | Verification (2026-11-03) | In this file already? |
+|---|---|---|---|---|---|---|---|
+| F12 | 2026-09-08 | Notion | Ivan Zhao | 4/4 | https://techcrunch.com/2026/05/13/notion-just-turned-its-workspace-into-a-hub-for-ai-agents/ | **VERIFIED** (HTTP 200) | already present |
+| F13 | 2026-09-08 | ClickUp | none published | 4/4 | https://clickup.com/blog/brain-2-launch/ | **VERIFIED** (HTTP 200) | already present |
+| F14 | 2026-09-08 | Any.do | none published | 4/3 | https://downloadchaos.com/blog/task-management-apps-market-consolidation-2026 | **VERIFIED** (HTTP 200) | NEW to this file |
+| F15 | 2026-09-08 | Sunsama | none published | 3/3 | https://downloadchaos.com/blog/task-management-apps-market-consolidation-2026 | **PARTIAL** (HTTP 200) | NEW to this file |
+
+**Route gate:** see per-row gate in the findings file — no row in this batch carries a fireable published address except where noted.
+**New-lead yield (heuristic, company-name match):** Notion=already present, ClickUp=already present, Any.do=NEW to this file, Sunsama=NEW to this file

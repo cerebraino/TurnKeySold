@@ -122,3 +122,16 @@ New prospects added from the owner's `Domain_Buyer_Prospecting_Research_10_Domai
 | 2 | **Cafler** | **75** | LUKEWARM (Tier 2/3) | (CEO) | CEO | cafler.com (site 500) | Automotive-services marketplace with AI; international expansion |
 
 > **Note:** Exec-emails/contact sheets for these new prospects not yet built — add to `contact-sheet_*.md` in a follow-up pass if outreach is prioritized.
+
+---
+
+## Owner-supplied findings — 2026-11-03 (integration)
+
+> Source: owner workbook `Domains Target Buyers.xlsx` (branch `cerebraino-patch-3`, commit 9bcb9f6) — integrated verbatim, **research only; SEND FREEZE intact, nothing sends**. Full rows, rationale/angle text and per-row verification verdicts: `01-research/OWNER-FINDINGS-2026-11-03.md`.
+
+| Finding | Date | Buyer (source) | Named contact | Fit/Timing | Source URL | Verification (2026-11-03) | In this file already? |
+|---|---|---|---|---|---|---|---|
+| F09 | 2026-09-08 | Mercado Libre | none published | 4/3 | https://reuters.com/company/mercadolibre-inc | **BLOCKED** (HTTP 401) | already present |
+
+**Route gate:** NO ROUTE (source records no published contact)
+**New-lead yield (heuristic, company-name match):** Mercado Libre=already present

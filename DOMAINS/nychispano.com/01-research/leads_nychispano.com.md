@@ -17,3 +17,17 @@ nychispanic.com and nychispano.com share the same 15-lead buyer universe. See le
 ---
 
 *Lead list prepared. Full shared list: leads_nychispanic.com.md.*
+
+---
+
+## Owner-supplied findings — 2026-11-03 (integration)
+
+> Source: owner workbook `Domains Target Buyers.xlsx` (branch `cerebraino-patch-3`, commit 9bcb9f6) — integrated verbatim, **research only; SEND FREEZE intact, nothing sends**. Full rows, rationale/angle text and per-row verification verdicts: `01-research/OWNER-FINDINGS-2026-11-03.md`.
+
+| Finding | Date | Buyer (source) | Named contact | Fit/Timing | Source URL | Verification (2026-11-03) | In this file already? |
+|---|---|---|---|---|---|---|---|
+| F23 | 2026-09-14 | NYC Hispanic Chamber of Commerce | — | 5/5 | https://hispanicchamber.nyc/events/ | **BLOCKED** (HTTP 403) | already present |
+| F24 | 2026-09-14 | New York Hispano | — | 4/4 | https://newyorkhispano.net/edicio-digital-11-septiembre-2026/ | **VERIFIED** (HTTP 200) | NEW to this file |
+
+**Route gate:** see per-row gate in the findings file — no row in this batch carries a fireable published address except where noted.
+**New-lead yield (heuristic, company-name match):** NYC Hispanic Chamber of Commerce=already present, New York Hispano=NEW to this file

@@ -2,7 +2,7 @@
 
 > **Provenance:** owner-supplied workbook `Domains Target Buyers.xlsx` (branch `cerebraino-patch-3`, commit 9bcb9f6, 29,003 bytes, md5 `697962de028bf14cf9b9afae274d2ff5`), sheet `Sheet 1 - findings_log`, data rows 3–55.
 > **Integration:** full-field / verbatim — rationale, angle and category text below are copied exactly as the owner wrote them; nothing paraphrased, nothing invented. Canonical machine-readable copy: `docs/assets/owner-research/OWNER-BUYER-FINDINGS_2026-11-03.csv` (this domain's rows are listed by finding id).
-> **Ownership:** OWNERSHIP UNCONFIRMED — OWNER DECISION (domain is not in docs/assets/DOMAIN-MASTER-REGISTER.csv)
+> **Ownership:** OWNED — OWNER-CONFIRMED 2026-11-03 (Network Solutions (legacy ~2019 account); 1996-created aged asset; register row added).
 > **Verification:** every source URL was fetched 2026-11-03 (curl, browser UA); verdicts below. Blocked sources are documented, never circumvented.
 > **⏸️ SEND FREEZE INTACT** — this file is research/data only. No first-touch copy is authored here, no pricing is asserted, nothing sends.
 
@@ -22,9 +22,9 @@
 
 ## Sibling-TLD / register notes
 
-Register anomaly: dalai.com is NOT in the master register; siblings dalai.co and dalai.fit are both GRACE (expired 2026-10-18, renew OFF). Tree exists → ownership presumed but UNCONFIRMED.
+Register anomaly: dalai.com is NOT in the master register; siblings dalai.co and dalai.fit are both GRACE (expired 2026-10-18, renew OFF). Tree exists → ownership presumed → RESOLVED 2026-11-03 (owner confirmed).
 
 ## Open items
 
 - [ ] Owner decision on any use of these findings (SEND FREEZE intact; no outreach is authorised).
-- [ ] **Ownership reconciliation:** domain is not in the master register — confirm it is actually owned before any campaign work.
+- [x] **Ownership reconciliation:** RESOLVED 2026-11-03 — owner confirmed in chat; register row added (OTHER-registrar section).

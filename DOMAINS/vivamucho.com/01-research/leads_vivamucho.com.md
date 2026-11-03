@@ -217,3 +217,16 @@
 ---
 
 *Lead list prepared. UnstoppableDomains: standard .com, fully transferable. Genspark source file kept in repo root.*
+
+---
+
+## Owner-supplied findings — 2026-11-03 (integration)
+
+> Source: owner workbook `Domains Target Buyers.xlsx` (branch `cerebraino-patch-3`, commit 9bcb9f6) — integrated verbatim, **research only; SEND FREEZE intact, nothing sends**. Full rows, rationale/angle text and per-row verification verdicts: `01-research/OWNER-FINDINGS-2026-11-03.md`.
+
+| Finding | Date | Buyer (source) | Named contact | Fit/Timing | Source URL | Verification (2026-11-03) | In this file already? |
+|---|---|---|---|---|---|---|---|
+| F51 | 2026-11-02 | Expedia Group | — | 4/4 | https://www.expedia.com/newsroom/fall-2026-product-release-expedia-group-launches-ai-powered-tools-and-services-to-simplify-the-entire-trip-from-planning-and-booking-to-payment-and-support/ | **BLOCKED** (HTTP 429) | already present |
+
+**Route gate:** NO ROUTE (source records no published contact)
+**New-lead yield (heuristic, company-name match):** Expedia Group=already present

@@ -111,3 +111,16 @@
 | Hims & Hers | +10 | Paid advertiser (hims.com/weight-loss) |
 | Noom | +10 | Paid advertiser (noom.com/med) |
 | Henry Meds | +10 | Paid advertiser (henrymeds.com) |
+
+---
+
+## Owner-supplied findings — 2026-11-03 (integration)
+
+> Source: owner workbook `Domains Target Buyers.xlsx` (branch `cerebraino-patch-3`, commit 9bcb9f6) — integrated verbatim, **research only; SEND FREEZE intact, nothing sends**. Full rows, rationale/angle text and per-row verification verdicts: `01-research/OWNER-FINDINGS-2026-11-03.md`.
+
+| Finding | Date | Buyer (source) | Named contact | Fit/Timing | Source URL | Verification (2026-11-03) | In this file already? |
+|---|---|---|---|---|---|---|---|
+| F19 | 2026-09-11 | Hims & Hers | none published | 4/5 | https://investors.hims.com/news/news-details/2026/Hims--Hers-Announces-Strategic-Shift-for-US-Weight-Loss-Business/default.aspx | **BLOCKED** (HTTP 403) | already present |
+
+**Route gate:** NO ROUTE (source records no published contact)
+**New-lead yield (heuristic, company-name match):** Hims & Hers=already present

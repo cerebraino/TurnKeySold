@@ -93,3 +93,15 @@
 - **Apuestas.com** (the .com version of the keyword) ranks organically — they operate a betting affiliate site and would be a natural buyer for the .ai version.
 - The .ai extension signals **AI-powered betting/predictions** — differentiating from traditional .es betting sites. This positions apuesto.ai as a tech-forward sports betting or AI prediction brand.
 - **DMPS bonus:** Bet365, Codere, William Hill, Betway, 888Sport (+10 each).
+---
+
+## Owner-supplied findings — 2026-11-03 (integration)
+
+> Source: owner workbook `Domains Target Buyers.xlsx` (branch `cerebraino-patch-3`, commit 9bcb9f6) — integrated verbatim, **research only; SEND FREEZE intact, nothing sends**. Full rows, rationale/angle text and per-row verification verdicts: `01-research/OWNER-FINDINGS-2026-11-03.md`.
+
+| Finding | Date | Buyer (source) | Named contact | Fit/Timing | Source URL | Verification (2026-11-03) | In this file already? |
+|---|---|---|---|---|---|---|---|
+| F33 | 2026-09-24 | Codere Online | none published | 5/5 | https://www.globenewswire.com/news-release/2026/09/10/3359535/0/en/codere-online-becomes-official-betting-partner-of-the-nfl-in-mexico.html | **VERIFIED** (HTTP 200) | NEW to this file |
+
+**Route gate:** NO ROUTE (source records no published contact)
+**New-lead yield (heuristic, company-name match):** Codere Online=NEW to this file

@@ -79,3 +79,15 @@
 **Orite** ("Give your AI Agent money. Not a blank check." — pre-launch Product Hunt, Aug 7 2026) — **SKIPPED, unverified**: orite.ai / useorite.com do not resolve; orite.com is an unrelated Australian web-design agency. No matching company site or named founder could be confirmed. Revisit if a real site + exec appears post-launch.
 
 *Lead list prepared for outreach-architect.*
+---
+
+## Owner-supplied findings — 2026-11-03 (integration)
+
+> Source: owner workbook `Domains Target Buyers.xlsx` (branch `cerebraino-patch-3`, commit 9bcb9f6) — integrated verbatim, **research only; SEND FREEZE intact, nothing sends**. Full rows, rationale/angle text and per-row verification verdicts: `01-research/OWNER-FINDINGS-2026-11-03.md`.
+
+| Finding | Date | Buyer (source) | Named contact | Fit/Timing | Source URL | Verification (2026-11-03) | In this file already? |
+|---|---|---|---|---|---|---|---|
+| F35 | 2026-09-25 | Chime | Chris Britt (CEO & Co-Founder) | 4/4 | https://en.cryptonomist.ch/2026/09/09/chime-stride-bank-acquisition/ | **VERIFIED** (HTTP 200) | already present |
+
+**Route gate:** NO ROUTE (source records no published contact)
+**New-lead yield (heuristic, company-name match):** Chime=already present

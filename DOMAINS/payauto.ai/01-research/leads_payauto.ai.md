@@ -107,3 +107,19 @@
 - **Mastercard (Agent Pay)** — **SKIPPED-DUP**: already #3 on this list (Michael Miebach, DMPS 93). No new entry needed.
 - **Agentin AI, Stitch Money, Capi Money** added above from owner's `domain_buyer_prospects.md` (commit 08ce6b9) — all verified live (agentin.ai, stitch.money, capimoney.com return 200; YC pages confirm positioning).
 - **Contact sheet** for the top 8 leads (pre-repositioning list) exists at `01-research/contact_payauto.ai.md` — new leads have emails inline above (Stitch H, Agentin L) and do not duplicate the contact sheet.
+
+---
+
+## Owner-supplied findings — 2026-11-03 (integration)
+
+> Source: owner workbook `Domains Target Buyers.xlsx` (branch `cerebraino-patch-3`, commit 9bcb9f6) — integrated verbatim, **research only; SEND FREEZE intact, nothing sends**. Full rows, rationale/angle text and per-row verification verdicts: `01-research/OWNER-FINDINGS-2026-11-03.md`.
+
+| Finding | Date | Buyer (source) | Named contact | Fit/Timing | Source URL | Verification (2026-11-03) | In this file already? |
+|---|---|---|---|---|---|---|---|
+| F04 | 2026-09-07 | Stripe | Viraj Gupta | 5/4 | https://stripe.com/blog/supporting-additional-payment-methods-for-agentic-commerce | **VERIFIED** (HTTP 200) | already present |
+| F05 | 2026-09-07 | Visa International | Rubail Birwadker | 4/4 | https://stripe.com/blog/supporting-additional-payment-methods-for-agentic-commerce | **VERIFIED** (HTTP 200) | NEW to this file |
+| F27 | 2026-09-22 | Natural | none published | 5/4 | https://www.fintechfutures.com/venture-capital-funding/natural-bags-30m-launches-agentic-payments-infrastructure | **BLOCKED** (HTTP 403) | NEW to this file |
+| F28 | 2026-09-22 | Mastercard | none published | 5/3 | https://www.mastercard.com/us/en/news-and-trends/press/2026/june/mastercard-launches-agent-pay-for-machines.html | **BLOCKED** (HTTP 403) | already present |
+
+**Route gate:** see per-row gate in the findings file — no row in this batch carries a fireable published address except where noted.
+**New-lead yield (heuristic, company-name match):** Stripe=already present, Visa International=NEW to this file, Natural=NEW to this file, Mastercard=already present

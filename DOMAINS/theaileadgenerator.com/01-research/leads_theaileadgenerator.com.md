@@ -30,3 +30,15 @@
 ---
 
 *Lead list prepared.*
+---
+
+## Owner-supplied findings — 2026-11-03 (integration)
+
+> Source: owner workbook `Domains Target Buyers.xlsx` (branch `cerebraino-patch-3`, commit 9bcb9f6) — integrated verbatim, **research only; SEND FREEZE intact, nothing sends**. Full rows, rationale/angle text and per-row verification verdicts: `01-research/OWNER-FINDINGS-2026-11-03.md`.
+
+| Finding | Date | Buyer (source) | Named contact | Fit/Timing | Source URL | Verification (2026-11-03) | In this file already? |
+|---|---|---|---|---|---|---|---|
+| F39 | 2026-10-01 | Apollo.io | Scott Singerman, VP of Partnerships | 5/5 | https://www.apollo.io/newsroom/announcements/apollo-named-flagship-data-partner-for-hunter-salesforces-new-outbound-sales-agent | **VERIFIED** (HTTP 200) | already present |
+
+**Route gate:** NO ROUTE (source records no published contact)
+**New-lead yield (heuristic, company-name match):** Apollo.io=already present

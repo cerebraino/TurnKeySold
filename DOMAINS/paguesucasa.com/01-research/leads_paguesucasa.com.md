@@ -60,3 +60,16 @@
 | 23 | **CrossCountry Mortgage** | 68 | Ron Leonhardt (CEO) | CEO | crosscountrymortgage.com | Retail lender. Formal Spanish domain for professional marketing. |
 
 *Expanded to 23 leads. Full portfolio strategy: DOMAINS/hipotecahispana.com/01-research/hispanic-mortgage-portfolio-buyers.md.*
+
+---
+
+## Owner-supplied findings — 2026-11-03 (integration)
+
+> Source: owner workbook `Domains Target Buyers.xlsx` (branch `cerebraino-patch-3`, commit 9bcb9f6) — integrated verbatim, **research only; SEND FREEZE intact, nothing sends**. Full rows, rationale/angle text and per-row verification verdicts: `01-research/OWNER-FINDINGS-2026-11-03.md`.
+
+| Finding | Date | Buyer (source) | Named contact | Fit/Timing | Source URL | Verification (2026-11-03) | In this file already? |
+|---|---|---|---|---|---|---|---|
+| F43 | 2026-10-02 | JPMorgan Chase (Chase Home Lending) | — | 4/5 | https://nationalmortgagenews.com/news/how-chase-bofa-wells-are-luring-borrowers-in-a-7-market | **VERIFIED-EXPIRED** (HTTP 200) | already present |
+
+**Route gate:** NO ROUTE (source records no published contact)
+**New-lead yield (heuristic, company-name match):** JPMorgan Chase (Chase Home Lending)=already present

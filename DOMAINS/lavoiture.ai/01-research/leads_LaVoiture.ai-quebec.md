@@ -124,3 +124,17 @@ The Quebec market adds roughly **25–40% premium** to the LaVoiture.ai value du
 ---
 
 *Lead list prepared for outreach-architect. Merge with leads_LaVoiture.ai.md.*
+---
+
+## Owner-supplied findings — 2026-11-03 (integration)
+
+> Source: owner workbook `Domains Target Buyers.xlsx` (branch `cerebraino-patch-3`, commit 9bcb9f6) — integrated verbatim, **research only; SEND FREEZE intact, nothing sends**. Full rows, rationale/angle text and per-row verification verdicts: `01-research/OWNER-FINDINGS-2026-11-03.md`.
+
+| Finding | Date | Buyer (source) | Named contact | Fit/Timing | Source URL | Verification (2026-11-03) | In this file already? |
+|---|---|---|---|---|---|---|---|
+| F01 | 2026-09-07 | Stellantis | Antonio Filosa | 4/3 | https://finance.yahoo.com/markets/stocks/articles/stellantis-names-arnaud-belloni-fiat-100443077.html | **VERIFIED** (HTTP 200) | already present |
+| F02 | 2026-09-07 | Renault Group | François Provost | 4/3 | https://en.walaw.press/articles/renault_s_new_ceo_reshuffles_executive_leadership_to_drive_growth/GQGWFMQGGMPG | **VERIFIED** (HTTP 200) | NEW to this file |
+| F52 | 2026-11-02 | Wayve | — | 5/5 | https://www.media.stellantis.com/uk-en/corporate/press/wayve-stellantis-and-nvidia-collaborate-to-advance-safe-and-responsible-autonomous-vehicle-deployment-across-france | **BLOCKED** (HTTP 403) | NEW to this file |
+
+**Route gate:** see per-row gate in the findings file — no row in this batch carries a fireable published address except where noted.
+**New-lead yield (heuristic, company-name match):** Stellantis=already present, Renault Group=NEW to this file, Wayve=NEW to this file

@@ -94,3 +94,16 @@
 - **Lovense** is the standout — they make AI-connected adult toys and are actively positioned at the intersection of sex tech and AI. They would be an excellent buyer for AIsexshops.com as a dedicated AI product line.
 - **Adam & Eve** is already lead #1 — they dominate adult retail SEO and could use this as an AI/tech-forward sub-brand.
 - **No DMPS bonus applicable** (no paid advertisers).
+---
+
+## Owner-supplied findings — 2026-11-03 (integration)
+
+> Source: owner workbook `Domains Target Buyers.xlsx` (branch `cerebraino-patch-3`, commit 9bcb9f6) — integrated verbatim, **research only; SEND FREEZE intact, nothing sends**. Full rows, rationale/angle text and per-row verification verdicts: `01-research/OWNER-FINDINGS-2026-11-03.md`.
+
+| Finding | Date | Buyer (source) | Named contact | Fit/Timing | Source URL | Verification (2026-11-03) | In this file already? |
+|---|---|---|---|---|---|---|---|
+| F16 | 2026-09-08 | Adam & Eve | Katy Zvolerin | 4/2 | https://www.prnewswire.com/news-releases/adam-eve-partners-with-superhero-satire-series-the-boys-to-launch-ambrosius-adult-toy-302578034.html | **NOT-VERIFIED** (HTTP 404) | already present |
+| F17 | 2026-09-08 | Lovense | none published | 3/2 | https://www.reformer.com/online_features/press_releases/lovense-shines-at-ces-2026-redefining-intimacy-technology/article_ab833a86-4c1d-5d87-b9da-28ea7eb646c3.html | **NOT-VERIFIED** (HTTP 404) | already present |
+
+**Route gate:** see per-row gate in the findings file — no row in this batch carries a fireable published address except where noted.
+**New-lead yield (heuristic, company-name match):** Adam & Eve=already present, Lovense=already present

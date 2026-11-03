@@ -106,3 +106,16 @@
 ---
 
 *Lead list prepared for outreach-architect. Full DMPS methodology in research_framework.md §3.*
+---
+
+## Owner-supplied findings — 2026-11-03 (integration)
+
+> Source: owner workbook `Domains Target Buyers.xlsx` (branch `cerebraino-patch-3`, commit 9bcb9f6) — integrated verbatim, **research only; SEND FREEZE intact, nothing sends**. Full rows, rationale/angle text and per-row verification verdicts: `01-research/OWNER-FINDINGS-2026-11-03.md`.
+
+| Finding | Date | Buyer (source) | Named contact | Fit/Timing | Source URL | Verification (2026-11-03) | In this file already? |
+|---|---|---|---|---|---|---|---|
+| F18 | 2026-09-10 | HubSpot | none published | 4/4 | https://unbound.hubspot.com/sessions/1673934 | **VERIFIED-EXPIRED** (HTTP 200) | already present |
+| F36 | 2026-09-25 | Clay | Kareem Amin (CEO & Co-Founder) | 5/4 | https://techfundingnews.com/clay-hits-7-1b-valuation-with-115m-raise-as-it-sees-ai-agents-running-future-of-sales/ | **VERIFIED** (HTTP 200) | already present |
+
+**Route gate:** see per-row gate in the findings file — no row in this batch carries a fireable published address except where noted.
+**New-lead yield (heuristic, company-name match):** HubSpot=already present, Clay=already present

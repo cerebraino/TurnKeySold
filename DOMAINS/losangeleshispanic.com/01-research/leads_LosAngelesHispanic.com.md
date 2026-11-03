@@ -39,3 +39,15 @@ Long-form (21 chars) but exact-match SEO value. Works best as a redirect to LAhi
 ---
 
 *Lead list prepared for outreach-architect.*
+---
+
+## Owner-supplied findings — 2026-11-03 (integration)
+
+> Source: owner workbook `Domains Target Buyers.xlsx` (branch `cerebraino-patch-3`, commit 9bcb9f6) — integrated verbatim, **research only; SEND FREEZE intact, nothing sends**. Full rows, rationale/angle text and per-row verification verdicts: `01-research/OWNER-FINDINGS-2026-11-03.md`.
+
+| Finding | Date | Buyer (source) | Named contact | Fit/Timing | Source URL | Verification (2026-11-03) | In this file already? |
+|---|---|---|---|---|---|---|---|
+| F42 | 2026-10-01 | Telemundo 52 (KVEA) | none published | 4/4 | https://www.nbc.com/noticias-telemundo | **NOT-VERIFIED** (HTTP 200) | already present |
+
+**Route gate:** NO ROUTE (source records no published contact)
+**New-lead yield (heuristic, company-name match):** Telemundo 52 (KVEA)=already present

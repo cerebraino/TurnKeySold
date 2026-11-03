@@ -54,3 +54,15 @@
 | 23 | **Alterra Home Loans** | 70 | Jason Madiedo (CEO) | CEO | alterrahomeloans.com | Latino-founded. Mission-aligned buyer. |
 
 *Expanded to 23 leads. Full portfolio strategy: DOMAINS/hipotecahispana.com/01-research/hispanic-mortgage-portfolio-buyers.md.*
+---
+
+## Owner-supplied findings — 2026-11-03 (integration)
+
+> Source: owner workbook `Domains Target Buyers.xlsx` (branch `cerebraino-patch-3`, commit 9bcb9f6) — integrated verbatim, **research only; SEND FREEZE intact, nothing sends**. Full rows, rationale/angle text and per-row verification verdicts: `01-research/OWNER-FINDINGS-2026-11-03.md`.
+
+| Finding | Date | Buyer (source) | Named contact | Fit/Timing | Source URL | Verification (2026-11-03) | In this file already? |
+|---|---|---|---|---|---|---|---|
+| F22 | 2026-09-13 | NAHREP | none published | 3/4 | https://www.mortgagenewsdaily.com/opinion/pipelinepress-09112026 | **VERIFIED-EXPIRED** (HTTP 200) | NEW to this file |
+
+**Route gate:** NO ROUTE (source records no published contact)
+**New-lead yield (heuristic, company-name match):** NAHREP=NEW to this file

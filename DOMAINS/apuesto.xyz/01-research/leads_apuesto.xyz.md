@@ -98,3 +98,16 @@ Two .xyz domains covering both "I bet" (general) and "I bet you" (social/P2P). T
 ---
 
 *Lead list prepared. 25 leads across crypto casinos, prediction markets, and web3 betting protocols. Part of 7-domain apuesto bundle. See apuesto-portfolio-buyers.md for full ecosystem.*
+
+---
+
+## Owner-supplied findings — 2026-11-03 (integration)
+
+> Source: owner workbook `Domains Target Buyers.xlsx` (branch `cerebraino-patch-3`, commit 9bcb9f6) — integrated verbatim, **research only; SEND FREEZE intact, nothing sends**. Full rows, rationale/angle text and per-row verification verdicts: `01-research/OWNER-FINDINGS-2026-11-03.md`.
+
+| Finding | Date | Buyer (source) | Named contact | Fit/Timing | Source URL | Verification (2026-11-03) | In this file already? |
+|---|---|---|---|---|---|---|---|
+| F48 | 2026-10-09 | Stake.com | none published | 4/3 | https://stake.com/blog/new-casino-releases-2026-10-09 | **BLOCKED** (HTTP 403) | already present |
+
+**Route gate:** NO ROUTE (source records no published contact)
+**New-lead yield (heuristic, company-name match):** Stake.com=already present

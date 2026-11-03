@@ -1,0 +1,52 @@
+record_type,subject,price_as_published,currency,venue_or_holder,evidence_type,evidence_url,fetched_on,verification_status,notes
+comp,OpenRouter.si,"$50,000",USD,Atom.com,dnjournal_chart,https://www.dnjournal.com/domainsales.htm,2026-11-03,VERIFIED,"tied #16 on DNJournal all-extension Top 20; agent/AI-infrastructure term"
+comp,Staffing.si,"$50,000",USD,Spaceship,dnjournal_chart,https://www.dnjournal.com/domainsales.htm,2026-11-03,VERIFIED,"tied #16 all-extension Top 20; other half of the tie with OpenRouter.si"
+comp,Gifts.si,"€28,000 = $31,360",EUR->USD,Fruits.co,dnjournal_chart,https://www.dnjournal.com/domainsales.htm,2026-11-03,VERIFIED,"published as EUR 28,000 with DNJournal's USD conversion"
+comp,Hollywood.si,"$30,000",USD,unlisted,dnjournal_chart,https://www.dnjournal.com/domainsales.htm,2026-11-03,VERIFIED,ccTLD chart entry
+comp,Pure.si,"$26,825",USD,unlisted,dnjournal_chart,https://www.dnjournal.com/domainsales.htm,2026-11-03,VERIFIED,ccTLD chart entry
+comp,Fractal.si,"$25,000",USD,Atom.com,dnjournal_chart,https://www.dnjournal.com/domainsales.htm,2026-11-03,VERIFIED,tie entry
+comp,Game.si,"$25,000",USD,unlisted,dnjournal_chart,https://www.dnjournal.com/domainsales.htm,2026-11-03,VERIFIED,tie entry
+comp,Stocks.si,"$25,000",USD,Atom.com,dnjournal_chart,https://www.dnjournal.com/domainsales.htm,2026-11-03,VERIFIED,tie entry
+comp,Dubai.si,"$20,000",USD,Atom.com,dnjournal_chart,https://www.dnjournal.com/domainsales.htm,2026-11-03,VERIFIED,tie entry
+comp,Plasma.si,"$20,000",USD,unlisted,dnjournal_chart,https://www.dnjournal.com/domainsales.htm,2026-11-03,VERIFIED,tie entry
+comp,Caspian.si,"$19,795",USD,unlisted,dnjournal_chart,https://www.dnjournal.com/domainsales.htm,2026-11-03,VERIFIED,ccTLD chart entry
+comp,Altanta.si,"$9,977",USD,unlisted,dnjournal_chart,https://www.dnjournal.com/domainsales.htm,2026-11-03,VERIFIED,ccTLD chart entry
+comp,Truth.si,"$8,676",USD,unlisted,dnjournal_chart,https://www.dnjournal.com/domainsales.htm,2026-11-03,VERIFIED,ccTLD chart entry
+comp,"X402.si + QA.si","$7,839 combined",USD,unlisted,dnjournal_chart,https://www.dnjournal.com/domainsales.htm,2026-11-03,VERIFIED,"agent-payments protocol term (x402); pair sold together — closest comp class to the agent-commerce trio"
+comp,Genes.si,"$7,500",USD,unlisted,dnjournal_chart,https://www.dnjournal.com/domainsales.htm,2026-11-03,VERIFIED,ccTLD chart entry
+comp,Surplus.si,"$7,495",USD,unlisted,dnjournal_chart,https://www.dnjournal.com/domainsales.htm,2026-11-03,VERIFIED,ccTLD chart entry
+comp,Bollywood.si,"$7,280",USD,unlisted,dnjournal_chart,https://www.dnjournal.com/domainsales.htm,2026-11-03,VERIFIED,ccTLD chart entry
+comp,middle.si,"$5,500",USD,unlisted,dnjournal_chart,https://www.dnjournal.com/domainsales.htm,2026-11-03,VERIFIED,ccTLD chart entry
+comp,wealth.si,"$5,376",USD,unlisted,dnjournal_chart,https://www.dnjournal.com/domainsales.htm,2026-11-03,VERIFIED,ccTLD chart entry
+comp,directors.si,"$5,000",USD,unlisted,dnjournal_chart,https://www.dnjournal.com/domainsales.htm,2026-11-03,VERIFIED,ccTLD chart entry
+comp,CarInsurance.si,"$5,001",USD,Atom.com,dnjournal_chart,https://www.dnjournal.com/domainsales.htm,2026-11-03,VERIFIED,"compound-word .si; nearest structural analogue to cardbot/spendbot/paybud (.si compounds)"
+comp,crow.si,"$4,995",USD,unlisted,dnjournal_chart,https://www.dnjournal.com/domainsales.htm,2026-11-03,VERIFIED,ccTLD chart entry
+comp,EXPR.si,"$4,000",USD,unlisted,dnjournal_chart,https://www.dnjournal.com/domainsales.htm,2026-11-03,VERIFIED,ccTLD chart entry
+comp,albert.si,"$3,988",USD,unlisted,dnjournal_chart,https://www.dnjournal.com/domainsales.htm,2026-11-03,VERIFIED,ccTLD chart entry
+comp,HyperFocus.si,"$3,599",USD,unlisted,dnjournal_chart,https://www.dnjournal.com/domainsales.htm,2026-11-03,VERIFIED,ccTLD chart entry
+comp,fraction.si,"$3,500",USD,unlisted,dnjournal_chart,https://www.dnjournal.com/domainsales.htm,2026-11-03,VERIFIED,ccTLD chart entry
+comp,orbital.si,"$3,500",USD,unlisted,dnjournal_chart,https://www.dnjournal.com/domainsales.htm,2026-11-03,VERIFIED,ccTLD chart entry
+comp,bend.si,"$3,495",USD,unlisted,dnjournal_chart,https://www.dnjournal.com/domainsales.htm,2026-11-03,VERIFIED,ccTLD chart entry
+comp,dyna.si,"$3,495",USD,unlisted,dnjournal_chart,https://www.dnjournal.com/domainsales.htm,2026-11-03,VERIFIED,ccTLD chart entry
+comp,pact.si,"$3,495",USD,unlisted,dnjournal_chart,https://www.dnjournal.com/domainsales.htm,2026-11-03,VERIFIED,ccTLD chart entry
+comp,plank.si,"$3,495",USD,unlisted,dnjournal_chart,https://www.dnjournal.com/domainsales.htm,2026-11-03,VERIFIED,ccTLD chart entry
+comp,guidelines.si,"$3,360",USD,unlisted,dnjournal_chart,https://www.dnjournal.com/domainsales.htm,2026-11-03,VERIFIED,ccTLD chart entry
+comp,citadel.si,"$2,998",USD,unlisted,dnjournal_chart,https://www.dnjournal.com/domainsales.htm,2026-11-03,VERIFIED,ccTLD chart entry
+comp,Cubby.si,"$2,295",USD,unlisted,dnjournal_chart,https://www.dnjournal.com/domainsales.htm,2026-11-03,VERIFIED,ccTLD chart entry
+comp,Schema.si,"$2,000",USD,unlisted,dnjournal_chart,https://www.dnjournal.com/domainsales.htm,2026-11-03,VERIFIED,ccTLD chart entry
+comp,joyland.es,"$5,600",USD,unlisted,dnjournal_chart,https://www.dnjournal.com/domainsales.htm,2026-11-03,VERIFIED,"ES ccTLD reference point for the automoviles.si mismatch analysis (only .es comp in this chart)"
+market_signal,.si ccTLD,"n/a",n/a,DNJournal editorial,dnjournal_report,https://www.dnjournal.com/domainsales.htm,2026-11-03,VERIFIED,"Verbatim: '.ai has a new baby brother, Slovenian ccTLD .si, that is also making waves as an acronym for super intelligence' — the market thesis for this wave"
+market_signal,.si sales volume,"35+ sales in one bi-weekly chart",n/a,DNJournal,dnjournal_chart,https://www.dnjournal.com/domainsales.htm,2026-11-03,VERIFIED,"count of distinct .si sale entries captured in this register; band $2,000–$50,000"
+sibling_tld,agentbucks.com,"n/a",n/a,"registrar Mesh Digital Limited (created 2012-02-08; expires 2027-02-08; status ok)",whois_verisign,whois://whois.verisign-grs.com/agentbucks.com,2026-11-03,VERIFIED,"no HTTP response on 2026-11-03 (curl code 000) — registered but not serving"
+sibling_tld,agentbucks.ai,"n/a",n/a,"registrar Cloudflare, Inc (created 2026-05-26; registrant country US, name redacted)",whois_identity_digital,whois://whois.nic.ai/agentbucks.ai,2026-11-03,VERIFIED,"live login-gated web app (HTTP 200, 'Welcome Back! ... dashboard', Next.js + Clerk); operator not named on public page"
+sibling_tld,agentbucks.io,"n/a",n/a,unregistered,whois_identity_digital,whois://whois.nic.io/agentbucks.io,2026-11-03,VERIFIED,"Domain not found — registration gap beside our .si"
+sibling_tld,cardbot.com,"n/a",n/a,"registrar Tucows Domains Inc (created 1998-09-28; expires 2027-09-27)",whois_verisign,whois://whois.verisign-grs.com/cardbot.com,2026-11-03,VERIFIED,"serves a 'Domain Available / Premium domain available' lander — i.e. the .com is itself listed for sale, not an operating brand"
+sibling_tld,cardbot.ai,"n/a",n/a,unregistered,whois_identity_digital,whois://whois.nic.ai/cardbot.ai,2026-11-03,VERIFIED,"Domain not found — .si + .com are the only registered pair"
+sibling_tld,spendbot.com,"n/a",n/a,"registrar GoDaddy.com, LLC (created 2009-07-02; expires 2027-07-02)",whois_verisign,whois://whois.verisign-grs.com/spendbot.com,2026-11-03,VERIFIED,"live consumer PFM product, footer 'Copyright © 2026 - Spendbot, Inc.' — operating company identified"
+sibling_tld,spendbot.ai,"n/a",n/a,"registrant OptiBuy Sp. z o.o., ul. Jana Kazimierza 3, Warszawa, PL (registrar Marcaria International LLC; created 2022-10-18; expires 2028-10-18; status autoRenewPeriod)",whois_identity_digital,whois://whois.nic.ai/spendbot.ai,2026-11-03,VERIFIED,"EU procurement company holding the .ai; their corporate site optibuy.pl returns HTTP 403 to us (documented, not circumvented)"
+sibling_tld,paybud.com,"n/a",n/a,"registrar GoDaddy.com, LLC (created 2011-01-02; expires 2027-01-02)",whois_verisign,whois://whois.verisign-grs.com/paybud.com,2026-11-03,VERIFIED,"no HTTP response (curl 000) — registered, not serving"
+sibling_tld,paybud.ai,"n/a",n/a,OWNED BY TURNKEYSOLD (payments family),register,https://github.com/cerebraino/TurnKeySold/blob/main/docs/assets/DOMAIN-MASTER-REGISTER.csv,2026-11-03,VERIFIED,"expires Dec 15 2027; bundle play with paybud.si"
+sibling_tld,automoviles.com,"n/a",n/a,"registrar GoDaddy.com, LLC (created 1996-06-14; expires 2027-06-13)",whois_verisign,whois://whois.verisign-grs.com/automoviles.com,2026-11-03,VERIFIED,"serves a parked /lander (JS redirect) — no operating brand"
+sibling_tld,automoviles.net,"n/a",n/a,"registrar GoDaddy.com, LLC (created 1997-03-26; expires 2028-03-27)",whois_verisign,whois://whois.verisign-grs.com/automoviles.net,2026-11-03,VERIFIED,"parked domain lander"
+sibling_tld,automoviles.es,"n/a",n/a,"registrant NOT RETRIEVABLE (whois.nic.es port-43 query returned empty from our network)",dns,dig+A+automoviles.es,2026-11-03,PARTIAL,"resolves to 104.247.81.99 — registered and hosted; registrant unknown (no bypass attempted)"
+comp_gap,automoviles.*,"none found",n/a,NameBio / DNJournal,blocked_or_absent,https://www.dnjournal.com/domainsales.htm,2026-11-03,BLOCKED,"no automoviles sale in the DNJournal chart; NameBio is IP-blocked from this network per standing rule — NOT attempted, no comp asserted"

@@ -176,6 +176,8 @@ Checked against `docs/assets/DOMAIN-MASTER-REGISTER.csv` (184 rows). **37 of 41 
 
 ### §4a The four unresolved holdings
 
+> **RESOLVED 2026-11-03 (owner-confirmed in chat):** all four ARE ours — vivamucho.com, nychispano.com, veraroi.com at Unstoppable Domains (bought 2026-01-16, one batch; RDAP: expires 2027-01-16), and dalai.com at Network Solutions (legacy ~2019 account; RDAP: created 1996-03-26, expires 2029-03-27, transfer-locked). Master register corrected the same day: +4 rows → **188 domains**. The three Unstoppable renewals (Jan 16 2027) join the renewal decision table; auto-renew state at both registrars is owner-side to set.
+
 | Domain | Situation | Recommendation |
 |---|---|---|
 | `vivamucho.com` | Register holds **`vivemucho.com`** (Active, 2027-01-28, renew ON) but not `vivamucho.com`. The two spellings are a documented 2-domain pack (Genspark research), and a `DOMAINS/vivamucho.com/` tree already exists — but the register does not list the name. | **Owner: confirm which spelling is actually registered.** Until then no campaign work on `vivamucho.com`; treat the finding (Expedia) as belonging to the vivemucho/vivamucho pack. |
